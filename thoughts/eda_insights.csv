@@ -1,0 +1,24 @@
+Date,Category,Insight,Impact on Momentum Prediction,Priority,Status,Next Steps
+2024-12-19,Feature Engineering,Shot feature contains x,y coordinates for shot location on pitch,High - shot location critical for momentum shifts and goal probability,High,Identified,Extract coordinates for spatial analysis
+2024-12-19,Feature Engineering,Block feature has multiple types with descriptions and true/false options,Medium - blocking patterns may indicate defensive momentum,Medium,Identified,Analyze block types and create categorical features
+2024-12-19,Data Quality,Binomial features only have true values and missings - missings appear to represent false,High - affects feature encoding strategy for momentum prediction,High,Identified,Treat missings as false for binomial features
+2024-12-19,Data Quality,Event columns with missing values represent events that did not occur at that moment - not true missing data,High - changes feature engineering approach for event-specific features,High,Identified,Consider event occurrence flags instead of detailed event data
+2024-12-19,Data Quality,Related_events missing values represent 0 related events - not actual missing data,Medium - affects related events encoding strategy,Medium,Identified,Encode missing related_events as 0
+2024-12-19,Feature Selection,21 variables have 96.66-100% missing rates - likely candidates for deletion,High - reduces feature space and improves model efficiency,High,Identified,Remove high-missing event-specific features or create occurrence flags
+2024-12-19,Data Quality,99.54% events have player involvement - need to verify,Medium - affects player-based momentum analysis strategies,Medium,Identified,Verify if 0.46% non-player events are valid or data quality issues
+2024-12-19,Data Quality,Duration - need to check the missings + outliers,Medium - 27.48% missing + 6932 outliers (max 35.96s) affect event timing analysis,Medium,Identified,Investigate duration outliers and missing patterns for momentum timing
+2024-12-19,Data Quality,Away score - check outliers,Low - 16736 events with score=3 may be unusual but could be valid high-scoring games,Low,Identified,Review high away scores (3 goals) for data validation
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

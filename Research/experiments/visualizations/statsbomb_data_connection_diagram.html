@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StatsBomb Data Connection Flow</title>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            text-align: center;
+            color: #7f8c8d;
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+        .diagram-container {
+            background: white;
+            padding: 20px;
+            border: 2px solid #ecf0f1;
+            border-radius: 8px;
+            margin: 20px 0;
+        }
+        .instructions {
+            background: #e8f4fd;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+            border-left: 4px solid #3498db;
+        }
+        .code-example {
+            background: #2c3e50;
+            color: #ecf0f1;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 10px 0;
+            font-family: monospace;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>StatsBomb Data Connection Flow</h1>
+        <p class="subtitle">How to connect matches → events → lineups → 360° data for specific competitions and seasons</p>
+        
+        <div class="diagram-container">
+            <div class="mermaid">
+graph TD
+    A["🏆 Step 1: Select Competition & Season<br/>Example: UEFA Euro 2024<br/>competition_id: 55<br/>season_id: 282"] --> B["📋 Step 2: Get competitions.json<br/>Filter by competition_id + season_id"]
+    
+    B --> C["📅 Step 3: Get Match List<br/>URL: data/matches/{competition_id}/{season_id}.json<br/>Example: data/matches/55/282.json"]
+    
+    C --> D["🔍 Step 4: Select Specific Match<br/>Extract match_id from match list<br/>Example: match_id = 3943043"]
+    
+    D --> E["⚽ Step 5A: Get Match Events<br/>URL: data/events/{match_id}.json<br/>Example: data/events/3943043.json<br/>~3,400 events per match"]
+    
+    D --> F["👥 Step 5B: Get Match Lineups<br/>URL: data/lineups/{match_id}.json<br/>Example: data/lineups/3943043.json<br/>Starting XI + substitutes"]
+    
+    D --> G["🎯 Step 5C: Get 360° Data<br/>URL: data/three-sixty/{match_id}.json<br/>Example: data/three-sixty/3943043.json<br/>Player positions (if available)"]
+    
+    H["🔗 Key Connection Fields"] --> I["competition_id + season_id<br/>→ Find matches"]
+    I --> J["match_id<br/>→ Find events/lineups/360°"]
+    J --> K["player_id<br/>→ Connect across all data"]
+    J --> L["team_id<br/>→ Connect team data"]
+    
+    M["📊 Data Analysis Examples"] --> N["Events Data:<br/>• Pass events<br/>• Shot events<br/>• Foul events<br/>• Goal events"]
+    M --> O["Lineups Data:<br/>• Player positions<br/>• Formation data<br/>• Substitution timing"]
+    M --> P["360° Data:<br/>• Player tracking<br/>• Pressure situations<br/>• Tactical context"]
+    
+    Q["🎯 For Your Project"] --> R["Commentary Generation:<br/>• Extract event descriptions<br/>• Add location context<br/>• Generate natural language"]
+    Q --> S["Move Quality Prediction:<br/>• Sequence analysis<br/>• Pressure context<br/>• Expected outcomes"]
+    
+    E --> N
+    F --> O
+    G --> P
+    
+    N --> R
+    O --> R
+    P --> S
+    
+    style A fill:#e3f2fd
+    style C fill:#f3e5f5
+    style E fill:#e8f5e8
+    style F fill:#fff3e0
+    style G fill:#fce4ec
+    style H fill:#f1f8e9
+    style M fill:#fef7e0
+    style Q fill:#e0f2f1
+            </div>
+        </div>
+        
+        <div class="instructions">
+            <h3>📷 How to Save This Diagram as an Image:</h3>
+            <ol>
+                <li><strong>Right-click</strong> on the diagram above</li>
+                <li>Select <strong>"Save image as..."</strong> or <strong>"Copy image"</strong></li>
+                <li>Save it as <code>statsbomb_data_connection_flow.png</code> in your project folder</li>
+            </ol>
+            <p><strong>Alternative:</strong> Take a screenshot of the diagram area and save it to your project.</p>
+        </div>
+
+        <div style="margin-top: 30px;">
+            <h3>🔗 Key Data Connection Points:</h3>
+            
+            <div class="code-example">
+# Example: Connect data for UEFA Euro 2024
+competition_id = 55
+season_id = 282
+
+# Step 1: Get matches
+matches_url = f"data/matches/{competition_id}/{season_id}.json"
+
+# Step 2: Select a match
+match_id = 3943043  # Example match ID
+
+# Step 3: Get all data for this match
+events_url = f"data/events/{match_id}.json"
+lineups_url = f"data/lineups/{match_id}.json"
+threesixty_url = f"data/three-sixty/{match_id}.json"
+            </div>
+            
+            <h3>📊 Data Connection Summary:</h3>
+            <ul>
+                <li><strong>competition_id + season_id</strong> → Find all matches in that competition/season</li>
+                <li><strong>match_id</strong> → Find events, lineups, and 360° data for that specific match</li>
+                <li><strong>player_id</strong> → Connect player information across events and lineups</li>
+                <li><strong>team_id</strong> → Connect team information across all data types</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'default',
+            flowchart: {
+                useMaxWidth: true,
+                htmlLabels: true
+            }
+        });
+    </script>
+</body>
+</html> 

@@ -1,0 +1,292 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 2451>>
+stream
+2 J
+0.57 w
+BT /F1 12.00 Tf ET
+BT 169.28 795.77 Td (EDA Plan for EURO 2024 Football Event Data) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 762.05 Td (1. Data Structure and Preparation) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 736.84 Td (This dataset includes all events from 51 EURO 2024 games \(~3,500 per match\). Each event has:) Tj ET
+BT 31.19 719.83 Td (- Timestamp \(minute, second\)) Tj ET
+BT 31.19 702.82 Td (- Event type \(pass, shot, duel, etc.\)) Tj ET
+BT 31.19 685.82 Td (- Player and team) Tj ET
+BT 31.19 668.81 Td (- Spatial info \(x, y\)) Tj ET
+BT 31.19 651.80 Td (- Descriptive text or category fields) Tj ET
+BT 31.19 617.78 Td (Why: Understanding structure enables proper time series aggregation, spatial mapping, and modeling.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 577.80 Td (2. Event Distribution and Match Summary) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 552.59 Td (Group and visualize events by match, team, and player.) Tj ET
+BT 31.19 535.58 Td (- Count passes, shots, fouls, cards per team/match) Tj ET
+BT 31.19 518.57 Td (- Histograms and bar charts for high-level view) Tj ET
+BT 31.19 484.56 Td (Why: Understand tempo, discipline, style, and volume.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 444.57 Td (3. Time-Based Event Analysis) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 419.36 Td (Use rolling windows \(3 or 5 minutes\) to track match momentum:) Tj ET
+BT 31.19 402.35 Td (- Number of events, passes, shots, xG over time) Tj ET
+BT 31.19 385.34 Td (- Can use `.rolling\(\)` or group by fixed intervals) Tj ET
+BT 31.19 351.33 Td (Why: Detect shifts in tempo or control \(e.g., post-substitution\).) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 311.34 Td (4. Autocorrelation & Lag Analysis) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 286.13 Td (Use ACF/PACF on time-binned series \(e.g. shots/min\).) Tj ET
+BT 31.19 269.12 Td (- ACF detects persistence \(e.g., pressure over time\)) Tj ET
+BT 31.19 252.11 Td (- 3-min shows micro-trends, 5-min for sustained pressure) Tj ET
+BT 31.19 218.10 Td (Why: Understand repeatable behavior and response windows.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 178.11 Td (5. STL Decomposition & Seasonality) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 152.90 Td (STL = Seasonal + Trend + Residual breakdown.) Tj ET
+BT 31.19 135.89 Td (- Can apply to rolling xG, passes, shots per game) Tj ET
+BT 31.19 118.89 Td (- Helps detect peak phases and residual volatility) Tj ET
+BT 31.19 84.87 Td (Why: Uncover match rhythm and tactical timing patterns.) Tj ET
+BT /F1 11.00 Tf ET
+
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Contents 6 0 R>>
+endobj
+6 0 obj
+<</Length 2365>>
+stream
+2 J
+0.57 w
+BT /F1 11.00 Tf ET
+BT /F1 12.00 Tf ET
+BT 169.28 795.77 Td (EDA Plan for EURO 2024 Football Event Data) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 762.05 Td (6. Spatial Event Analysis \(x/y\)) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 736.84 Td (Map passes, shots, duels using heatmaps or hexbins.) Tj ET
+BT 31.19 719.83 Td (- Segment by outcome or player role) Tj ET
+BT 31.19 702.82 Td (- Compute average position or zone dominance) Tj ET
+BT 31.19 668.81 Td (Why: Tactical interpretation depends on space control.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 628.82 Td (7. Outlier Detection) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 603.61 Td (Use IQR or z-score to identify volume spikes or extremes.) Tj ET
+BT 31.19 586.60 Td (- Example: player with 40 passes in 5 minutes = not error, but pattern.) Tj ET
+BT 31.19 569.60 Td (- Transform with log/sqrt if distribution skewed) Tj ET
+BT 31.19 535.58 Td (Why: Investigate; don't always correct. Outliers may reflect real phenomena.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 495.59 Td (8. Missing Data) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 470.38 Td (Many columns are null by design \(e.g., no shot_body_part on a pass\).) Tj ET
+BT 31.19 453.37 Td (- Use context to decide: Null = not occurred, not missing) Tj ET
+BT 31.19 436.37 Td (- Flag columns \(`has_commentary = description.notna\(\)`\)) Tj ET
+BT 31.19 402.35 Td (Why: Don't impute incorrectly - interpret based on domain logic.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 362.37 Td (9. Transformations & Normalization) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 337.15 Td (Log, sqrt, or Box-Cox for numeric skew \(e.g., distance, duration\).) Tj ET
+BT 31.19 320.15 Td (Normalize when comparing across players/teams with different volume.) Tj ET
+BT 31.19 286.13 Td (Why: Helps models and comparisons behave consistently.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 246.15 Td (10. Categorical Variable Analysis) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 220.93 Td (Use value_counts, groupby, crosstab:) Tj ET
+BT 31.19 203.93 Td (- event_type vs team) Tj ET
+BT 31.19 186.92 Td (- outcome vs player role) Tj ET
+BT 31.19 169.91 Td (- duel_type vs time period) Tj ET
+BT 31.19 135.89 Td (Why: Tactical patterns often live in these cross-relations.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 95.91 Td (11. Text Description Fields) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 70.70 Td (Descriptions \(e.g., 'Long ball from deep right wing'\) can:) Tj ET
+
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Contents 8 0 R>>
+endobj
+8 0 obj
+<</Length 2373>>
+stream
+2 J
+0.57 w
+BT /F2 10.00 Tf ET
+BT /F1 12.00 Tf ET
+BT 169.28 795.77 Td (EDA Plan for EURO 2024 Football Event Data) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 768.02 Td (- Be tokenized and analyzed for pattern detection) Tj ET
+BT 31.19 751.01 Td (- TF-IDF/N-gram to uncover key recurring strategies) Tj ET
+BT 31.19 717.00 Td (Why: Rich tactical context - adds nuance to categorical features.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 677.01 Td (12. Position/Role Analysis) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 651.80 Td (Group players by position: Defender, Midfielder, Forward) Tj ET
+BT 31.19 634.79 Td (- Compare shots, xG, passes, fouls, pressure events) Tj ET
+BT 31.19 617.78 Td (- Use boxplots, ANOVA, radar charts) Tj ET
+BT 31.19 583.77 Td (Why: Understand positional responsibilities and tactical usage.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 543.78 Td (13. Home/Away or Context Effects) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 518.57 Td (Though EURO is neutral venue, you can:) Tj ET
+BT 31.19 501.56 Td (- Track impact of match order, extra rest days, weather) Tj ET
+BT 31.19 484.56 Td (- Segment stats by stage \(group vs knockout\)) Tj ET
+BT 31.19 450.54 Td (Why: Hidden environmental/contextual bias may explain variance.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 410.55 Td (14. Stationarity Testing) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 385.34 Td (Use ADF \(Augmented Dickey-Fuller\) to test if your time series has constant mean and variance.) Tj ET
+BT 31.19 351.33 Td (Why: Required for ARIMA and other time series forecasts. Non-stationary data should be differenced.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 311.34 Td (15. Granger Causality) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 286.13 Td (Does time-lagged xG predict actual goals?) Tj ET
+BT 31.19 269.12 Td (- Use Granger causality test for lagged prediction) Tj ET
+BT 31.19 252.11 Td (- Example: Does shot count at t-1 predict goals at t?) Tj ET
+BT 31.19 218.10 Td (Why: Helps discover cause-effect relationships over time.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 178.11 Td (16. Rolling xG and Momentum) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 152.90 Td (Plot xG per minute using `.rolling\(\)`) Tj ET
+BT 31.19 135.89 Td (- Combine with shots on target, possession bursts) Tj ET
+BT 31.19 118.89 Td (- Overlap with match events \(subs, red cards\)) Tj ET
+BT 31.19 84.87 Td (Why: Measures threat level over time - tactical impact of changes.) Tj ET
+BT /F1 11.00 Tf ET
+
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Contents 10 0 R>>
+endobj
+10 0 obj
+<</Length 2095>>
+stream
+2 J
+0.57 w
+BT /F1 11.00 Tf ET
+BT /F1 12.00 Tf ET
+BT 169.28 795.77 Td (EDA Plan for EURO 2024 Football Event Data) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 762.05 Td (17. Event Sequences & Chains) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 736.84 Td (Track sequences like:) Tj ET
+BT 31.19 719.83 Td (- Pass  Pass  Shot) Tj ET
+BT 31.19 702.82 Td (- Recovery  Dribble  Foul) Tj ET
+BT 31.19 668.81 Td (Use `.shift\(\)` and `.groupby\(\)` to create chains.) Tj ET
+BT 31.19 634.79 Td (Why: Reveals behavior patterns, especially for buildup or pressing.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 594.81 Td (18. Player/Team Clustering) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 569.60 Td (Use PCA or t-SNE on event vectors per player/team.) Tj ET
+BT 31.19 552.59 Td (Cluster based on behavior:) Tj ET
+BT 31.19 535.58 Td (- Short pass %) Tj ET
+BT 31.19 518.57 Td (- xG chain involvement) Tj ET
+BT 31.19 501.56 Td (- Pressure actions) Tj ET
+BT 31.19 467.55 Td (Why: Classify roles or discover tactical archetypes.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 427.56 Td (19. Text-Categorical Hybrid Insight) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 402.35 Td (Combine structured \(event_type\) + unstructured \(description\)) Tj ET
+BT 31.19 385.34 Td (- Group by keyword frequency per outcome) Tj ET
+BT 31.19 368.34 Td (- Label encode categories and model outcomes) Tj ET
+BT 31.19 334.32 Td (Why: Mixed-type analysis adds predictive power and depth.) Tj ET
+BT /F1 11.00 Tf ET
+BT 31.19 294.33 Td (20. Hidden Pattern Discovery) Tj ET
+BT /F2 10.00 Tf ET
+BT 31.19 269.12 Td (Examples:) Tj ET
+BT 31.19 252.11 Td (- More backward passes under pressure  use pass direction + pressure flag) Tj ET
+BT 31.19 235.11 Td (- Substitutions increase tempo  compare pre/post substitution segments) Tj ET
+BT 31.19 218.10 Td (- Specific players trigger pressing  detect chain events after their action) Tj ET
+BT 31.19 184.08 Td (Tools:) Tj ET
+BT 31.19 167.08 Td (- Groupby + lag) Tj ET
+BT 31.19 150.07 Td (- Event window slicing) Tj ET
+BT 31.19 133.06 Td (- t-SNE, clustering) Tj ET
+BT 31.19 99.04 Td (Why: These are unseen in aggregate stats but matter tactically.) Tj ET
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R ]
+/Count 4
+/MediaBox [0 0 595.28 841.89]
+>>
+endobj
+11 0 obj
+<</Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+12 0 obj
+<</Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 11 0 R
+/F2 12 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+13 0 obj
+<<
+/Producer (PyFPDF 1.7.2 http://pyfpdf.googlecode.com/)
+/CreationDate (D:20250715153813)
+>>
+endobj
+14 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000009807 00000 n 
+0000010111 00000 n 
+0000000009 00000 n 
+0000000087 00000 n 
+0000002588 00000 n 
+0000002666 00000 n 
+0000005081 00000 n 
+0000005159 00000 n 
+0000007582 00000 n 
+0000007661 00000 n 
+0000009912 00000 n 
+0000010014 00000 n 
+0000010227 00000 n 
+0000010337 00000 n 
+trailer
+<<
+/Size 15
+/Root 14 0 R
+/Info 13 0 R
+>>
+startxref
+10441
+%%EOF
