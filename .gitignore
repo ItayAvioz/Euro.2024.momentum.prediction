@@ -1,0 +1,212 @@
+# 🏆 Euro 2024 Momentum Prediction - .gitignore
+
+# ====================
+# Python
+# ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ====================
+# Virtual Environments
+# ====================
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+miniconda/
+anaconda/
+
+# ====================
+# IDE/Editors
+# ====================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ====================
+# Jupyter Notebooks
+# ====================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ====================
+# Data Files (Large)
+# ====================
+# CSV FILES ARE NOW ALLOWED - Updated to include large datasets
+# Previously ignored *.csv files, now allowing all CSV uploads
+# Keep small sample files, ignore large datasets
+# *.csv  # COMMENTED OUT - Allow CSV files to be uploaded including large ones
+!euro_2024_sample_100_rows.csv
+!Euro_2024_Documentation_Summary.csv
+!Euro_2024_Enhanced_Data_Documentation.csv
+!Euro_2024_Event_Types_Map.csv
+!Euro_2024_Key_Connections.csv
+!Data\ Retrieval\ Protocol.csv
+!eda_insights.csv
+!experiment_log.csv
+!model_comparison.json
+!validation_experiments.json
+
+# ====================
+# Model Files (Large)
+# ====================
+# Keep configuration files, ignore large model binaries
+*.pkl
+*.joblib
+*.h5
+*.pb
+*.onnx
+!model_config.json
+!feature_config.json
+!deployment_config.yaml
+!model_performance.json
+!validation_results.json
+
+# ====================
+# Logs and Temp Files
+# ====================
+*.log
+*.tmp
+temp/
+tmp/
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ====================
+# System Files
+# ====================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ====================
+# Documentation Build
+# ====================
+docs/_build/
+site/
+.readthedocs.yml
+
+# ====================
+# Environment Variables
+# ====================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ====================
+# Package Management
+# ====================
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.nox/
+
+# ====================
+# Testing
+# ====================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.coverage.*
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# ====================
+# MyPy
+# ====================
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ====================
+# Node.js (if using any JS tools)
+# ====================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ====================
+# Project Specific
+# ====================
+# Ignore large datasets but keep documentation
+# /Data/*.csv  # COMMENTED OUT - Allow CSV files in Data folder to be uploaded
+!/Data/final/README.md
+!/Data/experiments/README.md
+
+# Ignore trained models but keep configs
+/models/final/*.pkl
+/models/experiments/*.pkl
+/models/final/*.joblib
+/models/experiments/*.joblib
+
+# Keep important config and documentation files
+!/models/final/README.md
+!/models/experiments/README.md
+!/models/final/*.json
+!/models/final/*.yaml
+!/models/experiments/*.json
+
+# Keep all README files
+!README.md
+!**/README.md
+
+# Keep all documentation in specs
+!/specs/**/*.md
+!/specs/**/*.csv
+!/specs/**/*.pdf
+
+# Keep small sample and configuration files
+!**/sample_*.csv
+!**/config_*.json
+!**/documentation_*.csv
+
+# ====================
+# Backup and Archive
+# ====================
+*.bak
+*.backup
+*.old
+*.orig
+archive/
+backup/ 
+Euro2024-clean/
