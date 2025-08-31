@@ -67,7 +67,7 @@ class MomentumCalculator:
             return 3.0  # No team identified = neutral momentum
         
         # STEP 2: Get base momentum by event type
-        event_type = event_data.get('type', '')
+        event_type = self.get_event_type_name(event_data.get('type', ''))
         base_momentum = self.get_base_momentum_by_event(event_data, event_type)
         
         if base_momentum == 0:
@@ -89,15 +89,24 @@ class MomentumCalculator:
         score_mult = self.get_score_multiplier(game_context, target_team)
         pressure_mult = self.get_pressure_multiplier(event_data)
         
-        # STEP 5: Final calculation
-        final_momentum = team_momentum * location_mult * time_mult * score_mult * pressure_mult
+        # STEP 4.5: Apply dampening for high multipliers
+        combined_multiplier = location_mult * time_mult * score_mult * pressure_mult
+        
+        # Root dampening: If combined multiplier > 1.0, apply square root to reduce amplification
+        if combined_multiplier > 1.0:
+            dampened_multiplier = combined_multiplier ** 0.5  # Square root dampening
+        else:
+            dampened_multiplier = combined_multiplier  # No change for values <= 1.0
+        
+        # STEP 5: Final calculation with dampened multiplier
+        final_momentum = team_momentum * dampened_multiplier
         
         # STEP 6: Clip to valid range
         result = np.clip(final_momentum, 0, 10)
         
         if self.verbose:
             print(f"Event: {event_type} | Team: {primary_team} | Target: {target_team}")
-            print(f"Base: {base_momentum:.2f} | Team: {team_momentum:.2f} | Final: {result:.2f}")
+            print(f"Base: {base_momentum:.2f} | Team: {team_momentum:.2f} | Combined Mult: {combined_multiplier:.3f} | Dampened: {dampened_multiplier:.3f} | Final: {result:.2f}")
         
         return result
     
@@ -432,8 +441,16 @@ class MomentumCalculator:
             return 1.35    # Extra time desperation
     
     def get_score_multiplier(self, game_context: Dict, target_team: str) -> float:
-        """Score situation multiplier based on EDA analysis"""
-        score_diff = game_context.get('score_diff', 0)
+        """
+        Score situation multiplier based on EDA analysis.
+        
+        DYNAMIC SCORE COEFFICIENT: Score coefficient now changes dynamically within the window
+        when goals are scored, providing more accurate psychological context for each event.
+        - Events BEFORE a goal use the pre-goal score context
+        - Events AFTER a goal use the post-goal score context
+        - This captures the immediate momentum shift that goals create
+        """
+        score_diff = game_context.get('score_diff', 0)  # Score at WINDOW START
         minute = game_context.get('minute', 45)
         
         # Base amplifiers from EDA tournament analysis
@@ -487,9 +504,11 @@ class MomentumCalculator:
         
         team_events_momentum = []
         
-        # Calculate momentum for each team event
+        # Calculate momentum for each team event with DYNAMIC score coefficients
         for event in team_events:
-            event_momentum = self.calculate_momentum_weight(event, target_team, game_context)
+            # Create dynamic game context for this specific event
+            dynamic_context = self.get_dynamic_game_context(events_window, event, target_team, game_context)
+            event_momentum = self.calculate_momentum_weight(event, target_team, dynamic_context)
             if event_momentum > 0:  # Only include meaningful events
                 team_events_momentum.append(event_momentum)
         
@@ -568,11 +587,14 @@ class MomentumCalculator:
             # Calculate game context for this window
             minute = window_start
             
-            # Calculate score difference (simplified - would need actual score tracking)
-            home_score = 0  # This would be calculated from actual events
-            away_score = 0  # This would be calculated from actual events
+            # Calculate score difference at WINDOW START (beginning of 3-minute window)
+            # Score is evaluated at window_start minute, NOT during the window
+            window_start_time = window_start - 3
+            score_at_window_start = self.calculate_score_at_minute(match_events, window_start_time)
+            home_score = score_at_window_start['home_score']
+            away_score = score_at_window_start['away_score']
             
-            # Calculate momentum for both teams
+            # Calculate momentum for both teams using score at window START
             home_context = {'score_diff': home_score - away_score, 'minute': minute}
             away_context = {'score_diff': away_score - home_score, 'minute': minute}
             
@@ -594,6 +616,90 @@ class MomentumCalculator:
             })
         
         return pd.DataFrame(results)
+    
+    def calculate_score_at_minute(self, match_events: pd.DataFrame, target_minute: float) -> Dict:
+        """
+        Calculate the cumulative score at a specific minute (beginning of window).
+        
+        Args:
+            match_events: All match events
+            target_minute: The minute to calculate score for
+        
+        Returns:
+            Dict with home_score and away_score at target_minute
+        """
+        # Get all shot events up to (but not including) target_minute
+        # Fix: Handle event type stored as dictionary string format
+        shot_events = match_events[
+            (match_events['type'].str.contains('Shot', na=False)) & 
+            (match_events['minute'] < target_minute)
+        ]
+        
+        home_score = 0
+        away_score = 0
+        
+        # Count goals for each team up to target_minute
+        for _, event in shot_events.iterrows():
+            event_dict = event.to_dict()
+            shot_data = self.get_event_detail(event_dict, 'shot')
+            
+            # Check if this shot was a goal
+            if self.get_shot_outcome(shot_data) == 'Goal':
+                team_name = self.get_team_name(event_dict.get('team', ''))
+                home_team = self.get_team_name(event_dict.get('home_team_name', ''))
+                
+                if team_name == home_team:
+                    home_score += 1
+                else:
+                    away_score += 1
+        
+        return {'home_score': home_score, 'away_score': away_score}
+    
+    def get_dynamic_game_context(self, events_window: List[Dict], current_event: Dict, target_team: str, base_context: Dict) -> Dict:
+        """
+        Calculate dynamic game context considering goals scored before the current event within the window.
+        
+        Args:
+            events_window: All events in the 3-minute window
+            current_event: The specific event we're calculating momentum for
+            target_team: Team name we're calculating momentum for
+            base_context: Original game context at window start
+        
+        Returns:
+            Dict: Updated game context with dynamic score difference
+        """
+        current_minute = current_event.get('minute', 0)
+        
+        # Count goals that happened BEFORE this event in the same window
+        goals_in_window = 0
+        goals_against_in_window = 0
+        
+        for event in events_window:
+            # Only consider events that happened before the current event
+            if event.get('minute', 0) < current_minute:
+                event_type = self.get_event_type_name(event.get('type', ''))
+                
+                # Check if this is a goal
+                if event_type == 'Shot':
+                    shot_data = self.get_event_detail(event, 'shot')
+                    if self.get_shot_outcome(shot_data) == 'Goal':
+                        scoring_team = self.get_team_name(event.get('team', ''))
+                        
+                        if scoring_team == target_team:
+                            goals_in_window += 1  # Our goal
+                        else:
+                            goals_against_in_window += 1  # Opponent goal
+        
+        # Calculate new score difference
+        original_score_diff = base_context.get('score_diff', 0)
+        dynamic_score_diff = original_score_diff + goals_in_window - goals_against_in_window
+        
+        # Create dynamic context
+        dynamic_context = base_context.copy()
+        dynamic_context['score_diff'] = dynamic_score_diff
+        dynamic_context['minute'] = current_minute  # Use event's actual minute
+        
+        return dynamic_context
     
     # =====================================
     # HELPER FUNCTIONS
@@ -634,6 +740,33 @@ class MomentumCalculator:
             
             # If it's already a simple string team name, return it
             return team_data
+        else:
+            return ''
+    
+    def get_event_type_name(self, event_type_data: Any) -> str:
+        """Extract clean event type name from event type data"""
+        if isinstance(event_type_data, dict):
+            return event_type_data.get('name', '')
+        elif isinstance(event_type_data, str):
+            # Try to parse if it's a string representation of a dictionary
+            try:
+                # Handle Python dict string format like "{'id': 16, 'name': 'Shot'}"
+                parsed = eval(event_type_data)
+                if isinstance(parsed, dict):
+                    return parsed.get('name', '')
+            except:
+                pass
+            
+            try:
+                # Try JSON format
+                parsed = json.loads(event_type_data)
+                if isinstance(parsed, dict):
+                    return parsed.get('name', '')
+            except:
+                pass
+            
+            # If it's already a simple string event type, return it
+            return event_type_data
         else:
             return ''
     

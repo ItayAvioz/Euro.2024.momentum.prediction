@@ -210,3 +210,12 @@ yarn-error.log*
 archive/
 backup/ 
 Euro2024-clean/
+
+# ====================
+# Exclude Large Euro 2024 CSVs
+# ====================
+**/data_360_complete.csv
+**/euro_2024_complete_dataset.csv
+**/events_complete.csv
+**/events_360.csv
+

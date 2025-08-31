@@ -1,0 +1,49 @@
+# ARIMA Configuration for Momentum Prediction
+
+arima_params:
+  max_p: 2              # Maximum AR order (small for 75 observations)
+  max_d: 1              # Maximum differencing order
+  max_q: 2              # Maximum MA order (small for 75 observations)
+  seasonal: false       # No seasonal component
+  auto_select: true     # Use auto_arima for parameter selection
+  information_criterion: "aic"  # AIC for model selection
+
+data_split:
+  train_end_minute: 75    # Train until minute 75
+  test_start_minute: 75   # Start testing at minute 75
+  test_end_minute: 90     # End testing at minute 90 (no overtime)
+
+models:
+  - name: "momentum_to_momentum"
+    input_col: "momentum"
+    target_col: "momentum"
+    exog_col: null
+    description: "Predict momentum using past momentum"
+  
+  - name: "change_to_change"  
+    input_col: "momentum_change"
+    target_col: "momentum_change"
+    exog_col: null
+    description: "Predict momentum change using past changes"
+    
+  - name: "momentum_to_change_arimax"
+    input_col: "momentum_change"
+    target_col: "momentum_change"
+    exog_col: "momentum"
+    description: "Predict momentum change using past changes with momentum as exogenous variable"
+
+evaluation:
+  primary_metric: "mse"
+  calculate_metrics:
+    - "mse"
+    - "adjusted_r2" 
+    - "directional_accuracy"
+
+output:
+  results_file: "outputs/arimax_predictions.csv"
+  detailed_logs: true
+  save_individual_models: false
+
+validation:
+  min_train_observations: 10   # Minimum data points needed for training
+  max_missing_ratio: 0.2       # Maximum ratio of missing values allowed

@@ -1,0 +1,38 @@
+# Target Variable Generation Configuration
+
+# Input/Output Files
+input_file: "../input_generation/momentum_windows_enhanced_v2.csv"
+output_file: "../momentum_targets_enhanced.csv"
+
+# Target Calculation Parameters
+lag_minutes: 3              # Prediction horizon (3-minute windows)
+target_type: "momentum_change"  # Type of target variable
+
+# Data Processing
+edge_case_handling: "drop"   # How to handle windows without future data
+                            # Options: "drop", "interpolate", "flag"
+
+# Validation Settings
+validation:
+  min_coverage: 70.0        # Minimum % of windows that must have targets
+  check_nulls: true         # Check for null values in targets
+  check_outliers: true      # Check for extreme outlier values
+  outlier_threshold: 3.0    # Standard deviations for outlier detection
+
+# Quality Checks
+quality_checks:
+  temporal_consistency: true    # Ensure proper time ordering
+  match_boundaries: true       # Respect match start/end times
+  momentum_ranges: true        # Check momentum values are reasonable
+
+# Logging
+logging:
+  level: "INFO"             # DEBUG, INFO, WARNING, ERROR
+  save_log: true           # Save log to file
+  log_file: "target_generation.log"
+
+# Output Format
+output_format:
+  include_intermediate: false   # Include intermediate calculation columns
+  round_decimals: 6           # Decimal places for momentum values
+  save_validation_report: true # Save validation results to separate file

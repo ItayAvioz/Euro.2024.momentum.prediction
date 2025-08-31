@@ -1,0 +1,81 @@
+# Euro 2024 Momentum Pipeline Configuration
+# Feature generation and window processing settings
+
+# Window Generation Settings
+window_settings:
+  duration_minutes: 3          # Size of each momentum window
+  lag_minutes: 1              # Interval between window starts (1 = overlapping windows)
+  min_events_threshold: 0     # Minimum events required in window (0 = include all)
+
+# Momentum Calculation Settings
+momentum_settings:
+  # Events to eliminate from momentum calculation
+  eliminated_events:
+    - "Bad Behaviour"
+    - "Injury Stoppage"
+    - "Referee Ball-Drop"
+    - "Tactical Shift"
+    - "Error"
+    - "Player Off"
+    - "Player On"
+    - "Shield"
+    - "Half Start"
+    - "Half End"
+  
+  # Context multiplier activation
+  context_multipliers:
+    location: true    # Apply location-based multipliers (attacking third, etc.)
+    time: true        # Apply time-based multipliers (game phase)
+    score: true       # Apply score-based multipliers (leading/trailing)
+    pressure: true    # Apply pressure-based multipliers (under_pressure events)
+  
+  # Base momentum values by event type (defined in momentum calculator)
+  # These are handled by the MomentumCalculator3Min class
+
+# Output Settings
+output_settings:
+  format: "csv"                                          # Output format (csv only for now)
+  filename_pattern: "momentum_windows_{timestamp}.csv"   # Output filename pattern
+  include_statistics: true                               # Include summary statistics in output
+  columns:
+    - "match_id"              # Match identifier
+    - "minute_window"         # Start minute of 3-minute window
+    - "team_home"            # Home team name
+    - "team_away"            # Away team name  
+    - "team_home_momentum"   # Home team momentum value
+    - "team_away_momentum"   # Away team momentum value
+    - "total_events"         # Total events in window
+    - "home_events"          # Home team events count
+    - "away_events"          # Away team events count
+
+# Processing Settings
+processing_settings:
+  batch_size: 10              # Number of matches to process before progress update
+  verbose: true               # Print detailed progress information
+  error_handling: "continue"  # How to handle errors: "continue" or "stop"
+  
+# Data Validation Settings
+validation_settings:
+  required_columns:
+    - "match_id"
+    - "minute"
+    - "team"
+    - "type"
+  
+  data_quality_checks:
+    check_null_values: true
+    check_duplicate_events: false
+    check_event_timing: true
+    
+# File Paths (relative to script location)
+paths:
+  default_data_path: "../../../../Data/euro_2024_complete_dataset.csv"
+  output_directory: "../"     # Output files go to input_generation folder
+  
+# Feature Engineering (for future expansion)
+feature_engineering:
+  enabled: false
+  features:
+    rolling_momentum: false    # Calculate rolling momentum averages
+    momentum_velocity: false   # Calculate momentum change rate
+    team_interactions: false   # Include team interaction features

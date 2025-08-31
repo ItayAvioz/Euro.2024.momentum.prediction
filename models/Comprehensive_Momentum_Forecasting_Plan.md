@@ -49,6 +49,9 @@ for t in range(3, max_time_minutes, 3):
     input_window = events[t-3:t]     # Last 3 minutes
     target_window = events[t:t+3]    # Next 3 minutes
     
+    # CRITICAL: Score coefficient based on score at WINDOW START (minute t-3)
+    score_at_window_start = calculate_score_at_minute(events, t-3)
+    
     # Process for EACH team separately (Team Involvement - Hybrid)
     for team in [team_x, team_y]:
         # Extract team-specific events using Hybrid Involvement
@@ -62,7 +65,14 @@ for t in range(3, max_time_minutes, 3):
             (target_window['possession_team_name'] == team) # Team has possession
         ]
         
-        X_team = extract_features(team_input_events)
+        # Game context uses score at BEGINNING of window
+        game_context = {
+            'score_diff': calculate_score_diff(team, score_at_window_start),
+            'minute': t,
+            'window_start_score': score_at_window_start  # Fixed for entire window
+        }
+        
+        X_team = extract_features(team_input_events, game_context)
         y_team = momentum_change(team_target_events) = y(t+3) - y(t)
 ```
 
@@ -106,6 +116,57 @@ def get_team_involvement_events(events, target_team):
 # - Possession context: +15 events  
 # - Defensive pressure: +8 events
 # Total: ~73 events (vs 50 for team-only approach)
+```
+
+---
+
+## 🎯 **SCORE COEFFICIENT METHODOLOGY**
+
+### **🔧 Window-Based Score Calculation:**
+
+The score coefficient is a critical component that affects momentum calculations. The key principle is:
+
+**Score coefficient = Score at the BEGINNING of the 3-minute window**
+
+#### **Example Implementation:**
+```python
+# For window 67-70 minutes:
+window_start = 67
+score_coefficient_minute = 67  # Beginning of window
+
+# Score at minute 67 determines coefficient for ALL events in 67-70 window
+score_at_67 = calculate_score_at_minute(events, minute=67)
+game_context = {
+    'score_diff': score_at_67['home'] - score_at_67['away'],
+    'minute': 67,
+    'window_start_score': score_at_67  # Fixed for entire window
+}
+
+# Goal scored at minute 68:
+goal_event_momentum = 10.0  # High momentum for goal
+final_momentum = goal_event_momentum * score_coefficient_based_on_minute_67
+
+# New score affects NEXT window (70-73), not current window
+```
+
+#### **🏆 Why This Approach:**
+
+1. **Window Integrity**: Each 3-minute window has consistent context
+2. **Temporal Logic**: Score pressure at window start drives team behavior
+3. **Event Impact Separation**: Goals affect momentum directly, context separately
+4. **Prediction Validity**: Maintains clean separation between input and target
+5. **Realistic Psychology**: Teams react to current score, not future score
+
+#### **📊 Score Coefficient Impact:**
+```python
+# Score multipliers based on situation at window START
+score_multipliers = {
+    'draw': 1.25,           # Maximum urgency
+    'losing_by_1': 1.20,    # Comeback pressure
+    'losing_by_2+': 1.18,   # Desperation mode
+    'leading_by_1': 1.08,   # Careful control
+    'leading_by_2+': 1.02   # Game management
+}
 ```
 
 ---
@@ -489,6 +550,7 @@ for fold in time_series_folds:
 1. **No Target Components as Features**: Zero overlap between momentum calculation and input features
 2. **Temporal Integrity**: No future information in current predictions
 3. **No Score Information**: Complete exclusion of home/away scores
+4. **Score Coefficient Integrity**: Score coefficient based only on window START, not window content
 
 ### **🎯 Feature Engineering Constraints:**
 1. **EDA Grounding**: Every engineered feature must trace to specific EDA insight
