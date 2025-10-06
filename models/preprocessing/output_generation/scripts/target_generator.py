@@ -36,9 +36,9 @@ class MomentumTargetGenerator:
         
         # Default file paths
         if input_file is None:
-            input_file = "../input_generation/momentum_windows_enhanced_v2.csv"
+            input_file = "../../input_generation/momentum_windows_enhanced_v2.csv"
         if output_file is None:
-            output_file = "../momentum_targets_enhanced.csv"
+            output_file = "../data/targets/momentum_targets_enhanced.csv"
             
         self.input_file = input_file
         self.output_file = output_file

@@ -55,7 +55,18 @@ class EnhancedMomentumGeneratorV2:
         """Get home and away team names for a match."""
         match_data = self.data[self.data['match_id'] == match_id]
         
-        # Get unique teams from both team and possession_team columns
+        if len(match_data) == 0:
+            return "Unknown", "Unknown"
+        
+        # Use the home_team_name and away_team_name columns directly
+        home_team = match_data['home_team_name'].iloc[0] if 'home_team_name' in match_data.columns else None
+        away_team = match_data['away_team_name'].iloc[0] if 'away_team_name' in match_data.columns else None
+        
+        # If we have the direct columns, use them
+        if home_team and away_team and pd.notna(home_team) and pd.notna(away_team):
+            return str(home_team), str(away_team)
+        
+        # Fallback to original logic if columns don't exist
         teams = set()
         
         for team_str in match_data['team'].dropna().unique():

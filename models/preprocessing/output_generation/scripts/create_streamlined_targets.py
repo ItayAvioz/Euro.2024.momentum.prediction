@@ -21,8 +21,8 @@ def create_streamlined_targets():
     logger.info("🎯 Creating Streamlined Target Dataset...")
     
     # File paths
-    input_file = "../momentum_targets_enhanced.csv"
-    output_file = "../momentum_targets_streamlined.csv"
+    input_file = "../data/targets/momentum_targets_enhanced.csv"
+    output_file = "../data/targets/momentum_targets_streamlined.csv"
     
     try:
         # Load full dataset

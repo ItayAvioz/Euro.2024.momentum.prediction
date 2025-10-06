@@ -18,22 +18,25 @@ from pathlib import Path
 from typing import List, Dict, Tuple
 import sys
 
-from ..models.arimax_model import MomentumARIMAXPredictor
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+from models.arimax_model import MomentumARIMAXPredictor
 
 class MainARIMAXPipeline:
     """Main pipeline for running ARIMAX models on all games."""
     
     def __init__(self, config_path: str = "../configs/arima_config.yaml"):
         """Initialize the ARIMAX prediction pipeline."""
-        self.config = self._load_config(config_path)
-        self.results = []
-        
-        # Set up logging
+        # Set up logging first
         logging.basicConfig(
             level=logging.INFO,
             format='%(asctime)s - %(levelname)s - %(message)s'
         )
         self.logger = logging.getLogger(__name__)
+        
+        self.config = self._load_config(config_path)
+        self.results = []
         
     def _load_config(self, config_path: str) -> Dict:
         """Load configuration from YAML file."""

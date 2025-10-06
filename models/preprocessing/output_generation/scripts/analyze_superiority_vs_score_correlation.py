@@ -29,19 +29,19 @@ def analyze_superiority_score_correlation():
     logger.info("📊 Analyzing Superiority vs End Game Score Correlation...")
     
     # Load streamlined dataset
-    input_file = "../../momentum_targets_streamlined.csv"
+    input_file = "../data/targets/momentum_targets_streamlined.csv"
     df = pd.read_csv(input_file)
     logger.info(f"Loaded {len(df)} windows")
     
-    # Load complete dataset to get final scores
-    complete_data_file = "../../../../Data/euro_2024_complete_dataset.csv"
+    # Load matches dataset to get final scores
+    matches_file = "../../../../Data/matches_complete.csv"
     
     try:
-        complete_df = pd.read_csv(complete_data_file)
-        logger.info(f"Loaded complete dataset with {len(complete_df)} events")
+        matches_df = pd.read_csv(matches_file)
+        logger.info(f"Loaded matches dataset with {len(matches_df)} matches")
     except:
-        logger.warning("Could not load complete dataset, will estimate scores from data")
-        complete_df = None
+        logger.warning("Could not load matches dataset, will estimate scores from data")
+        matches_df = None
     
     print("📊 SUPERIORITY vs END GAME SCORE CORRELATION ANALYSIS")
     print("=" * 70)
@@ -65,37 +65,16 @@ def analyze_superiority_score_correlation():
     df['home_relative_higher'] = df['team_home_relative_change'] > df['team_away_relative_change']
     
     # Function to get final score for a match
-    def get_final_score(match_id, complete_df):
-        if complete_df is not None:
-            match_events = complete_df[complete_df['match_id'] == match_id]
-            if len(match_events) > 0:
-                # Sort by minute to get the last event
-                match_events_sorted = match_events.sort_values(['minute'], ascending=False)
-                
-                # Try to get final scores from the last event with valid scores
-                for _, event in match_events_sorted.iterrows():
-                    try:
-                        home_score = event.get('home_score')
-                        away_score = event.get('away_score')
-                        
-                        # Check if scores are valid
-                        if pd.notna(home_score) and pd.notna(away_score):
-                            home_score = int(float(home_score))
-                            away_score = int(float(away_score))
-                            if home_score >= 0 and away_score >= 0:
-                                return home_score, away_score
-                    except (ValueError, TypeError):
-                        continue
-                
-                # If no valid scores found, try to get from any event
-                for _, event in match_events.iterrows():
-                    try:
-                        home_score = event.get('home_score', 0)
-                        away_score = event.get('away_score', 0)
-                        if pd.notna(home_score) and pd.notna(away_score):
-                            return int(float(home_score)), int(float(away_score))
-                    except:
-                        continue
+    def get_final_score(match_id, matches_df):
+        if matches_df is not None:
+            match_row = matches_df[matches_df['match_id'] == match_id]
+            if len(match_row) > 0:
+                try:
+                    home_score = int(match_row['home_score'].iloc[0])
+                    away_score = int(match_row['away_score'].iloc[0])
+                    return home_score, away_score
+                except (ValueError, TypeError):
+                    pass
         
         # Fallback: estimate from team names and typical Euro 2024 results
         # This is a simplified estimation - in real analysis you'd need actual scores
@@ -137,10 +116,10 @@ def analyze_superiority_score_correlation():
         away_team = match_data['team_away'].iloc[0]
         
         # Get final scores
-        home_score, away_score = get_final_score(match_id, complete_df)
+        home_score, away_score = get_final_score(match_id, matches_df)
         
         # Log if we're using real vs estimated scores
-        if complete_df is not None:
+        if matches_df is not None:
             logger.info(f"Match {match_id} ({home_team} vs {away_team}): Real scores {home_score}-{away_score}")
         else:
             logger.warning(f"Match {match_id} ({home_team} vs {away_team}): Using estimated scores {home_score}-{away_score}")
@@ -253,7 +232,7 @@ def analyze_superiority_score_correlation():
     print(f"  r = {strongest_corr[1]['correlation']:.3f}, p = {strongest_corr[1]['p_value']:.3f}")
     
     # Save detailed results to CSV
-    output_file = "../game_superiority_score_analysis.csv"
+    output_file = "../data/outputs/game_superiority_score_analysis.csv"
     
     # Add correlation columns to results
     for sup_var in superiority_vars:
@@ -294,7 +273,7 @@ def analyze_superiority_score_correlation():
                 })
     
     corr_summary_df = pd.DataFrame(correlation_summary)
-    corr_output_file = "../correlation_summary.csv"
+    corr_output_file = "../data/outputs/correlation_summary.csv"
     corr_summary_df.to_csv(corr_output_file, index=False)
     
     print(f"\n💾 CORRELATION SUMMARY SAVED")
