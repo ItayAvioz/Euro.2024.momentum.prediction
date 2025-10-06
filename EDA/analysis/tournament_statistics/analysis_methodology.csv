@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d78f19cdcc94d41dcf5280b3933e8978668a5137d29c6c9f0e178acd8febb499
-size 267
+Analysis_Type,Method_Used,Description
+Cards Analysis Method,bad_behaviour column analysis,Yellow and Red Cards
+Corners Analysis Method,play_pattern analysis (events starting from corners),Corner Kicks
+Substitutions Analysis Method,event_type,Player Substitutions

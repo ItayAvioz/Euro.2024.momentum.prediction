@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f866be22ff5f370325f223ead98ff5aa5c9ce6512c471794db926aebd47dc6ff
-size 412
+Statistic,Value,Notes
+Number of Games,51,
+Number of Goals,1638,
+Average Goals per Game,32.12,
+Games to Extra Time,2,
+Games to Penalties,3,
+Total Draws,17,
+Total Wins,34,
+Total Substitutions,467,
+Average Substitutions per Game,9.16,
+Total Red Cards,2,
+Average Red Cards per Game,0.04,
+Total Yellow Cards,56,
+Average Yellow Cards per Game,1.10,
+Total Corners,7722,
+Average Corners per Game,151.41,

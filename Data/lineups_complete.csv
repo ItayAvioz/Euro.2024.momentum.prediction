@@ -1,3 +1,2588 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:451f5533f8a9aee0e5c480018775f5cfe3c4cfff087e713420f461ba2e5022a6
-size 181041
+match_id,team_id,team_name,player_id,player_name,jersey_number,position,stage
+3942819,941,Netherlands,2988,Memphis Depay,10,Center Forward,Semi-finals
+3942819,941,Netherlands,3306,Nathan Aké,5,Left Back,Semi-finals
+3942819,941,Netherlands,3311,Daley Blind,17,,Semi-finals
+3942819,941,Netherlands,3567,Georginio Wijnaldum,8,,Semi-finals
+3942819,941,Netherlands,3669,Virgil van Dijk,4,Left Center Back,Semi-finals
+3942819,941,Netherlands,7787,Stefan de Vrij,6,Right Center Back,Semi-finals
+3942819,941,Netherlands,7829,Wout Weghorst,9,Center Forward,Semi-finals
+3942819,941,Netherlands,8069,Matthijs de Ligt,3,,Semi-finals
+3942819,941,Netherlands,8125,Denzel Dumfries,22,Right Back,Semi-finals
+3942819,941,Netherlands,8259,Steven Bergwijn,25,,Semi-finals
+3942819,941,Netherlands,15503,Jerdy Schouten,24,Right Defensive Midfield,Semi-finals
+3942819,941,Netherlands,15582,Donyell Malen,18,Right Wing,Semi-finals
+3942819,941,Netherlands,16185,Justin Bijlow,13,,Semi-finals
+3942819,941,Netherlands,20750,Cody Mathès Gakpo,11,Left Wing,Semi-finals
+3942819,941,Netherlands,21582,Tijjani Reijnders,14,Left Defensive Midfield,Semi-finals
+3942819,941,Netherlands,21633,Joey Veerman,16,Center Forward,Semi-finals
+3942819,941,Netherlands,21880,Brian Brobbey,19,Right Wing,Semi-finals
+3942819,941,Netherlands,22352,Lutsharel Geertruida,2,,Semi-finals
+3942819,941,Netherlands,23230,Ryan Gravenberch,26,,Semi-finals
+3942819,941,Netherlands,25000,Mark Flekken,23,,Semi-finals
+3942819,941,Netherlands,32547,Micky van de Ven,15,,Semi-finals
+3942819,941,Netherlands,32712,Jeremie Frimpong,12,,Semi-finals
+3942819,941,Netherlands,33281,Joshua Zirkzee,21,Right Back,Semi-finals
+3942819,941,Netherlands,37274,Bart Verbruggen,1,Goalkeeper,Semi-finals
+3942819,941,Netherlands,39092,Ian Maatsen,20,,Semi-finals
+3942819,941,Netherlands,39167,Xavi Simons,7,Center Attacking Midfield,Semi-finals
+3942819,768,England,3088,Lewis Dunk,15,,Semi-finals
+3942819,768,England,3205,Kyle Walker,2,Right Center Back,Semi-finals
+3942819,768,England,3244,John Stones,5,Center Back,Semi-finals
+3942819,768,England,3308,Kieran Trippier,12,Left Wing Back,Semi-finals
+3942819,768,England,3382,Luke Shaw,3,Left Wing Back,Semi-finals
+3942819,768,England,3468,Jordan Pickford,1,Goalkeeper,Semi-finals
+3942819,768,England,3495,Joe Gomez,22,,Semi-finals
+3942819,768,England,3664,Trent Alexander-Arnold,8,,Semi-finals
+3942819,768,England,3822,Ezri Konsa Ngoyo,14,Right Wing Back,Semi-finals
+3942819,768,England,3834,Ivan Toney,17,,Semi-finals
+3942819,768,England,3943,Declan Rice,4,Left Defensive Midfield,Semi-finals
+3942819,768,England,4073,Dean Henderson,23,,Semi-finals
+3942819,768,England,4354,Phil Foden,11,Right Attacking Midfield,Semi-finals
+3942819,768,England,4760,Ollie Watkins,19,Center Forward,Semi-finals
+3942819,768,England,9000,Eberechi Eze,21,,Semi-finals
+3942819,768,England,9640,Jarrod Bowen,20,,Semi-finals
+3942819,768,England,10955,Harry Kane,9,Center Forward,Semi-finals
+3942819,768,England,22084,Bukayo Saka,7,Right Wing Back,Semi-finals
+3942819,768,England,22783,Aaron Ramsdale,13,,Semi-finals
+3942819,768,England,28104,Anthony Gordon,18,,Semi-finals
+3942819,768,England,29399,Conor Gallagher,16,Right Defensive Midfield,Semi-finals
+3942819,768,England,30714,Jude Bellingham,10,Left Attacking Midfield,Semi-finals
+3942819,768,England,34526,Marc Guehi,6,Left Center Back,Semi-finals
+3942819,768,England,39461,Cole Palmer,24,Right Attacking Midfield,Semi-finals
+3942819,768,England,77723,Adam Wharton,25,,Semi-finals
+3942819,768,England,99174,Kobbie Mainoo,26,Right Defensive Midfield,Semi-finals
+3943043,772,Spain,3042,Mikel Merino Zazón,6,Right Wing,Final
+3943043,772,Spain,3265,José Luis Sanmartín Mato,9,,Final
+3943043,772,Spain,3477,Álvaro Borja Morata Martín,7,Center Forward,Final
+3943043,772,Spain,4127,David Raya Martin,1,,Final
+3943043,772,Spain,4353,Aymeric Laporte,14,Left Center Back,Final
+3943043,772,Spain,5202,José Ignacio Fernández Iglesias,4,Right Center Back,Final
+3943043,772,Spain,5721,Daniel Carvajal Ramos,2,Right Back,Final
+3943043,772,Spain,6655,Fabián Ruiz Peña,8,Left Defensive Midfield,Final
+3943043,772,Spain,6685,Mikel Oyarzabal Ugarte,21,Center Forward,Final
+3943043,772,Spain,6748,Ferrán Torres García,11,,Final
+3943043,772,Spain,6765,Rodrigo Hernández Cascante,16,Right Defensive Midfield,Final
+3943043,772,Spain,6821,Jesús Navas González,22,,Final
+3943043,772,Spain,10336,Alejandro Grimaldo García,12,,Final
+3943043,772,Spain,11748,Unai Simón Mendibil,23,Goalkeeper,Final
+3943043,772,Spain,16532,Daniel Olmo Carvajal,10,Center Attacking Midfield,Final
+3943043,772,Spain,17620,Marc Cucurella Saseta,24,Left Back,Final
+3943043,772,Spain,22128,Robin Aime Robert Le Normand,3,Right Center Back,Final
+3943043,772,Spain,24921,Martín Zubimendi Ibáñez,18,Right Defensive Midfield,Final
+3943043,772,Spain,32185,Alejandro Remiro Gargallo,13,,Final
+3943043,772,Spain,41115,Alejandro Baena Rodríguez,15,,Final
+3943043,772,Spain,41542,Daniel Vivian Moreno,5,,Final
+3943043,772,Spain,68574,Nicholas Williams Arthuer,17,Left Wing,Final
+3943043,772,Spain,143864,Fermin Lopez Marin,25,,Final
+3943043,772,Spain,316046,Lamine Yamal Nasraoui Ebana,19,Right Wing,Final
+3943043,768,England,3088,Lewis Dunk,15,,Final
+3943043,768,England,3205,Kyle Walker,2,Right Back,Final
+3943043,768,England,3244,John Stones,5,Right Center Back,Final
+3943043,768,England,3308,Kieran Trippier,12,,Final
+3943043,768,England,3382,Luke Shaw,3,Left Back,Final
+3943043,768,England,3468,Jordan Pickford,1,Goalkeeper,Final
+3943043,768,England,3495,Joe Gomez,22,,Final
+3943043,768,England,3664,Trent Alexander-Arnold,8,,Final
+3943043,768,England,3822,Ezri Konsa Ngoyo,14,,Final
+3943043,768,England,3834,Ivan Toney,17,Left Wing,Final
+3943043,768,England,3943,Declan Rice,4,Left Defensive Midfield,Final
+3943043,768,England,4073,Dean Henderson,23,,Final
+3943043,768,England,4354,Phil Foden,11,Center Attacking Midfield,Final
+3943043,768,England,4760,Ollie Watkins,19,Center Forward,Final
+3943043,768,England,9000,Eberechi Eze,21,,Final
+3943043,768,England,9640,Jarrod Bowen,20,,Final
+3943043,768,England,10955,Harry Kane,9,Center Forward,Final
+3943043,768,England,22084,Bukayo Saka,7,Right Wing,Final
+3943043,768,England,22783,Aaron Ramsdale,13,,Final
+3943043,768,England,28104,Anthony Gordon,18,,Final
+3943043,768,England,29399,Conor Gallagher,16,,Final
+3943043,768,England,30714,Jude Bellingham,10,Left Wing,Final
+3943043,768,England,34526,Marc Guehi,6,Left Center Back,Final
+3943043,768,England,39461,Cole Palmer,24,Right Defensive Midfield,Final
+3943043,768,England,77723,Adam Wharton,25,,Final
+3943043,768,England,99174,Kobbie Mainoo,26,Right Defensive Midfield,Final
+3942752,771,France,2972,Marcus Thuram,15,,Semi-finals
+3942752,771,France,3009,Kylian Mbappé Lottin,10,Left Wing,Semi-finals
+3942752,771,France,3026,Adrien Rabiot,14,Left Center Midfield,Semi-finals
+3942752,771,France,3379,Alphonse Areola,23,,Semi-finals
+3942752,771,France,3604,Olivier Giroud,9,Right Wing,Semi-finals
+3942752,771,France,3761,Mike Maignan,16,Goalkeeper,Semi-finals
+3942752,771,France,3804,Ferland Mendy,3,,Semi-finals
+3942752,771,France,3961,N'Golo Kanté,13,Right Center Midfield,Semi-finals
+3942752,771,France,4445,Jules Koundé,5,Right Back,Semi-finals
+3942752,771,France,4893,Brice Samba,1,,Semi-finals
+3942752,771,France,5476,Benjamin Pavard,2,,Semi-finals
+3942752,771,France,5477,Ousmane Dembélé,11,Right Wing,Semi-finals
+3942752,771,France,5487,Antoine Griezmann,7,Right Center Midfield,Semi-finals
+3942752,771,France,6704,Theo Bernard François Hernández,22,Left Back,Semi-finals
+3942752,771,France,7252,Jonathan Clauss,21,,Semi-finals
+3942752,771,France,8217,Kingsley Coman,20,,Semi-finals
+3942752,771,France,8519,Dayotchanculle Upamecano,4,Right Center Back,Semi-finals
+3942752,771,France,10481,Aurélien Djani Tchouaméni,8,Center Defensive Midfield,Semi-finals
+3942752,771,France,11135,Ibrahima Konaté,24,,Semi-finals
+3942752,771,France,11990,Youssouf Fofana,19,,Semi-finals
+3942752,771,France,17592,William Saliba,17,Left Center Back,Semi-finals
+3942752,771,France,22097,Randal Kolo Muani,12,Center Forward,Semi-finals
+3942752,771,France,24778,Eduardo Camavinga,6,Left Center Midfield,Semi-finals
+3942752,771,France,39420,Bradley Barcola,25,Center Forward,Semi-finals
+3942752,771,France,144059,Warren Zaire Emery,18,,Semi-finals
+3942752,772,Spain,3042,Mikel Merino Zazón,6,Center Attacking Midfield,Semi-finals
+3942752,772,Spain,3076,Ayoze Pérez Gutiérrez,26,,Semi-finals
+3942752,772,Spain,3265,José Luis Sanmartín Mato,9,,Semi-finals
+3942752,772,Spain,3477,Álvaro Borja Morata Martín,7,Center Forward,Semi-finals
+3942752,772,Spain,4127,David Raya Martin,1,,Semi-finals
+3942752,772,Spain,4353,Aymeric Laporte,14,Left Center Back,Semi-finals
+3942752,772,Spain,5202,José Ignacio Fernández Iglesias,4,Right Center Back,Semi-finals
+3942752,772,Spain,6655,Fabián Ruiz Peña,8,Left Defensive Midfield,Semi-finals
+3942752,772,Spain,6685,Mikel Oyarzabal Ugarte,21,Center Forward,Semi-finals
+3942752,772,Spain,6748,Ferrán Torres García,11,Right Wing,Semi-finals
+3942752,772,Spain,6765,Rodrigo Hernández Cascante,16,Right Defensive Midfield,Semi-finals
+3942752,772,Spain,6821,Jesús Navas González,22,Right Back,Semi-finals
+3942752,772,Spain,10336,Alejandro Grimaldo García,12,,Semi-finals
+3942752,772,Spain,11748,Unai Simón Mendibil,23,Goalkeeper,Semi-finals
+3942752,772,Spain,16532,Daniel Olmo Carvajal,10,Center Attacking Midfield,Semi-finals
+3942752,772,Spain,17620,Marc Cucurella Saseta,24,Left Back,Semi-finals
+3942752,772,Spain,24921,Martín Zubimendi Ibáñez,18,Left Wing,Semi-finals
+3942752,772,Spain,32185,Alejandro Remiro Gargallo,13,,Semi-finals
+3942752,772,Spain,41115,Alejandro Baena Rodríguez,15,,Semi-finals
+3942752,772,Spain,41542,Daniel Vivian Moreno,5,Right Back,Semi-finals
+3942752,772,Spain,68574,Nicholas Williams Arthuer,17,Left Wing,Semi-finals
+3942752,772,Spain,143864,Fermin Lopez Marin,25,,Semi-finals
+3942752,772,Spain,316046,Lamine Yamal Nasraoui Ebana,19,Right Wing,Semi-finals
+3942382,941,Netherlands,2988,Memphis Depay,10,Center Forward,Quarter-finals
+3942382,941,Netherlands,3306,Nathan Aké,5,Left Back,Quarter-finals
+3942382,941,Netherlands,3311,Daley Blind,17,,Quarter-finals
+3942382,941,Netherlands,3567,Georginio Wijnaldum,8,,Quarter-finals
+3942382,941,Netherlands,3669,Virgil van Dijk,4,Left Center Back,Quarter-finals
+3942382,941,Netherlands,7787,Stefan de Vrij,6,Right Center Back,Quarter-finals
+3942382,941,Netherlands,7829,Wout Weghorst,9,Right Wing,Quarter-finals
+3942382,941,Netherlands,8069,Matthijs de Ligt,3,,Quarter-finals
+3942382,941,Netherlands,8125,Denzel Dumfries,22,Right Back,Quarter-finals
+3942382,941,Netherlands,8259,Steven Bergwijn,25,Right Wing,Quarter-finals
+3942382,941,Netherlands,15503,Jerdy Schouten,24,Right Defensive Midfield,Quarter-finals
+3942382,941,Netherlands,15582,Donyell Malen,18,,Quarter-finals
+3942382,941,Netherlands,16185,Justin Bijlow,13,,Quarter-finals
+3942382,941,Netherlands,20750,Cody Mathès Gakpo,11,Left Wing,Quarter-finals
+3942382,941,Netherlands,21582,Tijjani Reijnders,14,Left Defensive Midfield,Quarter-finals
+3942382,941,Netherlands,21633,Joey Veerman,16,Left Defensive Midfield,Quarter-finals
+3942382,941,Netherlands,21880,Brian Brobbey,19,,Quarter-finals
+3942382,941,Netherlands,22352,Lutsharel Geertruida,2,,Quarter-finals
+3942382,941,Netherlands,23230,Ryan Gravenberch,26,,Quarter-finals
+3942382,941,Netherlands,25000,Mark Flekken,23,,Quarter-finals
+3942382,941,Netherlands,32547,Micky van de Ven,15,Left Back,Quarter-finals
+3942382,941,Netherlands,32712,Jeremie Frimpong,12,Center Attacking Midfield,Quarter-finals
+3942382,941,Netherlands,33281,Joshua Zirkzee,21,Right Wing,Quarter-finals
+3942382,941,Netherlands,37274,Bart Verbruggen,1,Goalkeeper,Quarter-finals
+3942382,941,Netherlands,39167,Xavi Simons,7,Center Attacking Midfield,Quarter-finals
+3942382,909,Turkey,3648,Cenk Tosun,9,Center Back,Quarter-finals
+3942382,909,Turkey,7039,Hakan Çalhanoğlu,10,Left Defensive Midfield,Quarter-finals
+3942382,909,Turkey,9085,Salih Özcan,15,Right Defensive Midfield,Quarter-finals
+3942382,909,Turkey,10349,Mehmet Zeki Çelik,2,Right Wing Back,Quarter-finals
+3942382,909,Turkey,10826,Mert Müldür,18,Right Wing Back,Quarter-finals
+3942382,909,Turkey,12293,Kaan Ayhan,22,Right Center Back,Quarter-finals
+3942382,909,Turkey,12555,Okay Yokuşlu,5,Right Defensive Midfield,Quarter-finals
+3942382,909,Turkey,18723,Yunus Akgün,25,,Quarter-finals
+3942382,909,Turkey,29989,Yusuf Yazıcı,11,,Quarter-finals
+3942382,909,Turkey,30310,Fehmi Mert Günok,1,Goalkeeper,Quarter-finals
+3942382,909,Turkey,30311,İrfan Can Kahveci,17,,Quarter-finals
+3942382,909,Turkey,30357,Uğurcan Çakır,23,,Quarter-finals
+3942382,909,Turkey,30438,Ferdi Erenay Kadıoğlu,20,Left Wing Back,Quarter-finals
+3942382,909,Turkey,30442,Altay Bayındır,12,,Quarter-finals
+3942382,909,Turkey,47383,Ahmetcan Kaplan,13,,Quarter-finals
+3942382,909,Turkey,48383,Abdülkerim Bardakcı,14,Left Center Back,Quarter-finals
+3942382,909,Turkey,49689,Muhammed Kerem Aktürkoğlu,7,Left Wing,Quarter-finals
+3942382,909,Turkey,116587,Arda Güler,8,Right Wing,Quarter-finals
+3942382,909,Turkey,133168,Bertuğ Özgür Yıldırım,26,,Quarter-finals
+3942382,909,Turkey,133305,Samet Akaydin,4,Center Back,Quarter-finals
+3942382,909,Turkey,134209,Barış Alper Yılmaz,21,Center Forward,Quarter-finals
+3942382,909,Turkey,149576,Semih Kılıçsoy,24,Right Center Back,Quarter-finals
+3942382,909,Turkey,151813,Kenan Yildiz,19,Left Wing,Quarter-finals
+3942349,771,France,2972,Marcus Thuram,15,Center Forward,Quarter-finals
+3942349,771,France,3009,Kylian Mbappé Lottin,10,Left Center Forward,Quarter-finals
+3942349,771,France,3379,Alphonse Areola,23,,Quarter-finals
+3942349,771,France,3604,Olivier Giroud,9,,Quarter-finals
+3942349,771,France,3761,Mike Maignan,16,Goalkeeper,Quarter-finals
+3942349,771,France,3804,Ferland Mendy,3,,Quarter-finals
+3942349,771,France,3961,N'Golo Kanté,13,Right Center Midfield,Quarter-finals
+3942349,771,France,4445,Jules Koundé,5,Right Back,Quarter-finals
+3942349,771,France,4893,Brice Samba,1,,Quarter-finals
+3942349,771,France,5476,Benjamin Pavard,2,,Quarter-finals
+3942349,771,France,5477,Ousmane Dembélé,11,Center Attacking Midfield,Quarter-finals
+3942349,771,France,5487,Antoine Griezmann,7,Center Attacking Midfield,Quarter-finals
+3942349,771,France,6704,Theo Bernard François Hernández,22,Left Back,Quarter-finals
+3942349,771,France,7252,Jonathan Clauss,21,,Quarter-finals
+3942349,771,France,8217,Kingsley Coman,20,,Quarter-finals
+3942349,771,France,8519,Dayotchanculle Upamecano,4,Right Center Back,Quarter-finals
+3942349,771,France,10481,Aurélien Djani Tchouaméni,8,Center Defensive Midfield,Quarter-finals
+3942349,771,France,11135,Ibrahima Konaté,24,,Quarter-finals
+3942349,771,France,11990,Youssouf Fofana,19,Right Center Midfield,Quarter-finals
+3942349,771,France,17592,William Saliba,17,Left Center Back,Quarter-finals
+3942349,771,France,22097,Randal Kolo Muani,12,Right Center Forward,Quarter-finals
+3942349,771,France,24778,Eduardo Camavinga,6,Left Center Midfield,Quarter-finals
+3942349,771,France,39420,Bradley Barcola,25,Left Wing,Quarter-finals
+3942349,771,France,144059,Warren Zaire Emery,18,,Quarter-finals
+3942349,780,Portugal,3193,Bernardo Mota Veiga de Carvalho e Silva,10,Right Midfield,Quarter-finals
+3942349,780,Portugal,5204,Bruno Miguel Borges Fernandes,8,Center Attacking Midfield,Quarter-finals
+3942349,780,Portugal,5205,Rui Pedro dos Santos Patrício,1,,Quarter-finals
+3942349,780,Portugal,5206,Rúben Santos Gato Alves Dias,4,Right Center Back,Quarter-finals
+3942349,780,Portugal,5207,Cristiano Ronaldo dos Santos Aveiro,7,Center Forward,Quarter-finals
+3942349,780,Portugal,6374,Nélson Cabral Semedo,2,Right Back,Quarter-finals
+3942349,780,Portugal,7005,João Pedro Cavaco Cancelo,20,Right Back,Quarter-finals
+3942349,780,Portugal,9927,Rúben Diogo Da Silva Neves,18,Right Defensive Midfield,Quarter-finals
+3942349,780,Portugal,9929,Diogo José Teixeira da Silva,21,,Quarter-finals
+3942349,780,Portugal,12041,João Félix Sequeira,11,Left Midfield,Quarter-finals
+3942349,780,Portugal,12169,João Maria Lobo Alves Palhinha Gonçalves,6,Right Defensive Midfield,Quarter-finals
+3942349,780,Portugal,13621,Danilo Luís Hélio Pereira,13,,Quarter-finals
+3942349,780,Portugal,16028,José Diogo Dalot Teixeira,5,,Quarter-finals
+3942349,780,Portugal,18360,Rafael Alexandre Conceição Leão,17,Left Midfield,Quarter-finals
+3942349,780,Portugal,18866,José Pedro Malheiro de Sá,12,,Quarter-finals
+3942349,780,Portugal,20016,Kléper Laveran Lima Ferreira,3,Left Center Back,Quarter-finals
+3942349,780,Portugal,23256,Pedro Lomba Neto,25,,Quarter-finals
+3942349,780,Portugal,32975,Diogo Meireles Costa,22,Goalkeeper,Quarter-finals
+3942349,780,Portugal,34639,Vitor Machado Ferreira,23,Left Defensive Midfield,Quarter-finals
+3942349,780,Portugal,38803,Gonçalo Matias Ramos,9,,Quarter-finals
+3942349,780,Portugal,39624,Francisco Fernandes Conceição,26,Center Attacking Midfield,Quarter-finals
+3942349,780,Portugal,40874,Matheus Luiz Nunes,16,Left Defensive Midfield,Quarter-finals
+3942349,780,Portugal,41092,Nuno Mendes,19,Left Back,Quarter-finals
+3942349,780,Portugal,42106,Gonçalo Bernardo Inácio,14,,Quarter-finals
+3942349,780,Portugal,143854,António João Pereira Albuquerque Tavares Silva,24,,Quarter-finals
+3942349,780,Portugal,143859,João Neves,15,,Quarter-finals
+3930180,941,Netherlands,2988,Memphis Depay,10,Center Forward,Group Stage
+3930180,941,Netherlands,3306,Nathan Aké,5,Left Back,Group Stage
+3930180,941,Netherlands,3311,Daley Blind,17,,Group Stage
+3930180,941,Netherlands,3567,Georginio Wijnaldum,8,Left Defensive Midfield,Group Stage
+3930180,941,Netherlands,3669,Virgil van Dijk,4,Left Center Back,Group Stage
+3930180,941,Netherlands,7787,Stefan de Vrij,6,Right Center Back,Group Stage
+3930180,941,Netherlands,7829,Wout Weghorst,9,Right Wing,Group Stage
+3930180,941,Netherlands,8069,Matthijs de Ligt,3,,Group Stage
+3930180,941,Netherlands,8125,Denzel Dumfries,22,,Group Stage
+3930180,941,Netherlands,8259,Steven Bergwijn,25,,Group Stage
+3930180,941,Netherlands,15503,Jerdy Schouten,24,Center Defensive Midfield,Group Stage
+3930180,941,Netherlands,15582,Donyell Malen,18,Right Wing,Group Stage
+3930180,941,Netherlands,16185,Justin Bijlow,13,,Group Stage
+3930180,941,Netherlands,20750,Cody Mathès Gakpo,11,Left Wing,Group Stage
+3930180,941,Netherlands,21582,Tijjani Reijnders,14,Right Center Midfield,Group Stage
+3930180,941,Netherlands,21633,Joey Veerman,16,Left Center Midfield,Group Stage
+3930180,941,Netherlands,21880,Brian Brobbey,19,,Group Stage
+3930180,941,Netherlands,22352,Lutsharel Geertruida,2,Right Back,Group Stage
+3930180,941,Netherlands,23230,Ryan Gravenberch,26,,Group Stage
+3930180,941,Netherlands,25000,Mark Flekken,23,,Group Stage
+3930180,941,Netherlands,32547,Micky van de Ven,15,Left Back,Group Stage
+3930180,941,Netherlands,32712,Jeremie Frimpong,12,,Group Stage
+3930180,941,Netherlands,33281,Joshua Zirkzee,21,,Group Stage
+3930180,941,Netherlands,37274,Bart Verbruggen,1,Goalkeeper,Group Stage
+3930180,941,Netherlands,39092,Ian Maatsen,20,,Group Stage
+3930180,941,Netherlands,39167,Xavi Simons,7,Left Center Midfield,Group Stage
+3930180,915,Austria,3325,Marko Arnautović,7,Center Forward,Group Stage
+3930180,915,Austria,4813,Andreas Weimann,24,Right Wing,Group Stage
+3930180,915,Austria,8068,Maximilian Wöber,2,Left Center Back,Group Stage
+3930180,915,Austria,8309,Michael Gregoritsch,11,Center Forward,Group Stage
+3930180,915,Austria,8406,Florian Kainz,17,,Group Stage
+3930180,915,Austria,8506,Konrad Laimer,20,Left Defensive Midfield,Group Stage
+3930180,915,Austria,8518,Marcel Sabitzer,9,Center Attacking Midfield,Group Stage
+3930180,915,Austria,8778,Gernot Trauner,3,,Group Stage
+3930180,915,Austria,8784,Romano Schmid,18,Right Wing,Group Stage
+3930180,915,Austria,8931,Philipp Lienhart,15,Right Center Back,Group Stage
+3930180,915,Austria,9731,Patrick Pentz,13,Goalkeeper,Group Stage
+3930180,915,Austria,11396,Florian Grillitsch,10,Left Defensive Midfield,Group Stage
+3930180,915,Austria,11820,Kevin Danso,4,,Group Stage
+3930180,915,Austria,11821,Stefan Posch,5,Right Back,Group Stage
+3930180,915,Austria,13315,Philipp Mwene,16,,Group Stage
+3930180,915,Austria,24977,Christoph Baumgartner,19,Left Wing,Group Stage
+3930180,915,Austria,32417,Heinz Lindner,1,,Group Stage
+3930180,915,Austria,33297,Patrick Wimmer,23,Left Wing,Group Stage
+3930180,915,Austria,39120,Flavius Daniliuc,21,,Group Stage
+3930180,915,Austria,39460,Nicolas Seiwald,6,Right Defensive Midfield,Group Stage
+3930180,915,Austria,39545,Alexander Prass,8,Left Back,Group Stage
+3930180,915,Austria,41371,Niklas Hedl,12,,Group Stage
+3930180,915,Austria,48169,Marco Grüll,26,,Group Stage
+3930180,915,Austria,152512,Leopold Querfeld,14,Right Center Back,Group Stage
+3930180,915,Austria,403718,Matthias Seidl,22,,Group Stage
+3930180,915,Austria,403823,Maximilian Entrup,25,,Group Stage
+3930171,776,Denmark,3027,Mathias Jattah-Njie Jørgensen,13,,Group Stage
+3930171,776,Denmark,3043,Christian Dannemann Eriksen,10,Left Wing,Group Stage
+3930171,776,Denmark,3570,Pierre-Emile Højbjerg,23,Left Defensive Midfield,Group Stage
+3930171,776,Denmark,3815,Kasper Schmeichel,1,Goalkeeper,Group Stage
+3930171,776,Denmark,3959,Andreas Christensen,6,Left Center Back,Group Stage
+3930171,776,Denmark,5534,Simon Thorup Kjær,4,,Group Stage
+3930171,776,Denmark,5536,Yussuf Yurary Poulsen,20,Center Forward,Group Stage
+3930171,776,Denmark,6302,Kasper Dolberg,12,,Group Stage
+3930171,776,Denmark,7097,Christian Nørgaard,15,Right Defensive Midfield,Group Stage
+3930171,776,Denmark,8247,Joachim Andersen,2,Right Center Back,Group Stage
+3930171,776,Denmark,8621,Morten Hjulmand,21,Right Defensive Midfield,Group Stage
+3930171,776,Denmark,8815,Jannik Vestergaard,3,Center Back,Group Stage
+3930171,776,Denmark,8961,Jacob Bruun Larsen,26,,Group Stage
+3930171,776,Denmark,12420,Frederik Rønnow,22,,Group Stage
+3930171,776,Denmark,16190,Rasmus Nissen Kristensen,25,,Group Stage
+3930171,776,Denmark,16554,Joakim Mæhle,5,Right Wing Back,Group Stage
+3930171,776,Denmark,17042,Andreas Skov Olsen,11,Right Wing,Group Stage
+3930171,776,Denmark,18722,Mathias Jensen,7,,Group Stage
+3930171,776,Denmark,21261,Jonas Older Wind,19,Right Wing,Group Stage
+3930171,776,Denmark,23287,Anders Dreyer,24,,Group Stage
+3930171,776,Denmark,24443,Mikkel Damsgaard,14,Left Wing,Group Stage
+3930171,776,Denmark,24547,Alexander Hartmann Bah,18,Left Wing Back,Group Stage
+3930171,776,Denmark,40813,Mads Hermansen,16,,Group Stage
+3930171,776,Denmark,51672,Rasmus Winther Højlund,9,Center Forward,Group Stage
+3930171,776,Denmark,60343,Victor Bernth Kristansen,17,Left Wing Back,Group Stage
+3930171,768,England,3088,Lewis Dunk,15,,Group Stage
+3930171,768,England,3205,Kyle Walker,2,Right Back,Group Stage
+3930171,768,England,3244,John Stones,5,Right Center Back,Group Stage
+3930171,768,England,3308,Kieran Trippier,12,Left Back,Group Stage
+3930171,768,England,3468,Jordan Pickford,1,Goalkeeper,Group Stage
+3930171,768,England,3495,Joe Gomez,22,,Group Stage
+3930171,768,England,3664,Trent Alexander-Arnold,8,Right Defensive Midfield,Group Stage
+3930171,768,England,3822,Ezri Konsa Ngoyo,14,,Group Stage
+3930171,768,England,3834,Ivan Toney,17,,Group Stage
+3930171,768,England,3943,Declan Rice,4,Left Defensive Midfield,Group Stage
+3930171,768,England,4073,Dean Henderson,23,,Group Stage
+3930171,768,England,4354,Phil Foden,11,Left Wing,Group Stage
+3930171,768,England,4760,Ollie Watkins,19,Center Forward,Group Stage
+3930171,768,England,9000,Eberechi Eze,21,Right Wing,Group Stage
+3930171,768,England,9640,Jarrod Bowen,20,Left Wing,Group Stage
+3930171,768,England,10955,Harry Kane,9,Center Forward,Group Stage
+3930171,768,England,22084,Bukayo Saka,7,Right Wing,Group Stage
+3930171,768,England,22783,Aaron Ramsdale,13,,Group Stage
+3930171,768,England,28104,Anthony Gordon,18,,Group Stage
+3930171,768,England,29399,Conor Gallagher,16,Right Defensive Midfield,Group Stage
+3930171,768,England,30714,Jude Bellingham,10,Center Attacking Midfield,Group Stage
+3930171,768,England,34526,Marc Guehi,6,Left Center Back,Group Stage
+3930171,768,England,39461,Cole Palmer,24,,Group Stage
+3930171,768,England,77723,Adam Wharton,25,,Group Stage
+3930171,768,England,99174,Kobbie Mainoo,26,,Group Stage
+3942227,768,England,3088,Lewis Dunk,15,,Quarter-finals
+3942227,768,England,3205,Kyle Walker,2,Right Center Back,Quarter-finals
+3942227,768,England,3244,John Stones,5,Center Back,Quarter-finals
+3942227,768,England,3308,Kieran Trippier,12,Left Wing Back,Quarter-finals
+3942227,768,England,3382,Luke Shaw,3,Left Center Back,Quarter-finals
+3942227,768,England,3468,Jordan Pickford,1,Goalkeeper,Quarter-finals
+3942227,768,England,3495,Joe Gomez,22,,Quarter-finals
+3942227,768,England,3664,Trent Alexander-Arnold,8,Left Attacking Midfield,Quarter-finals
+3942227,768,England,3822,Ezri Konsa Ngoyo,14,Left Center Back,Quarter-finals
+3942227,768,England,3834,Ivan Toney,17,Center Forward,Quarter-finals
+3942227,768,England,3943,Declan Rice,4,Left Defensive Midfield,Quarter-finals
+3942227,768,England,4073,Dean Henderson,23,,Quarter-finals
+3942227,768,England,4354,Phil Foden,11,Right Attacking Midfield,Quarter-finals
+3942227,768,England,4760,Ollie Watkins,19,,Quarter-finals
+3942227,768,England,9000,Eberechi Eze,21,Left Wing Back,Quarter-finals
+3942227,768,England,9640,Jarrod Bowen,20,,Quarter-finals
+3942227,768,England,10955,Harry Kane,9,Center Forward,Quarter-finals
+3942227,768,England,22084,Bukayo Saka,7,Right Wing Back,Quarter-finals
+3942227,768,England,22783,Aaron Ramsdale,13,,Quarter-finals
+3942227,768,England,28104,Anthony Gordon,18,,Quarter-finals
+3942227,768,England,29399,Conor Gallagher,16,,Quarter-finals
+3942227,768,England,30714,Jude Bellingham,10,Left Attacking Midfield,Quarter-finals
+3942227,768,England,39461,Cole Palmer,24,Right Attacking Midfield,Quarter-finals
+3942227,768,England,77723,Adam Wharton,25,,Quarter-finals
+3942227,768,England,99174,Kobbie Mainoo,26,Right Defensive Midfield,Quarter-finals
+3942227,773,Switzerland,3500,Granit Xhaka,10,Left Defensive Midfield,Quarter-finals
+3942227,773,Switzerland,3533,Xherdan Shaqiri,23,Center Forward,Quarter-finals
+3942227,773,Switzerland,5537,Fabian Lukas Schär,22,Right Center Back,Quarter-finals
+3942227,773,Switzerland,5538,Denis Lemi Zakaria Lako Lado,6,Right Attacking Midfield,Quarter-finals
+3942227,773,Switzerland,5544,Ricardo Iván Rodríguez Araya,13,Left Center Back,Quarter-finals
+3942227,773,Switzerland,5545,Breel-Donald Embolo,7,Center Forward,Quarter-finals
+3942227,773,Switzerland,5548,Steven Zuber,14,Left Wing Back,Quarter-finals
+3942227,773,Switzerland,5549,Manuel Obafemi Akanji,5,Center Back,Quarter-finals
+3942227,773,Switzerland,5550,Yann Sommer,1,Goalkeeper,Quarter-finals
+3942227,773,Switzerland,6983,Remo Freuler,8,Right Defensive Midfield,Quarter-finals
+3942227,773,Switzerland,7796,Silvan Widmer,3,Right Wing Back,Quarter-finals
+3942227,773,Switzerland,8814,Nico Elvedi,4,,Quarter-finals
+3942227,773,Switzerland,11457,Vincent Sierro,16,Right Defensive Midfield,Quarter-finals
+3942227,773,Switzerland,11467,Yvon Landry Mvogo,12,,Quarter-finals
+3942227,773,Switzerland,12326,Renato Steffen,11,,Quarter-finals
+3942227,773,Switzerland,16016,Michel Aebischer,20,Left Wing Back,Quarter-finals
+3942227,773,Switzerland,17974,Gregor Kobel,21,,Quarter-finals
+3942227,773,Switzerland,29006,Noah Okafor,9,,Quarter-finals
+3942227,773,Switzerland,29227,Leonidas Stergiou,2,,Quarter-finals
+3942227,773,Switzerland,29353,Cédric Zesiger,15,,Quarter-finals
+3942227,773,Switzerland,30401,Ruben Vargas,17,Left Attacking Midfield,Quarter-finals
+3942227,773,Switzerland,41655,Ardon Jashari,24,,Quarter-finals
+3942227,773,Switzerland,45190,Dan Ndoye,19,Right Wing Back,Quarter-finals
+3942227,773,Switzerland,48335,Mohamed Zeki Amdouni,25,Left Wing Back,Quarter-finals
+3942227,773,Switzerland,49007,Kwadwo Duah,18,,Quarter-finals
+3942227,773,Switzerland,50436,Fabian Rieder,26,Right Attacking Midfield,Quarter-finals
+3942226,772,Spain,3042,Mikel Merino Zazón,6,Left Defensive Midfield,Quarter-finals
+3942226,772,Spain,3076,Ayoze Pérez Gutiérrez,26,,Quarter-finals
+3942226,772,Spain,3265,José Luis Sanmartín Mato,9,Left Center Midfield,Quarter-finals
+3942226,772,Spain,3477,Álvaro Borja Morata Martín,7,Center Forward,Quarter-finals
+3942226,772,Spain,4127,David Raya Martin,1,,Quarter-finals
+3942226,772,Spain,4353,Aymeric Laporte,14,Left Center Back,Quarter-finals
+3942226,772,Spain,5202,José Ignacio Fernández Iglesias,4,Right Center Back,Quarter-finals
+3942226,772,Spain,5721,Daniel Carvajal Ramos,2,Right Back,Quarter-finals
+3942226,772,Spain,6655,Fabián Ruiz Peña,8,Left Center Midfield,Quarter-finals
+3942226,772,Spain,6685,Mikel Oyarzabal Ugarte,21,Right Center Forward,Quarter-finals
+3942226,772,Spain,6748,Ferrán Torres García,11,Right Midfield,Quarter-finals
+3942226,772,Spain,6765,Rodrigo Hernández Cascante,16,Center Defensive Midfield,Quarter-finals
+3942226,772,Spain,6821,Jesús Navas González,22,,Quarter-finals
+3942226,772,Spain,10336,Alejandro Grimaldo García,12,,Quarter-finals
+3942226,772,Spain,11748,Unai Simón Mendibil,23,Goalkeeper,Quarter-finals
+3942226,772,Spain,16532,Daniel Olmo Carvajal,10,Right Center Midfield,Quarter-finals
+3942226,772,Spain,17620,Marc Cucurella Saseta,24,Left Back,Quarter-finals
+3942226,772,Spain,22128,Robin Aime Robert Le Normand,3,Right Center Back,Quarter-finals
+3942226,772,Spain,24921,Martín Zubimendi Ibáñez,18,,Quarter-finals
+3942226,772,Spain,30486,Pedro González López,20,Right Center Midfield,Quarter-finals
+3942226,772,Spain,32185,Alejandro Remiro Gargallo,13,,Quarter-finals
+3942226,772,Spain,41115,Alejandro Baena Rodríguez,15,,Quarter-finals
+3942226,772,Spain,41542,Daniel Vivian Moreno,5,,Quarter-finals
+3942226,772,Spain,68574,Nicholas Williams Arthuer,17,Left Wing,Quarter-finals
+3942226,772,Spain,143864,Fermin Lopez Marin,25,,Quarter-finals
+3942226,772,Spain,316046,Lamine Yamal Nasraoui Ebana,19,Right Wing,Quarter-finals
+3942226,770,Germany,3053,Leroy Sané,19,Right Wing,Quarter-finals
+3942226,770,Germany,3097,Pascal Groß,5,,Quarter-finals
+3942226,770,Germany,3167,Antonio Rüdiger,2,Right Center Back,Quarter-finals
+3942226,770,Germany,3493,Emre Can,25,Right Defensive Midfield,Quarter-finals
+3942226,770,Germany,5562,Thomas Müller,13,Center Attacking Midfield,Quarter-finals
+3942226,770,Germany,5570,Manuel Neuer,1,Goalkeeper,Quarter-finals
+3942226,770,Germany,5574,Toni Kroos,8,Left Defensive Midfield,Quarter-finals
+3942226,770,Germany,5579,Joshua Kimmich,6,Right Back,Quarter-finals
+3942226,770,Germany,8211,Benjamin Henrichs,20,,Quarter-finals
+3942226,770,Germany,8221,Jonathan Tah,4,Left Center Back,Quarter-finals
+3942226,770,Germany,8393,Oliver Baumann,12,,Quarter-finals
+3942226,770,Germany,8538,Waldemar Anton,16,Left Center Back,Quarter-finals
+3942226,770,Germany,8546,Niclas Füllkrug,9,Center Attacking Midfield,Quarter-finals
+3942226,770,Germany,8966,Kai Havertz,7,Center Forward,Quarter-finals
+3942226,770,Germany,9195,Robert Andrich,23,Right Defensive Midfield,Quarter-finals
+3942226,770,Germany,10287,İlkay Gündoğan,21,Center Attacking Midfield,Quarter-finals
+3942226,770,Germany,12034,David Raum,3,Left Back,Quarter-finals
+3942226,770,Germany,12407,Maximilian Mittelstädt,18,Left Back,Quarter-finals
+3942226,770,Germany,13294,Robin Koch,24,,Quarter-finals
+3942226,770,Germany,20055,Marc-André ter Stegen,22,,Quarter-finals
+3942226,770,Germany,23614,Chris Führich,11,,Quarter-finals
+3942226,770,Germany,24118,Nico Schlotterbeck,15,,Quarter-finals
+3942226,770,Germany,35242,Maximilian Beier,14,,Quarter-finals
+3942226,770,Germany,39565,Jamal Musiala,10,Left Wing,Quarter-finals
+3942226,770,Germany,40724,Florian Wirtz,17,Right Wing,Quarter-finals
+3942226,770,Germany,131243,Deniz Undav,26,,Quarter-finals
+3938645,782,Belgium,2954,Youri Tielemans,8,Left Defensive Midfield,Group Stage
+3938645,782,Belgium,3077,Jan Vertonghen,5,Left Center Back,Group Stage
+3938645,782,Belgium,3089,Kevin De Bruyne,7,Center Attacking Midfield,Group Stage
+3938645,782,Belgium,3289,Romelu Lukaku Menama,10,Center Forward,Group Stage
+3938645,782,Belgium,5633,Yannick Ferreira Carrasco,11,Right Wing,Group Stage
+3938645,782,Belgium,6989,Timothy Castagne,21,Right Back,Group Stage
+3938645,782,Belgium,8240,Koen Casteels,1,Goalkeeper,Group Stage
+3938645,782,Belgium,8854,Wout Faes,4,Right Center Back,Group Stage
+3938645,782,Belgium,8950,Orel Mangala,18,Left Defensive Midfield,Group Stage
+3938645,782,Belgium,10479,Matz Sels,13,,Group Stage
+3938645,782,Belgium,16275,Ikoma Loïs Openda,20,Center Forward,Group Stage
+3938645,782,Belgium,16559,Leandro Trossard,9,Right Wing,Group Stage
+3938645,782,Belgium,23650,Jeremy Doku,22,Left Wing,Group Stage
+3938645,782,Belgium,23741,Thomas Kaminski,12,,Group Stage
+3938645,782,Belgium,29906,Aster Vranckx,16,,Group Stage
+3938645,782,Belgium,32688,Charles De Ketelaere,17,,Group Stage
+3938645,782,Belgium,35610,Maxim De Cuyper,25,,Group Stage
+3938645,782,Belgium,43913,Arthur Theate,3,Left Back,Group Stage
+3938645,782,Belgium,48347,Amadou Onana,24,Right Defensive Midfield,Group Stage
+3938645,782,Belgium,52218,Johan Bakayoko,19,Left Wing,Group Stage
+3938645,782,Belgium,114832,Zeno Debast,2,,Group Stage
+3938645,782,Belgium,253306,Arthur Vermeeren,23,,Group Stage
+3938645,911,Ukraine,3575,Oleksandr Zinchenko,17,Left Wing Back,Group Stage
+3938645,911,Ukraine,8830,Andriy Yarmolenko,7,Center Back,Group Stage
+3938645,911,Ukraine,11000,Taras Stepanenko,6,Center Defensive Midfield,Group Stage
+3938645,911,Ukraine,16514,Serhii Sydorchuk,5,,Group Stage
+3938645,911,Ukraine,16557,Ruslan Malinovskiy,8,Left Center Forward,Group Stage
+3938645,911,Ukraine,18617,Mykola Matvienko,22,Left Center Back,Group Stage
+3938645,911,Ukraine,20827,Vitalii Mykolenko,16,Left Wing Back,Group Stage
+3938645,911,Ukraine,21294,Mykola Shaparenko,19,Right Center Midfield,Group Stage
+3938645,911,Ukraine,21390,Andriy Lunin,23,,Group Stage
+3938645,911,Ukraine,22243,Heorhii Bushchan,1,,Group Stage
+3938645,911,Ukraine,23649,Roman Yaremchuk,9,Left Center Forward,Group Stage
+3938645,911,Ukraine,25079,Artem Dovbyk,11,Right Center Forward,Group Stage
+3938645,911,Ukraine,30059,Oleksandr Svatok,3,Center Back,Group Stage
+3938645,911,Ukraine,31892,Oleksandr Zubkov,20,,Group Stage
+3938645,911,Ukraine,36911,Maksym Talovierov,4,,Group Stage
+3938645,911,Ukraine,37330,Anatolii Trubin,12,Goalkeeper,Group Stage
+3938645,911,Ukraine,38975,Georgiy Sudakov,14,Left Center Midfield,Group Stage
+3938645,911,Ukraine,39136,Illia Zabarnyi,13,Right Center Back,Group Stage
+3938645,911,Ukraine,40141,Vladyslav Vanat,25,Right Center Midfield,Group Stage
+3938645,911,Ukraine,44085,Valerii Bondar,21,,Group Stage
+3938645,911,Ukraine,44557,Bohdan Mykhaylichenko,26,,Group Stage
+3938645,911,Ukraine,45785,Yukhym Konoplya,2,,Group Stage
+3938645,911,Ukraine,45863,Oleksandr Tymchyk,24,Right Wing Back,Group Stage
+3938645,911,Ukraine,144127,Volodymyr Brazhko,18,Center Defensive Midfield,Group Stage
+3930184,909,Turkey,3648,Cenk Tosun,9,Center Forward,Group Stage
+3930184,909,Turkey,7039,Hakan Çalhanoğlu,10,Center Attacking Midfield,Group Stage
+3930184,909,Turkey,9085,Salih Özcan,15,Right Defensive Midfield,Group Stage
+3930184,909,Turkey,10349,Mehmet Zeki Çelik,2,,Group Stage
+3930184,909,Turkey,10826,Mert Müldür,18,Right Back,Group Stage
+3930184,909,Turkey,12293,Kaan Ayhan,22,Right Defensive Midfield,Group Stage
+3930184,909,Turkey,12555,Okay Yokuşlu,5,Left Defensive Midfield,Group Stage
+3930184,909,Turkey,18723,Yunus Akgün,25,,Group Stage
+3930184,909,Turkey,22212,Orkun Kökçü,6,Center Attacking Midfield,Group Stage
+3930184,909,Turkey,23558,Merih Demiral,3,Left Center Back,Group Stage
+3930184,909,Turkey,29989,Yusuf Yazıcı,11,,Group Stage
+3930184,909,Turkey,30310,Fehmi Mert Günok,1,Goalkeeper,Group Stage
+3930184,909,Turkey,30311,İrfan Can Kahveci,17,,Group Stage
+3930184,909,Turkey,30357,Uğurcan Çakır,23,,Group Stage
+3930184,909,Turkey,30438,Ferdi Erenay Kadıoğlu,20,Left Back,Group Stage
+3930184,909,Turkey,30442,Altay Bayındır,12,,Group Stage
+3930184,909,Turkey,47383,Ahmetcan Kaplan,13,,Group Stage
+3930184,909,Turkey,49689,Muhammed Kerem Aktürkoğlu,7,Left Wing,Group Stage
+3930184,909,Turkey,78241,İsmail Yüksek,16,Left Defensive Midfield,Group Stage
+3930184,909,Turkey,116587,Arda Güler,8,Center Forward,Group Stage
+3930184,909,Turkey,133168,Bertuğ Özgür Yıldırım,26,,Group Stage
+3930184,909,Turkey,133305,Samet Akaydin,4,Right Center Back,Group Stage
+3930184,909,Turkey,134209,Barış Alper Yılmaz,21,Right Wing,Group Stage
+3930184,909,Turkey,149576,Semih Kılıçsoy,24,,Group Stage
+3930184,909,Turkey,151813,Kenan Yildiz,19,Left Wing,Group Stage
+3930184,912,Czech Republic,4870,Tomáš Souček,22,Right Defensive Midfield,Group Stage
+3930184,912,Czech Republic,7044,Patrik Schick,10,,Group Stage
+3930184,912,Czech Republic,7801,Antonín Barák,7,Right Attacking Midfield,Group Stage
+3930184,912,Czech Republic,8116,Václav Černý,17,,Group Stage
+3930184,912,Czech Republic,16469,Tomáš Holeš,3,Right Center Back,Group Stage
+3930184,912,Czech Republic,16570,Vladimír Coufal,5,Right Wing Back,Group Stage
+3930184,912,Czech Republic,21226,Tomáš Chorý,19,Right Center Midfield,Group Stage
+3930184,912,Czech Republic,23454,Petr Ševčík,8,,Group Stage
+3930184,912,Czech Republic,27826,Ondřej Lingr,20,Left Center Midfield,Group Stage
+3930184,912,Czech Republic,28034,Lukáš Provod,14,Left Defensive Midfield,Group Stage
+3930184,912,Czech Republic,28040,Jindřich Staněk,1,Goalkeeper,Group Stage
+3930184,912,Czech Republic,28227,Pavel Šulc,25,,Group Stage
+3930184,912,Czech Republic,28239,Adam Hložek,9,Left Attacking Midfield,Group Stage
+3930184,912,Czech Republic,28272,Ladislav Krejčí,18,Left Center Back,Group Stage
+3930184,912,Czech Republic,29484,Jan Kuchta,11,Center Forward,Group Stage
+3930184,912,Czech Republic,32985,Mojmír Chytil,13,Center Forward,Group Stage
+3930184,912,Czech Republic,33200,David Zima,2,,Group Stage
+3930184,912,Czech Republic,35441,David Doudera,12,,Group Stage
+3930184,912,Czech Republic,39143,Matěj Jurásek,26,Left Wing Back,Group Stage
+3930184,912,Czech Republic,39338,Lukáš Červ,21,,Group Stage
+3930184,912,Czech Republic,40207,Vitezslav Jaros,23,,Group Stage
+3930184,912,Czech Republic,46046,Matěj Kovář,16,Goalkeeper,Group Stage
+3930184,912,Czech Republic,50896,Martin Vitík,6,,Group Stage
+3930184,912,Czech Republic,81330,Robin Hranáč,4,Center Back,Group Stage
+3930184,912,Czech Republic,134272,David Jurásek,15,Left Wing Back,Group Stage
+3930184,912,Czech Republic,287492,Tomáš Vlček,24,,Group Stage
+3941022,915,Austria,3325,Marko Arnautović,7,Center Forward,Round of 16
+3941022,915,Austria,4813,Andreas Weimann,24,,Round of 16
+3941022,915,Austria,8068,Maximilian Wöber,2,Left Center Back,Round of 16
+3941022,915,Austria,8309,Michael Gregoritsch,11,Left Center Forward,Round of 16
+3941022,915,Austria,8406,Florian Kainz,17,,Round of 16
+3941022,915,Austria,8506,Konrad Laimer,20,Left Defensive Midfield,Round of 16
+3941022,915,Austria,8518,Marcel Sabitzer,9,Left Wing,Round of 16
+3941022,915,Austria,8784,Romano Schmid,18,Right Wing,Round of 16
+3941022,915,Austria,8931,Philipp Lienhart,15,Left Center Back,Round of 16
+3941022,915,Austria,9731,Patrick Pentz,13,Goalkeeper,Round of 16
+3941022,915,Austria,11396,Florian Grillitsch,10,Left Defensive Midfield,Round of 16
+3941022,915,Austria,11820,Kevin Danso,4,Right Center Back,Round of 16
+3941022,915,Austria,11821,Stefan Posch,5,Right Back,Round of 16
+3941022,915,Austria,13315,Philipp Mwene,16,Left Back,Round of 16
+3941022,915,Austria,24977,Christoph Baumgartner,19,Center Attacking Midfield,Round of 16
+3941022,915,Austria,32417,Heinz Lindner,1,,Round of 16
+3941022,915,Austria,39120,Flavius Daniliuc,21,,Round of 16
+3941022,915,Austria,39460,Nicolas Seiwald,6,Right Defensive Midfield,Round of 16
+3941022,915,Austria,39545,Alexander Prass,8,Left Back,Round of 16
+3941022,915,Austria,41371,Niklas Hedl,12,,Round of 16
+3941022,915,Austria,48169,Marco Grüll,26,,Round of 16
+3941022,915,Austria,152512,Leopold Querfeld,14,,Round of 16
+3941022,915,Austria,403718,Matthias Seidl,22,,Round of 16
+3941022,915,Austria,403823,Maximilian Entrup,25,,Round of 16
+3941022,909,Turkey,3648,Cenk Tosun,9,,Round of 16
+3941022,909,Turkey,9085,Salih Özcan,15,Right Defensive Midfield,Round of 16
+3941022,909,Turkey,10349,Mehmet Zeki Çelik,2,,Round of 16
+3941022,909,Turkey,10826,Mert Müldür,18,Right Wing Back,Round of 16
+3941022,909,Turkey,12293,Kaan Ayhan,22,Right Center Back,Round of 16
+3941022,909,Turkey,12555,Okay Yokuşlu,5,Center Forward,Round of 16
+3941022,909,Turkey,18723,Yunus Akgün,25,,Round of 16
+3941022,909,Turkey,22212,Orkun Kökçü,6,Left Defensive Midfield,Round of 16
+3941022,909,Turkey,23558,Merih Demiral,3,Center Back,Round of 16
+3941022,909,Turkey,29989,Yusuf Yazıcı,11,,Round of 16
+3941022,909,Turkey,30310,Fehmi Mert Günok,1,Goalkeeper,Round of 16
+3941022,909,Turkey,30311,İrfan Can Kahveci,17,Left Center Midfield,Round of 16
+3941022,909,Turkey,30357,Uğurcan Çakır,23,,Round of 16
+3941022,909,Turkey,30438,Ferdi Erenay Kadıoğlu,20,Left Wing Back,Round of 16
+3941022,909,Turkey,30442,Altay Bayındır,12,,Round of 16
+3941022,909,Turkey,47383,Ahmetcan Kaplan,13,,Round of 16
+3941022,909,Turkey,48383,Abdülkerim Bardakcı,14,Left Center Back,Round of 16
+3941022,909,Turkey,49689,Muhammed Kerem Aktürkoğlu,7,Left Wing,Round of 16
+3941022,909,Turkey,78241,İsmail Yüksek,16,Right Defensive Midfield,Round of 16
+3941022,909,Turkey,116587,Arda Güler,8,Center Forward,Round of 16
+3941022,909,Turkey,133168,Bertuğ Özgür Yıldırım,26,,Round of 16
+3941022,909,Turkey,134209,Barış Alper Yılmaz,21,Right Wing,Round of 16
+3941022,909,Turkey,149576,Semih Kılıçsoy,24,,Round of 16
+3941022,909,Turkey,151813,Kenan Yildiz,19,Left Wing,Round of 16
+3941021,941,Netherlands,2988,Memphis Depay,10,Center Forward,Round of 16
+3941021,941,Netherlands,3306,Nathan Aké,5,Left Back,Round of 16
+3941021,941,Netherlands,3311,Daley Blind,17,Left Wing,Round of 16
+3941021,941,Netherlands,3567,Georginio Wijnaldum,8,,Round of 16
+3941021,941,Netherlands,3669,Virgil van Dijk,4,Left Center Back,Round of 16
+3941021,941,Netherlands,7787,Stefan de Vrij,6,Right Center Back,Round of 16
+3941021,941,Netherlands,7829,Wout Weghorst,9,Center Forward,Round of 16
+3941021,941,Netherlands,8069,Matthijs de Ligt,3,,Round of 16
+3941021,941,Netherlands,8125,Denzel Dumfries,22,Right Back,Round of 16
+3941021,941,Netherlands,8259,Steven Bergwijn,25,Right Wing,Round of 16
+3941021,941,Netherlands,15503,Jerdy Schouten,24,Right Defensive Midfield,Round of 16
+3941021,941,Netherlands,15582,Donyell Malen,18,Right Wing,Round of 16
+3941021,941,Netherlands,16185,Justin Bijlow,13,,Round of 16
+3941021,941,Netherlands,20750,Cody Mathès Gakpo,11,Left Wing,Round of 16
+3941021,941,Netherlands,21582,Tijjani Reijnders,14,Left Defensive Midfield,Round of 16
+3941021,941,Netherlands,21633,Joey Veerman,16,Right Defensive Midfield,Round of 16
+3941021,941,Netherlands,21880,Brian Brobbey,19,,Round of 16
+3941021,941,Netherlands,22352,Lutsharel Geertruida,2,,Round of 16
+3941021,941,Netherlands,23230,Ryan Gravenberch,26,,Round of 16
+3941021,941,Netherlands,25000,Mark Flekken,23,,Round of 16
+3941021,941,Netherlands,32547,Micky van de Ven,15,Left Back,Round of 16
+3941021,941,Netherlands,32712,Jeremie Frimpong,12,,Round of 16
+3941021,941,Netherlands,33281,Joshua Zirkzee,21,,Round of 16
+3941021,941,Netherlands,37274,Bart Verbruggen,1,Goalkeeper,Round of 16
+3941021,941,Netherlands,39092,Ian Maatsen,20,,Round of 16
+3941021,941,Netherlands,39167,Xavi Simons,7,Center Attacking Midfield,Round of 16
+3941021,905,Romania,8660,George Alexandru Puşcaş,9,,Round of 16
+3941021,905,Romania,10915,Denis Alibec,7,Left Midfield,Round of 16
+3941021,905,Romania,10916,Nicolae Claudiu Stanciu,21,Left Center Midfield,Round of 16
+3941021,905,Romania,16344,Răzvan Gabriel Marin,18,Right Center Midfield,Round of 16
+3941021,905,Romania,24861,Andrei Florin Ratiu,2,Right Back,Round of 16
+3941021,905,Romania,28242,Florin Constantin Niţă,1,Goalkeeper,Round of 16
+3941021,905,Romania,28565,Ianis Hagi,10,Left Midfield,Round of 16
+3941021,905,Romania,30839,Vasile Mogoș,22,Left Back,Round of 16
+3941021,905,Romania,30913,Marius Mihai Marin,6,Center Defensive Midfield,Round of 16
+3941021,905,Romania,31193,Denis Mihai Drăguş,19,Center Forward,Round of 16
+3941021,905,Romania,31908,Andrei Burcă Andonie,15,Left Center Back,Round of 16
+3941021,905,Romania,34601,Ionuţ Nedelcearu,5,,Round of 16
+3941021,905,Romania,34602,Adrián Rus,4,,Round of 16
+3941021,905,Romania,39615,Radu Drăgușin,3,Right Center Back,Round of 16
+3941021,905,Romania,45023,Bogdan Racovițan,24,Left Back,Round of 16
+3941021,905,Romania,45125,Alexandru Cicâldău,8,Center Defensive Midfield,Round of 16
+3941021,905,Romania,56905,Dennis Man,20,Right Midfield,Round of 16
+3941021,905,Romania,72512,Valentin Mihai Mihăilă,13,Center Forward,Round of 16
+3941021,905,Romania,101821,Darius Dumitru Olaru,14,Right Center Midfield,Round of 16
+3941021,905,Romania,130905,Horaţiu Alexandru Moldovan,12,,Round of 16
+3941021,905,Romania,130984,Deian Cristian Sorescu,23,,Round of 16
+3941021,905,Romania,132260,Ștefan Târnovanu,16,,Round of 16
+3941021,905,Romania,138355,Adrian Gheorghe Șut,26,,Round of 16
+3941021,905,Romania,190893,Daniel George Birligea,25,,Round of 16
+3941020,780,Portugal,3193,Bernardo Mota Veiga de Carvalho e Silva,10,Right Wing,Round of 16
+3941020,780,Portugal,5204,Bruno Miguel Borges Fernandes,8,Center Attacking Midfield,Round of 16
+3941020,780,Portugal,5205,Rui Pedro dos Santos Patrício,1,,Round of 16
+3941020,780,Portugal,5206,Rúben Santos Gato Alves Dias,4,Right Center Back,Round of 16
+3941020,780,Portugal,5207,Cristiano Ronaldo dos Santos Aveiro,7,Center Forward,Round of 16
+3941020,780,Portugal,6374,Nélson Cabral Semedo,2,Right Back,Round of 16
+3941020,780,Portugal,7005,João Pedro Cavaco Cancelo,20,Right Back,Round of 16
+3941020,780,Portugal,9927,Rúben Diogo Da Silva Neves,18,Left Center Back,Round of 16
+3941020,780,Portugal,9929,Diogo José Teixeira da Silva,21,Center Attacking Midfield,Round of 16
+3941020,780,Portugal,12041,João Félix Sequeira,11,,Round of 16
+3941020,780,Portugal,12169,João Maria Lobo Alves Palhinha Gonçalves,6,Left Defensive Midfield,Round of 16
+3941020,780,Portugal,13621,Danilo Luís Hélio Pereira,13,,Round of 16
+3941020,780,Portugal,16028,José Diogo Dalot Teixeira,5,,Round of 16
+3941020,780,Portugal,18360,Rafael Alexandre Conceição Leão,17,Left Wing,Round of 16
+3941020,780,Portugal,18866,José Pedro Malheiro de Sá,12,,Round of 16
+3941020,780,Portugal,20016,Kléper Laveran Lima Ferreira,3,Left Center Back,Round of 16
+3941020,780,Portugal,23256,Pedro Lomba Neto,25,,Round of 16
+3941020,780,Portugal,32975,Diogo Meireles Costa,22,Goalkeeper,Round of 16
+3941020,780,Portugal,34639,Vitor Machado Ferreira,23,Right Defensive Midfield,Round of 16
+3941020,780,Portugal,38803,Gonçalo Matias Ramos,9,,Round of 16
+3941020,780,Portugal,39624,Francisco Fernandes Conceição,26,Right Wing,Round of 16
+3941020,780,Portugal,40874,Matheus Luiz Nunes,16,,Round of 16
+3941020,780,Portugal,41092,Nuno Mendes,19,Left Back,Round of 16
+3941020,780,Portugal,42106,Gonçalo Bernardo Inácio,14,,Round of 16
+3941020,780,Portugal,143854,António João Pereira Albuquerque Tavares Silva,24,,Round of 16
+3941020,780,Portugal,143859,João Neves,15,,Round of 16
+3941020,944,Slovenia,6378,Jan Oblak,1,Goalkeeper,Round of 16
+3941020,944,Slovenia,6941,Jasmin Kurtič,14,,Round of 16
+3941020,944,Slovenia,7139,Josip Iličić,26,Right Midfield,Round of 16
+3941020,944,Slovenia,8662,Vid Belec,12,,Round of 16
+3941020,944,Slovenia,10987,Sandi Lovric,8,,Round of 16
+3941020,944,Slovenia,11416,Jon Gorenc Stankovič,5,Left Midfield,Round of 16
+3941020,944,Slovenia,15896,Timi Elšnik,10,Left Defensive Midfield,Round of 16
+3941020,944,Slovenia,16047,Jaka Bijol,6,Left Center Back,Round of 16
+3941020,944,Slovenia,16510,Benjamin Verbič,7,Right Midfield,Round of 16
+3941020,944,Slovenia,16528,Petar Stojanović,20,Right Midfield,Round of 16
+3941020,944,Slovenia,24109,Žan Celar,19,Right Center Forward,Round of 16
+3941020,944,Slovenia,30940,Jure Balkovec,3,Left Back,Round of 16
+3941020,944,Slovenia,31089,Jan Mlakar,17,Left Midfield,Round of 16
+3941020,944,Slovenia,31866,Andraž Šporar,9,Right Center Forward,Round of 16
+3941020,944,Slovenia,31894,Miha Blažič,4,,Round of 16
+3941020,944,Slovenia,31968,Adam Gnezda Čerin,22,Right Defensive Midfield,Round of 16
+3941020,944,Slovenia,38759,Benjamin Šeško,11,Left Center Forward,Round of 16
+3941020,944,Slovenia,101806,David Brekalo,23,,Round of 16
+3941020,944,Slovenia,101807,Igor Vekič,16,,Round of 16
+3941020,944,Slovenia,101810,Tomi Horvat,15,,Round of 16
+3941020,944,Slovenia,137487,Žan Karničnik,2,Right Back,Round of 16
+3941020,944,Slovenia,205932,Vanja Drkušić,21,Right Center Back,Round of 16
+3941020,944,Slovenia,290289,Žan Vipotnik,18,,Round of 16
+3941020,944,Slovenia,293377,Nino Žugelj,24,,Round of 16
+3941020,944,Slovenia,404312,Adrian Zeljković,25,,Round of 16
+3941019,782,Belgium,2954,Youri Tielemans,8,,Round of 16
+3941019,782,Belgium,3077,Jan Vertonghen,5,Left Center Back,Round of 16
+3941019,782,Belgium,3089,Kevin De Bruyne,7,Left Defensive Midfield,Round of 16
+3941019,782,Belgium,3289,Romelu Lukaku Menama,10,Right Center Forward,Round of 16
+3941019,782,Belgium,5633,Yannick Ferreira Carrasco,11,Right Midfield,Round of 16
+3941019,782,Belgium,5642,Axel Witsel,6,,Round of 16
+3941019,782,Belgium,6989,Timothy Castagne,21,Right Back,Round of 16
+3941019,782,Belgium,8240,Koen Casteels,1,Goalkeeper,Round of 16
+3941019,782,Belgium,8854,Wout Faes,4,Right Center Back,Round of 16
+3941019,782,Belgium,8950,Orel Mangala,18,Left Center Forward,Round of 16
+3941019,782,Belgium,10479,Matz Sels,13,,Round of 16
+3941019,782,Belgium,12306,Dodi Lukebakio,14,Right Midfield,Round of 16
+3941019,782,Belgium,16275,Ikoma Loïs Openda,20,Left Center Forward,Round of 16
+3941019,782,Belgium,16559,Leandro Trossard,9,,Round of 16
+3941019,782,Belgium,23650,Jeremy Doku,22,Left Midfield,Round of 16
+3941019,782,Belgium,23741,Thomas Kaminski,12,,Round of 16
+3941019,782,Belgium,29906,Aster Vranckx,16,,Round of 16
+3941019,782,Belgium,32688,Charles De Ketelaere,17,Right Back,Round of 16
+3941019,782,Belgium,35610,Maxim De Cuyper,25,,Round of 16
+3941019,782,Belgium,43913,Arthur Theate,3,Left Back,Round of 16
+3941019,782,Belgium,48347,Amadou Onana,24,Right Defensive Midfield,Round of 16
+3941019,782,Belgium,52218,Johan Bakayoko,19,,Round of 16
+3941019,782,Belgium,114832,Zeno Debast,2,,Round of 16
+3941019,782,Belgium,253306,Arthur Vermeeren,23,,Round of 16
+3941019,771,France,2972,Marcus Thuram,15,Center Forward,Round of 16
+3941019,771,France,3009,Kylian Mbappé Lottin,10,Left Wing,Round of 16
+3941019,771,France,3026,Adrien Rabiot,14,Left Center Midfield,Round of 16
+3941019,771,France,3379,Alphonse Areola,23,,Round of 16
+3941019,771,France,3604,Olivier Giroud,9,,Round of 16
+3941019,771,France,3761,Mike Maignan,16,Goalkeeper,Round of 16
+3941019,771,France,3804,Ferland Mendy,3,,Round of 16
+3941019,771,France,3961,N'Golo Kanté,13,Right Center Midfield,Round of 16
+3941019,771,France,4445,Jules Koundé,5,Right Back,Round of 16
+3941019,771,France,4893,Brice Samba,1,,Round of 16
+3941019,771,France,5476,Benjamin Pavard,2,,Round of 16
+3941019,771,France,5477,Ousmane Dembélé,11,,Round of 16
+3941019,771,France,5487,Antoine Griezmann,7,Right Wing,Round of 16
+3941019,771,France,6704,Theo Bernard François Hernández,22,Left Back,Round of 16
+3941019,771,France,7252,Jonathan Clauss,21,,Round of 16
+3941019,771,France,8217,Kingsley Coman,20,,Round of 16
+3941019,771,France,8519,Dayotchanculle Upamecano,4,Right Center Back,Round of 16
+3941019,771,France,10481,Aurélien Djani Tchouaméni,8,Center Defensive Midfield,Round of 16
+3941019,771,France,11135,Ibrahima Konaté,24,,Round of 16
+3941019,771,France,11990,Youssouf Fofana,19,,Round of 16
+3941019,771,France,17592,William Saliba,17,Left Center Back,Round of 16
+3941019,771,France,22097,Randal Kolo Muani,12,Center Forward,Round of 16
+3941019,771,France,24778,Eduardo Camavinga,6,,Round of 16
+3941019,771,France,39420,Bradley Barcola,25,,Round of 16
+3941019,771,France,144059,Warren Zaire Emery,18,,Round of 16
+3941018,772,Spain,3042,Mikel Merino Zazón,6,Left Defensive Midfield,Round of 16
+3941018,772,Spain,3076,Ayoze Pérez Gutiérrez,26,,Round of 16
+3941018,772,Spain,3265,José Luis Sanmartín Mato,9,,Round of 16
+3941018,772,Spain,3477,Álvaro Borja Morata Martín,7,Center Forward,Round of 16
+3941018,772,Spain,4127,David Raya Martin,1,,Round of 16
+3941018,772,Spain,4353,Aymeric Laporte,14,Left Center Back,Round of 16
+3941018,772,Spain,5202,José Ignacio Fernández Iglesias,4,,Round of 16
+3941018,772,Spain,5721,Daniel Carvajal Ramos,2,Right Back,Round of 16
+3941018,772,Spain,6655,Fabián Ruiz Peña,8,Left Center Midfield,Round of 16
+3941018,772,Spain,6685,Mikel Oyarzabal Ugarte,21,Center Forward,Round of 16
+3941018,772,Spain,6748,Ferrán Torres García,11,,Round of 16
+3941018,772,Spain,6765,Rodrigo Hernández Cascante,16,Center Defensive Midfield,Round of 16
+3941018,772,Spain,6821,Jesús Navas González,22,Right Back,Round of 16
+3941018,772,Spain,10336,Alejandro Grimaldo García,12,Left Back,Round of 16
+3941018,772,Spain,11748,Unai Simón Mendibil,23,Goalkeeper,Round of 16
+3941018,772,Spain,16532,Daniel Olmo Carvajal,10,Right Center Midfield,Round of 16
+3941018,772,Spain,17620,Marc Cucurella Saseta,24,Left Back,Round of 16
+3941018,772,Spain,22128,Robin Aime Robert Le Normand,3,Right Center Back,Round of 16
+3941018,772,Spain,24921,Martín Zubimendi Ibáñez,18,,Round of 16
+3941018,772,Spain,30486,Pedro González López,20,Right Center Midfield,Round of 16
+3941018,772,Spain,32185,Alejandro Remiro Gargallo,13,,Round of 16
+3941018,772,Spain,41115,Alejandro Baena Rodríguez,15,,Round of 16
+3941018,772,Spain,41542,Daniel Vivian Moreno,5,,Round of 16
+3941018,772,Spain,68574,Nicholas Williams Arthuer,17,Left Wing,Round of 16
+3941018,772,Spain,143864,Fermin Lopez Marin,25,,Round of 16
+3941018,772,Spain,316046,Lamine Yamal Nasraoui Ebana,19,Right Wing,Round of 16
+3941018,2138,Georgia,7087,Saba Lobzhanidze,23,,Round of 16
+3941018,2138,Georgia,7655,Lasha Dvali,3,Left Center Back,Round of 16
+3941018,2138,Georgia,7839,Guram Kashia,4,Center Back,Round of 16
+3941018,2138,Georgia,11335,Otar Kiteishvili,17,Center Defensive Midfield,Round of 16
+3941018,2138,Georgia,16005,Solomon Kverkvelia,5,,Round of 16
+3941018,2138,Georgia,22242,Heorhii Tsitaishvili,21,Left Wing Back,Round of 16
+3941018,2138,Georgia,23272,Giorgi Loria,1,,Round of 16
+3941018,2138,Georgia,23646,Giorgi Chakvetadze,10,Right Center Midfield,Round of 16
+3941018,2138,Georgia,24284,Giorgi Kvilitaia,11,,Round of 16
+3941018,2138,Georgia,25036,Otar Kakabadze,2,Right Wing Back,Round of 16
+3941018,2138,Georgia,31707,Levan Shengelia,19,,Round of 16
+3941018,2138,Georgia,33234,Georges Mikautadze,22,Right Center Forward,Round of 16
+3941018,2138,Georgia,38225,Jemal Tabidze,24,,Round of 16
+3941018,2138,Georgia,38229,Khvicha Kvaratskhelia,7,Left Center Forward,Round of 16
+3941018,2138,Georgia,41202,Giorgi Kochorashvili,6,Left Center Midfield,Round of 16
+3941018,2138,Georgia,44183,Zuriko Davitashvili,9,Left Center Midfield,Round of 16
+3941018,2138,Georgia,46802,Nika Kvekveskiri,16,Right Center Back,Round of 16
+3941018,2138,Georgia,48178,Luka Lochoshvili,14,Left Wing Back,Round of 16
+3941018,2138,Georgia,102371,Giorgi Mamardashvili,25,Goalkeeper,Round of 16
+3941018,2138,Georgia,102372,Budu Zivzivadze,8,Right Center Forward,Round of 16
+3941018,2138,Georgia,135844,Sandro Altunashvili,18,Center Defensive Midfield,Round of 16
+3941018,2138,Georgia,158014,Luka Gugeshashvili,12,,Round of 16
+3941018,2138,Georgia,348086,Giorgi Gocholeishvili,13,,Round of 16
+3941018,2138,Georgia,390000,Gabriel Sigua,26,,Round of 16
+3941018,2138,Georgia,398886,Giorgi Gvelesiani,15,Right Center Back,Round of 16
+3941017,768,England,3088,Lewis Dunk,15,,Round of 16
+3941017,768,England,3205,Kyle Walker,2,Right Back,Round of 16
+3941017,768,England,3244,John Stones,5,Right Center Back,Round of 16
+3941017,768,England,3308,Kieran Trippier,12,Left Back,Round of 16
+3941017,768,England,3382,Luke Shaw,3,,Round of 16
+3941017,768,England,3468,Jordan Pickford,1,Goalkeeper,Round of 16
+3941017,768,England,3495,Joe Gomez,22,,Round of 16
+3941017,768,England,3664,Trent Alexander-Arnold,8,,Round of 16
+3941017,768,England,3822,Ezri Konsa Ngoyo,14,Left Wing Back,Round of 16
+3941017,768,England,3834,Ivan Toney,17,Center Forward,Round of 16
+3941017,768,England,3943,Declan Rice,4,Left Defensive Midfield,Round of 16
+3941017,768,England,4073,Dean Henderson,23,,Round of 16
+3941017,768,England,4354,Phil Foden,11,Left Wing,Round of 16
+3941017,768,England,4760,Ollie Watkins,19,,Round of 16
+3941017,768,England,9000,Eberechi Eze,21,Left Wing,Round of 16
+3941017,768,England,9640,Jarrod Bowen,20,,Round of 16
+3941017,768,England,10955,Harry Kane,9,Center Forward,Round of 16
+3941017,768,England,22084,Bukayo Saka,7,Right Wing,Round of 16
+3941017,768,England,22783,Aaron Ramsdale,13,,Round of 16
+3941017,768,England,28104,Anthony Gordon,18,,Round of 16
+3941017,768,England,29399,Conor Gallagher,16,Right Defensive Midfield,Round of 16
+3941017,768,England,30714,Jude Bellingham,10,Center Attacking Midfield,Round of 16
+3941017,768,England,34526,Marc Guehi,6,Left Center Back,Round of 16
+3941017,768,England,39461,Cole Palmer,24,Right Wing,Round of 16
+3941017,768,England,77723,Adam Wharton,25,,Round of 16
+3941017,768,England,99174,Kobbie Mainoo,26,Right Defensive Midfield,Round of 16
+3941017,908,Slovakia,3711,Martin Dúbravka,1,Goalkeeper,Round of 16
+3941017,908,Slovakia,4152,Marek Rodák,12,,Round of 16
+3941017,908,Slovakia,6798,Stanislav Lobotka,22,Center Defensive Midfield,Round of 16
+3941017,908,Slovakia,6990,Milan Škriniar,14,Left Center Back,Round of 16
+3941017,908,Slovakia,7975,Lukáš Haraslín,17,Left Wing,Round of 16
+3941017,908,Slovakia,8422,Ľubomír Tupta,10,Right Wing Back,Round of 16
+3941017,908,Slovakia,8967,Ondrej Duda,8,Left Center Midfield,Round of 16
+3941017,908,Slovakia,8976,Vernon De Marco Morlacchi,15,,Round of 16
+3941017,908,Slovakia,9722,Peter Pekarík,2,Right Back,Round of 16
+3941017,908,Slovakia,10919,Juraj Kucka,19,Right Center Midfield,Round of 16
+3941017,908,Slovakia,11383,László Bénes,11,Left Defensive Midfield,Round of 16
+3941017,908,Slovakia,15546,Matúš Bero,21,Right Wing Back,Round of 16
+3941017,908,Slovakia,16041,Patrik Hrošovský,13,,Round of 16
+3941017,908,Slovakia,16298,Denis Vavro,3,Right Center Back,Round of 16
+3941017,908,Slovakia,16879,Dávid Hancko,16,Left Back,Round of 16
+3941017,908,Slovakia,20043,Norbert Gyömbér,6,Center Back,Round of 16
+3941017,908,Slovakia,28032,Ivan Schranz,26,Right Wing,Round of 16
+3941017,908,Slovakia,34904,Róbert Boženík,9,Center Forward,Round of 16
+3941017,908,Slovakia,35653,Tomáš Suslov,7,Right Wing,Round of 16
+3941017,908,Slovakia,41601,Henrich Ravas,23,,Round of 16
+3941017,908,Slovakia,43976,David Strelec,18,Center Forward,Round of 16
+3941017,908,Slovakia,44167,Dávid Ďuriš,20,,Round of 16
+3941017,908,Slovakia,44336,Sebastián Kóša,25,,Round of 16
+3941017,908,Slovakia,52026,Tomáš Rigo,5,,Round of 16
+3941017,908,Slovakia,85063,Adam Obert,4,,Round of 16
+3941017,908,Slovakia,163610,Leo Sauer,24,,Round of 16
+3930182,776,Denmark,3027,Mathias Jattah-Njie Jørgensen,13,,Group Stage
+3930182,776,Denmark,3043,Christian Dannemann Eriksen,10,Left Attacking Midfield,Group Stage
+3930182,776,Denmark,3570,Pierre-Emile Højbjerg,23,Left Defensive Midfield,Group Stage
+3930182,776,Denmark,3815,Kasper Schmeichel,1,Goalkeeper,Group Stage
+3930182,776,Denmark,3959,Andreas Christensen,6,Left Center Back,Group Stage
+3930182,776,Denmark,5527,Thomas Delaney,8,Left Defensive Midfield,Group Stage
+3930182,776,Denmark,5534,Simon Thorup Kjær,4,,Group Stage
+3930182,776,Denmark,5536,Yussuf Yurary Poulsen,20,Left Attacking Midfield,Group Stage
+3930182,776,Denmark,6302,Kasper Dolberg,12,Center Forward,Group Stage
+3930182,776,Denmark,7097,Christian Nørgaard,15,,Group Stage
+3930182,776,Denmark,8247,Joachim Andersen,2,Right Center Back,Group Stage
+3930182,776,Denmark,8621,Morten Hjulmand,21,Right Defensive Midfield,Group Stage
+3930182,776,Denmark,8815,Jannik Vestergaard,3,Center Back,Group Stage
+3930182,776,Denmark,8961,Jacob Bruun Larsen,26,,Group Stage
+3930182,776,Denmark,12420,Frederik Rønnow,22,,Group Stage
+3930182,776,Denmark,16190,Rasmus Nissen Kristensen,25,,Group Stage
+3930182,776,Denmark,16554,Joakim Mæhle,5,Left Wing Back,Group Stage
+3930182,776,Denmark,17042,Andreas Skov Olsen,11,Right Attacking Midfield,Group Stage
+3930182,776,Denmark,18722,Mathias Jensen,7,,Group Stage
+3930182,776,Denmark,21261,Jonas Older Wind,19,Right Attacking Midfield,Group Stage
+3930182,776,Denmark,23287,Anders Dreyer,24,,Group Stage
+3930182,776,Denmark,24443,Mikkel Damsgaard,14,,Group Stage
+3930182,776,Denmark,24547,Alexander Hartmann Bah,18,Right Wing Back,Group Stage
+3930182,776,Denmark,40813,Mads Hermansen,16,,Group Stage
+3930182,776,Denmark,51672,Rasmus Winther Højlund,9,Center Forward,Group Stage
+3930182,776,Denmark,60343,Victor Bernth Kristansen,17,Right Wing Back,Group Stage
+3930182,786,Serbia,3831,Dušan Tadić,10,Right Wing,Group Stage
+3930182,786,Serbia,4269,Aleksandar Mitrović,9,Center Forward,Group Stage
+3930182,786,Serbia,5589,Sergej Milinković-Savić,20,Center Defensive Midfield,Group Stage
+3930182,786,Serbia,5603,Nikola Milenković,4,Center Back,Group Stage
+3930182,786,Serbia,6318,Andrija Živković,14,Left Wing Back,Group Stage
+3930182,786,Serbia,6319,Luka Jović,8,Left Wing,Group Stage
+3930182,786,Serbia,6321,Milos Veljkovic,13,Right Center Back,Group Stage
+3930182,786,Serbia,6687,Saša Lukić,22,Left Wing,Group Stage
+3930182,786,Serbia,6901,Nemanja Maksimović,5,,Group Stage
+3930182,786,Serbia,7993,Filip Mladenović,25,Left Wing Back,Group Stage
+3930182,786,Serbia,8669,Mijat Gaćinović,21,,Group Stage
+3930182,786,Serbia,15731,Predrag Rajković,1,Goalkeeper,Group Stage
+3930182,786,Serbia,16430,Uroš Spajić,24,,Group Stage
+3930182,786,Serbia,16489,Nemanja Gudelj,6,Left Defensive Midfield,Group Stage
+3930182,786,Serbia,18015,Dušan Vlahović,7,Left Center Forward,Group Stage
+3930182,786,Serbia,18737,Srđan Babić,15,,Group Stage
+3930182,786,Serbia,20600,Vanja Milinković Savić,23,,Group Stage
+3930182,786,Serbia,27719,Strahinja Pavlović,2,Left Center Back,Group Stage
+3930182,786,Serbia,28075,Veljko Birmančević,26,,Group Stage
+3930182,786,Serbia,30179,Ivan Ilić,17,Right Defensive Midfield,Group Stage
+3930182,786,Serbia,32565,Đorđe Petrović,12,,Group Stage
+3930182,786,Serbia,40735,Lazar Samardžić,19,Right Wing,Group Stage
+3930182,786,Serbia,44280,Nemanja Stojić,3,,Group Stage
+3930182,786,Serbia,52089,Srđan Mijailović,16,Right Wing Back,Group Stage
+3930182,786,Serbia,87237,Petar Ratkov,18,,Group Stage
+3930179,772,Spain,3042,Mikel Merino Zazón,6,Left Defensive Midfield,Group Stage
+3930179,772,Spain,3265,José Luis Sanmartín Mato,9,Center Forward,Group Stage
+3930179,772,Spain,3477,Álvaro Borja Morata Martín,7,Center Forward,Group Stage
+3930179,772,Spain,4127,David Raya Martin,1,Goalkeeper,Group Stage
+3930179,772,Spain,4353,Aymeric Laporte,14,Left Center Back,Group Stage
+3930179,772,Spain,5721,Daniel Carvajal Ramos,2,,Group Stage
+3930179,772,Spain,6655,Fabián Ruiz Peña,8,,Group Stage
+3930179,772,Spain,6685,Mikel Oyarzabal Ugarte,21,Left Wing,Group Stage
+3930179,772,Spain,6748,Ferrán Torres García,11,Right Wing,Group Stage
+3930179,772,Spain,6821,Jesús Navas González,22,Right Back,Group Stage
+3930179,772,Spain,10336,Alejandro Grimaldo García,12,Left Back,Group Stage
+3930179,772,Spain,11748,Unai Simón Mendibil,23,,Group Stage
+3930179,772,Spain,16532,Daniel Olmo Carvajal,10,Center Attacking Midfield,Group Stage
+3930179,772,Spain,17620,Marc Cucurella Saseta,24,,Group Stage
+3930179,772,Spain,22128,Robin Aime Robert Le Normand,3,Left Center Back,Group Stage
+3930179,772,Spain,24921,Martín Zubimendi Ibáñez,18,Right Defensive Midfield,Group Stage
+3930179,772,Spain,30486,Pedro González López,20,,Group Stage
+3930179,772,Spain,32185,Alejandro Remiro Gargallo,13,,Group Stage
+3930179,772,Spain,41115,Alejandro Baena Rodríguez,15,Left Wing,Group Stage
+3930179,772,Spain,41542,Daniel Vivian Moreno,5,Right Center Back,Group Stage
+3930179,772,Spain,68574,Nicholas Williams Arthuer,17,,Group Stage
+3930179,772,Spain,143864,Fermin Lopez Marin,25,Left Wing,Group Stage
+3930179,772,Spain,316046,Lamine Yamal Nasraoui Ebana,19,Right Wing,Group Stage
+3930179,906,Albania,3378,Iván Balliu Campeny,2,Right Back,Group Stage
+3930179,906,Albania,6991,Etrit Berisha,1,,Group Stage
+3930179,906,Albania,7031,Elseid Hysaj,4,,Group Stage
+3930179,906,Albania,7108,Berat Djimsiti,6,Left Center Back,Group Stage
+3930179,906,Albania,7531,Qazim Laçi,14,Center Attacking Midfield,Group Stage
+3930179,906,Albania,7789,Thomas Strakosha,23,Goalkeeper,Group Stage
+3930179,906,Albania,8291,Arlind Afrim Ajeti,5,Right Center Back,Group Stage
+3930179,906,Albania,9893,Klaus Gjasula,8,,Group Stage
+3930179,906,Albania,10745,Amir Abrashi,22,,Group Stage
+3930179,906,Albania,23987,Rey Manaj,7,Center Forward,Group Stage
+3930179,906,Albania,24438,Ylber Ramadani,20,Right Defensive Midfield,Group Stage
+3930179,906,Albania,29168,Ardian Ismajli,18,,Group Stage
+3930179,906,Albania,29531,Taulant Sulejmanov,15,,Group Stage
+3930179,906,Albania,30740,Marash Kumbulla,24,,Group Stage
+3930179,906,Albania,32030,Nedim Bajrami,10,Left Wing,Group Stage
+3930179,906,Albania,32691,Elhan Kastrati,12,,Group Stage
+3930179,906,Albania,36885,Armando Broja,11,Center Forward,Group Stage
+3930179,906,Albania,37066,Enea Mihaj,13,,Group Stage
+3930179,906,Albania,41186,Jasir Asani,9,Right Wing,Group Stage
+3930179,906,Albania,43105,Naser Aliji,25,,Group Stage
+3930179,906,Albania,49097,Mario Mitaj,3,Left Back,Group Stage
+3930179,906,Albania,57303,Kristjan Asllani,21,Left Defensive Midfield,Group Stage
+3930179,906,Albania,92611,Ernest Muçi,17,Right Wing,Group Stage
+3930179,906,Albania,133698,Arbër Hoxha,26,Left Wing,Group Stage
+3930179,906,Albania,142800,Medon Berisha,16,Center Attacking Midfield,Group Stage
+3940983,776,Denmark,3027,Mathias Jattah-Njie Jørgensen,13,,Round of 16
+3940983,776,Denmark,3043,Christian Dannemann Eriksen,10,Left Attacking Midfield,Round of 16
+3940983,776,Denmark,3570,Pierre-Emile Højbjerg,23,Right Defensive Midfield,Round of 16
+3940983,776,Denmark,3815,Kasper Schmeichel,1,Goalkeeper,Round of 16
+3940983,776,Denmark,3959,Andreas Christensen,6,Left Center Back,Round of 16
+3940983,776,Denmark,5527,Thomas Delaney,8,Left Defensive Midfield,Round of 16
+3940983,776,Denmark,5534,Simon Thorup Kjær,4,,Round of 16
+3940983,776,Denmark,5536,Yussuf Yurary Poulsen,20,Right Attacking Midfield,Round of 16
+3940983,776,Denmark,6302,Kasper Dolberg,12,,Round of 16
+3940983,776,Denmark,7097,Christian Nørgaard,15,Left Defensive Midfield,Round of 16
+3940983,776,Denmark,8247,Joachim Andersen,2,Right Center Back,Round of 16
+3940983,776,Denmark,8815,Jannik Vestergaard,3,Center Back,Round of 16
+3940983,776,Denmark,8961,Jacob Bruun Larsen,26,Left Center Back,Round of 16
+3940983,776,Denmark,12420,Frederik Rønnow,22,,Round of 16
+3940983,776,Denmark,16190,Rasmus Nissen Kristensen,25,,Round of 16
+3940983,776,Denmark,16554,Joakim Mæhle,5,Left Wing Back,Round of 16
+3940983,776,Denmark,17042,Andreas Skov Olsen,11,Right Attacking Midfield,Round of 16
+3940983,776,Denmark,18722,Mathias Jensen,7,,Round of 16
+3940983,776,Denmark,21261,Jonas Older Wind,19,Center Forward,Round of 16
+3940983,776,Denmark,23287,Anders Dreyer,24,,Round of 16
+3940983,776,Denmark,24443,Mikkel Damsgaard,14,,Round of 16
+3940983,776,Denmark,24547,Alexander Hartmann Bah,18,Right Wing Back,Round of 16
+3940983,776,Denmark,40813,Mads Hermansen,16,,Round of 16
+3940983,776,Denmark,51672,Rasmus Winther Højlund,9,Center Forward,Round of 16
+3940983,776,Denmark,60343,Victor Bernth Kristansen,17,Left Back,Round of 16
+3940983,770,Germany,3053,Leroy Sané,19,Right Wing,Round of 16
+3940983,770,Germany,3097,Pascal Groß,5,,Round of 16
+3940983,770,Germany,3167,Antonio Rüdiger,2,Right Center Back,Round of 16
+3940983,770,Germany,3493,Emre Can,25,Right Defensive Midfield,Round of 16
+3940983,770,Germany,5562,Thomas Müller,13,,Round of 16
+3940983,770,Germany,5570,Manuel Neuer,1,Goalkeeper,Round of 16
+3940983,770,Germany,5574,Toni Kroos,8,Left Defensive Midfield,Round of 16
+3940983,770,Germany,5579,Joshua Kimmich,6,Right Back,Round of 16
+3940983,770,Germany,8211,Benjamin Henrichs,20,Left Back,Round of 16
+3940983,770,Germany,8393,Oliver Baumann,12,,Round of 16
+3940983,770,Germany,8538,Waldemar Anton,16,Right Wing,Round of 16
+3940983,770,Germany,8546,Niclas Füllkrug,9,Center Attacking Midfield,Round of 16
+3940983,770,Germany,8966,Kai Havertz,7,Center Forward,Round of 16
+3940983,770,Germany,9195,Robert Andrich,23,Right Defensive Midfield,Round of 16
+3940983,770,Germany,10287,İlkay Gündoğan,21,Center Attacking Midfield,Round of 16
+3940983,770,Germany,12034,David Raum,3,Left Back,Round of 16
+3940983,770,Germany,12407,Maximilian Mittelstädt,18,,Round of 16
+3940983,770,Germany,13294,Robin Koch,24,,Round of 16
+3940983,770,Germany,20055,Marc-André ter Stegen,22,,Round of 16
+3940983,770,Germany,23614,Chris Führich,11,,Round of 16
+3940983,770,Germany,24118,Nico Schlotterbeck,15,Left Center Back,Round of 16
+3940983,770,Germany,35242,Maximilian Beier,14,,Round of 16
+3940983,770,Germany,39565,Jamal Musiala,10,Left Wing,Round of 16
+3940983,770,Germany,40724,Florian Wirtz,17,Left Wing,Round of 16
+3940983,770,Germany,131243,Deniz Undav,26,,Round of 16
+3940878,773,Switzerland,3500,Granit Xhaka,10,Left Defensive Midfield,Round of 16
+3940878,773,Switzerland,3533,Xherdan Shaqiri,23,,Round of 16
+3940878,773,Switzerland,5537,Fabian Lukas Schär,22,Right Center Back,Round of 16
+3940878,773,Switzerland,5538,Denis Lemi Zakaria Lako Lado,6,,Round of 16
+3940878,773,Switzerland,5544,Ricardo Iván Rodríguez Araya,13,Left Center Back,Round of 16
+3940878,773,Switzerland,5545,Breel-Donald Embolo,7,Center Forward,Round of 16
+3940878,773,Switzerland,5548,Steven Zuber,14,Left Attacking Midfield,Round of 16
+3940878,773,Switzerland,5549,Manuel Obafemi Akanji,5,Center Back,Round of 16
+3940878,773,Switzerland,5550,Yann Sommer,1,Goalkeeper,Round of 16
+3940878,773,Switzerland,6983,Remo Freuler,8,Right Defensive Midfield,Round of 16
+3940878,773,Switzerland,8814,Nico Elvedi,4,,Round of 16
+3940878,773,Switzerland,11457,Vincent Sierro,16,Right Attacking Midfield,Round of 16
+3940878,773,Switzerland,11467,Yvon Landry Mvogo,12,,Round of 16
+3940878,773,Switzerland,12326,Renato Steffen,11,Left Wing Back,Round of 16
+3940878,773,Switzerland,16016,Michel Aebischer,20,Left Wing Back,Round of 16
+3940878,773,Switzerland,17974,Gregor Kobel,21,,Round of 16
+3940878,773,Switzerland,29006,Noah Okafor,9,,Round of 16
+3940878,773,Switzerland,29227,Leonidas Stergiou,2,Right Attacking Midfield,Round of 16
+3940878,773,Switzerland,29353,Cédric Zesiger,15,,Round of 16
+3940878,773,Switzerland,30401,Ruben Vargas,17,Left Attacking Midfield,Round of 16
+3940878,773,Switzerland,41655,Ardon Jashari,24,,Round of 16
+3940878,773,Switzerland,45190,Dan Ndoye,19,Right Wing Back,Round of 16
+3940878,773,Switzerland,48335,Mohamed Zeki Amdouni,25,,Round of 16
+3940878,773,Switzerland,49007,Kwadwo Duah,18,Center Forward,Round of 16
+3940878,773,Switzerland,50436,Fabian Rieder,26,Right Attacking Midfield,Round of 16
+3940878,914,Italy,4587,Matteo Darmian,13,Left Back,Round of 16
+3940878,914,Italy,6957,Alex Meret,26,,Round of 16
+3940878,914,Italy,6963,Lorenzo Pellegrini,10,Right Defensive Midfield,Round of 16
+3940878,914,Italy,6979,Stephan El Shaarawy,22,Left Wing,Round of 16
+3940878,914,Italy,6993,Bryan Cristante,16,Right Center Midfield,Round of 16
+3940878,914,Italy,7004,Gianluca Mancini,17,Right Center Back,Round of 16
+3940878,914,Italy,7024,Jorge Luiz Frello Filho,8,,Round of 16
+3940878,914,Italy,7036,Gianluigi Donnarumma,1,Goalkeeper,Round of 16
+3940878,914,Italy,7156,Federico Chiesa,14,Right Wing,Round of 16
+3940878,914,Italy,7480,Alessandro Bastoni,23,Left Center Back,Round of 16
+3940878,914,Italy,8181,Nicolò Barella,18,Left Center Midfield,Round of 16
+3940878,914,Italy,8792,Mattia Zaccagni,20,Left Wing,Round of 16
+3940878,914,Italy,10992,Gianluca Scamacca,9,Center Forward,Round of 16
+3940878,914,Italy,11514,Giovanni Di Lorenzo,2,Right Back,Round of 16
+3940878,914,Italy,12255,Federico Dimarco,3,,Round of 16
+3940878,914,Italy,23221,Alessandro Buongiorno,4,,Round of 16
+3940878,914,Italy,25048,Giacomo Raspadori,11,,Round of 16
+3940878,914,Italy,29965,Raoul Bellanova,15,,Round of 16
+3940878,914,Italy,30926,Davide Frattesi,7,Left Defensive Midfield,Round of 16
+3940878,914,Italy,31093,Mateo Retegui,19,Center Attacking Midfield,Round of 16
+3940878,914,Italy,31225,Guglielmo Vicario,12,,Round of 16
+3940878,914,Italy,38909,Nicolò Fagioli,21,Center Defensive Midfield,Round of 16
+3940878,914,Italy,49445,Michael Ijemuan Folorunsho,25,,Round of 16
+3940878,914,Italy,50729,Andrea Cambiaso,24,Left Back,Round of 16
+3940878,914,Italy,133968,Federico Gatti,6,,Round of 16
+3930177,916,Hungary,3153,Ádám Lang,2,,Group Stage
+3930177,916,Hungary,4286,Callum Styles,17,Left Defensive Midfield,Group Stage
+3930177,916,Hungary,7162,Ádám Nagy,8,Left Defensive Midfield,Group Stage
+3930177,916,Hungary,8509,Willi Orban,6,Center Back,Group Stage
+3930177,916,Hungary,8524,Péter Gulácsi,1,Goalkeeper,Group Stage
+3930177,916,Hungary,11268,Attila Fiola,5,,Group Stage
+3930177,916,Hungary,12921,Barnabás Varga,19,Center Forward,Group Stage
+3930177,916,Hungary,16502,László Kleinheisler,15,,Group Stage
+3930177,916,Hungary,16741,Loïc Négo,7,,Group Stage
+3930177,916,Hungary,19316,Roland Sallai,20,Left Attacking Midfield,Group Stage
+3930177,916,Hungary,21209,Dominik Szoboszlai,10,Right Attacking Midfield,Group Stage
+3930177,916,Hungary,31887,Endre Botka,21,Right Center Back,Group Stage
+3930177,916,Hungary,31889,Dénes Dibusz,12,,Group Stage
+3930177,916,Hungary,39683,Botond Balogh,3,,Group Stage
+3930177,916,Hungary,40039,Krisztofer Horváth,25,,Group Stage
+3930177,916,Hungary,40500,Mihály Kata,26,,Group Stage
+3930177,916,Hungary,40920,Márton Dárdai,24,Left Center Back,Group Stage
+3930177,916,Hungary,42822,András Schäfer,13,Right Defensive Midfield,Group Stage
+3930177,916,Hungary,46376,Attila Szalai,4,Left Center Back,Group Stage
+3930177,916,Hungary,46789,Bendegúz Bolla,14,Right Wing Back,Group Stage
+3930177,916,Hungary,50329,Dániel Gazdag,16,,Group Stage
+3930177,916,Hungary,73886,Zsolt Nagy,18,Left Wing Back,Group Stage
+3930177,916,Hungary,89635,Milos Kerkez,11,Left Wing Back,Group Stage
+3930177,916,Hungary,158733,Péter Szappanos,22,,Group Stage
+3930177,916,Hungary,264277,Martin Ádám,9,Center Forward,Group Stage
+3930177,916,Hungary,389882,Kevin Csoboth,23,Right Wing Back,Group Stage
+3930177,942,Scotland,3620,Scott McTominay,4,Left Attacking Midfield,Group Stage
+3930177,942,Scotland,3655,Andrew Robertson,3,Left Wing Back,Group Stage
+3930177,942,Scotland,9042,Greg Taylor,24,,Group Stage
+3930177,942,Scotland,9045,Zander Clark,21,,Group Stage
+3930177,942,Scotland,9466,Che Adams,10,Center Forward,Group Stage
+3930177,942,Scotland,9478,Kenneth McLean,23,Right Wing Back,Group Stage
+3930177,942,Scotland,9481,Grant Campbell Hanley,5,Center Back,Group Stage
+3930177,942,Scotland,9621,Liam Cooper,16,,Group Stage
+3930177,942,Scotland,9974,John McGinn,7,Right Attacking Midfield,Group Stage
+3930177,942,Scotland,10002,Scott McKenna,26,Left Center Back,Group Stage
+3930177,942,Scotland,10008,Ryan Jack,20,,Group Stage
+3930177,942,Scotland,10285,Stuart Armstrong,17,Right Attacking Midfield,Group Stage
+3930177,942,Scotland,10534,Callum McGregor,8,Left Defensive Midfield,Group Stage
+3930177,942,Scotland,10536,James Forrest,25,,Group Stage
+3930177,942,Scotland,11116,Jack Hendry,13,Right Center Back,Group Stage
+3930177,942,Scotland,11129,Ross McCrorie,22,,Group Stage
+3930177,942,Scotland,12510,Ryan Christie,11,Right Defensive Midfield,Group Stage
+3930177,942,Scotland,13784,Liam Kelly,12,,Group Stage
+3930177,942,Scotland,16931,Lewis Morgan,18,Left Wing Back,Group Stage
+3930177,942,Scotland,22308,Anthony Ralston,2,Right Wing Back,Group Stage
+3930177,942,Scotland,22379,Angus Gunn,1,Goalkeeper,Group Stage
+3930177,942,Scotland,31067,Billy Gilmour,14,Right Defensive Midfield,Group Stage
+3930177,942,Scotland,38169,Lawrence Shankland,9,Center Forward,Group Stage
+3930177,942,Scotland,49720,Tommy Conway,19,,Group Stage
+3930173,771,France,2972,Marcus Thuram,15,Center Forward,Group Stage
+3930173,771,France,3009,Kylian Mbappé Lottin,10,,Group Stage
+3930173,771,France,3026,Adrien Rabiot,14,Left Midfield,Group Stage
+3930173,771,France,3379,Alphonse Areola,23,,Group Stage
+3930173,771,France,3604,Olivier Giroud,9,Center Forward,Group Stage
+3930173,771,France,3761,Mike Maignan,16,Goalkeeper,Group Stage
+3930173,771,France,3804,Ferland Mendy,3,,Group Stage
+3930173,771,France,3961,N'Golo Kanté,13,Right Defensive Midfield,Group Stage
+3930173,771,France,4445,Jules Koundé,5,Right Back,Group Stage
+3930173,771,France,4893,Brice Samba,1,,Group Stage
+3930173,771,France,5476,Benjamin Pavard,2,,Group Stage
+3930173,771,France,5477,Ousmane Dembélé,11,Right Midfield,Group Stage
+3930173,771,France,5487,Antoine Griezmann,7,Center Attacking Midfield,Group Stage
+3930173,771,France,6704,Theo Bernard François Hernández,22,Left Back,Group Stage
+3930173,771,France,7252,Jonathan Clauss,21,,Group Stage
+3930173,771,France,8217,Kingsley Coman,20,Right Midfield,Group Stage
+3930173,771,France,8519,Dayotchanculle Upamecano,4,Right Center Back,Group Stage
+3930173,771,France,10481,Aurélien Djani Tchouaméni,8,Left Defensive Midfield,Group Stage
+3930173,771,France,11135,Ibrahima Konaté,24,,Group Stage
+3930173,771,France,11990,Youssouf Fofana,19,,Group Stage
+3930173,771,France,17592,William Saliba,17,Left Center Back,Group Stage
+3930173,771,France,22097,Randal Kolo Muani,12,,Group Stage
+3930173,771,France,24778,Eduardo Camavinga,6,,Group Stage
+3930173,771,France,39420,Bradley Barcola,25,,Group Stage
+3930173,771,France,144059,Warren Zaire Emery,18,,Group Stage
+3930173,941,Netherlands,2988,Memphis Depay,10,Center Forward,Group Stage
+3930173,941,Netherlands,3306,Nathan Aké,5,Left Back,Group Stage
+3930173,941,Netherlands,3311,Daley Blind,17,,Group Stage
+3930173,941,Netherlands,3567,Georginio Wijnaldum,8,Right Defensive Midfield,Group Stage
+3930173,941,Netherlands,3669,Virgil van Dijk,4,Left Center Back,Group Stage
+3930173,941,Netherlands,7787,Stefan de Vrij,6,Right Center Back,Group Stage
+3930173,941,Netherlands,7829,Wout Weghorst,9,Center Forward,Group Stage
+3930173,941,Netherlands,8069,Matthijs de Ligt,3,,Group Stage
+3930173,941,Netherlands,8125,Denzel Dumfries,22,Right Back,Group Stage
+3930173,941,Netherlands,8259,Steven Bergwijn,25,,Group Stage
+3930173,941,Netherlands,15503,Jerdy Schouten,24,Right Defensive Midfield,Group Stage
+3930173,941,Netherlands,15582,Donyell Malen,18,,Group Stage
+3930173,941,Netherlands,16185,Justin Bijlow,13,,Group Stage
+3930173,941,Netherlands,20750,Cody Mathès Gakpo,11,Left Wing,Group Stage
+3930173,941,Netherlands,21582,Tijjani Reijnders,14,Left Defensive Midfield,Group Stage
+3930173,941,Netherlands,21633,Joey Veerman,16,Center Attacking Midfield,Group Stage
+3930173,941,Netherlands,21880,Brian Brobbey,19,,Group Stage
+3930173,941,Netherlands,22352,Lutsharel Geertruida,2,Right Wing,Group Stage
+3930173,941,Netherlands,23230,Ryan Gravenberch,26,,Group Stage
+3930173,941,Netherlands,25000,Mark Flekken,23,,Group Stage
+3930173,941,Netherlands,32547,Micky van de Ven,15,,Group Stage
+3930173,941,Netherlands,32712,Jeremie Frimpong,12,Right Wing,Group Stage
+3930173,941,Netherlands,33281,Joshua Zirkzee,21,,Group Stage
+3930173,941,Netherlands,37274,Bart Verbruggen,1,Goalkeeper,Group Stage
+3930173,941,Netherlands,39092,Ian Maatsen,20,,Group Stage
+3930173,941,Netherlands,39167,Xavi Simons,7,Center Attacking Midfield,Group Stage
+3930172,772,Spain,3042,Mikel Merino Zazón,6,Left Defensive Midfield,Group Stage
+3930172,772,Spain,3076,Ayoze Pérez Gutiérrez,26,Left Wing,Group Stage
+3930172,772,Spain,3265,José Luis Sanmartín Mato,9,,Group Stage
+3930172,772,Spain,3477,Álvaro Borja Morata Martín,7,Center Forward,Group Stage
+3930172,772,Spain,4127,David Raya Martin,1,,Group Stage
+3930172,772,Spain,4353,Aymeric Laporte,14,Left Center Back,Group Stage
+3930172,772,Spain,5202,José Ignacio Fernández Iglesias,4,,Group Stage
+3930172,772,Spain,5721,Daniel Carvajal Ramos,2,Right Back,Group Stage
+3930172,772,Spain,6655,Fabián Ruiz Peña,8,Left Defensive Midfield,Group Stage
+3930172,772,Spain,6685,Mikel Oyarzabal Ugarte,21,Center Forward,Group Stage
+3930172,772,Spain,6748,Ferrán Torres García,11,Right Wing,Group Stage
+3930172,772,Spain,6765,Rodrigo Hernández Cascante,16,Right Defensive Midfield,Group Stage
+3930172,772,Spain,6821,Jesús Navas González,22,,Group Stage
+3930172,772,Spain,10336,Alejandro Grimaldo García,12,,Group Stage
+3930172,772,Spain,11748,Unai Simón Mendibil,23,Goalkeeper,Group Stage
+3930172,772,Spain,16532,Daniel Olmo Carvajal,10,,Group Stage
+3930172,772,Spain,17620,Marc Cucurella Saseta,24,Left Back,Group Stage
+3930172,772,Spain,22128,Robin Aime Robert Le Normand,3,Right Center Back,Group Stage
+3930172,772,Spain,24921,Martín Zubimendi Ibáñez,18,,Group Stage
+3930172,772,Spain,30486,Pedro González López,20,Center Attacking Midfield,Group Stage
+3930172,772,Spain,32185,Alejandro Remiro Gargallo,13,,Group Stage
+3930172,772,Spain,41115,Alejandro Baena Rodríguez,15,Center Attacking Midfield,Group Stage
+3930172,772,Spain,41542,Daniel Vivian Moreno,5,,Group Stage
+3930172,772,Spain,68574,Nicholas Williams Arthuer,17,Left Wing,Group Stage
+3930172,772,Spain,143864,Fermin Lopez Marin,25,,Group Stage
+3930172,772,Spain,316046,Lamine Yamal Nasraoui Ebana,19,Right Wing,Group Stage
+3930172,914,Italy,4587,Matteo Darmian,13,,Group Stage
+3930172,914,Italy,6957,Alex Meret,26,,Group Stage
+3930172,914,Italy,6963,Lorenzo Pellegrini,10,Left Wing,Group Stage
+3930172,914,Italy,6979,Stephan El Shaarawy,22,,Group Stage
+3930172,914,Italy,6993,Bryan Cristante,16,Right Center Midfield,Group Stage
+3930172,914,Italy,7004,Gianluca Mancini,17,,Group Stage
+3930172,914,Italy,7024,Jorge Luiz Frello Filho,8,Center Defensive Midfield,Group Stage
+3930172,914,Italy,7036,Gianluigi Donnarumma,1,Goalkeeper,Group Stage
+3930172,914,Italy,7156,Federico Chiesa,14,Right Wing,Group Stage
+3930172,914,Italy,7480,Alessandro Bastoni,23,Right Center Back,Group Stage
+3930172,914,Italy,8181,Nicolò Barella,18,Left Center Midfield,Group Stage
+3930172,914,Italy,8792,Mattia Zaccagni,20,Left Wing,Group Stage
+3930172,914,Italy,10992,Gianluca Scamacca,9,Center Forward,Group Stage
+3930172,914,Italy,11514,Giovanni Di Lorenzo,2,Right Back,Group Stage
+3930172,914,Italy,12255,Federico Dimarco,3,Left Back,Group Stage
+3930172,914,Italy,23221,Alessandro Buongiorno,4,,Group Stage
+3930172,914,Italy,25048,Giacomo Raspadori,11,Left Center Midfield,Group Stage
+3930172,914,Italy,29965,Raoul Bellanova,15,,Group Stage
+3930172,914,Italy,30926,Davide Frattesi,7,Right Center Midfield,Group Stage
+3930172,914,Italy,31093,Mateo Retegui,19,Center Forward,Group Stage
+3930172,914,Italy,31225,Guglielmo Vicario,12,,Group Stage
+3930172,914,Italy,38909,Nicolò Fagioli,21,,Group Stage
+3930172,914,Italy,41768,Riccardo Calafiori,5,Left Center Back,Group Stage
+3930172,914,Italy,49445,Michael Ijemuan Folorunsho,25,,Group Stage
+3930172,914,Italy,50729,Andrea Cambiaso,24,Right Wing,Group Stage
+3930172,914,Italy,133968,Federico Gatti,6,,Group Stage
+3930167,906,Albania,3378,Iván Balliu Campeny,2,,Group Stage
+3930167,906,Albania,6991,Etrit Berisha,1,,Group Stage
+3930167,906,Albania,7031,Elseid Hysaj,4,Right Back,Group Stage
+3930167,906,Albania,7108,Berat Djimsiti,6,Left Center Back,Group Stage
+3930167,906,Albania,7531,Qazim Laçi,14,Right Center Midfield,Group Stage
+3930167,906,Albania,7789,Thomas Strakosha,23,Goalkeeper,Group Stage
+3930167,906,Albania,8291,Arlind Afrim Ajeti,5,Right Center Back,Group Stage
+3930167,906,Albania,9893,Klaus Gjasula,8,Right Center Midfield,Group Stage
+3930167,906,Albania,10745,Amir Abrashi,22,,Group Stage
+3930167,906,Albania,23987,Rey Manaj,7,Center Forward,Group Stage
+3930167,906,Albania,24438,Ylber Ramadani,20,Center Defensive Midfield,Group Stage
+3930167,906,Albania,29168,Ardian Ismajli,18,,Group Stage
+3930167,906,Albania,29531,Taulant Sulejmanov,15,Right Midfield,Group Stage
+3930167,906,Albania,30740,Marash Kumbulla,24,,Group Stage
+3930167,906,Albania,32030,Nedim Bajrami,10,Left Midfield,Group Stage
+3930167,906,Albania,32691,Elhan Kastrati,12,,Group Stage
+3930167,906,Albania,36885,Armando Broja,11,,Group Stage
+3930167,906,Albania,37066,Enea Mihaj,13,,Group Stage
+3930167,906,Albania,41186,Jasir Asani,9,Right Midfield,Group Stage
+3930167,906,Albania,43105,Naser Aliji,25,,Group Stage
+3930167,906,Albania,49097,Mario Mitaj,3,Left Back,Group Stage
+3930167,906,Albania,54140,Mirlind Daku,19,Center Forward,Group Stage
+3930167,906,Albania,57303,Kristjan Asllani,21,Left Center Midfield,Group Stage
+3930167,906,Albania,92611,Ernest Muçi,17,,Group Stage
+3930167,906,Albania,133698,Arbër Hoxha,26,Center Defensive Midfield,Group Stage
+3930167,906,Albania,142800,Medon Berisha,16,,Group Stage
+3930167,785,Croatia,5456,Mateo Kovačić,8,Left Center Midfield,Group Stage
+3930167,785,Croatia,5459,Marko Pjaca,20,,Group Stage
+3930167,785,Croatia,5460,Andrej Kramarić,9,Left Wing,Group Stage
+3930167,785,Croatia,5463,Luka Modrić,10,Right Center Midfield,Group Stage
+3930167,785,Croatia,5468,Domagoj Vida,21,,Group Stage
+3930167,785,Croatia,5469,Marcelo Brozović,11,Center Defensive Midfield,Group Stage
+3930167,785,Croatia,5474,Ivan Perišić,14,Left Back,Group Stage
+3930167,785,Croatia,7693,Bruno Petković,17,Center Forward,Group Stage
+3930167,785,Croatia,8654,Ante Budimir,16,Center Forward,Group Stage
+3930167,785,Croatia,8773,Marin Pongracic,3,,Group Stage
+3930167,785,Croatia,11603,Mario Pašalić,15,Right Wing,Group Stage
+3930167,785,Croatia,12625,Borna Sosa,19,Left Back,Group Stage
+3930167,785,Croatia,16531,Dominik Livaković,1,Goalkeeper,Group Stage
+3930167,785,Croatia,28368,Luka Ivanušec,18,,Group Stage
+3930167,785,Croatia,28835,Ivica Ivušić,23,,Group Stage
+3930167,785,Croatia,28914,Lovro Majer,7,Right Wing,Group Stage
+3930167,785,Croatia,29163,Josip Juranović,22,Right Back,Group Stage
+3930167,785,Croatia,32689,Martin Erlić,5,,Group Stage
+3930167,785,Croatia,33018,Joško Gvardiol,4,Left Center Back,Group Stage
+3930167,785,Croatia,37148,Josip Šutalo,6,Right Center Back,Group Stage
+3930167,785,Croatia,39490,Luka Sučić,25,Center Attacking Midfield,Group Stage
+3930167,785,Croatia,44975,Nediljko Labrović,12,,Group Stage
+3930167,785,Croatia,49337,Josip Stanišić,2,,Group Stage
+3930167,785,Croatia,63505,Martin Baturina,26,Left Wing,Group Stage
+3930167,785,Croatia,131170,Marco Pašalić,24,,Group Stage
+3930168,770,Germany,3053,Leroy Sané,19,Right Wing,Group Stage
+3930168,770,Germany,3097,Pascal Groß,5,,Group Stage
+3930168,770,Germany,3167,Antonio Rüdiger,2,Right Center Back,Group Stage
+3930168,770,Germany,3493,Emre Can,25,Right Defensive Midfield,Group Stage
+3930168,770,Germany,5562,Thomas Müller,13,,Group Stage
+3930168,770,Germany,5570,Manuel Neuer,1,Goalkeeper,Group Stage
+3930168,770,Germany,5574,Toni Kroos,8,Left Defensive Midfield,Group Stage
+3930168,770,Germany,5579,Joshua Kimmich,6,Right Back,Group Stage
+3930168,770,Germany,8211,Benjamin Henrichs,20,,Group Stage
+3930168,770,Germany,8221,Jonathan Tah,4,Left Center Back,Group Stage
+3930168,770,Germany,8393,Oliver Baumann,12,,Group Stage
+3930168,770,Germany,8538,Waldemar Anton,16,,Group Stage
+3930168,770,Germany,8546,Niclas Füllkrug,9,Center Forward,Group Stage
+3930168,770,Germany,8966,Kai Havertz,7,Center Forward,Group Stage
+3930168,770,Germany,9195,Robert Andrich,23,Right Defensive Midfield,Group Stage
+3930168,770,Germany,10287,İlkay Gündoğan,21,Center Attacking Midfield,Group Stage
+3930168,770,Germany,12034,David Raum,3,,Group Stage
+3930168,770,Germany,12407,Maximilian Mittelstädt,18,Left Back,Group Stage
+3930168,770,Germany,13294,Robin Koch,24,,Group Stage
+3930168,770,Germany,20055,Marc-André ter Stegen,22,,Group Stage
+3930168,770,Germany,23614,Chris Führich,11,Left Wing,Group Stage
+3930168,770,Germany,24118,Nico Schlotterbeck,15,,Group Stage
+3930168,770,Germany,35242,Maximilian Beier,14,,Group Stage
+3930168,770,Germany,39565,Jamal Musiala,10,Right Wing,Group Stage
+3930168,770,Germany,40724,Florian Wirtz,17,Left Wing,Group Stage
+3930168,770,Germany,131243,Deniz Undav,26,Center Attacking Midfield,Group Stage
+3930168,916,Hungary,3153,Ádám Lang,2,,Group Stage
+3930168,916,Hungary,4286,Callum Styles,17,,Group Stage
+3930168,916,Hungary,7162,Ádám Nagy,8,Right Defensive Midfield,Group Stage
+3930168,916,Hungary,8509,Willi Orban,6,Center Back,Group Stage
+3930168,916,Hungary,8524,Péter Gulácsi,1,Goalkeeper,Group Stage
+3930168,916,Hungary,11268,Attila Fiola,5,Right Center Back,Group Stage
+3930168,916,Hungary,12921,Barnabás Varga,19,Center Forward,Group Stage
+3930168,916,Hungary,16502,László Kleinheisler,15,Right Defensive Midfield,Group Stage
+3930168,916,Hungary,16741,Loïc Négo,7,,Group Stage
+3930168,916,Hungary,19316,Roland Sallai,20,Left Attacking Midfield,Group Stage
+3930168,916,Hungary,21209,Dominik Szoboszlai,10,Right Attacking Midfield,Group Stage
+3930168,916,Hungary,31887,Endre Botka,21,,Group Stage
+3930168,916,Hungary,31889,Dénes Dibusz,12,,Group Stage
+3930168,916,Hungary,39683,Botond Balogh,3,,Group Stage
+3930168,916,Hungary,40039,Krisztofer Horváth,25,,Group Stage
+3930168,916,Hungary,40500,Mihály Kata,26,,Group Stage
+3930168,916,Hungary,40920,Márton Dárdai,24,Left Center Back,Group Stage
+3930168,916,Hungary,42822,András Schäfer,13,Left Defensive Midfield,Group Stage
+3930168,916,Hungary,46376,Attila Szalai,4,,Group Stage
+3930168,916,Hungary,46789,Bendegúz Bolla,14,Right Wing Back,Group Stage
+3930168,916,Hungary,50329,Dániel Gazdag,16,Left Center Forward,Group Stage
+3930168,916,Hungary,73886,Zsolt Nagy,18,Left Wing Back,Group Stage
+3930168,916,Hungary,89635,Milos Kerkez,11,Left Wing Back,Group Stage
+3930168,916,Hungary,158733,Péter Szappanos,22,,Group Stage
+3930168,916,Hungary,264277,Martin Ádám,9,Right Wing Back,Group Stage
+3930168,916,Hungary,389882,Kevin Csoboth,23,Right Wing Back,Group Stage
+3930165,771,France,2972,Marcus Thuram,15,Left Wing,Group Stage
+3930165,771,France,3009,Kylian Mbappé Lottin,10,Center Forward,Group Stage
+3930165,771,France,3026,Adrien Rabiot,14,Left Defensive Midfield,Group Stage
+3930165,771,France,3379,Alphonse Areola,23,,Group Stage
+3930165,771,France,3604,Olivier Giroud,9,Center Forward,Group Stage
+3930165,771,France,3761,Mike Maignan,16,Goalkeeper,Group Stage
+3930165,771,France,3804,Ferland Mendy,3,,Group Stage
+3930165,771,France,3961,N'Golo Kanté,13,Right Defensive Midfield,Group Stage
+3930165,771,France,4445,Jules Koundé,5,Right Back,Group Stage
+3930165,771,France,4893,Brice Samba,1,,Group Stage
+3930165,771,France,5476,Benjamin Pavard,2,,Group Stage
+3930165,771,France,5477,Ousmane Dembélé,11,Right Wing,Group Stage
+3930165,771,France,5487,Antoine Griezmann,7,Center Attacking Midfield,Group Stage
+3930165,771,France,6704,Theo Bernard François Hernández,22,Left Back,Group Stage
+3930165,771,France,7252,Jonathan Clauss,21,,Group Stage
+3930165,771,France,8217,Kingsley Coman,20,,Group Stage
+3930165,771,France,8519,Dayotchanculle Upamecano,4,Right Center Back,Group Stage
+3930165,771,France,10481,Aurélien Djani Tchouaméni,8,,Group Stage
+3930165,771,France,11135,Ibrahima Konaté,24,,Group Stage
+3930165,771,France,11990,Youssouf Fofana,19,Center Attacking Midfield,Group Stage
+3930165,771,France,17592,William Saliba,17,Left Center Back,Group Stage
+3930165,771,France,22097,Randal Kolo Muani,12,Right Wing,Group Stage
+3930165,771,France,24778,Eduardo Camavinga,6,Left Defensive Midfield,Group Stage
+3930165,771,France,39420,Bradley Barcola,25,,Group Stage
+3930165,771,France,144059,Warren Zaire Emery,18,,Group Stage
+3930165,915,Austria,3325,Marko Arnautović,7,Center Forward,Group Stage
+3930165,915,Austria,4813,Andreas Weimann,24,,Group Stage
+3930165,915,Austria,8068,Maximilian Wöber,2,Left Center Back,Group Stage
+3930165,915,Austria,8309,Michael Gregoritsch,11,Center Forward,Group Stage
+3930165,915,Austria,8406,Florian Kainz,17,,Group Stage
+3930165,915,Austria,8506,Konrad Laimer,20,Right Wing,Group Stage
+3930165,915,Austria,8518,Marcel Sabitzer,9,Left Wing,Group Stage
+3930165,915,Austria,8778,Gernot Trauner,3,Left Center Back,Group Stage
+3930165,915,Austria,8784,Romano Schmid,18,Right Defensive Midfield,Group Stage
+3930165,915,Austria,8931,Philipp Lienhart,15,,Group Stage
+3930165,915,Austria,9731,Patrick Pentz,13,Goalkeeper,Group Stage
+3930165,915,Austria,11396,Florian Grillitsch,10,Left Defensive Midfield,Group Stage
+3930165,915,Austria,11820,Kevin Danso,4,Right Center Back,Group Stage
+3930165,915,Austria,11821,Stefan Posch,5,Right Back,Group Stage
+3930165,915,Austria,13315,Philipp Mwene,16,Left Back,Group Stage
+3930165,915,Austria,24977,Christoph Baumgartner,19,Center Attacking Midfield,Group Stage
+3930165,915,Austria,32417,Heinz Lindner,1,,Group Stage
+3930165,915,Austria,33297,Patrick Wimmer,23,Left Defensive Midfield,Group Stage
+3930165,915,Austria,39120,Flavius Daniliuc,21,,Group Stage
+3930165,915,Austria,39460,Nicolas Seiwald,6,Right Defensive Midfield,Group Stage
+3930165,915,Austria,39545,Alexander Prass,8,Left Back,Group Stage
+3930165,915,Austria,41371,Niklas Hedl,12,,Group Stage
+3930165,915,Austria,48169,Marco Grüll,26,,Group Stage
+3930165,915,Austria,152512,Leopold Querfeld,14,,Group Stage
+3930165,915,Austria,403718,Matthias Seidl,22,,Group Stage
+3930165,915,Austria,403823,Maximilian Entrup,25,,Group Stage
+3930164,782,Belgium,2954,Youri Tielemans,8,Center Attacking Midfield,Group Stage
+3930164,782,Belgium,3077,Jan Vertonghen,5,,Group Stage
+3930164,782,Belgium,3089,Kevin De Bruyne,7,Center Attacking Midfield,Group Stage
+3930164,782,Belgium,3289,Romelu Lukaku Menama,10,Center Forward,Group Stage
+3930164,782,Belgium,5633,Yannick Ferreira Carrasco,11,Left Back,Group Stage
+3930164,782,Belgium,5642,Axel Witsel,6,,Group Stage
+3930164,782,Belgium,6989,Timothy Castagne,21,Right Back,Group Stage
+3930164,782,Belgium,8240,Koen Casteels,1,Goalkeeper,Group Stage
+3930164,782,Belgium,8854,Wout Faes,4,Right Center Back,Group Stage
+3930164,782,Belgium,8950,Orel Mangala,18,Right Defensive Midfield,Group Stage
+3930164,782,Belgium,10479,Matz Sels,13,,Group Stage
+3930164,782,Belgium,12306,Dodi Lukebakio,14,Left Back,Group Stage
+3930164,782,Belgium,16275,Ikoma Loïs Openda,20,Left Wing,Group Stage
+3930164,782,Belgium,16559,Leandro Trossard,9,Left Wing,Group Stage
+3930164,782,Belgium,23650,Jeremy Doku,22,Right Wing,Group Stage
+3930164,782,Belgium,23741,Thomas Kaminski,12,,Group Stage
+3930164,782,Belgium,29906,Aster Vranckx,16,,Group Stage
+3930164,782,Belgium,32688,Charles De Ketelaere,17,,Group Stage
+3930164,782,Belgium,35610,Maxim De Cuyper,25,,Group Stage
+3930164,782,Belgium,43913,Arthur Theate,3,,Group Stage
+3930164,782,Belgium,48347,Amadou Onana,24,Left Defensive Midfield,Group Stage
+3930164,782,Belgium,52218,Johan Bakayoko,19,Left Defensive Midfield,Group Stage
+3930164,782,Belgium,114832,Zeno Debast,2,Left Center Back,Group Stage
+3930164,782,Belgium,253306,Arthur Vermeeren,23,,Group Stage
+3930164,908,Slovakia,3711,Martin Dúbravka,1,Goalkeeper,Group Stage
+3930164,908,Slovakia,4152,Marek Rodák,12,,Group Stage
+3930164,908,Slovakia,6798,Stanislav Lobotka,22,Center Defensive Midfield,Group Stage
+3930164,908,Slovakia,6990,Milan Škriniar,14,Left Center Back,Group Stage
+3930164,908,Slovakia,7975,Lukáš Haraslín,17,Left Wing,Group Stage
+3930164,908,Slovakia,8422,Ľubomír Tupta,10,,Group Stage
+3930164,908,Slovakia,8967,Ondrej Duda,8,Left Center Midfield,Group Stage
+3930164,908,Slovakia,8976,Vernon De Marco Morlacchi,15,,Group Stage
+3930164,908,Slovakia,9722,Peter Pekarík,2,Right Back,Group Stage
+3930164,908,Slovakia,10919,Juraj Kucka,19,Right Center Midfield,Group Stage
+3930164,908,Slovakia,11383,László Bénes,11,,Group Stage
+3930164,908,Slovakia,15546,Matúš Bero,21,,Group Stage
+3930164,908,Slovakia,16041,Patrik Hrošovský,13,,Group Stage
+3930164,908,Slovakia,16298,Denis Vavro,3,Right Center Back,Group Stage
+3930164,908,Slovakia,16879,Dávid Hancko,16,Left Back,Group Stage
+3930164,908,Slovakia,20043,Norbert Gyömbér,6,,Group Stage
+3930164,908,Slovakia,28032,Ivan Schranz,26,Right Wing,Group Stage
+3930164,908,Slovakia,34904,Róbert Boženík,9,Center Forward,Group Stage
+3930164,908,Slovakia,35653,Tomáš Suslov,7,Left Wing,Group Stage
+3930164,908,Slovakia,41601,Henrich Ravas,23,,Group Stage
+3930164,908,Slovakia,43976,David Strelec,18,Center Forward,Group Stage
+3930164,908,Slovakia,44167,Dávid Ďuriš,20,Right Wing,Group Stage
+3930164,908,Slovakia,44336,Sebastián Kóša,25,,Group Stage
+3930164,908,Slovakia,52026,Tomáš Rigo,5,,Group Stage
+3930164,908,Slovakia,85063,Adam Obert,4,Left Center Midfield,Group Stage
+3930164,908,Slovakia,163610,Leo Sauer,24,,Group Stage
+3930161,906,Albania,3378,Iván Balliu Campeny,2,,Group Stage
+3930161,906,Albania,6991,Etrit Berisha,1,,Group Stage
+3930161,906,Albania,7031,Elseid Hysaj,4,Right Back,Group Stage
+3930161,906,Albania,7108,Berat Djimsiti,6,Left Center Back,Group Stage
+3930161,906,Albania,7531,Qazim Laçi,14,Left Wing,Group Stage
+3930161,906,Albania,7789,Thomas Strakosha,23,Goalkeeper,Group Stage
+3930161,906,Albania,8291,Arlind Afrim Ajeti,5,Right Center Back,Group Stage
+3930161,906,Albania,9893,Klaus Gjasula,8,,Group Stage
+3930161,906,Albania,10745,Amir Abrashi,22,,Group Stage
+3930161,906,Albania,23987,Rey Manaj,7,Center Forward,Group Stage
+3930161,906,Albania,24438,Ylber Ramadani,20,Right Defensive Midfield,Group Stage
+3930161,906,Albania,29168,Ardian Ismajli,18,,Group Stage
+3930161,906,Albania,29531,Taulant Sulejmanov,15,Left Wing,Group Stage
+3930161,906,Albania,30740,Marash Kumbulla,24,,Group Stage
+3930161,906,Albania,32030,Nedim Bajrami,10,Center Attacking Midfield,Group Stage
+3930161,906,Albania,32691,Elhan Kastrati,12,,Group Stage
+3930161,906,Albania,36885,Armando Broja,11,Center Forward,Group Stage
+3930161,906,Albania,37066,Enea Mihaj,13,,Group Stage
+3930161,906,Albania,41186,Jasir Asani,9,Right Wing,Group Stage
+3930161,906,Albania,43105,Naser Aliji,25,,Group Stage
+3930161,906,Albania,49097,Mario Mitaj,3,Left Back,Group Stage
+3930161,906,Albania,54140,Mirlind Daku,19,,Group Stage
+3930161,906,Albania,57303,Kristjan Asllani,21,Left Defensive Midfield,Group Stage
+3930161,906,Albania,92611,Ernest Muçi,17,Center Attacking Midfield,Group Stage
+3930161,906,Albania,133698,Arbër Hoxha,26,Right Wing,Group Stage
+3930161,906,Albania,142800,Medon Berisha,16,,Group Stage
+3930161,914,Italy,4587,Matteo Darmian,13,Left Back,Group Stage
+3930161,914,Italy,6957,Alex Meret,26,,Group Stage
+3930161,914,Italy,6963,Lorenzo Pellegrini,10,Left Wing,Group Stage
+3930161,914,Italy,6979,Stephan El Shaarawy,22,,Group Stage
+3930161,914,Italy,6993,Bryan Cristante,16,Left Wing,Group Stage
+3930161,914,Italy,7004,Gianluca Mancini,17,,Group Stage
+3930161,914,Italy,7024,Jorge Luiz Frello Filho,8,Center Defensive Midfield,Group Stage
+3930161,914,Italy,7036,Gianluigi Donnarumma,1,Goalkeeper,Group Stage
+3930161,914,Italy,7156,Federico Chiesa,14,Right Wing,Group Stage
+3930161,914,Italy,7480,Alessandro Bastoni,23,Right Center Back,Group Stage
+3930161,914,Italy,8181,Nicolò Barella,18,Left Center Midfield,Group Stage
+3930161,914,Italy,8792,Mattia Zaccagni,20,,Group Stage
+3930161,914,Italy,10992,Gianluca Scamacca,9,Center Forward,Group Stage
+3930161,914,Italy,11514,Giovanni Di Lorenzo,2,Right Back,Group Stage
+3930161,914,Italy,12255,Federico Dimarco,3,Left Back,Group Stage
+3930161,914,Italy,23221,Alessandro Buongiorno,4,,Group Stage
+3930161,914,Italy,25048,Giacomo Raspadori,11,,Group Stage
+3930161,914,Italy,29965,Raoul Bellanova,15,,Group Stage
+3930161,914,Italy,30926,Davide Frattesi,7,Right Center Midfield,Group Stage
+3930161,914,Italy,31093,Mateo Retegui,19,Center Forward,Group Stage
+3930161,914,Italy,31225,Guglielmo Vicario,12,,Group Stage
+3930161,914,Italy,38909,Nicolò Fagioli,21,,Group Stage
+3930161,914,Italy,41768,Riccardo Calafiori,5,Left Center Back,Group Stage
+3930161,914,Italy,49445,Michael Ijemuan Folorunsho,25,Left Wing,Group Stage
+3930161,914,Italy,50729,Andrea Cambiaso,24,Right Wing,Group Stage
+3930161,914,Italy,133968,Federico Gatti,6,,Group Stage
+3938637,941,Netherlands,2988,Memphis Depay,10,Center Forward,Group Stage
+3938637,941,Netherlands,3306,Nathan Aké,5,Left Back,Group Stage
+3938637,941,Netherlands,3311,Daley Blind,17,,Group Stage
+3938637,941,Netherlands,3567,Georginio Wijnaldum,8,Left Defensive Midfield,Group Stage
+3938637,941,Netherlands,3669,Virgil van Dijk,4,Left Center Back,Group Stage
+3938637,941,Netherlands,7787,Stefan de Vrij,6,Right Center Back,Group Stage
+3938637,941,Netherlands,7829,Wout Weghorst,9,Center Forward,Group Stage
+3938637,941,Netherlands,8069,Matthijs de Ligt,3,,Group Stage
+3938637,941,Netherlands,8125,Denzel Dumfries,22,Right Back,Group Stage
+3938637,941,Netherlands,8259,Steven Bergwijn,25,,Group Stage
+3938637,941,Netherlands,15503,Jerdy Schouten,24,Right Defensive Midfield,Group Stage
+3938637,941,Netherlands,15582,Donyell Malen,18,Right Wing,Group Stage
+3938637,941,Netherlands,16185,Justin Bijlow,13,,Group Stage
+3938637,941,Netherlands,20750,Cody Mathès Gakpo,11,Left Wing,Group Stage
+3938637,941,Netherlands,21582,Tijjani Reijnders,14,Center Attacking Midfield,Group Stage
+3938637,941,Netherlands,21633,Joey Veerman,16,Left Defensive Midfield,Group Stage
+3938637,941,Netherlands,22352,Lutsharel Geertruida,2,,Group Stage
+3938637,941,Netherlands,23230,Ryan Gravenberch,26,,Group Stage
+3938637,941,Netherlands,25000,Mark Flekken,23,,Group Stage
+3938637,941,Netherlands,32547,Micky van de Ven,15,Left Back,Group Stage
+3938637,941,Netherlands,32712,Jeremie Frimpong,12,Left Wing,Group Stage
+3938637,941,Netherlands,33281,Joshua Zirkzee,21,,Group Stage
+3938637,941,Netherlands,37274,Bart Verbruggen,1,Goalkeeper,Group Stage
+3938637,941,Netherlands,39092,Ian Maatsen,20,,Group Stage
+3938637,941,Netherlands,39167,Xavi Simons,7,Right Wing,Group Stage
+3938637,789,Poland,4626,Jan Bednarek,5,Right Center Back,Group Stage
+3938637,789,Poland,4664,Sebastian Szymański,20,Right Center Midfield,Group Stage
+3938637,789,Poland,5660,Piotr Zieliński,10,Left Center Midfield,Group Stage
+3938637,789,Poland,5667,Kamil Grosicki,11,,Group Stage
+3938637,789,Poland,5668,Robert Lewandowski,9,,Group Stage
+3938637,789,Poland,5669,Wojciech Szczęsny,1,Goalkeeper,Group Stage
+3938637,789,Poland,5673,Bartosz Bereszyński,18,Center Back,Group Stage
+3938637,789,Poland,7654,Sebastian Walukiewicz,4,,Group Stage
+3938637,789,Poland,7663,Adam Buksa,16,Right Center Forward,Group Stage
+3938637,789,Poland,7979,Przemysław Frankowski,19,Right Wing Back,Group Stage
+3938637,789,Poland,7982,Taras Wiktorowicz Romanczuk,13,Center Defensive Midfield,Group Stage
+3938637,789,Poland,8289,Bartosz Salamon,2,Center Back,Group Stage
+3938637,789,Poland,8714,Damian Szymański,17,,Group Stage
+3938637,789,Poland,8737,Tymoteusz Puchacz,15,,Group Stage
+3938637,789,Poland,8836,Karol Świderski,7,Left Center Forward,Group Stage
+3938637,789,Poland,11508,Łukasz Skorupski,12,,Group Stage
+3938637,789,Poland,12493,Krzysztof Piątek,23,,Group Stage
+3938637,789,Poland,15859,Bartosz Slisz,24,Center Defensive Midfield,Group Stage
+3938637,789,Poland,20841,Jakub Piotrowski,6,Right Center Midfield,Group Stage
+3938637,789,Poland,28453,Michał Skóraś,25,,Group Stage
+3938637,789,Poland,29480,Jakub Moder,8,Left Center Midfield,Group Stage
+3938637,789,Poland,30739,Paweł Dawidowicz,3,,Group Stage
+3938637,789,Poland,31030,Marcin Bulka,22,,Group Stage
+3938637,789,Poland,33680,Kacper Urbanski,26,Left Center Forward,Group Stage
+3938637,789,Poland,44166,Jakub Piotr Kiwior,14,Left Center Back,Group Stage
+3938637,789,Poland,50502,Nicola Zalewski,21,Left Wing Back,Group Stage
+3938640,911,Ukraine,3575,Oleksandr Zinchenko,17,Left Back,Group Stage
+3938640,911,Ukraine,8830,Andriy Yarmolenko,7,Right Midfield,Group Stage
+3938640,911,Ukraine,11000,Taras Stepanenko,6,,Group Stage
+3938640,911,Ukraine,16509,Viktor Tsygankov,15,,Group Stage
+3938640,911,Ukraine,16514,Serhii Sydorchuk,5,Left Defensive Midfield,Group Stage
+3938640,911,Ukraine,16557,Ruslan Malinovskiy,8,Left Midfield,Group Stage
+3938640,911,Ukraine,18617,Mykola Matvienko,22,Left Center Back,Group Stage
+3938640,911,Ukraine,20827,Vitalii Mykolenko,16,,Group Stage
+3938640,911,Ukraine,21294,Mykola Shaparenko,19,Right Defensive Midfield,Group Stage
+3938640,911,Ukraine,21390,Andriy Lunin,23,,Group Stage
+3938640,911,Ukraine,22243,Heorhii Bushchan,1,,Group Stage
+3938640,911,Ukraine,23649,Roman Yaremchuk,9,Center Forward,Group Stage
+3938640,911,Ukraine,25079,Artem Dovbyk,11,Center Forward,Group Stage
+3938640,911,Ukraine,30059,Oleksandr Svatok,3,,Group Stage
+3938640,911,Ukraine,31892,Oleksandr Zubkov,20,Right Midfield,Group Stage
+3938640,911,Ukraine,36911,Maksym Talovierov,4,Left Center Midfield,Group Stage
+3938640,911,Ukraine,37330,Anatolii Trubin,12,Goalkeeper,Group Stage
+3938640,911,Ukraine,38975,Georgiy Sudakov,14,Center Attacking Midfield,Group Stage
+3938640,911,Ukraine,39136,Illia Zabarnyi,13,Right Center Back,Group Stage
+3938640,911,Ukraine,39483,Mykhailo Mudryk,10,Left Midfield,Group Stage
+3938640,911,Ukraine,40141,Vladyslav Vanat,25,,Group Stage
+3938640,911,Ukraine,44085,Valerii Bondar,21,,Group Stage
+3938640,911,Ukraine,44557,Bohdan Mykhaylichenko,26,,Group Stage
+3938640,911,Ukraine,45785,Yukhym Konoplya,2,,Group Stage
+3938640,911,Ukraine,45863,Oleksandr Tymchyk,24,Right Back,Group Stage
+3938640,911,Ukraine,144127,Volodymyr Brazhko,18,Left Defensive Midfield,Group Stage
+3938640,908,Slovakia,3711,Martin Dúbravka,1,Goalkeeper,Group Stage
+3938640,908,Slovakia,4152,Marek Rodák,12,,Group Stage
+3938640,908,Slovakia,6798,Stanislav Lobotka,22,Center Defensive Midfield,Group Stage
+3938640,908,Slovakia,6990,Milan Škriniar,14,Left Center Back,Group Stage
+3938640,908,Slovakia,7975,Lukáš Haraslín,17,Left Wing,Group Stage
+3938640,908,Slovakia,8422,Ľubomír Tupta,10,,Group Stage
+3938640,908,Slovakia,8967,Ondrej Duda,8,Left Center Midfield,Group Stage
+3938640,908,Slovakia,8976,Vernon De Marco Morlacchi,15,,Group Stage
+3938640,908,Slovakia,9722,Peter Pekarík,2,Right Back,Group Stage
+3938640,908,Slovakia,10919,Juraj Kucka,19,Right Center Midfield,Group Stage
+3938640,908,Slovakia,11383,László Bénes,11,Left Center Midfield,Group Stage
+3938640,908,Slovakia,15546,Matúš Bero,21,,Group Stage
+3938640,908,Slovakia,16041,Patrik Hrošovský,13,,Group Stage
+3938640,908,Slovakia,16298,Denis Vavro,3,Right Center Back,Group Stage
+3938640,908,Slovakia,16879,Dávid Hancko,16,Left Back,Group Stage
+3938640,908,Slovakia,20043,Norbert Gyömbér,6,,Group Stage
+3938640,908,Slovakia,28032,Ivan Schranz,26,Right Wing,Group Stage
+3938640,908,Slovakia,34904,Róbert Boženík,9,Center Forward,Group Stage
+3938640,908,Slovakia,35653,Tomáš Suslov,7,Left Wing,Group Stage
+3938640,908,Slovakia,41601,Henrich Ravas,23,,Group Stage
+3938640,908,Slovakia,43976,David Strelec,18,Center Forward,Group Stage
+3938640,908,Slovakia,44167,Dávid Ďuriš,20,,Group Stage
+3938640,908,Slovakia,44336,Sebastián Kóša,25,,Group Stage
+3938640,908,Slovakia,52026,Tomáš Rigo,5,,Group Stage
+3938640,908,Slovakia,85063,Adam Obert,4,Left Back,Group Stage
+3938640,908,Slovakia,163610,Leo Sauer,24,Right Wing,Group Stage
+3938642,912,Czech Republic,4870,Tomáš Souček,22,Right Defensive Midfield,Group Stage
+3938642,912,Czech Republic,7044,Patrik Schick,10,Center Forward,Group Stage
+3938642,912,Czech Republic,7801,Antonín Barák,7,Left Defensive Midfield,Group Stage
+3938642,912,Czech Republic,8116,Václav Černý,17,Right Attacking Midfield,Group Stage
+3938642,912,Czech Republic,16469,Tomáš Holeš,3,Right Center Back,Group Stage
+3938642,912,Czech Republic,16570,Vladimír Coufal,5,Right Wing Back,Group Stage
+3938642,912,Czech Republic,21226,Tomáš Chorý,19,,Group Stage
+3938642,912,Czech Republic,23454,Petr Ševčík,8,Left Wing Back,Group Stage
+3938642,912,Czech Republic,27826,Ondřej Lingr,20,Left Attacking Midfield,Group Stage
+3938642,912,Czech Republic,28034,Lukáš Provod,14,Left Defensive Midfield,Group Stage
+3938642,912,Czech Republic,28040,Jindřich Staněk,1,Goalkeeper,Group Stage
+3938642,912,Czech Republic,28227,Pavel Šulc,25,,Group Stage
+3938642,912,Czech Republic,28239,Adam Hložek,9,Left Attacking Midfield,Group Stage
+3938642,912,Czech Republic,28272,Ladislav Krejčí,18,Left Center Back,Group Stage
+3938642,912,Czech Republic,29484,Jan Kuchta,11,,Group Stage
+3938642,912,Czech Republic,32985,Mojmír Chytil,13,Center Forward,Group Stage
+3938642,912,Czech Republic,33200,David Zima,2,,Group Stage
+3938642,912,Czech Republic,35441,David Doudera,12,,Group Stage
+3938642,912,Czech Republic,39143,Matěj Jurásek,26,Right Attacking Midfield,Group Stage
+3938642,912,Czech Republic,39338,Lukáš Červ,21,,Group Stage
+3938642,912,Czech Republic,40207,Vitezslav Jaros,23,,Group Stage
+3938642,912,Czech Republic,46046,Matěj Kovář,16,,Group Stage
+3938642,912,Czech Republic,50896,Martin Vitík,6,,Group Stage
+3938642,912,Czech Republic,81330,Robin Hranáč,4,Center Back,Group Stage
+3938642,912,Czech Republic,134272,David Jurásek,15,Left Wing Back,Group Stage
+3938642,912,Czech Republic,287492,Tomáš Vlček,24,,Group Stage
+3938642,2138,Georgia,7087,Saba Lobzhanidze,23,Left Wing,Group Stage
+3938642,2138,Georgia,7655,Lasha Dvali,3,Left Center Back,Group Stage
+3938642,2138,Georgia,7839,Guram Kashia,4,Center Back,Group Stage
+3938642,2138,Georgia,11335,Otar Kiteishvili,17,,Group Stage
+3938642,2138,Georgia,16005,Solomon Kverkvelia,5,Right Center Back,Group Stage
+3938642,2138,Georgia,22242,Heorhii Tsitaishvili,21,Left Wing Back,Group Stage
+3938642,2138,Georgia,23272,Giorgi Loria,1,,Group Stage
+3938642,2138,Georgia,23646,Giorgi Chakvetadze,10,Right Wing,Group Stage
+3938642,2138,Georgia,24284,Giorgi Kvilitaia,11,Center Forward,Group Stage
+3938642,2138,Georgia,25036,Otar Kakabadze,2,Right Wing Back,Group Stage
+3938642,2138,Georgia,31707,Levan Shengelia,19,,Group Stage
+3938642,2138,Georgia,33234,Georges Mikautadze,22,Center Forward,Group Stage
+3938642,2138,Georgia,38225,Jemal Tabidze,24,,Group Stage
+3938642,2138,Georgia,38229,Khvicha Kvaratskhelia,7,Left Wing,Group Stage
+3938642,2138,Georgia,41202,Giorgi Kochorashvili,6,Left Defensive Midfield,Group Stage
+3938642,2138,Georgia,44183,Zuriko Davitashvili,9,Right Wing,Group Stage
+3938642,2138,Georgia,46802,Nika Kvekveskiri,16,,Group Stage
+3938642,2138,Georgia,48178,Luka Lochoshvili,14,Left Wing Back,Group Stage
+3938642,2138,Georgia,102371,Giorgi Mamardashvili,25,Goalkeeper,Group Stage
+3938642,2138,Georgia,102372,Budu Zivzivadze,8,,Group Stage
+3938642,2138,Georgia,135844,Sandro Altunashvili,18,,Group Stage
+3938642,2138,Georgia,158014,Luka Gugeshashvili,12,,Group Stage
+3938642,2138,Georgia,264017,Anzor Mekvabishvili,20,Right Defensive Midfield,Group Stage
+3938642,2138,Georgia,348086,Giorgi Gocholeishvili,13,,Group Stage
+3938642,2138,Georgia,390000,Gabriel Sigua,26,,Group Stage
+3938642,2138,Georgia,398886,Giorgi Gvelesiani,15,Right Center Back,Group Stage
+3938639,909,Turkey,3648,Cenk Tosun,9,,Group Stage
+3938639,909,Turkey,7039,Hakan Çalhanoğlu,10,Right Defensive Midfield,Group Stage
+3938639,909,Turkey,9085,Salih Özcan,15,Left Defensive Midfield,Group Stage
+3938639,909,Turkey,10349,Mehmet Zeki Çelik,2,Right Wing Back,Group Stage
+3938639,909,Turkey,10826,Mert Müldür,18,Right Back,Group Stage
+3938639,909,Turkey,12293,Kaan Ayhan,22,Left Defensive Midfield,Group Stage
+3938639,909,Turkey,12555,Okay Yokuşlu,5,,Group Stage
+3938639,909,Turkey,18723,Yunus Akgün,25,,Group Stage
+3938639,909,Turkey,22212,Orkun Kökçü,6,Center Attacking Midfield,Group Stage
+3938639,909,Turkey,23558,Merih Demiral,3,Right Defensive Midfield,Group Stage
+3938639,909,Turkey,29989,Yusuf Yazıcı,11,Center Forward,Group Stage
+3938639,909,Turkey,30310,Fehmi Mert Günok,1,Goalkeeper,Group Stage
+3938639,909,Turkey,30357,Uğurcan Çakır,23,,Group Stage
+3938639,909,Turkey,30438,Ferdi Erenay Kadıoğlu,20,Left Back,Group Stage
+3938639,909,Turkey,30442,Altay Bayındır,12,,Group Stage
+3938639,909,Turkey,47383,Ahmetcan Kaplan,13,,Group Stage
+3938639,909,Turkey,48383,Abdülkerim Bardakcı,14,Left Center Back,Group Stage
+3938639,909,Turkey,49689,Muhammed Kerem Aktürkoğlu,7,Left Wing,Group Stage
+3938639,909,Turkey,78241,İsmail Yüksek,16,,Group Stage
+3938639,909,Turkey,116587,Arda Güler,8,Right Wing,Group Stage
+3938639,909,Turkey,133168,Bertuğ Özgür Yıldırım,26,,Group Stage
+3938639,909,Turkey,133305,Samet Akaydin,4,Right Center Back,Group Stage
+3938639,909,Turkey,134209,Barış Alper Yılmaz,21,Center Forward,Group Stage
+3938639,909,Turkey,149576,Semih Kılıçsoy,24,,Group Stage
+3938639,909,Turkey,151813,Kenan Yildiz,19,Left Wing,Group Stage
+3938639,2138,Georgia,7087,Saba Lobzhanidze,23,,Group Stage
+3938639,2138,Georgia,7655,Lasha Dvali,3,Left Center Back,Group Stage
+3938639,2138,Georgia,7839,Guram Kashia,4,Center Back,Group Stage
+3938639,2138,Georgia,11335,Otar Kiteishvili,17,,Group Stage
+3938639,2138,Georgia,16005,Solomon Kverkvelia,5,Right Center Back,Group Stage
+3938639,2138,Georgia,22242,Heorhii Tsitaishvili,21,Left Wing Back,Group Stage
+3938639,2138,Georgia,23646,Giorgi Chakvetadze,10,Right Center Midfield,Group Stage
+3938639,2138,Georgia,24284,Giorgi Kvilitaia,11,,Group Stage
+3938639,2138,Georgia,25036,Otar Kakabadze,2,Right Wing Back,Group Stage
+3938639,2138,Georgia,31707,Levan Shengelia,19,,Group Stage
+3938639,2138,Georgia,33234,Georges Mikautadze,22,Right Center Forward,Group Stage
+3938639,2138,Georgia,38225,Jemal Tabidze,24,,Group Stage
+3938639,2138,Georgia,38229,Khvicha Kvaratskhelia,7,Left Center Forward,Group Stage
+3938639,2138,Georgia,41202,Giorgi Kochorashvili,6,Left Center Midfield,Group Stage
+3938639,2138,Georgia,44183,Zuriko Davitashvili,9,Right Wing,Group Stage
+3938639,2138,Georgia,46802,Nika Kvekveskiri,16,,Group Stage
+3938639,2138,Georgia,48178,Luka Lochoshvili,14,Left Wing Back,Group Stage
+3938639,2138,Georgia,102371,Giorgi Mamardashvili,25,Goalkeeper,Group Stage
+3938639,2138,Georgia,102372,Budu Zivzivadze,8,Right Center Back,Group Stage
+3938639,2138,Georgia,135844,Sandro Altunashvili,18,Left Defensive Midfield,Group Stage
+3938639,2138,Georgia,158014,Luka Gugeshashvili,12,,Group Stage
+3938639,2138,Georgia,264017,Anzor Mekvabishvili,20,Center Defensive Midfield,Group Stage
+3938639,2138,Georgia,348086,Giorgi Gocholeishvili,13,,Group Stage
+3938639,2138,Georgia,390000,Gabriel Sigua,26,,Group Stage
+3938639,2138,Georgia,398886,Giorgi Gvelesiani,15,,Group Stage
+3938641,915,Austria,3325,Marko Arnautović,7,Center Forward,Group Stage
+3938641,915,Austria,4813,Andreas Weimann,24,,Group Stage
+3938641,915,Austria,8068,Maximilian Wöber,2,,Group Stage
+3938641,915,Austria,8309,Michael Gregoritsch,11,Center Forward,Group Stage
+3938641,915,Austria,8406,Florian Kainz,17,,Group Stage
+3938641,915,Austria,8506,Konrad Laimer,20,Center Attacking Midfield,Group Stage
+3938641,915,Austria,8518,Marcel Sabitzer,9,Left Wing,Group Stage
+3938641,915,Austria,8778,Gernot Trauner,3,Right Center Back,Group Stage
+3938641,915,Austria,8784,Romano Schmid,18,Center Attacking Midfield,Group Stage
+3938641,915,Austria,8931,Philipp Lienhart,15,Left Center Back,Group Stage
+3938641,915,Austria,9731,Patrick Pentz,13,Goalkeeper,Group Stage
+3938641,915,Austria,11396,Florian Grillitsch,10,Left Defensive Midfield,Group Stage
+3938641,915,Austria,11820,Kevin Danso,4,Right Center Back,Group Stage
+3938641,915,Austria,11821,Stefan Posch,5,Right Back,Group Stage
+3938641,915,Austria,13315,Philipp Mwene,16,Left Back,Group Stage
+3938641,915,Austria,24977,Christoph Baumgartner,19,Right Wing,Group Stage
+3938641,915,Austria,32417,Heinz Lindner,1,,Group Stage
+3938641,915,Austria,33297,Patrick Wimmer,23,Right Wing,Group Stage
+3938641,915,Austria,39120,Flavius Daniliuc,21,,Group Stage
+3938641,915,Austria,39460,Nicolas Seiwald,6,Right Defensive Midfield,Group Stage
+3938641,915,Austria,39545,Alexander Prass,8,Left Back,Group Stage
+3938641,915,Austria,41371,Niklas Hedl,12,,Group Stage
+3938641,915,Austria,48169,Marco Grüll,26,,Group Stage
+3938641,915,Austria,152512,Leopold Querfeld,14,,Group Stage
+3938641,915,Austria,403718,Matthias Seidl,22,,Group Stage
+3938641,915,Austria,403823,Maximilian Entrup,25,,Group Stage
+3938641,789,Poland,4626,Jan Bednarek,5,Right Center Back,Group Stage
+3938641,789,Poland,4664,Sebastian Szymański,20,,Group Stage
+3938641,789,Poland,5660,Piotr Zieliński,10,Right Center Midfield,Group Stage
+3938641,789,Poland,5667,Kamil Grosicki,11,Center Defensive Midfield,Group Stage
+3938641,789,Poland,5668,Robert Lewandowski,9,Left Center Forward,Group Stage
+3938641,789,Poland,5669,Wojciech Szczęsny,1,Goalkeeper,Group Stage
+3938641,789,Poland,5673,Bartosz Bereszyński,18,,Group Stage
+3938641,789,Poland,7654,Sebastian Walukiewicz,4,,Group Stage
+3938641,789,Poland,7663,Adam Buksa,16,Left Center Forward,Group Stage
+3938641,789,Poland,7979,Przemysław Frankowski,19,Right Wing Back,Group Stage
+3938641,789,Poland,7982,Taras Wiktorowicz Romanczuk,13,,Group Stage
+3938641,789,Poland,8289,Bartosz Salamon,2,,Group Stage
+3938641,789,Poland,8714,Damian Szymański,17,,Group Stage
+3938641,789,Poland,8737,Tymoteusz Puchacz,15,,Group Stage
+3938641,789,Poland,8836,Karol Świderski,7,Right Center Forward,Group Stage
+3938641,789,Poland,11508,Łukasz Skorupski,12,,Group Stage
+3938641,789,Poland,12493,Krzysztof Piątek,23,Right Center Forward,Group Stage
+3938641,789,Poland,15859,Bartosz Slisz,24,Center Defensive Midfield,Group Stage
+3938641,789,Poland,20841,Jakub Piotrowski,6,Left Center Midfield,Group Stage
+3938641,789,Poland,28453,Michał Skóraś,25,,Group Stage
+3938641,789,Poland,29480,Jakub Moder,8,Left Center Midfield,Group Stage
+3938641,789,Poland,30739,Paweł Dawidowicz,3,Center Back,Group Stage
+3938641,789,Poland,31030,Marcin Bulka,22,,Group Stage
+3938641,789,Poland,33680,Kacper Urbanski,26,Right Defensive Midfield,Group Stage
+3938641,789,Poland,44166,Jakub Piotr Kiwior,14,Left Center Back,Group Stage
+3938641,789,Poland,50502,Nicola Zalewski,21,Left Wing Back,Group Stage
+3938644,780,Portugal,3193,Bernardo Mota Veiga de Carvalho e Silva,10,,Group Stage
+3938644,780,Portugal,5204,Bruno Miguel Borges Fernandes,8,,Group Stage
+3938644,780,Portugal,5205,Rui Pedro dos Santos Patrício,1,,Group Stage
+3938644,780,Portugal,5206,Rúben Santos Gato Alves Dias,4,,Group Stage
+3938644,780,Portugal,5207,Cristiano Ronaldo dos Santos Aveiro,7,Center Forward,Group Stage
+3938644,780,Portugal,6374,Nélson Cabral Semedo,2,Right Center Back,Group Stage
+3938644,780,Portugal,7005,João Pedro Cavaco Cancelo,20,,Group Stage
+3938644,780,Portugal,9927,Rúben Diogo Da Silva Neves,18,Left Defensive Midfield,Group Stage
+3938644,780,Portugal,9929,Diogo José Teixeira da Silva,21,Left Wing Back,Group Stage
+3938644,780,Portugal,12041,João Félix Sequeira,11,Left Attacking Midfield,Group Stage
+3938644,780,Portugal,12169,João Maria Lobo Alves Palhinha Gonçalves,6,Left Defensive Midfield,Group Stage
+3938644,780,Portugal,13621,Danilo Luís Hélio Pereira,13,Center Back,Group Stage
+3938644,780,Portugal,16028,José Diogo Dalot Teixeira,5,Right Wing Back,Group Stage
+3938644,780,Portugal,18866,José Pedro Malheiro de Sá,12,,Group Stage
+3938644,780,Portugal,20016,Kléper Laveran Lima Ferreira,3,,Group Stage
+3938644,780,Portugal,23256,Pedro Lomba Neto,25,Left Wing Back,Group Stage
+3938644,780,Portugal,32975,Diogo Meireles Costa,22,Goalkeeper,Group Stage
+3938644,780,Portugal,34639,Vitor Machado Ferreira,23,,Group Stage
+3938644,780,Portugal,38803,Gonçalo Matias Ramos,9,Center Forward,Group Stage
+3938644,780,Portugal,39624,Francisco Fernandes Conceição,26,Right Attacking Midfield,Group Stage
+3938644,780,Portugal,40874,Matheus Luiz Nunes,16,Right Defensive Midfield,Group Stage
+3938644,780,Portugal,41092,Nuno Mendes,19,,Group Stage
+3938644,780,Portugal,42106,Gonçalo Bernardo Inácio,14,Left Center Back,Group Stage
+3938644,780,Portugal,143854,António João Pereira Albuquerque Tavares Silva,24,Right Center Back,Group Stage
+3938644,780,Portugal,143859,João Neves,15,Right Defensive Midfield,Group Stage
+3938644,2138,Georgia,7087,Saba Lobzhanidze,23,,Group Stage
+3938644,2138,Georgia,7655,Lasha Dvali,3,Left Center Back,Group Stage
+3938644,2138,Georgia,7839,Guram Kashia,4,Center Back,Group Stage
+3938644,2138,Georgia,11335,Otar Kiteishvili,17,Center Defensive Midfield,Group Stage
+3938644,2138,Georgia,16005,Solomon Kverkvelia,5,Right Center Back,Group Stage
+3938644,2138,Georgia,22242,Heorhii Tsitaishvili,21,Left Wing Back,Group Stage
+3938644,2138,Georgia,23272,Giorgi Loria,1,,Group Stage
+3938644,2138,Georgia,23646,Giorgi Chakvetadze,10,Right Center Midfield,Group Stage
+3938644,2138,Georgia,24284,Giorgi Kvilitaia,11,,Group Stage
+3938644,2138,Georgia,25036,Otar Kakabadze,2,Right Wing Back,Group Stage
+3938644,2138,Georgia,31707,Levan Shengelia,19,,Group Stage
+3938644,2138,Georgia,33234,Georges Mikautadze,22,Right Center Forward,Group Stage
+3938644,2138,Georgia,38225,Jemal Tabidze,24,,Group Stage
+3938644,2138,Georgia,38229,Khvicha Kvaratskhelia,7,Left Center Forward,Group Stage
+3938644,2138,Georgia,41202,Giorgi Kochorashvili,6,Left Center Midfield,Group Stage
+3938644,2138,Georgia,44183,Zuriko Davitashvili,9,Left Center Forward,Group Stage
+3938644,2138,Georgia,46802,Nika Kvekveskiri,16,,Group Stage
+3938644,2138,Georgia,48178,Luka Lochoshvili,14,Left Wing Back,Group Stage
+3938644,2138,Georgia,102371,Giorgi Mamardashvili,25,Goalkeeper,Group Stage
+3938644,2138,Georgia,102372,Budu Zivzivadze,8,,Group Stage
+3938644,2138,Georgia,135844,Sandro Altunashvili,18,,Group Stage
+3938644,2138,Georgia,158014,Luka Gugeshashvili,12,,Group Stage
+3938644,2138,Georgia,264017,Anzor Mekvabishvili,20,Right Center Midfield,Group Stage
+3938644,2138,Georgia,348086,Giorgi Gocholeishvili,13,,Group Stage
+3938644,2138,Georgia,390000,Gabriel Sigua,26,,Group Stage
+3938644,2138,Georgia,398886,Giorgi Gvelesiani,15,Right Center Back,Group Stage
+3938643,771,France,2972,Marcus Thuram,15,,Group Stage
+3938643,771,France,3009,Kylian Mbappé Lottin,10,Center Forward,Group Stage
+3938643,771,France,3026,Adrien Rabiot,14,Left Center Midfield,Group Stage
+3938643,771,France,3379,Alphonse Areola,23,,Group Stage
+3938643,771,France,3604,Olivier Giroud,9,Left Wing,Group Stage
+3938643,771,France,3761,Mike Maignan,16,Goalkeeper,Group Stage
+3938643,771,France,3804,Ferland Mendy,3,,Group Stage
+3938643,771,France,3961,N'Golo Kanté,13,Right Center Midfield,Group Stage
+3938643,771,France,4445,Jules Koundé,5,Right Back,Group Stage
+3938643,771,France,4893,Brice Samba,1,,Group Stage
+3938643,771,France,5476,Benjamin Pavard,2,,Group Stage
+3938643,771,France,5477,Ousmane Dembélé,11,Right Wing,Group Stage
+3938643,771,France,5487,Antoine Griezmann,7,Right Center Midfield,Group Stage
+3938643,771,France,6704,Theo Bernard François Hernández,22,Left Back,Group Stage
+3938643,771,France,7252,Jonathan Clauss,21,,Group Stage
+3938643,771,France,8217,Kingsley Coman,20,,Group Stage
+3938643,771,France,8519,Dayotchanculle Upamecano,4,Right Center Back,Group Stage
+3938643,771,France,10481,Aurélien Djani Tchouaméni,8,Center Defensive Midfield,Group Stage
+3938643,771,France,11135,Ibrahima Konaté,24,,Group Stage
+3938643,771,France,11990,Youssouf Fofana,19,Center Defensive Midfield,Group Stage
+3938643,771,France,17592,William Saliba,17,Left Center Back,Group Stage
+3938643,771,France,22097,Randal Kolo Muani,12,Right Wing,Group Stage
+3938643,771,France,24778,Eduardo Camavinga,6,Left Center Midfield,Group Stage
+3938643,771,France,39420,Bradley Barcola,25,Left Wing,Group Stage
+3938643,771,France,144059,Warren Zaire Emery,18,,Group Stage
+3938643,789,Poland,4626,Jan Bednarek,5,Right Center Back,Group Stage
+3938643,789,Poland,4664,Sebastian Szymański,20,Right Center Midfield,Group Stage
+3938643,789,Poland,5660,Piotr Zieliński,10,Left Center Midfield,Group Stage
+3938643,789,Poland,5667,Kamil Grosicki,11,,Group Stage
+3938643,789,Poland,5668,Robert Lewandowski,9,Left Center Forward,Group Stage
+3938643,789,Poland,5669,Wojciech Szczęsny,1,,Group Stage
+3938643,789,Poland,5673,Bartosz Bereszyński,18,,Group Stage
+3938643,789,Poland,7654,Sebastian Walukiewicz,4,,Group Stage
+3938643,789,Poland,7663,Adam Buksa,16,,Group Stage
+3938643,789,Poland,7979,Przemysław Frankowski,19,Right Wing Back,Group Stage
+3938643,789,Poland,7982,Taras Wiktorowicz Romanczuk,13,,Group Stage
+3938643,789,Poland,8289,Bartosz Salamon,2,,Group Stage
+3938643,789,Poland,8714,Damian Szymański,17,,Group Stage
+3938643,789,Poland,8737,Tymoteusz Puchacz,15,,Group Stage
+3938643,789,Poland,8836,Karol Świderski,7,Right Center Midfield,Group Stage
+3938643,789,Poland,11508,Łukasz Skorupski,12,Goalkeeper,Group Stage
+3938643,789,Poland,12493,Krzysztof Piątek,23,,Group Stage
+3938643,789,Poland,15859,Bartosz Slisz,24,,Group Stage
+3938643,789,Poland,20841,Jakub Piotrowski,6,,Group Stage
+3938643,789,Poland,28453,Michał Skóraś,25,Left Wing Back,Group Stage
+3938643,789,Poland,29480,Jakub Moder,8,Center Defensive Midfield,Group Stage
+3938643,789,Poland,30739,Paweł Dawidowicz,3,Center Back,Group Stage
+3938643,789,Poland,31030,Marcin Bulka,22,,Group Stage
+3938643,789,Poland,33680,Kacper Urbanski,26,Right Center Forward,Group Stage
+3938643,789,Poland,44166,Jakub Piotr Kiwior,14,Left Center Back,Group Stage
+3938643,789,Poland,50502,Nicola Zalewski,21,Left Wing Back,Group Stage
+3938638,911,Ukraine,3575,Oleksandr Zinchenko,17,Left Back,Group Stage
+3938638,911,Ukraine,8830,Andriy Yarmolenko,7,Right Wing,Group Stage
+3938638,911,Ukraine,11000,Taras Stepanenko,6,Left Defensive Midfield,Group Stage
+3938638,911,Ukraine,16509,Viktor Tsygankov,15,Right Wing,Group Stage
+3938638,911,Ukraine,16514,Serhii Sydorchuk,5,,Group Stage
+3938638,911,Ukraine,16557,Ruslan Malinovskiy,8,Left Defensive Midfield,Group Stage
+3938638,911,Ukraine,18617,Mykola Matvienko,22,Left Center Back,Group Stage
+3938638,911,Ukraine,20827,Vitalii Mykolenko,16,,Group Stage
+3938638,911,Ukraine,21294,Mykola Shaparenko,19,Right Defensive Midfield,Group Stage
+3938638,911,Ukraine,21390,Andriy Lunin,23,Goalkeeper,Group Stage
+3938638,911,Ukraine,22243,Heorhii Bushchan,1,,Group Stage
+3938638,911,Ukraine,23649,Roman Yaremchuk,9,Right Defensive Midfield,Group Stage
+3938638,911,Ukraine,25079,Artem Dovbyk,11,Center Forward,Group Stage
+3938638,911,Ukraine,30059,Oleksandr Svatok,3,,Group Stage
+3938638,911,Ukraine,31892,Oleksandr Zubkov,20,,Group Stage
+3938638,911,Ukraine,36911,Maksym Talovierov,4,,Group Stage
+3938638,911,Ukraine,37330,Anatolii Trubin,12,,Group Stage
+3938638,911,Ukraine,38975,Georgiy Sudakov,14,Center Attacking Midfield,Group Stage
+3938638,911,Ukraine,39136,Illia Zabarnyi,13,Right Center Back,Group Stage
+3938638,911,Ukraine,39483,Mykhailo Mudryk,10,Left Wing,Group Stage
+3938638,911,Ukraine,40141,Vladyslav Vanat,25,,Group Stage
+3938638,911,Ukraine,44085,Valerii Bondar,21,,Group Stage
+3938638,911,Ukraine,44557,Bohdan Mykhaylichenko,26,,Group Stage
+3938638,911,Ukraine,45785,Yukhym Konoplya,2,Right Back,Group Stage
+3938638,911,Ukraine,45863,Oleksandr Tymchyk,24,Right Back,Group Stage
+3938638,911,Ukraine,144127,Volodymyr Brazhko,18,Left Defensive Midfield,Group Stage
+3938638,905,Romania,8660,George Alexandru Puşcaş,9,Center Forward,Group Stage
+3938638,905,Romania,10915,Denis Alibec,7,,Group Stage
+3938638,905,Romania,10916,Nicolae Claudiu Stanciu,21,Left Center Midfield,Group Stage
+3938638,905,Romania,16344,Răzvan Gabriel Marin,18,Right Center Midfield,Group Stage
+3938638,905,Romania,24861,Andrei Florin Ratiu,2,Right Back,Group Stage
+3938638,905,Romania,28242,Florin Constantin Niţă,1,Goalkeeper,Group Stage
+3938638,905,Romania,28565,Ianis Hagi,10,Right Midfield,Group Stage
+3938638,905,Romania,30839,Vasile Mogoș,22,,Group Stage
+3938638,905,Romania,30913,Marius Mihai Marin,6,Center Defensive Midfield,Group Stage
+3938638,905,Romania,31193,Denis Mihai Drăguş,19,Center Forward,Group Stage
+3938638,905,Romania,31908,Andrei Burcă Andonie,15,Left Center Back,Group Stage
+3938638,905,Romania,34599,Florinel Teodor Coman,17,Left Midfield,Group Stage
+3938638,905,Romania,34600,Nicușor Silviu Bancu,11,Left Back,Group Stage
+3938638,905,Romania,34601,Ionuţ Nedelcearu,5,,Group Stage
+3938638,905,Romania,34602,Adrián Rus,4,Center Defensive Midfield,Group Stage
+3938638,905,Romania,39615,Radu Drăgușin,3,Right Center Back,Group Stage
+3938638,905,Romania,45023,Bogdan Racovițan,24,Left Center Midfield,Group Stage
+3938638,905,Romania,45125,Alexandru Cicâldău,8,,Group Stage
+3938638,905,Romania,56905,Dennis Man,20,Right Midfield,Group Stage
+3938638,905,Romania,72512,Valentin Mihai Mihăilă,13,Left Midfield,Group Stage
+3938638,905,Romania,101821,Darius Dumitru Olaru,14,,Group Stage
+3938638,905,Romania,130905,Horaţiu Alexandru Moldovan,12,,Group Stage
+3938638,905,Romania,130984,Deian Cristian Sorescu,23,,Group Stage
+3938638,905,Romania,132260,Ștefan Târnovanu,16,,Group Stage
+3938638,905,Romania,138355,Adrian Gheorghe Șut,26,,Group Stage
+3938638,905,Romania,190893,Daniel George Birligea,25,,Group Stage
+3930183,908,Slovakia,3711,Martin Dúbravka,1,Goalkeeper,Group Stage
+3930183,908,Slovakia,4152,Marek Rodák,12,,Group Stage
+3930183,908,Slovakia,6798,Stanislav Lobotka,22,Center Defensive Midfield,Group Stage
+3930183,908,Slovakia,6990,Milan Škriniar,14,Left Center Back,Group Stage
+3930183,908,Slovakia,7975,Lukáš Haraslín,17,Left Wing,Group Stage
+3930183,908,Slovakia,8422,Ľubomír Tupta,10,,Group Stage
+3930183,908,Slovakia,8967,Ondrej Duda,8,Left Center Midfield,Group Stage
+3930183,908,Slovakia,8976,Vernon De Marco Morlacchi,15,,Group Stage
+3930183,908,Slovakia,9722,Peter Pekarík,2,Right Back,Group Stage
+3930183,908,Slovakia,10919,Juraj Kucka,19,Right Center Midfield,Group Stage
+3930183,908,Slovakia,11383,László Bénes,11,,Group Stage
+3930183,908,Slovakia,15546,Matúš Bero,21,Left Center Midfield,Group Stage
+3930183,908,Slovakia,16041,Patrik Hrošovský,13,,Group Stage
+3930183,908,Slovakia,16298,Denis Vavro,3,Right Center Back,Group Stage
+3930183,908,Slovakia,16879,Dávid Hancko,16,Left Back,Group Stage
+3930183,908,Slovakia,20043,Norbert Gyömbér,6,Right Back,Group Stage
+3930183,908,Slovakia,28032,Ivan Schranz,26,Right Wing,Group Stage
+3930183,908,Slovakia,34904,Róbert Boženík,9,Center Forward,Group Stage
+3930183,908,Slovakia,35653,Tomáš Suslov,7,Left Wing,Group Stage
+3930183,908,Slovakia,41601,Henrich Ravas,23,,Group Stage
+3930183,908,Slovakia,43976,David Strelec,18,Center Forward,Group Stage
+3930183,908,Slovakia,44167,Dávid Ďuriš,20,Right Wing,Group Stage
+3930183,908,Slovakia,44336,Sebastián Kóša,25,,Group Stage
+3930183,908,Slovakia,52026,Tomáš Rigo,5,,Group Stage
+3930183,908,Slovakia,85063,Adam Obert,4,,Group Stage
+3930183,908,Slovakia,163610,Leo Sauer,24,,Group Stage
+3930183,905,Romania,8660,George Alexandru Puşcaş,9,Center Forward,Group Stage
+3930183,905,Romania,10915,Denis Alibec,7,,Group Stage
+3930183,905,Romania,10916,Nicolae Claudiu Stanciu,21,Left Center Midfield,Group Stage
+3930183,905,Romania,16344,Răzvan Gabriel Marin,18,Right Center Midfield,Group Stage
+3930183,905,Romania,24861,Andrei Florin Ratiu,2,Right Back,Group Stage
+3930183,905,Romania,28242,Florin Constantin Niţă,1,Goalkeeper,Group Stage
+3930183,905,Romania,28565,Ianis Hagi,10,Right Midfield,Group Stage
+3930183,905,Romania,30839,Vasile Mogoș,22,,Group Stage
+3930183,905,Romania,30913,Marius Mihai Marin,6,Center Defensive Midfield,Group Stage
+3930183,905,Romania,31193,Denis Mihai Drăguş,19,Center Forward,Group Stage
+3930183,905,Romania,31908,Andrei Burcă Andonie,15,Left Center Back,Group Stage
+3930183,905,Romania,34599,Florinel Teodor Coman,17,Left Midfield,Group Stage
+3930183,905,Romania,34600,Nicușor Silviu Bancu,11,Left Back,Group Stage
+3930183,905,Romania,34601,Ionuţ Nedelcearu,5,,Group Stage
+3930183,905,Romania,34602,Adrián Rus,4,Right Defensive Midfield,Group Stage
+3930183,905,Romania,39615,Radu Drăgușin,3,Right Center Back,Group Stage
+3930183,905,Romania,45023,Bogdan Racovițan,24,,Group Stage
+3930183,905,Romania,45125,Alexandru Cicâldău,8,,Group Stage
+3930183,905,Romania,56905,Dennis Man,20,Right Midfield,Group Stage
+3930183,905,Romania,72512,Valentin Mihai Mihăilă,13,,Group Stage
+3930183,905,Romania,101821,Darius Dumitru Olaru,14,,Group Stage
+3930183,905,Romania,130905,Horaţiu Alexandru Moldovan,12,,Group Stage
+3930183,905,Romania,130984,Deian Cristian Sorescu,23,Left Midfield,Group Stage
+3930183,905,Romania,132260,Ștefan Târnovanu,16,,Group Stage
+3930183,905,Romania,138355,Adrian Gheorghe Șut,26,,Group Stage
+3930183,905,Romania,190893,Daniel George Birligea,25,,Group Stage
+3930181,768,England,3088,Lewis Dunk,15,,Group Stage
+3930181,768,England,3205,Kyle Walker,2,Right Back,Group Stage
+3930181,768,England,3244,John Stones,5,Right Center Back,Group Stage
+3930181,768,England,3308,Kieran Trippier,12,Left Back,Group Stage
+3930181,768,England,3382,Luke Shaw,3,,Group Stage
+3930181,768,England,3468,Jordan Pickford,1,Goalkeeper,Group Stage
+3930181,768,England,3495,Joe Gomez,22,,Group Stage
+3930181,768,England,3664,Trent Alexander-Arnold,8,Left Back,Group Stage
+3930181,768,England,3822,Ezri Konsa Ngoyo,14,,Group Stage
+3930181,768,England,3834,Ivan Toney,17,,Group Stage
+3930181,768,England,3943,Declan Rice,4,Left Defensive Midfield,Group Stage
+3930181,768,England,4073,Dean Henderson,23,,Group Stage
+3930181,768,England,4354,Phil Foden,11,Left Wing,Group Stage
+3930181,768,England,4760,Ollie Watkins,19,,Group Stage
+3930181,768,England,9000,Eberechi Eze,21,,Group Stage
+3930181,768,England,9640,Jarrod Bowen,20,,Group Stage
+3930181,768,England,10955,Harry Kane,9,Center Forward,Group Stage
+3930181,768,England,22084,Bukayo Saka,7,Right Wing,Group Stage
+3930181,768,England,22783,Aaron Ramsdale,13,,Group Stage
+3930181,768,England,28104,Anthony Gordon,18,Left Wing,Group Stage
+3930181,768,England,29399,Conor Gallagher,16,Right Defensive Midfield,Group Stage
+3930181,768,England,30714,Jude Bellingham,10,Center Attacking Midfield,Group Stage
+3930181,768,England,34526,Marc Guehi,6,Left Center Back,Group Stage
+3930181,768,England,39461,Cole Palmer,24,Right Wing,Group Stage
+3930181,768,England,77723,Adam Wharton,25,,Group Stage
+3930181,768,England,99174,Kobbie Mainoo,26,Right Defensive Midfield,Group Stage
+3930181,944,Slovenia,6378,Jan Oblak,1,Goalkeeper,Group Stage
+3930181,944,Slovenia,6941,Jasmin Kurtič,14,,Group Stage
+3930181,944,Slovenia,7139,Josip Iličić,26,Left Center Forward,Group Stage
+3930181,944,Slovenia,8662,Vid Belec,12,,Group Stage
+3930181,944,Slovenia,10987,Sandi Lovric,8,,Group Stage
+3930181,944,Slovenia,11416,Jon Gorenc Stankovič,5,Left Midfield,Group Stage
+3930181,944,Slovenia,15896,Timi Elšnik,10,Left Defensive Midfield,Group Stage
+3930181,944,Slovenia,16047,Jaka Bijol,6,Left Center Back,Group Stage
+3930181,944,Slovenia,16510,Benjamin Verbič,7,,Group Stage
+3930181,944,Slovenia,16528,Petar Stojanović,20,Right Midfield,Group Stage
+3930181,944,Slovenia,24109,Žan Celar,19,Right Center Forward,Group Stage
+3930181,944,Slovenia,28211,Erik Janža,13,Left Back,Group Stage
+3930181,944,Slovenia,30940,Jure Balkovec,3,Left Back,Group Stage
+3930181,944,Slovenia,31089,Jan Mlakar,17,Left Midfield,Group Stage
+3930181,944,Slovenia,31866,Andraž Šporar,9,Right Center Forward,Group Stage
+3930181,944,Slovenia,31894,Miha Blažič,4,,Group Stage
+3930181,944,Slovenia,31968,Adam Gnezda Čerin,22,Right Defensive Midfield,Group Stage
+3930181,944,Slovenia,38759,Benjamin Šeško,11,Left Center Forward,Group Stage
+3930181,944,Slovenia,101806,David Brekalo,23,,Group Stage
+3930181,944,Slovenia,101807,Igor Vekič,16,,Group Stage
+3930181,944,Slovenia,101810,Tomi Horvat,15,,Group Stage
+3930181,944,Slovenia,137487,Žan Karničnik,2,Right Back,Group Stage
+3930181,944,Slovenia,205932,Vanja Drkušić,21,Right Center Back,Group Stage
+3930181,944,Slovenia,290289,Žan Vipotnik,18,,Group Stage
+3930181,944,Slovenia,293377,Nino Žugelj,24,,Group Stage
+3930181,944,Slovenia,404312,Adrian Zeljković,25,,Group Stage
+3930178,914,Italy,4587,Matteo Darmian,13,Right Center Back,Group Stage
+3930178,914,Italy,6957,Alex Meret,26,,Group Stage
+3930178,914,Italy,6963,Lorenzo Pellegrini,10,Left Center Midfield,Group Stage
+3930178,914,Italy,6979,Stephan El Shaarawy,22,,Group Stage
+3930178,914,Italy,6993,Bryan Cristante,16,,Group Stage
+3930178,914,Italy,7004,Gianluca Mancini,17,,Group Stage
+3930178,914,Italy,7024,Jorge Luiz Frello Filho,8,Center Defensive Midfield,Group Stage
+3930178,914,Italy,7036,Gianluigi Donnarumma,1,Goalkeeper,Group Stage
+3930178,914,Italy,7156,Federico Chiesa,14,Left Wing Back,Group Stage
+3930178,914,Italy,7480,Alessandro Bastoni,23,Center Back,Group Stage
+3930178,914,Italy,8181,Nicolò Barella,18,Right Center Midfield,Group Stage
+3930178,914,Italy,8792,Mattia Zaccagni,20,Left Wing Back,Group Stage
+3930178,914,Italy,10992,Gianluca Scamacca,9,Left Center Forward,Group Stage
+3930178,914,Italy,11514,Giovanni Di Lorenzo,2,Right Wing Back,Group Stage
+3930178,914,Italy,12255,Federico Dimarco,3,Left Wing Back,Group Stage
+3930178,914,Italy,23221,Alessandro Buongiorno,4,,Group Stage
+3930178,914,Italy,25048,Giacomo Raspadori,11,Right Center Forward,Group Stage
+3930178,914,Italy,29965,Raoul Bellanova,15,,Group Stage
+3930178,914,Italy,30926,Davide Frattesi,7,Right Center Midfield,Group Stage
+3930178,914,Italy,31093,Mateo Retegui,19,Left Center Forward,Group Stage
+3930178,914,Italy,31225,Guglielmo Vicario,12,,Group Stage
+3930178,914,Italy,38909,Nicolò Fagioli,21,Center Defensive Midfield,Group Stage
+3930178,914,Italy,41768,Riccardo Calafiori,5,Left Center Back,Group Stage
+3930178,914,Italy,49445,Michael Ijemuan Folorunsho,25,,Group Stage
+3930178,914,Italy,50729,Andrea Cambiaso,24,,Group Stage
+3930178,914,Italy,133968,Federico Gatti,6,,Group Stage
+3930178,785,Croatia,5456,Mateo Kovačić,8,Left Center Midfield,Group Stage
+3930178,785,Croatia,5459,Marko Pjaca,20,,Group Stage
+3930178,785,Croatia,5460,Andrej Kramarić,9,Center Forward,Group Stage
+3930178,785,Croatia,5463,Luka Modrić,10,Right Center Midfield,Group Stage
+3930178,785,Croatia,5468,Domagoj Vida,21,,Group Stage
+3930178,785,Croatia,5469,Marcelo Brozović,11,Center Defensive Midfield,Group Stage
+3930178,785,Croatia,5474,Ivan Perišić,14,Right Wing,Group Stage
+3930178,785,Croatia,7693,Bruno Petković,17,,Group Stage
+3930178,785,Croatia,8654,Ante Budimir,16,Center Forward,Group Stage
+3930178,785,Croatia,8773,Marin Pongracic,3,Left Center Back,Group Stage
+3930178,785,Croatia,11603,Mario Pašalić,15,Left Wing,Group Stage
+3930178,785,Croatia,12625,Borna Sosa,19,,Group Stage
+3930178,785,Croatia,16531,Dominik Livaković,1,Goalkeeper,Group Stage
+3930178,785,Croatia,28368,Luka Ivanušec,18,Left Center Midfield,Group Stage
+3930178,785,Croatia,28835,Ivica Ivušić,23,,Group Stage
+3930178,785,Croatia,28914,Lovro Majer,7,Right Center Midfield,Group Stage
+3930178,785,Croatia,29163,Josip Juranović,22,Right Wing,Group Stage
+3930178,785,Croatia,32689,Martin Erlić,5,,Group Stage
+3930178,785,Croatia,33018,Joško Gvardiol,4,Left Back,Group Stage
+3930178,785,Croatia,37148,Josip Šutalo,6,Right Center Back,Group Stage
+3930178,785,Croatia,39490,Luka Sučić,25,Right Wing,Group Stage
+3930178,785,Croatia,44975,Nediljko Labrović,12,,Group Stage
+3930178,785,Croatia,49337,Josip Stanišić,2,Right Back,Group Stage
+3930178,785,Croatia,63505,Martin Baturina,26,,Group Stage
+3930178,785,Croatia,131170,Marco Pašalić,24,,Group Stage
+3930176,770,Germany,3053,Leroy Sané,19,Right Wing,Group Stage
+3930176,770,Germany,3097,Pascal Groß,5,,Group Stage
+3930176,770,Germany,3167,Antonio Rüdiger,2,Right Center Back,Group Stage
+3930176,770,Germany,3493,Emre Can,25,,Group Stage
+3930176,770,Germany,5562,Thomas Müller,13,,Group Stage
+3930176,770,Germany,5570,Manuel Neuer,1,Goalkeeper,Group Stage
+3930176,770,Germany,5574,Toni Kroos,8,Left Defensive Midfield,Group Stage
+3930176,770,Germany,5579,Joshua Kimmich,6,Right Back,Group Stage
+3930176,770,Germany,8211,Benjamin Henrichs,20,,Group Stage
+3930176,770,Germany,8221,Jonathan Tah,4,Left Center Back,Group Stage
+3930176,770,Germany,8393,Oliver Baumann,12,,Group Stage
+3930176,770,Germany,8538,Waldemar Anton,16,,Group Stage
+3930176,770,Germany,8546,Niclas Füllkrug,9,Left Wing,Group Stage
+3930176,770,Germany,8966,Kai Havertz,7,Center Forward,Group Stage
+3930176,770,Germany,9195,Robert Andrich,23,Right Defensive Midfield,Group Stage
+3930176,770,Germany,10287,İlkay Gündoğan,21,Center Attacking Midfield,Group Stage
+3930176,770,Germany,12034,David Raum,3,Left Back,Group Stage
+3930176,770,Germany,12407,Maximilian Mittelstädt,18,Left Back,Group Stage
+3930176,770,Germany,13294,Robin Koch,24,,Group Stage
+3930176,770,Germany,20055,Marc-André ter Stegen,22,,Group Stage
+3930176,770,Germany,23614,Chris Führich,11,,Group Stage
+3930176,770,Germany,24118,Nico Schlotterbeck,15,Left Center Back,Group Stage
+3930176,770,Germany,35242,Maximilian Beier,14,Right Defensive Midfield,Group Stage
+3930176,770,Germany,39565,Jamal Musiala,10,Right Wing,Group Stage
+3930176,770,Germany,40724,Florian Wirtz,17,Left Wing,Group Stage
+3930176,770,Germany,131243,Deniz Undav,26,,Group Stage
+3930176,773,Switzerland,3500,Granit Xhaka,10,Left Defensive Midfield,Group Stage
+3930176,773,Switzerland,3533,Xherdan Shaqiri,23,,Group Stage
+3930176,773,Switzerland,5537,Fabian Lukas Schär,22,Right Center Back,Group Stage
+3930176,773,Switzerland,5538,Denis Lemi Zakaria Lako Lado,6,,Group Stage
+3930176,773,Switzerland,5544,Ricardo Iván Rodríguez Araya,13,Left Center Back,Group Stage
+3930176,773,Switzerland,5545,Breel-Donald Embolo,7,Center Forward,Group Stage
+3930176,773,Switzerland,5548,Steven Zuber,14,,Group Stage
+3930176,773,Switzerland,5549,Manuel Obafemi Akanji,5,Center Back,Group Stage
+3930176,773,Switzerland,5550,Yann Sommer,1,Goalkeeper,Group Stage
+3930176,773,Switzerland,6983,Remo Freuler,8,Right Defensive Midfield,Group Stage
+3930176,773,Switzerland,7796,Silvan Widmer,3,Right Wing Back,Group Stage
+3930176,773,Switzerland,8814,Nico Elvedi,4,,Group Stage
+3930176,773,Switzerland,11457,Vincent Sierro,16,,Group Stage
+3930176,773,Switzerland,11467,Yvon Landry Mvogo,12,,Group Stage
+3930176,773,Switzerland,12326,Renato Steffen,11,,Group Stage
+3930176,773,Switzerland,16016,Michel Aebischer,20,Left Wing Back,Group Stage
+3930176,773,Switzerland,17974,Gregor Kobel,21,,Group Stage
+3930176,773,Switzerland,29006,Noah Okafor,9,,Group Stage
+3930176,773,Switzerland,29227,Leonidas Stergiou,2,,Group Stage
+3930176,773,Switzerland,29353,Cédric Zesiger,15,,Group Stage
+3930176,773,Switzerland,30401,Ruben Vargas,17,Right Attacking Midfield,Group Stage
+3930176,773,Switzerland,41655,Ardon Jashari,24,,Group Stage
+3930176,773,Switzerland,45190,Dan Ndoye,19,Left Attacking Midfield,Group Stage
+3930176,773,Switzerland,48335,Mohamed Zeki Amdouni,25,Left Attacking Midfield,Group Stage
+3930176,773,Switzerland,49007,Kwadwo Duah,18,Center Forward,Group Stage
+3930176,773,Switzerland,50436,Fabian Rieder,26,Right Attacking Midfield,Group Stage
+3930175,782,Belgium,2954,Youri Tielemans,8,Right Defensive Midfield,Group Stage
+3930175,782,Belgium,3077,Jan Vertonghen,5,Left Center Back,Group Stage
+3930175,782,Belgium,3089,Kevin De Bruyne,7,Center Attacking Midfield,Group Stage
+3930175,782,Belgium,3289,Romelu Lukaku Menama,10,Center Forward,Group Stage
+3930175,782,Belgium,5633,Yannick Ferreira Carrasco,11,Left Wing,Group Stage
+3930175,782,Belgium,6989,Timothy Castagne,21,Right Back,Group Stage
+3930175,782,Belgium,8240,Koen Casteels,1,Goalkeeper,Group Stage
+3930175,782,Belgium,8854,Wout Faes,4,Right Center Back,Group Stage
+3930175,782,Belgium,8950,Orel Mangala,18,Right Defensive Midfield,Group Stage
+3930175,782,Belgium,10479,Matz Sels,13,,Group Stage
+3930175,782,Belgium,12306,Dodi Lukebakio,14,Right Wing,Group Stage
+3930175,782,Belgium,16275,Ikoma Loïs Openda,20,,Group Stage
+3930175,782,Belgium,16559,Leandro Trossard,9,Right Wing,Group Stage
+3930175,782,Belgium,23650,Jeremy Doku,22,Left Wing,Group Stage
+3930175,782,Belgium,23741,Thomas Kaminski,12,,Group Stage
+3930175,782,Belgium,29906,Aster Vranckx,16,,Group Stage
+3930175,782,Belgium,32688,Charles De Ketelaere,17,,Group Stage
+3930175,782,Belgium,35610,Maxim De Cuyper,25,,Group Stage
+3930175,782,Belgium,43913,Arthur Theate,3,Left Back,Group Stage
+3930175,782,Belgium,48347,Amadou Onana,24,Left Defensive Midfield,Group Stage
+3930175,782,Belgium,52218,Johan Bakayoko,19,,Group Stage
+3930175,782,Belgium,114832,Zeno Debast,2,Left Back,Group Stage
+3930175,782,Belgium,253306,Arthur Vermeeren,23,,Group Stage
+3930175,905,Romania,8660,George Alexandru Puşcaş,9,,Group Stage
+3930175,905,Romania,10915,Denis Alibec,7,Center Forward,Group Stage
+3930175,905,Romania,10916,Nicolae Claudiu Stanciu,21,Left Center Midfield,Group Stage
+3930175,905,Romania,16344,Răzvan Gabriel Marin,18,Right Center Midfield,Group Stage
+3930175,905,Romania,24861,Andrei Florin Ratiu,2,Right Back,Group Stage
+3930175,905,Romania,28242,Florin Constantin Niţă,1,Goalkeeper,Group Stage
+3930175,905,Romania,28565,Ianis Hagi,10,Left Midfield,Group Stage
+3930175,905,Romania,30839,Vasile Mogoș,22,,Group Stage
+3930175,905,Romania,30913,Marius Mihai Marin,6,Center Defensive Midfield,Group Stage
+3930175,905,Romania,31193,Denis Mihai Drăguş,19,Center Forward,Group Stage
+3930175,905,Romania,31908,Andrei Burcă Andonie,15,Left Center Back,Group Stage
+3930175,905,Romania,34599,Florinel Teodor Coman,17,,Group Stage
+3930175,905,Romania,34600,Nicușor Silviu Bancu,11,Left Back,Group Stage
+3930175,905,Romania,34601,Ionuţ Nedelcearu,5,,Group Stage
+3930175,905,Romania,34602,Adrián Rus,4,,Group Stage
+3930175,905,Romania,39615,Radu Drăgușin,3,Right Center Back,Group Stage
+3930175,905,Romania,45023,Bogdan Racovițan,24,,Group Stage
+3930175,905,Romania,45125,Alexandru Cicâldău,8,,Group Stage
+3930175,905,Romania,56905,Dennis Man,20,Right Midfield,Group Stage
+3930175,905,Romania,72512,Valentin Mihai Mihăilă,13,Left Midfield,Group Stage
+3930175,905,Romania,101821,Darius Dumitru Olaru,14,Center Defensive Midfield,Group Stage
+3930175,905,Romania,130905,Horaţiu Alexandru Moldovan,12,,Group Stage
+3930175,905,Romania,130984,Deian Cristian Sorescu,23,Right Back,Group Stage
+3930175,905,Romania,132260,Ștefan Târnovanu,16,,Group Stage
+3930175,905,Romania,138355,Adrian Gheorghe Șut,26,,Group Stage
+3930175,905,Romania,190893,Daniel George Birligea,25,,Group Stage
+3930174,780,Portugal,3193,Bernardo Mota Veiga de Carvalho e Silva,10,Right Wing,Group Stage
+3930174,780,Portugal,5204,Bruno Miguel Borges Fernandes,8,Center Attacking Midfield,Group Stage
+3930174,780,Portugal,5205,Rui Pedro dos Santos Patrício,1,,Group Stage
+3930174,780,Portugal,5206,Rúben Santos Gato Alves Dias,4,Right Center Back,Group Stage
+3930174,780,Portugal,5207,Cristiano Ronaldo dos Santos Aveiro,7,Center Forward,Group Stage
+3930174,780,Portugal,6374,Nélson Cabral Semedo,2,Right Back,Group Stage
+3930174,780,Portugal,7005,João Pedro Cavaco Cancelo,20,Right Back,Group Stage
+3930174,780,Portugal,9927,Rúben Diogo Da Silva Neves,18,Left Defensive Midfield,Group Stage
+3930174,780,Portugal,9929,Diogo José Teixeira da Silva,21,,Group Stage
+3930174,780,Portugal,12041,João Félix Sequeira,11,,Group Stage
+3930174,780,Portugal,12169,João Maria Lobo Alves Palhinha Gonçalves,6,Left Defensive Midfield,Group Stage
+3930174,780,Portugal,13621,Danilo Luís Hélio Pereira,13,,Group Stage
+3930174,780,Portugal,16028,José Diogo Dalot Teixeira,5,,Group Stage
+3930174,780,Portugal,18360,Rafael Alexandre Conceição Leão,17,Left Wing,Group Stage
+3930174,780,Portugal,18866,José Pedro Malheiro de Sá,12,,Group Stage
+3930174,780,Portugal,20016,Kléper Laveran Lima Ferreira,3,Left Center Back,Group Stage
+3930174,780,Portugal,23256,Pedro Lomba Neto,25,Left Wing,Group Stage
+3930174,780,Portugal,32975,Diogo Meireles Costa,22,Goalkeeper,Group Stage
+3930174,780,Portugal,34639,Vitor Machado Ferreira,23,Right Defensive Midfield,Group Stage
+3930174,780,Portugal,38803,Gonçalo Matias Ramos,9,,Group Stage
+3930174,780,Portugal,39624,Francisco Fernandes Conceição,26,,Group Stage
+3930174,780,Portugal,40874,Matheus Luiz Nunes,16,,Group Stage
+3930174,780,Portugal,41092,Nuno Mendes,19,Left Back,Group Stage
+3930174,780,Portugal,42106,Gonçalo Bernardo Inácio,14,,Group Stage
+3930174,780,Portugal,143854,António João Pereira Albuquerque Tavares Silva,24,Left Center Back,Group Stage
+3930174,780,Portugal,143859,João Neves,15,Right Defensive Midfield,Group Stage
+3930174,909,Turkey,3648,Cenk Tosun,9,,Group Stage
+3930174,909,Turkey,7039,Hakan Çalhanoğlu,10,Right Defensive Midfield,Group Stage
+3930174,909,Turkey,9085,Salih Özcan,15,,Group Stage
+3930174,909,Turkey,10349,Mehmet Zeki Çelik,2,Right Back,Group Stage
+3930174,909,Turkey,10826,Mert Müldür,18,,Group Stage
+3930174,909,Turkey,12293,Kaan Ayhan,22,Left Defensive Midfield,Group Stage
+3930174,909,Turkey,12555,Okay Yokuşlu,5,,Group Stage
+3930174,909,Turkey,18723,Yunus Akgün,25,Right Wing,Group Stage
+3930174,909,Turkey,22212,Orkun Kökçü,6,Center Attacking Midfield,Group Stage
+3930174,909,Turkey,23558,Merih Demiral,3,Right Center Back,Group Stage
+3930174,909,Turkey,29989,Yusuf Yazıcı,11,Center Attacking Midfield,Group Stage
+3930174,909,Turkey,30357,Uğurcan Çakır,23,,Group Stage
+3930174,909,Turkey,30438,Ferdi Erenay Kadıoğlu,20,Left Back,Group Stage
+3930174,909,Turkey,30442,Altay Bayındır,12,Goalkeeper,Group Stage
+3930174,909,Turkey,47383,Ahmetcan Kaplan,13,,Group Stage
+3930174,909,Turkey,48383,Abdülkerim Bardakcı,14,Left Center Back,Group Stage
+3930174,909,Turkey,49689,Muhammed Kerem Aktürkoğlu,7,Left Wing,Group Stage
+3930174,909,Turkey,78241,İsmail Yüksek,16,Left Defensive Midfield,Group Stage
+3930174,909,Turkey,116587,Arda Güler,8,Right Wing,Group Stage
+3930174,909,Turkey,133168,Bertuğ Özgür Yıldırım,26,,Group Stage
+3930174,909,Turkey,133305,Samet Akaydin,4,Right Center Back,Group Stage
+3930174,909,Turkey,134209,Barış Alper Yılmaz,21,Center Forward,Group Stage
+3930174,909,Turkey,149576,Semih Kılıçsoy,24,,Group Stage
+3930174,909,Turkey,151813,Kenan Yildiz,19,Left Wing,Group Stage
+3930170,786,Serbia,3831,Dušan Tadić,10,Right Attacking Midfield,Group Stage
+3930170,786,Serbia,4269,Aleksandar Mitrović,9,Center Forward,Group Stage
+3930170,786,Serbia,5589,Sergej Milinković-Savić,20,Left Defensive Midfield,Group Stage
+3930170,786,Serbia,5591,Filip Kostić,11,,Group Stage
+3930170,786,Serbia,5603,Nikola Milenković,4,Center Back,Group Stage
+3930170,786,Serbia,6318,Andrija Živković,14,Right Wing Back,Group Stage
+3930170,786,Serbia,6319,Luka Jović,8,Left Attacking Midfield,Group Stage
+3930170,786,Serbia,6321,Milos Veljkovic,13,Right Center Back,Group Stage
+3930170,786,Serbia,6687,Saša Lukić,22,Left Defensive Midfield,Group Stage
+3930170,786,Serbia,6901,Nemanja Maksimović,5,,Group Stage
+3930170,786,Serbia,7993,Filip Mladenović,25,Left Wing Back,Group Stage
+3930170,786,Serbia,8669,Mijat Gaćinović,21,Left Wing Back,Group Stage
+3930170,786,Serbia,15731,Predrag Rajković,1,Goalkeeper,Group Stage
+3930170,786,Serbia,16430,Uroš Spajić,24,,Group Stage
+3930170,786,Serbia,16489,Nemanja Gudelj,6,,Group Stage
+3930170,786,Serbia,18015,Dušan Vlahović,7,Left Attacking Midfield,Group Stage
+3930170,786,Serbia,18737,Srđan Babić,15,,Group Stage
+3930170,786,Serbia,20600,Vanja Milinković Savić,23,,Group Stage
+3930170,786,Serbia,27719,Strahinja Pavlović,2,Left Center Back,Group Stage
+3930170,786,Serbia,28075,Veljko Birmančević,26,Right Wing Back,Group Stage
+3930170,786,Serbia,30179,Ivan Ilić,17,Right Defensive Midfield,Group Stage
+3930170,786,Serbia,32565,Đorđe Petrović,12,,Group Stage
+3930170,786,Serbia,40735,Lazar Samardžić,19,Right Center Forward,Group Stage
+3930170,786,Serbia,44280,Nemanja Stojić,3,,Group Stage
+3930170,786,Serbia,52089,Srđan Mijailović,16,,Group Stage
+3930170,786,Serbia,87237,Petar Ratkov,18,,Group Stage
+3930170,944,Slovenia,6378,Jan Oblak,1,Goalkeeper,Group Stage
+3930170,944,Slovenia,6941,Jasmin Kurtič,14,,Group Stage
+3930170,944,Slovenia,7139,Josip Iličić,26,,Group Stage
+3930170,944,Slovenia,8662,Vid Belec,12,,Group Stage
+3930170,944,Slovenia,10987,Sandi Lovric,8,,Group Stage
+3930170,944,Slovenia,11416,Jon Gorenc Stankovič,5,Left Midfield,Group Stage
+3930170,944,Slovenia,15896,Timi Elšnik,10,Left Defensive Midfield,Group Stage
+3930170,944,Slovenia,16047,Jaka Bijol,6,Left Center Back,Group Stage
+3930170,944,Slovenia,16510,Benjamin Verbič,7,Right Center Midfield,Group Stage
+3930170,944,Slovenia,16528,Petar Stojanović,20,Right Midfield,Group Stage
+3930170,944,Slovenia,24109,Žan Celar,19,,Group Stage
+3930170,944,Slovenia,28211,Erik Janža,13,Left Back,Group Stage
+3930170,944,Slovenia,30940,Jure Balkovec,3,,Group Stage
+3930170,944,Slovenia,31089,Jan Mlakar,17,Left Midfield,Group Stage
+3930170,944,Slovenia,31866,Andraž Šporar,9,Right Center Forward,Group Stage
+3930170,944,Slovenia,31894,Miha Blažič,4,,Group Stage
+3930170,944,Slovenia,31968,Adam Gnezda Čerin,22,Right Defensive Midfield,Group Stage
+3930170,944,Slovenia,38759,Benjamin Šeško,11,Left Center Forward,Group Stage
+3930170,944,Slovenia,101806,David Brekalo,23,Left Midfield,Group Stage
+3930170,944,Slovenia,101807,Igor Vekič,16,,Group Stage
+3930170,944,Slovenia,101810,Tomi Horvat,15,,Group Stage
+3930170,944,Slovenia,137487,Žan Karničnik,2,Right Back,Group Stage
+3930170,944,Slovenia,205932,Vanja Drkušić,21,Right Center Back,Group Stage
+3930170,944,Slovenia,290289,Žan Vipotnik,18,Left Center Forward,Group Stage
+3930170,944,Slovenia,293377,Nino Žugelj,24,,Group Stage
+3930170,944,Slovenia,404312,Adrian Zeljković,25,,Group Stage
+3930169,773,Switzerland,3500,Granit Xhaka,10,Left Defensive Midfield,Group Stage
+3930169,773,Switzerland,3533,Xherdan Shaqiri,23,Center Attacking Midfield,Group Stage
+3930169,773,Switzerland,5537,Fabian Lukas Schär,22,Right Center Back,Group Stage
+3930169,773,Switzerland,5544,Ricardo Iván Rodríguez Araya,13,Left Center Back,Group Stage
+3930169,773,Switzerland,5545,Breel-Donald Embolo,7,Center Attacking Midfield,Group Stage
+3930169,773,Switzerland,5549,Manuel Obafemi Akanji,5,Center Back,Group Stage
+3930169,773,Switzerland,5550,Yann Sommer,1,Goalkeeper,Group Stage
+3930169,773,Switzerland,6983,Remo Freuler,8,Right Defensive Midfield,Group Stage
+3930169,773,Switzerland,7796,Silvan Widmer,3,Right Wing Back,Group Stage
+3930169,773,Switzerland,8814,Nico Elvedi,4,,Group Stage
+3930169,773,Switzerland,11457,Vincent Sierro,16,Right Defensive Midfield,Group Stage
+3930169,773,Switzerland,11467,Yvon Landry Mvogo,12,,Group Stage
+3930169,773,Switzerland,12326,Renato Steffen,11,,Group Stage
+3930169,773,Switzerland,16016,Michel Aebischer,20,Left Wing Back,Group Stage
+3930169,773,Switzerland,17974,Gregor Kobel,21,,Group Stage
+3930169,773,Switzerland,29006,Noah Okafor,9,,Group Stage
+3930169,773,Switzerland,29227,Leonidas Stergiou,2,Right Wing Back,Group Stage
+3930169,773,Switzerland,29353,Cédric Zesiger,15,,Group Stage
+3930169,773,Switzerland,30401,Ruben Vargas,17,Left Center Forward,Group Stage
+3930169,773,Switzerland,41655,Ardon Jashari,24,,Group Stage
+3930169,773,Switzerland,45190,Dan Ndoye,19,Right Center Forward,Group Stage
+3930169,773,Switzerland,48335,Mohamed Zeki Amdouni,25,Left Wing,Group Stage
+3930169,773,Switzerland,49007,Kwadwo Duah,18,,Group Stage
+3930169,773,Switzerland,50436,Fabian Rieder,26,Left Wing,Group Stage
+3930169,942,Scotland,3620,Scott McTominay,4,Center Attacking Midfield,Group Stage
+3930169,942,Scotland,3655,Andrew Robertson,3,Left Wing Back,Group Stage
+3930169,942,Scotland,9042,Greg Taylor,24,,Group Stage
+3930169,942,Scotland,9045,Zander Clark,21,,Group Stage
+3930169,942,Scotland,9466,Che Adams,10,Right Center Forward,Group Stage
+3930169,942,Scotland,9478,Kenneth McLean,23,Right Defensive Midfield,Group Stage
+3930169,942,Scotland,9481,Grant Campbell Hanley,5,Center Back,Group Stage
+3930169,942,Scotland,9621,Liam Cooper,16,,Group Stage
+3930169,942,Scotland,9974,John McGinn,7,Left Center Forward,Group Stage
+3930169,942,Scotland,10002,Scott McKenna,26,Left Center Back,Group Stage
+3930169,942,Scotland,10008,Ryan Jack,20,,Group Stage
+3930169,942,Scotland,10285,Stuart Armstrong,17,,Group Stage
+3930169,942,Scotland,10534,Callum McGregor,8,Left Defensive Midfield,Group Stage
+3930169,942,Scotland,10536,James Forrest,25,,Group Stage
+3930169,942,Scotland,10540,Kieran Tierney,6,Left Center Back,Group Stage
+3930169,942,Scotland,11116,Jack Hendry,13,Right Center Back,Group Stage
+3930169,942,Scotland,11129,Ross McCrorie,22,,Group Stage
+3930169,942,Scotland,12510,Ryan Christie,11,Left Center Forward,Group Stage
+3930169,942,Scotland,13784,Liam Kelly,12,,Group Stage
+3930169,942,Scotland,16931,Lewis Morgan,18,,Group Stage
+3930169,942,Scotland,22308,Anthony Ralston,2,Right Wing Back,Group Stage
+3930169,942,Scotland,22379,Angus Gunn,1,Goalkeeper,Group Stage
+3930169,942,Scotland,31067,Billy Gilmour,14,Right Defensive Midfield,Group Stage
+3930169,942,Scotland,38169,Lawrence Shankland,9,Right Center Forward,Group Stage
+3930169,942,Scotland,49720,Tommy Conway,19,,Group Stage
+3930166,780,Portugal,3193,Bernardo Mota Veiga de Carvalho e Silva,10,Center Attacking Midfield,Group Stage
+3930166,780,Portugal,5204,Bruno Miguel Borges Fernandes,8,Left Defensive Midfield,Group Stage
+3930166,780,Portugal,5205,Rui Pedro dos Santos Patrício,1,,Group Stage
+3930166,780,Portugal,5206,Rúben Santos Gato Alves Dias,4,Right Center Back,Group Stage
+3930166,780,Portugal,5207,Cristiano Ronaldo dos Santos Aveiro,7,Right Center Forward,Group Stage
+3930166,780,Portugal,6374,Nélson Cabral Semedo,2,Right Wing Back,Group Stage
+3930166,780,Portugal,7005,João Pedro Cavaco Cancelo,20,Left Wing Back,Group Stage
+3930166,780,Portugal,9927,Rúben Diogo Da Silva Neves,18,,Group Stage
+3930166,780,Portugal,9929,Diogo José Teixeira da Silva,21,Left Center Forward,Group Stage
+3930166,780,Portugal,12041,João Félix Sequeira,11,,Group Stage
+3930166,780,Portugal,12169,João Maria Lobo Alves Palhinha Gonçalves,6,,Group Stage
+3930166,780,Portugal,13621,Danilo Luís Hélio Pereira,13,,Group Stage
+3930166,780,Portugal,16028,José Diogo Dalot Teixeira,5,Right Wing Back,Group Stage
+3930166,780,Portugal,18360,Rafael Alexandre Conceição Leão,17,Left Center Forward,Group Stage
+3930166,780,Portugal,18866,José Pedro Malheiro de Sá,12,,Group Stage
+3930166,780,Portugal,20016,Kléper Laveran Lima Ferreira,3,Center Back,Group Stage
+3930166,780,Portugal,23256,Pedro Lomba Neto,25,Left Wing Back,Group Stage
+3930166,780,Portugal,32975,Diogo Meireles Costa,22,Goalkeeper,Group Stage
+3930166,780,Portugal,34639,Vitor Machado Ferreira,23,Right Defensive Midfield,Group Stage
+3930166,780,Portugal,38803,Gonçalo Matias Ramos,9,,Group Stage
+3930166,780,Portugal,39624,Francisco Fernandes Conceição,26,Center Attacking Midfield,Group Stage
+3930166,780,Portugal,40874,Matheus Luiz Nunes,16,,Group Stage
+3930166,780,Portugal,41092,Nuno Mendes,19,Left Center Back,Group Stage
+3930166,780,Portugal,42106,Gonçalo Bernardo Inácio,14,Left Center Back,Group Stage
+3930166,780,Portugal,143854,António João Pereira Albuquerque Tavares Silva,24,,Group Stage
+3930166,780,Portugal,143859,João Neves,15,,Group Stage
+3930166,912,Czech Republic,4870,Tomáš Souček,22,Center Defensive Midfield,Group Stage
+3930166,912,Czech Republic,7044,Patrik Schick,10,Right Center Forward,Group Stage
+3930166,912,Czech Republic,7801,Antonín Barák,7,Right Defensive Midfield,Group Stage
+3930166,912,Czech Republic,8116,Václav Černý,17,,Group Stage
+3930166,912,Czech Republic,16469,Tomáš Holeš,3,Right Center Back,Group Stage
+3930166,912,Czech Republic,16570,Vladimír Coufal,5,Right Wing Back,Group Stage
+3930166,912,Czech Republic,21226,Tomáš Chorý,19,Right Center Back,Group Stage
+3930166,912,Czech Republic,23454,Petr Ševčík,8,Right Attacking Midfield,Group Stage
+3930166,912,Czech Republic,27826,Ondřej Lingr,20,Left Attacking Midfield,Group Stage
+3930166,912,Czech Republic,28034,Lukáš Provod,14,Right Center Midfield,Group Stage
+3930166,912,Czech Republic,28040,Jindřich Staněk,1,Goalkeeper,Group Stage
+3930166,912,Czech Republic,28227,Pavel Šulc,25,Left Center Midfield,Group Stage
+3930166,912,Czech Republic,28239,Adam Hložek,9,,Group Stage
+3930166,912,Czech Republic,28272,Ladislav Krejčí,18,Left Center Back,Group Stage
+3930166,912,Czech Republic,29484,Jan Kuchta,11,Left Center Forward,Group Stage
+3930166,912,Czech Republic,32985,Mojmír Chytil,13,Center Forward,Group Stage
+3930166,912,Czech Republic,33200,David Zima,2,,Group Stage
+3930166,912,Czech Republic,35441,David Doudera,12,Left Wing Back,Group Stage
+3930166,912,Czech Republic,39143,Matěj Jurásek,26,,Group Stage
+3930166,912,Czech Republic,39338,Lukáš Červ,21,,Group Stage
+3930166,912,Czech Republic,40207,Vitezslav Jaros,23,,Group Stage
+3930166,912,Czech Republic,46046,Matěj Kovář,16,,Group Stage
+3930166,912,Czech Republic,50896,Martin Vitík,6,,Group Stage
+3930166,912,Czech Republic,81330,Robin Hranáč,4,Center Back,Group Stage
+3930166,912,Czech Republic,134272,David Jurásek,15,,Group Stage
+3930166,912,Czech Republic,287492,Tomáš Vlček,24,,Group Stage
+3930163,768,England,3088,Lewis Dunk,15,,Group Stage
+3930163,768,England,3205,Kyle Walker,2,Right Back,Group Stage
+3930163,768,England,3244,John Stones,5,Right Center Back,Group Stage
+3930163,768,England,3308,Kieran Trippier,12,Left Back,Group Stage
+3930163,768,England,3382,Luke Shaw,3,,Group Stage
+3930163,768,England,3468,Jordan Pickford,1,Goalkeeper,Group Stage
+3930163,768,England,3495,Joe Gomez,22,,Group Stage
+3930163,768,England,3664,Trent Alexander-Arnold,8,Right Defensive Midfield,Group Stage
+3930163,768,England,3822,Ezri Konsa Ngoyo,14,,Group Stage
+3930163,768,England,3834,Ivan Toney,17,,Group Stage
+3930163,768,England,3943,Declan Rice,4,Left Defensive Midfield,Group Stage
+3930163,768,England,4073,Dean Henderson,23,,Group Stage
+3930163,768,England,4354,Phil Foden,11,Left Wing,Group Stage
+3930163,768,England,4760,Ollie Watkins,19,,Group Stage
+3930163,768,England,9000,Eberechi Eze,21,,Group Stage
+3930163,768,England,9640,Jarrod Bowen,20,Right Wing,Group Stage
+3930163,768,England,10955,Harry Kane,9,Center Forward,Group Stage
+3930163,768,England,22084,Bukayo Saka,7,Right Wing,Group Stage
+3930163,768,England,22783,Aaron Ramsdale,13,,Group Stage
+3930163,768,England,28104,Anthony Gordon,18,,Group Stage
+3930163,768,England,29399,Conor Gallagher,16,Right Defensive Midfield,Group Stage
+3930163,768,England,30714,Jude Bellingham,10,Center Attacking Midfield,Group Stage
+3930163,768,England,34526,Marc Guehi,6,Left Center Back,Group Stage
+3930163,768,England,39461,Cole Palmer,24,,Group Stage
+3930163,768,England,77723,Adam Wharton,25,,Group Stage
+3930163,768,England,99174,Kobbie Mainoo,26,Center Attacking Midfield,Group Stage
+3930163,786,Serbia,3831,Dušan Tadić,10,Left Center Forward,Group Stage
+3930163,786,Serbia,4269,Aleksandar Mitrović,9,Center Forward,Group Stage
+3930163,786,Serbia,5589,Sergej Milinković-Savić,20,Left Attacking Midfield,Group Stage
+3930163,786,Serbia,5591,Filip Kostić,11,Left Wing Back,Group Stage
+3930163,786,Serbia,5603,Nikola Milenković,4,Center Back,Group Stage
+3930163,786,Serbia,6318,Andrija Živković,14,Right Wing Back,Group Stage
+3930163,786,Serbia,6319,Luka Jović,8,Center Defensive Midfield,Group Stage
+3930163,786,Serbia,6321,Milos Veljkovic,13,Right Center Back,Group Stage
+3930163,786,Serbia,6687,Saša Lukić,22,Right Defensive Midfield,Group Stage
+3930163,786,Serbia,6901,Nemanja Maksimović,5,,Group Stage
+3930163,786,Serbia,7993,Filip Mladenović,25,Left Wing Back,Group Stage
+3930163,786,Serbia,8669,Mijat Gaćinović,21,,Group Stage
+3930163,786,Serbia,15731,Predrag Rajković,1,Goalkeeper,Group Stage
+3930163,786,Serbia,16430,Uroš Spajić,24,,Group Stage
+3930163,786,Serbia,16489,Nemanja Gudelj,6,Left Defensive Midfield,Group Stage
+3930163,786,Serbia,18015,Dušan Vlahović,7,Right Attacking Midfield,Group Stage
+3930163,786,Serbia,18737,Srđan Babić,15,,Group Stage
+3930163,786,Serbia,20600,Vanja Milinković Savić,23,,Group Stage
+3930163,786,Serbia,27719,Strahinja Pavlović,2,Left Center Back,Group Stage
+3930163,786,Serbia,28075,Veljko Birmančević,26,Right Wing Back,Group Stage
+3930163,786,Serbia,30179,Ivan Ilić,17,Center Defensive Midfield,Group Stage
+3930163,786,Serbia,32565,Đorđe Petrović,12,,Group Stage
+3930163,786,Serbia,40735,Lazar Samardžić,19,,Group Stage
+3930163,786,Serbia,44280,Nemanja Stojić,3,,Group Stage
+3930163,786,Serbia,52089,Srđan Mijailović,16,,Group Stage
+3930163,786,Serbia,87237,Petar Ratkov,18,,Group Stage
+3930162,776,Denmark,3027,Mathias Jattah-Njie Jørgensen,13,,Group Stage
+3930162,776,Denmark,3043,Christian Dannemann Eriksen,10,Center Attacking Midfield,Group Stage
+3930162,776,Denmark,3570,Pierre-Emile Højbjerg,23,Left Defensive Midfield,Group Stage
+3930162,776,Denmark,3815,Kasper Schmeichel,1,Goalkeeper,Group Stage
+3930162,776,Denmark,3959,Andreas Christensen,6,Center Back,Group Stage
+3930162,776,Denmark,5527,Thomas Delaney,8,Right Defensive Midfield,Group Stage
+3930162,776,Denmark,5534,Simon Thorup Kjær,4,,Group Stage
+3930162,776,Denmark,5536,Yussuf Yurary Poulsen,20,Left Center Forward,Group Stage
+3930162,776,Denmark,6302,Kasper Dolberg,12,Right Center Forward,Group Stage
+3930162,776,Denmark,7097,Christian Nørgaard,15,Left Defensive Midfield,Group Stage
+3930162,776,Denmark,8247,Joachim Andersen,2,Right Center Back,Group Stage
+3930162,776,Denmark,8621,Morten Hjulmand,21,Right Defensive Midfield,Group Stage
+3930162,776,Denmark,8815,Jannik Vestergaard,3,Left Center Back,Group Stage
+3930162,776,Denmark,8961,Jacob Bruun Larsen,26,,Group Stage
+3930162,776,Denmark,12420,Frederik Rønnow,22,,Group Stage
+3930162,776,Denmark,16190,Rasmus Nissen Kristensen,25,,Group Stage
+3930162,776,Denmark,16554,Joakim Mæhle,5,Left Wing Back,Group Stage
+3930162,776,Denmark,17042,Andreas Skov Olsen,11,,Group Stage
+3930162,776,Denmark,18722,Mathias Jensen,7,,Group Stage
+3930162,776,Denmark,21261,Jonas Older Wind,19,Right Center Forward,Group Stage
+3930162,776,Denmark,23287,Anders Dreyer,24,,Group Stage
+3930162,776,Denmark,24443,Mikkel Damsgaard,14,,Group Stage
+3930162,776,Denmark,24547,Alexander Hartmann Bah,18,Right Wing Back,Group Stage
+3930162,776,Denmark,40813,Mads Hermansen,16,,Group Stage
+3930162,776,Denmark,51672,Rasmus Winther Højlund,9,Left Center Forward,Group Stage
+3930162,776,Denmark,60343,Victor Bernth Kristansen,17,Left Wing Back,Group Stage
+3930162,944,Slovenia,6378,Jan Oblak,1,Goalkeeper,Group Stage
+3930162,944,Slovenia,6941,Jasmin Kurtič,14,Left Center Forward,Group Stage
+3930162,944,Slovenia,7139,Josip Iličić,26,,Group Stage
+3930162,944,Slovenia,8662,Vid Belec,12,,Group Stage
+3930162,944,Slovenia,10987,Sandi Lovric,8,,Group Stage
+3930162,944,Slovenia,11416,Jon Gorenc Stankovič,5,Left Defensive Midfield,Group Stage
+3930162,944,Slovenia,15896,Timi Elšnik,10,Left Defensive Midfield,Group Stage
+3930162,944,Slovenia,16047,Jaka Bijol,6,Left Center Back,Group Stage
+3930162,944,Slovenia,16510,Benjamin Verbič,7,Right Midfield,Group Stage
+3930162,944,Slovenia,16528,Petar Stojanović,20,Right Midfield,Group Stage
+3930162,944,Slovenia,24109,Žan Celar,19,Right Midfield,Group Stage
+3930162,944,Slovenia,28211,Erik Janža,13,Left Back,Group Stage
+3930162,944,Slovenia,30940,Jure Balkovec,3,,Group Stage
+3930162,944,Slovenia,31089,Jan Mlakar,17,Left Midfield,Group Stage
+3930162,944,Slovenia,31866,Andraž Šporar,9,Right Center Forward,Group Stage
+3930162,944,Slovenia,31894,Miha Blažič,4,,Group Stage
+3930162,944,Slovenia,31968,Adam Gnezda Čerin,22,Right Defensive Midfield,Group Stage
+3930162,944,Slovenia,38759,Benjamin Šeško,11,Left Center Forward,Group Stage
+3930162,944,Slovenia,101806,David Brekalo,23,Right Center Forward,Group Stage
+3930162,944,Slovenia,101807,Igor Vekič,16,,Group Stage
+3930162,944,Slovenia,101810,Tomi Horvat,15,,Group Stage
+3930162,944,Slovenia,137487,Žan Karničnik,2,Right Back,Group Stage
+3930162,944,Slovenia,205932,Vanja Drkušić,21,Right Center Back,Group Stage
+3930162,944,Slovenia,290289,Žan Vipotnik,18,,Group Stage
+3930162,944,Slovenia,293377,Nino Žugelj,24,,Group Stage
+3930162,944,Slovenia,404312,Adrian Zeljković,25,,Group Stage
+3930160,772,Spain,3042,Mikel Merino Zazón,6,Left Wing,Group Stage
+3930160,772,Spain,3076,Ayoze Pérez Gutiérrez,26,,Group Stage
+3930160,772,Spain,3265,José Luis Sanmartín Mato,9,,Group Stage
+3930160,772,Spain,3477,Álvaro Borja Morata Martín,7,Center Forward,Group Stage
+3930160,772,Spain,4127,David Raya Martin,1,,Group Stage
+3930160,772,Spain,4353,Aymeric Laporte,14,,Group Stage
+3930160,772,Spain,5202,José Ignacio Fernández Iglesias,4,Left Center Back,Group Stage
+3930160,772,Spain,5721,Daniel Carvajal Ramos,2,Right Back,Group Stage
+3930160,772,Spain,6655,Fabián Ruiz Peña,8,Left Defensive Midfield,Group Stage
+3930160,772,Spain,6685,Mikel Oyarzabal Ugarte,21,Center Forward,Group Stage
+3930160,772,Spain,6748,Ferrán Torres García,11,Right Wing,Group Stage
+3930160,772,Spain,6765,Rodrigo Hernández Cascante,16,Right Defensive Midfield,Group Stage
+3930160,772,Spain,6821,Jesús Navas González,22,,Group Stage
+3930160,772,Spain,10336,Alejandro Grimaldo García,12,,Group Stage
+3930160,772,Spain,11748,Unai Simón Mendibil,23,Goalkeeper,Group Stage
+3930160,772,Spain,16532,Daniel Olmo Carvajal,10,Center Attacking Midfield,Group Stage
+3930160,772,Spain,17620,Marc Cucurella Saseta,24,Left Back,Group Stage
+3930160,772,Spain,22128,Robin Aime Robert Le Normand,3,Right Center Back,Group Stage
+3930160,772,Spain,24921,Martín Zubimendi Ibáñez,18,Left Defensive Midfield,Group Stage
+3930160,772,Spain,30486,Pedro González López,20,Center Attacking Midfield,Group Stage
+3930160,772,Spain,32185,Alejandro Remiro Gargallo,13,,Group Stage
+3930160,772,Spain,41115,Alejandro Baena Rodríguez,15,,Group Stage
+3930160,772,Spain,41542,Daniel Vivian Moreno,5,,Group Stage
+3930160,772,Spain,68574,Nicholas Williams Arthuer,17,Left Wing,Group Stage
+3930160,772,Spain,143864,Fermin Lopez Marin,25,,Group Stage
+3930160,772,Spain,316046,Lamine Yamal Nasraoui Ebana,19,Right Wing,Group Stage
+3930160,785,Croatia,3441,Nikola Vlašić,13,,Group Stage
+3930160,785,Croatia,5456,Mateo Kovačić,8,Left Center Midfield,Group Stage
+3930160,785,Croatia,5459,Marko Pjaca,20,,Group Stage
+3930160,785,Croatia,5460,Andrej Kramarić,9,Left Wing,Group Stage
+3930160,785,Croatia,5463,Luka Modrić,10,Right Center Midfield,Group Stage
+3930160,785,Croatia,5468,Domagoj Vida,21,,Group Stage
+3930160,785,Croatia,5469,Marcelo Brozović,11,Center Defensive Midfield,Group Stage
+3930160,785,Croatia,5474,Ivan Perišić,14,Center Forward,Group Stage
+3930160,785,Croatia,7693,Bruno Petković,17,Center Forward,Group Stage
+3930160,785,Croatia,8654,Ante Budimir,16,Center Forward,Group Stage
+3930160,785,Croatia,8773,Marin Pongracic,3,Left Center Back,Group Stage
+3930160,785,Croatia,11603,Mario Pašalić,15,Right Center Midfield,Group Stage
+3930160,785,Croatia,12625,Borna Sosa,19,,Group Stage
+3930160,785,Croatia,16531,Dominik Livaković,1,Goalkeeper,Group Stage
+3930160,785,Croatia,28368,Luka Ivanušec,18,,Group Stage
+3930160,785,Croatia,28835,Ivica Ivušić,23,,Group Stage
+3930160,785,Croatia,28914,Lovro Majer,7,Right Wing,Group Stage
+3930160,785,Croatia,29163,Josip Juranović,22,,Group Stage
+3930160,785,Croatia,32689,Martin Erlić,5,,Group Stage
+3930160,785,Croatia,33018,Joško Gvardiol,4,Left Back,Group Stage
+3930160,785,Croatia,37148,Josip Šutalo,6,Right Center Back,Group Stage
+3930160,785,Croatia,39490,Luka Sučić,25,Left Center Midfield,Group Stage
+3930160,785,Croatia,44975,Nediljko Labrović,12,,Group Stage
+3930160,785,Croatia,49337,Josip Stanišić,2,Right Back,Group Stage
+3930160,785,Croatia,63505,Martin Baturina,26,,Group Stage
+3930160,785,Croatia,131170,Marco Pašalić,24,,Group Stage
+3930159,916,Hungary,3153,Ádám Lang,2,Right Center Back,Group Stage
+3930159,916,Hungary,4286,Callum Styles,17,,Group Stage
+3930159,916,Hungary,7162,Ádám Nagy,8,Right Defensive Midfield,Group Stage
+3930159,916,Hungary,8509,Willi Orban,6,Center Back,Group Stage
+3930159,916,Hungary,8524,Péter Gulácsi,1,Goalkeeper,Group Stage
+3930159,916,Hungary,11268,Attila Fiola,5,Right Wing Back,Group Stage
+3930159,916,Hungary,12921,Barnabás Varga,19,Center Forward,Group Stage
+3930159,916,Hungary,16502,László Kleinheisler,15,Right Defensive Midfield,Group Stage
+3930159,916,Hungary,16741,Loïc Négo,7,,Group Stage
+3930159,916,Hungary,19316,Roland Sallai,20,Right Attacking Midfield,Group Stage
+3930159,916,Hungary,21209,Dominik Szoboszlai,10,Left Attacking Midfield,Group Stage
+3930159,916,Hungary,31887,Endre Botka,21,,Group Stage
+3930159,916,Hungary,31889,Dénes Dibusz,12,,Group Stage
+3930159,916,Hungary,39683,Botond Balogh,3,,Group Stage
+3930159,916,Hungary,40039,Krisztofer Horváth,25,,Group Stage
+3930159,916,Hungary,40500,Mihály Kata,26,,Group Stage
+3930159,916,Hungary,40920,Márton Dárdai,24,Left Center Back,Group Stage
+3930159,916,Hungary,42822,András Schäfer,13,Left Defensive Midfield,Group Stage
+3930159,916,Hungary,46376,Attila Szalai,4,Left Center Back,Group Stage
+3930159,916,Hungary,46789,Bendegúz Bolla,14,Right Wing Back,Group Stage
+3930159,916,Hungary,50329,Dániel Gazdag,16,,Group Stage
+3930159,916,Hungary,73886,Zsolt Nagy,18,,Group Stage
+3930159,916,Hungary,89635,Milos Kerkez,11,Left Wing Back,Group Stage
+3930159,916,Hungary,158733,Péter Szappanos,22,,Group Stage
+3930159,916,Hungary,264277,Martin Ádám,9,Left Wing Back,Group Stage
+3930159,916,Hungary,389882,Kevin Csoboth,23,,Group Stage
+3930159,773,Switzerland,3500,Granit Xhaka,10,Left Defensive Midfield,Group Stage
+3930159,773,Switzerland,3533,Xherdan Shaqiri,23,,Group Stage
+3930159,773,Switzerland,5537,Fabian Lukas Schär,22,Right Center Back,Group Stage
+3930159,773,Switzerland,5544,Ricardo Iván Rodríguez Araya,13,Left Center Back,Group Stage
+3930159,773,Switzerland,5545,Breel-Donald Embolo,7,Left Attacking Midfield,Group Stage
+3930159,773,Switzerland,5549,Manuel Obafemi Akanji,5,Center Back,Group Stage
+3930159,773,Switzerland,5550,Yann Sommer,1,Goalkeeper,Group Stage
+3930159,773,Switzerland,6983,Remo Freuler,8,Right Defensive Midfield,Group Stage
+3930159,773,Switzerland,7796,Silvan Widmer,3,Right Wing Back,Group Stage
+3930159,773,Switzerland,8814,Nico Elvedi,4,,Group Stage
+3930159,773,Switzerland,11457,Vincent Sierro,16,Right Defensive Midfield,Group Stage
+3930159,773,Switzerland,11467,Yvon Landry Mvogo,12,,Group Stage
+3930159,773,Switzerland,12326,Renato Steffen,11,,Group Stage
+3930159,773,Switzerland,16016,Michel Aebischer,20,Left Wing Back,Group Stage
+3930159,773,Switzerland,17974,Gregor Kobel,21,,Group Stage
+3930159,773,Switzerland,29006,Noah Okafor,9,,Group Stage
+3930159,773,Switzerland,29227,Leonidas Stergiou,2,Right Wing Back,Group Stage
+3930159,773,Switzerland,29353,Cédric Zesiger,15,,Group Stage
+3930159,773,Switzerland,30401,Ruben Vargas,17,Left Attacking Midfield,Group Stage
+3930159,773,Switzerland,41655,Ardon Jashari,24,,Group Stage
+3930159,773,Switzerland,45190,Dan Ndoye,19,Right Attacking Midfield,Group Stage
+3930159,773,Switzerland,48335,Mohamed Zeki Amdouni,25,Center Forward,Group Stage
+3930159,773,Switzerland,49007,Kwadwo Duah,18,Center Forward,Group Stage
+3930159,773,Switzerland,50436,Fabian Rieder,26,Right Attacking Midfield,Group Stage
+3930158,770,Germany,3053,Leroy Sané,19,Left Wing,Group Stage
+3930158,770,Germany,3097,Pascal Groß,5,Right Defensive Midfield,Group Stage
+3930158,770,Germany,3167,Antonio Rüdiger,2,Right Center Back,Group Stage
+3930158,770,Germany,3493,Emre Can,25,Left Defensive Midfield,Group Stage
+3930158,770,Germany,5562,Thomas Müller,13,Left Wing,Group Stage
+3930158,770,Germany,5570,Manuel Neuer,1,Goalkeeper,Group Stage
+3930158,770,Germany,5574,Toni Kroos,8,Left Defensive Midfield,Group Stage
+3930158,770,Germany,5579,Joshua Kimmich,6,Right Back,Group Stage
+3930158,770,Germany,8211,Benjamin Henrichs,20,,Group Stage
+3930158,770,Germany,8221,Jonathan Tah,4,Left Center Back,Group Stage
+3930158,770,Germany,8393,Oliver Baumann,12,,Group Stage
+3930158,770,Germany,8538,Waldemar Anton,16,,Group Stage
+3930158,770,Germany,8546,Niclas Füllkrug,9,Center Forward,Group Stage
+3930158,770,Germany,8966,Kai Havertz,7,Center Forward,Group Stage
+3930158,770,Germany,9195,Robert Andrich,23,Right Defensive Midfield,Group Stage
+3930158,770,Germany,10287,İlkay Gündoğan,21,Center Attacking Midfield,Group Stage
+3930158,770,Germany,12034,David Raum,3,,Group Stage
+3930158,770,Germany,12407,Maximilian Mittelstädt,18,Left Back,Group Stage
+3930158,770,Germany,13294,Robin Koch,24,,Group Stage
+3930158,770,Germany,20055,Marc-André ter Stegen,22,,Group Stage
+3930158,770,Germany,23614,Chris Führich,11,,Group Stage
+3930158,770,Germany,24118,Nico Schlotterbeck,15,,Group Stage
+3930158,770,Germany,35242,Maximilian Beier,14,,Group Stage
+3930158,770,Germany,39565,Jamal Musiala,10,Right Wing,Group Stage
+3930158,770,Germany,40724,Florian Wirtz,17,Left Wing,Group Stage
+3930158,770,Germany,131243,Deniz Undav,26,,Group Stage
+3930158,942,Scotland,3620,Scott McTominay,4,Right Defensive Midfield,Group Stage
+3930158,942,Scotland,3655,Andrew Robertson,3,Left Wing Back,Group Stage
+3930158,942,Scotland,9042,Greg Taylor,24,,Group Stage
+3930158,942,Scotland,9045,Zander Clark,21,,Group Stage
+3930158,942,Scotland,9466,Che Adams,10,Center Forward,Group Stage
+3930158,942,Scotland,9478,Kenneth McLean,23,Left Center Midfield,Group Stage
+3930158,942,Scotland,9481,Grant Campbell Hanley,5,Center Back,Group Stage
+3930158,942,Scotland,9621,Liam Cooper,16,,Group Stage
+3930158,942,Scotland,9974,John McGinn,7,Right Wing,Group Stage
+3930158,942,Scotland,10002,Scott McKenna,26,Left Center Back,Group Stage
+3930158,942,Scotland,10008,Ryan Jack,20,,Group Stage
+3930158,942,Scotland,10285,Stuart Armstrong,17,,Group Stage
+3930158,942,Scotland,10534,Callum McGregor,8,Left Defensive Midfield,Group Stage
+3930158,942,Scotland,10536,James Forrest,25,,Group Stage
+3930158,942,Scotland,10540,Kieran Tierney,6,Left Center Back,Group Stage
+3930158,942,Scotland,11116,Jack Hendry,13,Center Back,Group Stage
+3930158,942,Scotland,11129,Ross McCrorie,22,,Group Stage
+3930158,942,Scotland,12510,Ryan Christie,11,Left Wing,Group Stage
+3930158,942,Scotland,13784,Liam Kelly,12,,Group Stage
+3930158,942,Scotland,16931,Lewis Morgan,18,,Group Stage
+3930158,942,Scotland,18797,Ryan Porteous,15,Right Center Back,Group Stage
+3930158,942,Scotland,22308,Anthony Ralston,2,Right Wing Back,Group Stage
+3930158,942,Scotland,22379,Angus Gunn,1,Goalkeeper,Group Stage
+3930158,942,Scotland,31067,Billy Gilmour,14,Center Defensive Midfield,Group Stage
+3930158,942,Scotland,38169,Lawrence Shankland,9,Center Forward,Group Stage
+3930158,942,Scotland,49720,Tommy Conway,19,,Group Stage

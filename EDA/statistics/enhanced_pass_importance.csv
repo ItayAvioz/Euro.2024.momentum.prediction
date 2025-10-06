@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c605e999ea1efdaa9cab4d805249e6c694eb37127c802c90819873d5087cfad
-size 400
+feature,importance
+forward_progress,0.4371442409083469
+pass_success,0.15238670535140025
+zone_progression,0.12231782108386834
+distance_to_goal,0.06204431707604525
+position_risk,0.06073817680305505
+goal_approach,0.046184759383964415
+crosses_center_line,0.044697153830088994
+pass_length,0.030182384721702663
+related_events_count,0.023826921107353988
+attacking_third_start,0.02047751973417421

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ea34ca65f33f11e95d58d420f006085d002934f526a06a4694aaf4dbb9f87768
-size 673
+Category,Games,Total_Actual_Minutes,Games_to_Extra_Time,Extra_Time_Percentage,Games_to_Penalties,Goals_Per_Game,Goals_Per_90min,Subs_Per_Game,Subs_Per_90min,Yellow_Cards_Per_Game,Yellow_Cards_Per_90min,Corners_Per_Game,Corners_Per_90min
+Group Stage,36,3240,0,0.0,0,2.25,2.25,9.13888888888889,9.13888888888889,1.0277777777777777,1.0277777777777777,7.361111111111111,7.361111111111111
+Round of 16,8,780,2,25.0,0,2.375,2.1923076923076925,8.875,8.192307692307693,1.25,1.153846153846154,8.25,7.615384615384616
+Quarter-finals + Semi-finals + Final,7,720,3,42.857142857142854,0,2.4285714285714284,2.125,9.571428571428571,8.375,1.2857142857142858,1.125,7.571428571428571,6.625

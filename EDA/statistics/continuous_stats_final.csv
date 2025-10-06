@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f20a27ba981bf96c7219f23f3ae65dba5904a9338b032a9001a6e9660a7d4847
-size 1914
+Feature,Type,Count,Missing,Missing_Pct,Mean,Median,Std,Min,Max,Q25,Q75,IQR,Lower_Fence,Upper_Fence,Outliers_Count,Outliers_Pct,Extraction_Method,Expected_Outcome
+duration,Normal,136240,51618,27.47713698644721,1.2824988193674032,1.05911,1.3149025316062297,0.0,35.957287,0.42808875,1.70384125,1.2757524999999998,-1.4855399999999999,3.61747,6932,5.088079859072225,,
+second,Normal,187858,0,0.0,29.19864472101268,29.0,17.326957862874195,0,59,14.0,44.0,30.0,-31.0,89.0,0,0.0,,
+home_score,Normal,187858,0,0.0,1.2652375730605032,1.0,1.084187848550848,0,5,0.0,2.0,2.0,-3.0,5.0,0,0.0,,
+index,Non-Normal,187858,0,0.0,1869.5489784837484,1842.0,1113.388278716628,1,5190,921.0,2763.0,1842.0,-1842.0,5526.0,0,0.0,,
+minute,Non-Normal,187858,0,0.0,46.45912338042564,45.0,28.70620171604111,0,127,22.0,70.0,48.0,-50.0,142.0,0,0.0,,
+possession,Non-Normal,187858,0,0.0,76.08217909271897,73.0,46.407917730521866,1,220,37.0,113.0,76.0,-77.0,227.0,0,0.0,,
+away_score,Non-Normal,187858,0,0.0,0.9843179422755486,1.0,0.8782662561532852,0,3,0.0,1.0,1.0,-1.5,2.5,16736,8.908856689627271,,
+timestamp,Non-Normal,187858,0,0.0,1366.350944042841,1328.991,853.6625443652971,0.0,3393.779,609.957,2094.0235,1484.0665,-1616.14275,4320.12325,0,0.0,,
+location,Coordinate Array,186190,1668,0.887904693970978,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Extract location_x, location_y from [x,y] coordinates","2 new features: location_x, location_y"
+visible_area,Coordinate Array,163521,24337,12.954997923963846,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Extract area_size, centroid_x, centroid_y from polygon","4 new features: area_size, centroid_x, centroid_y, polygon_complexity"
+carry,Coordinate Array,44139,143719,76.50406157842626,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Parse JSON, extract end_location_x, end_location_y, calculate distance","4 new features: carry_end_x, carry_end_y, carry_distance, carry_direction"

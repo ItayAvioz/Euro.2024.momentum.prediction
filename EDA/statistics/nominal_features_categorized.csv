@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a9454e8b6e0827b46834a8158c5e6c5490643d1a33804fbf2f3037149a1b2b46
-size 3353
+Feature,Total_Rows,Valid_Count,Missing_Count,Missing_Percentage,Unique_Categories,Top_3_Categories,Most_Common_Category,Most_Common_Count,Most_Common_Percentage,Description,Momentum_Priority
+type,187858,187858,0,0.0,33,"{'id': 30, 'name': 'Pass'}(53,890), {'id': 42, 'name': 'Ball Receipt*'}(51,618), {'id': 43, 'name': 'Carry'}(44,139)","{'id': 30, 'name': 'Pass'}",53890,28.69,,High
+referee,187858,187858,0,0.0,19,"{'id': 269, 'name': 'Daniele Orsato', 'country': {'id': 112, 'name': 'Italy'}}(16,747), {'id': 1, 'name': 'Michael Oliver', 'country': {'id': 68, 'name': 'England'}}(16,138), {'id': 79, 'name': 'François Letexier', 'country': {'id': 78, 'name': 'France'}}(14,769)","{'id': 269, 'name': 'Daniele Orsato', 'country': {'id': 112, 'name': 'Italy'}}",16747,8.91,,Low
+stadium,187858,187858,0,0.0,11,"{'id': 373, 'name': 'Signal-Iduna-Park', 'country': {'id': 85, 'name': 'Germany'}}(22,581), {'id': 367, 'name': 'Olympiastadion Berlin', 'country': {'id': 85, 'name': 'Germany'}}(20,974), {'id': 4867, 'name': 'Allianz Arena', 'country': {'id': 85, 'name': 'Germany'}}(20,205)","{'id': 373, 'name': 'Signal-Iduna-Park', 'country': {'id': 85, 'name': 'Germany'}}",22581,12.02,,Low
+match_id,187858,187858,0,0.0,51,"3942349(5,190), 3942227(4,882), 3941017(4,764)",3942349,5190,2.76,,Low
+away_team_id,187858,187858,0,0.0,24,"771(15,917), 768(14,598), 914(11,841)",771,15917,8.47,,Low
+home_team_id,187858,187858,0,0.0,24,"772(22,830), 941(13,779), 768(13,334)",772,22830,12.15,,Low
+play_pattern,187858,187858,0,0.0,9,"{'id': 1, 'name': 'Regular Play'}(76,594), {'id': 4, 'name': 'From Throw In'}(41,870), {'id': 3, 'name': 'From Free Kick'}(29,799)","{'id': 1, 'name': 'Regular Play'}",76594,40.77,,High
+home_team_name,187858,187858,0,0.0,24,"Spain(22,830), Netherlands(13,779), England(13,334)",Spain,22830,12.15,,Medium
+team,187858,187858,0,0.0,24,"{'id': 768, 'name': 'England'}(15,059), {'id': 772, 'name': 'Spain'}(15,056), {'id': 780, 'name': 'Portugal'}(12,856)","{'id': 768, 'name': 'England'}",15059,8.02,,Medium
+possession_team,187858,187858,0,0.0,24,"{'id': 768, 'name': 'England'}(15,599), {'id': 772, 'name': 'Spain'}(15,415), {'id': 780, 'name': 'Portugal'}(13,199)","{'id': 768, 'name': 'England'}",15599,8.3,,Medium
+event_type,187858,187858,0,0.0,33,"Pass(53,890), Ball Receipt*(51,618), Carry(44,139)",Pass,53890,28.69,,High
+away_team_name,187858,187858,0,0.0,24,"France(15,917), England(14,598), Italy(11,841)",France,15917,8.47,,Medium
+position,187858,186994,864,0.46,24,"{'id': 5, 'name': 'Left Center Back'}(19,773), {'id': 3, 'name': 'Right Center Back'}(18,803), {'id': 11, 'name': 'Left Defensive Midfield'}(15,917)","{'id': 5, 'name': 'Left Center Back'}",19773,10.57,,High
+player,187858,186994,864,0.46,497,"Declan Rice(1,671), John Stones(1,624), Kyle Walker(1,603)",Declan Rice,1671,0.89,Player names extracted from JSON objects,Medium
+related_events_count,187858,181160,6698,3.57,8,"0(6,698), 1(108,962), 2(55,920)",0,6698,3.57,Number of related events per event,Medium
+freeze_frame,187858,163521,24337,12.95,9,"16+ Players(108,664), 11-15 Players(46,166), No Freeze Frame(24,337)",16+ Players,108664,57.84,Player count in shot freeze frames,Low
+pass,187858,53890,133968,71.31,4,"No Pass(133,968), Pass - Ground Pass(40,169), Pass - High Pass(8,553)",No Pass,133968,71.31,Pass types and presence,Low

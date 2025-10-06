@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:97523dcddb216b75c047ccc336084d5e56f758cff6de7c4df6c8c6537a5ad929
-size 226
+total_events,total_zones,active_zones,zone_time_observations,optimal_k,optimal_silhouette,avg_heat_predictability,high_predictability_pct,zones_analyzed
+186190,300,300,87610,3,0.13229162411104464,0.5397675601100357,39.0,300

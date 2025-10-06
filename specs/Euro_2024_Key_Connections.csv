@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4eda1906bd5c89bff582725dc35a2193ef9658082c8f5a325f9105fba21cff52
-size 1288
+source_file,source_field,target_file,target_field,relationship_type,description,usage,sql_example
+matches_complete.csv,match_id,events_complete.csv,match_id,one-to-many,One match has many events,Join match details with event data,JOIN events_complete e ON m.match_id = e.match_id
+matches_complete.csv,match_id,lineups_complete.csv,match_id,one-to-many,One match has many player lineups,Link match details with starting lineups,JOIN lineups_complete l ON m.match_id = l.match_id
+matches_complete.csv,match_id,data_360_complete.csv,match_id,one-to-many,One match has many 360 tracking events,Connect match info with 360° data,JOIN data_360_complete d ON m.match_id = d.match_id
+events_complete.csv,id (event_uuid),data_360_complete.csv,event_uuid,one-to-one,Each event can have corresponding 360 tracking data,Link events with player positions,JOIN data_360_complete d ON e.id = d.event_uuid
+lineups_complete.csv,player_id,events_complete.csv,player_id,one-to-many,One player in lineup participates in many events,Connect player info with their actions,JOIN events_complete e ON l.player_id = e.player_id
+lineups_complete.csv,team_id,events_complete.csv,team_id,one-to-many,One team has many events,Link team lineups with team events,JOIN events_complete e ON l.team_id = e.team_id

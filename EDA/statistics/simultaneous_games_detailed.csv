@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2ced61ababf70999415d76eedab4e7e319bec647569035556b3ebab9809fa3b1
-size 754
+slot_id,date,hour,stage,match_week,total_goals,avg_goals,draws,decisive,match1_home,match1_away,match1_score,match1_outcome,match2_home,match2_away,match2_score,match2_outcome
+1,2024-06-23,22,Group Stage,3,3,1.5,1,1,Scotland,Hungary,0-1,Away Win,Switzerland,Germany,1-1,Draw
+2,2024-06-24,22,Group Stage,3,3,1.5,1,1,Albania,Spain,0-1,Away Win,Croatia,Italy,1-1,Draw
+3,2024-06-25,19,Group Stage,3,7,3.5,1,1,Netherlands,Austria,2-3,Away Win,France,Poland,1-1,Draw
+4,2024-06-25,22,Group Stage,3,0,0.0,2,0,Denmark,Serbia,0-0,Draw,England,Slovenia,0-0,Draw
+5,2024-06-26,19,Group Stage,3,2,1.0,2,0,Ukraine,Belgium,0-0,Draw,Slovakia,Romania,1-1,Draw
+6,2024-06-26,22,Group Stage,3,5,2.5,0,2,Czech Republic,Turkey,1-2,Away Win,Georgia,Portugal,2-0,Home Win

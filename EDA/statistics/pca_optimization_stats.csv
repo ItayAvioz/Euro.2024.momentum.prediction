@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:87a6cb9cc31a7c709e9a4cc2599abb6127736e666249568d96ea946e3bbe401f
-size 221
+metric,value
+Total Original Features,51
+Total Optimized Features,35
+Overall Feature Reduction,16
+Overall Reduction %,31.4%
+Average Silhouette Improvement,0.028
+Best Improvement,0.046
+Best Analysis,Team Signatures

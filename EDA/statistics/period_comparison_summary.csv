@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ab5fd631ebfeeef4b52e91368025f8c4c6697f8b89b0a8d7797fbf2b09afda1e
-size 222
+Metric,Period 1,Period 2,Difference,Change %
+Total Events,93628,88447,5181,+5.9%
+Goals,47,58,-11,-19.0%
+Corners,250,247,3,+1.2%
+Yellow Cards,9,42,-33,-78.6%
+Substitutions,6,443,-437,-98.6%
+Shots,568,694,-126,-18.2%

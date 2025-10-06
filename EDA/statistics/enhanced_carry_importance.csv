@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9be485e519dd9efe4e9eeae787b6879deed278bcff248bf2b7b30b9dbe23bc71
-size 392
+feature,importance
+forward_progress,0.3365839317884968
+carry_speed,0.15882426279962236
+distance_to_goal,0.15669373056414532
+carry_distance,0.1129918837507697
+position_risk,0.07862624156520065
+zone_progression,0.06167337026995188
+duration,0.03565308223673607
+attacking_third_start,0.032089746255945836
+dribble_into_box,0.02428411343962862
+related_events_count,0.0025796373295028543

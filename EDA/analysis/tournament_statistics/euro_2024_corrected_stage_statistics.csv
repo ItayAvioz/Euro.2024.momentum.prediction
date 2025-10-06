@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9709a53741dea02c09d5de103b0d6540b23e21daff99feacc835acc286cd98c5
-size 628
+Statistic,Group Stage,Round of 16,Quarter-finals,Semi-finals,Final
+Number of Games,36,8,4,2,1
+Number of Goals,81,19,8,6,3
+Average Goals per Game,2.25,2.38,2.00,3.00,3.00
+Games to Extra Time,0,1,1,0,0
+Games to Penalties,0,1,2,0,0
+Total Draws,14,1,2,0,0
+Total Wins,22,7,2,2,1
+Total Substitutions,329,71,42,18,7
+Average Substitutions per Game,9.14,8.88,10.50,9.00,7.00
+Total Red Cards,1,0,1,0,0
+Average Red Cards per Game,0.03,0.00,0.25,0.00,0.00
+Total Yellow Cards,37,10,6,3,0
+Average Yellow Cards per Game,1.03,1.25,1.50,1.50,0.00
+Total Corners,308,81,37,12,11
+Average Corners per Game,8.56,10.12,9.25,6.00,11.00

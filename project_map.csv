@@ -1,3 +1,183 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17bea47ccc8262cd9a08514706f6abcaa9c8a97010968a52a4f94cf898578cc9
-size 27553
+Category,Folder_Path,File_Name,File_Type,Description,Status,Purpose,Dependencies,Size_Category,Last_Modified
+Root,.,README.md,Documentation,Main project documentation and overview,Production,Project Introduction,None,Medium,2025-01-07
+Root,.,PROJECT_ORGANIZATION_GUIDE.md,Documentation,Comprehensive organization guide,Production,Project Organization,None,Large,2025-01-07
+Root,.,CONTRIBUTING.md,Documentation,Contribution guidelines,Production,Development Guidelines,None,Small,2025-01-07
+Root,.,LICENSE,Legal,MIT License,Production,Legal Framework,None,Small,2025-01-07
+Root,.,requirements.txt,Configuration,Python dependencies,Production,Environment Setup,None,Small,2025-01-07
+Root,.,.gitignore,Configuration,Git ignore patterns,Production,Version Control,None,Small,2025-01-07
+Root,.,project_map.csv,Documentation,This comprehensive project map,Production,Project Navigation,None,Large,2025-01-07
+
+Data_Production,Data/final,README.md,Documentation,Production data documentation,Production,Data Documentation,None,Medium,2025-01-07
+Data_Production,Data/final/code,euro_2024_complete_dataset.csv,Dataset,Main production dataset (187858 rows × 59 columns),Production,Core Data,None,XXL,2025-01-07
+Data_Production,Data/final/code,create_final_euro_2024_dataset.py,Script,Dataset creation script,Production,Data Pipeline,StatsBomb API,Medium,2025-01-07
+Data_Production,Data/final/code,comprehensive_data_analysis.py,Script,Data analysis script,Production,Data Analysis,Main Dataset,Medium,2025-01-07
+Data_Production,Data/final/code,euro_2024_data_transformation_summary.py,Script,Data transformation documentation,Production,Data Documentation,None,Medium,2025-01-07
+Data_Production,Data/final/code,enhanced_data_analysis_complete.py,Script,Enhanced data analysis,Production,Data Analysis,Main Dataset,Medium,2025-01-07
+Data_Production,Data/final/code,simple_documentation_creator.py,Script,Documentation creation utility,Production,Documentation,None,Small,2025-01-07
+
+Data_Experiments,Data/experiments,README.md,Documentation,Experimental data documentation,Experimental,Data Documentation,None,Medium,2025-01-07
+Data_Experiments,Data/experiments/code,add_event_uuid_back.py,Script,Event UUID addition experiment,Experimental,Data Processing,None,Small,2025-01-07
+Data_Experiments,Data/experiments/code,add_team_ids_back.py,Script,Team ID addition experiment,Experimental,Data Processing,None,Small,2025-01-07
+Data_Experiments,Data/experiments/code,add_team_names_back.py,Script,Team name addition experiment,Experimental,Data Processing,None,Small,2025-01-07
+Data_Experiments,Data/experiments/code,analyze_360_data_coverage.py,Script,360° data coverage analysis,Experimental,Data Analysis,None,Small,2025-01-07
+Data_Experiments,Data/experiments/code,analyze_events_360_columns.py,Script,360° events column analysis,Experimental,Data Analysis,None,Small,2025-01-07
+Data_Experiments,Data/experiments/code,analyze_team_duplicates.py,Script,Team duplicates analysis,Experimental,Data Quality,None,Small,2025-01-07
+Data_Experiments,Data/experiments/code,check_missing_team_names.py,Script,Missing team names check,Experimental,Data Quality,None,Small,2025-01-07
+Data_Experiments,Data/experiments/code,check_stats.py,Script,Statistics verification,Experimental,Data Quality,None,Small,2025-01-07
+Data_Experiments,Data/experiments/code,clean_events_360.py,Script,360° events cleaning,Experimental,Data Processing,None,Small,2025-01-07
+Data_Experiments,Data/experiments/code,clean_matches_lineups.py,Script,Matches and lineups cleaning,Experimental,Data Processing,None,Small,2025-01-07
+Data_Experiments,Data/experiments/code,create_events_360.py,Script,360° events creation,Experimental,Data Processing,None,Small,2025-01-07
+Data_Experiments,Data/experiments/code,create_matches_lineups.py,Script,Matches and lineups creation,Experimental,Data Processing,None,Small,2025-01-07
+Data_Experiments,Data/experiments/code,remove_team_duplicates.py,Script,Team duplicates removal,Experimental,Data Processing,None,Small,2025-01-07
+Data_Experiments,Data/experiments/code,data_360_complete.csv,Dataset,Complete 360° data,Experimental,Data Processing,None,Large,2025-01-07
+Data_Experiments,Data/experiments/code,events_360.csv,Dataset,360° events data,Experimental,Data Processing,None,Large,2025-01-07
+Data_Experiments,Data/experiments/code,events_complete.csv,Dataset,Complete events data,Experimental,Data Processing,None,Large,2025-01-07
+Data_Experiments,Data/experiments/code,lineups_complete.csv,Dataset,Complete lineups data,Experimental,Data Processing,None,Medium,2025-01-07
+Data_Experiments,Data/experiments/code,matches_complete.csv,Dataset,Complete matches data,Experimental,Data Processing,None,Medium,2025-01-07
+Data_Experiments,Data/experiments/code,matches_lineups.csv,Dataset,Matches and lineups data,Experimental,Data Processing,None,Medium,2025-01-07
+Data_Experiments,Data/experiments/code,enhanced_data_analysis.py,Script,Enhanced data analysis experiment,Experimental,Data Analysis,None,Medium,2025-01-07
+Data_Experiments,Data/experiments/code,enhanced_data_analysis_fixed.py,Script,Fixed enhanced data analysis,Experimental,Data Analysis,None,Medium,2025-01-07
+Data_Experiments,Data/experiments/code,Data check.ipynb,Notebook,Data checking notebook,Experimental,Data Quality,None,Medium,2025-01-07
+
+Research_Production,Research/final,README.md,Documentation,Production research documentation,Production,Research Documentation,None,Large,2025-01-07
+Research_Production,Research/final/models,comprehensive_momentum_model.py,Model,Main production momentum model (R² = 0.756),Production,ML Model,Main Dataset,Large,2025-01-07
+Research_Production,Research/final/validation,temporal_data_leakage_analysis.py,Script,Temporal validation framework,Production,Model Validation,None,Medium,2025-01-07
+Research_Production,Research/final/analysis,final_tournament_momentum_implementation.py,Script,Tournament momentum analysis,Production,Research Analysis,Main Dataset,Medium,2025-01-07
+Research_Production,Research/final/documentation,final_momentum_model_summary.py,Script,Model performance documentation,Production,Research Documentation,Main Model,Medium,2025-01-07
+
+Research_Experiments,Research/experiments,README.md,Documentation,Experimental research documentation,Experimental,Research Documentation,None,XXL,2025-01-07
+Research_Experiments,Research/experiments/models/basic_models,corrected_momentum_model.py,Model,Basic corrected momentum model,Experimental,ML Model,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/basic_models,corrected_momentum_model_fixed.py,Model,Fixed corrected momentum model,Experimental,ML Model,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/basic_models,momentum_model_test.py,Script,Basic model testing,Experimental,Model Testing,None,Small,2025-01-07
+Research_Experiments,Research/experiments/models/basic_models,improved_momentum_model.py,Model,Improved momentum model,Experimental,ML Model,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/basic_models,apply_final_model_complete.py,Script,Final model application,Experimental,Model Application,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/basic_models,final_improved_momentum_prediction.py,Model,Final improved prediction model,Experimental,ML Model,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/basic_models,game_event_momentum_patterns.py,Script,Game event patterns analysis,Experimental,Pattern Analysis,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/basic_models,low_momentum_goal_indicators.py,Script,Low momentum goal indicators,Experimental,Pattern Analysis,None,Small,2025-01-07
+Research_Experiments,Research/experiments/models/basic_models,Model_Validation_Analysis.py,Script,Model validation analysis,Experimental,Model Validation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/basic_models,model_vs_formula_examples.py,Script,Model vs formula comparison,Experimental,Model Comparison,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/examples_demos,momentum_prediction_improvement_strategies.py,Script,Prediction improvement strategies,Experimental,Model Improvement,None,Medium,2025-01-07
+
+Research_Experiments,Research/experiments/models/advanced_models,advanced_euro_2024_momentum_model.py,Model,Advanced Euro 2024 momentum model,Experimental,ML Model,None,Large,2025-01-07
+Research_Experiments,Research/experiments/models/advanced_models,comprehensive_momentum_model_analysis.py,Script,Comprehensive model analysis,Experimental,Model Analysis,None,Large,2025-01-07
+Research_Experiments,Research/experiments/models/advanced_models,enhanced_momentum_with_opponent.py,Model,Enhanced momentum with opponent analysis,Experimental,ML Model,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/advanced_models,euro_2024_complete_momentum_model_analysis.py,Script,Complete model analysis,Experimental,Model Analysis,None,Large,2025-01-07
+Research_Experiments,Research/experiments/models/advanced_models,improved_future_model_analysis.py,Script,Improved future model analysis,Experimental,Model Analysis,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/advanced_models,improved_future_momentum_prediction.py,Model,Improved future momentum prediction,Experimental,ML Model,None,Medium,2025-01-07
+
+Research_Experiments,Research/experiments/models/nlp_models,advanced_nlp_project_impact.py,Script,Advanced NLP project impact analysis,Experimental,NLP Analysis,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/nlp_models,detailed_nlp_and_360_processing.py,Script,Detailed NLP and 360° processing,Experimental,NLP Processing,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/nlp_models,Event_Commentary_Model.py,Model,Event commentary generation model,Experimental,NLP Model,None,Medium,2025-01-07
+
+Research_Experiments,Research/experiments/models/future_prediction,future_momentum_prediction.py,Model,Future momentum prediction model,Experimental,ML Model,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/future_prediction,future_momentum_predictor.py,Model,Future momentum predictor,Experimental,ML Model,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/future_prediction,future_prediction_demo.py,Script,Future prediction demonstration,Experimental,Demo,None,Small,2025-01-07
+Research_Experiments,Research/experiments/models/future_prediction,future_prediction_explained.py,Script,Future prediction explanation,Experimental,Documentation,None,Small,2025-01-07
+
+Research_Experiments,Research/experiments/models/feature_engineering,focused_momentum_predictors.py,Script,Focused momentum predictors,Experimental,Feature Engineering,None,Medium,2025-01-07
+
+Research_Experiments,Research/experiments/models/examples_demos,momentum_explanation.py,Script,Momentum explanation demo,Experimental,Documentation,None,Small,2025-01-07
+
+Research_Experiments,Research/experiments/models/hybrid_models,hybrid_model_complete_data.py,Model,Hybrid model with complete data,Experimental,ML Model,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/hybrid_models,hybrid_model_examples.py,Script,Hybrid model examples,Experimental,Model Examples,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/models/hybrid_models,hybrid_momentum_model.py,Model,Hybrid momentum model,Experimental,ML Model,None,Medium,2025-01-07
+
+Research_Experiments,Research/experiments/analysis/performance_analysis,comprehensive_model_performance_summary.py,Script,Comprehensive performance summary,Experimental,Performance Analysis,None,Large,2025-01-07
+Research_Experiments,Research/experiments/analysis/performance_analysis,model_performance_comparison.py,Script,Model performance comparison,Experimental,Performance Analysis,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/analysis/performance_analysis,future_model_performance_analysis.py,Script,Future model performance analysis,Experimental,Performance Analysis,None,Medium,2025-01-07
+
+Research_Experiments,Research/experiments/analysis/momentum_analysis,comprehensive_momentum_analysis.py,Script,Comprehensive momentum analysis,Experimental,Momentum Analysis,None,Large,2025-01-07
+Research_Experiments,Research/experiments/analysis/momentum_analysis,momentum_classification_analysis.py,Script,Momentum classification analysis,Experimental,Momentum Analysis,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/analysis/momentum_analysis,momentum_concept_comparison.py,Script,Momentum concept comparison,Experimental,Momentum Analysis,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/analysis/momentum_analysis,momentum_pattern_analysis.py,Script,Momentum pattern analysis,Experimental,Momentum Analysis,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/analysis/momentum_analysis,euro_2024_complete_momentum_analysis.py,Script,Complete Euro 2024 momentum analysis,Experimental,Momentum Analysis,None,Large,2025-01-07
+Research_Experiments,Research/experiments/analysis/momentum_analysis,Event_Commentary_Fixed.py,Script,Fixed event commentary analysis,Experimental,Commentary Analysis,None,Medium,2025-01-07
+
+Research_Experiments,Research/experiments/analysis/360_analysis,detailed_360_analysis.py,Script,Detailed 360° data analysis,Experimental,360° Analysis,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/analysis/360_analysis,decode_360_events_guide.py,Script,360° events decoding guide,Experimental,360° Analysis,None,Medium,2025-01-07
+
+Research_Experiments,Research/experiments/analysis/ai_analysis,advanced_ai_integration_analysis.py,Script,Advanced AI integration analysis,Experimental,AI Analysis,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/analysis/ai_analysis,ai_benefits_analysis.py,Script,AI benefits analysis,Experimental,AI Analysis,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/analysis/ai_analysis,implement_ensemble_improvement.py,Script,Ensemble improvement implementation,Experimental,AI Analysis,None,Medium,2025-01-07
+
+Research_Experiments,Research/experiments/data_processing/data_exploration,analyze_complete_euro_2024.py,Script,Complete Euro 2024 data analysis,Experimental,Data Exploration,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/data_processing/data_exploration,analyze_euro_2024_data.py,Script,Euro 2024 data analysis,Experimental,Data Exploration,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/data_processing/data_exploration,analyze_position_events.py,Script,Position events analysis,Experimental,Data Exploration,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/data_processing/data_exploration,Current_Data_Evaluation.py,Script,Current data evaluation,Experimental,Data Exploration,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/data_processing/data_exploration,demo_360_data.py,Script,360° data demonstration,Experimental,Data Exploration,None,Small,2025-01-07
+Research_Experiments,Research/experiments/data_processing/data_exploration,euro_2024_demo.py,Script,Euro 2024 data demonstration,Experimental,Data Exploration,None,Small,2025-01-07
+Research_Experiments,Research/experiments/data_processing/data_exploration,euro_2024_momentum_demo_results.py,Script,Euro 2024 momentum demo results,Experimental,Data Exploration,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/data_processing/data_exploration,apply_classification_to_real_data.py,Script,Classification application to real data,Experimental,Data Processing,None,Medium,2025-01-07
+
+Research_Experiments,Research/experiments/data_processing/data_loading,euro_2024_data_loader.py,Script,Euro 2024 data loader,Experimental,Data Loading,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/data_processing/data_loading,download_full_euro_2024.py,Script,Full Euro 2024 data download,Experimental,Data Loading,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/data_processing/data_loading,euro_2024_downloader.py,Script,Euro 2024 data downloader,Experimental,Data Loading,None,Medium,2025-01-07
+
+Research_Experiments,Research/experiments/data_processing/sample_creation,create_sample_100_rows.py,Script,Sample 100 rows creation,Experimental,Sample Creation,None,Small,2025-01-07
+Research_Experiments,Research/experiments/data_processing/sample_creation,create_simple_sample.py,Script,Simple sample creation,Experimental,Sample Creation,None,Small,2025-01-07
+Research_Experiments,Research/experiments/data_processing/sample_creation,euro_2024_sample_100_rows.csv,Dataset,100 rows sample dataset,Experimental,Sample Data,None,Small,2025-01-07
+
+Research_Experiments,Research/experiments/data_processing/connection_testing,data_connection_example.py,Script,Data connection example,Experimental,Connection Testing,None,Small,2025-01-07
+Research_Experiments,Research/experiments/data_processing/connection_testing,data_connection_guide.py,Script,Data connection guide,Experimental,Connection Testing,None,Small,2025-01-07
+
+Research_Experiments,Research/experiments/validation/testing_validation,test_models.py,Script,Model testing framework,Experimental,Model Testing,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/validation/testing_validation,test_momentum.py,Script,Momentum testing,Experimental,Model Testing,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/validation/testing_validation,direct_momentum_prediction_test.py,Script,Direct momentum prediction test,Experimental,Model Testing,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/validation/quality_checks,check_coverage.py,Script,Coverage quality check,Experimental,Quality Assurance,None,Small,2025-01-07
+Research_Experiments,Research/experiments/validation/quality_checks,check_sample.py,Script,Sample quality check,Experimental,Quality Assurance,None,Small,2025-01-07
+Research_Experiments,Research/experiments/validation/quality_checks,Validation_Reality_Check.py,Script,Reality check validation,Experimental,Model Validation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/validation/quick_tests,quick_test.py,Script,Quick testing utility,Experimental,Model Testing,None,Small,2025-01-07
+Research_Experiments,Research/experiments/validation/quick_tests,quick_direct_momentum_test.py,Script,Quick direct momentum test,Experimental,Model Testing,None,Small,2025-01-07
+
+Research_Experiments,Research/experiments/documentation/model_documentation,Complete_Future_Momentum_Model_Report.md,Documentation,Complete future momentum model report,Experimental,Research Documentation,None,Large,2025-01-07
+Research_Experiments,Research/experiments/documentation/model_documentation,Enhanced_Model_Performance_Summary.md,Documentation,Enhanced model performance summary,Experimental,Research Documentation,None,Large,2025-01-07
+Research_Experiments,Research/experiments/documentation/model_documentation,Final_Hybrid_Model_Results.md,Documentation,Final hybrid model results,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/model_documentation,Hybrid_Model_Analysis.md,Documentation,Hybrid model analysis,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/model_documentation,How_Predictions_Work.md,Documentation,How predictions work explanation,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/model_documentation,Event_Commentary_Model_Summary.md,Documentation,Event commentary model summary,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/model_documentation,Future_Momentum_Model_Report.md,Documentation,Future momentum model report,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/model_documentation,Model_vs_Formula_Summary.md,Documentation,Model vs formula summary,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/model_documentation,Momentum_Model_Results_Summary.md,Documentation,Momentum model results summary,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/model_documentation,Momentum_Concept_Complete_Explanation.md,Documentation,Momentum concept complete explanation,Experimental,Research Documentation,None,Large,2025-01-07
+Research_Experiments,Research/experiments/documentation/model_documentation,Momentum_InputOutput_Examples_Summary.md,Documentation,Momentum input/output examples summary,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/model_documentation,Enhanced_Momentum_With_Opponent_Data.md,Documentation,Enhanced momentum with opponent data,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/model_documentation,README_DIAGRAMS.md,Documentation,README diagrams,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/nlp_documentation,NLP_Input_Output_Examples_Summary.md,Documentation,NLP input/output examples summary,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/data_documentation,Data_Decoding_Summary.md,Documentation,Data decoding summary,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/data_documentation,Column_Values_Explanation.md,Documentation,Column values explanation,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/data_documentation,360_Data_Processing_Examples.md,Documentation,360° data processing examples,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/data_documentation,StatsBomb_Data_Guide.md,Documentation,StatsBomb data guide,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/analysis_documentation,AI_Integration_Analysis.md,Documentation,AI integration analysis,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/analysis_documentation,Project_Impact_Summary.md,Documentation,Project impact summary,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/analysis_documentation,Comprehensive_AI_Benefits_Summary.md,Documentation,Comprehensive AI benefits summary,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/analysis_documentation,AI_Enhancement_Summary_Table.md,Documentation,AI enhancement summary table,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/examples_documentation,Additional_Examples_Summary.md,Documentation,Additional examples summary,Experimental,Research Documentation,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/examples_documentation,Additional_NLP_Examples.py,Script,Additional NLP examples,Experimental,NLP Examples,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/examples_documentation,Advanced_NLP_Examples.py,Script,Advanced NLP examples,Experimental,NLP Examples,None,Medium,2025-01-07
+Research_Experiments,Research/experiments/documentation/examples_documentation,Advanced_NLP_Input_Output_Examples.py,Script,Advanced NLP input/output examples,Experimental,NLP Examples,None,Medium,2025-01-07
+
+Research_Experiments,Research/experiments/visualizations,momentum_model_performance.png,Image,Momentum model performance visualization,Experimental,Visualization,None,Small,2025-01-07
+Research_Experiments,Research/experiments/visualizations,statsbomb_data_connection_diagram.html,Visualization,StatsBomb data connection diagram,Experimental,Visualization,None,Small,2025-01-07
+
+Specs_Production,specs/final,README.md,Documentation,Final specifications documentation,Production,Project Documentation,None,Medium,2025-01-07
+Specs_Production,specs/final/code,Euro_2024_Enhanced_Data_Documentation.csv,Documentation,Enhanced data documentation,Production,Data Documentation,None,Medium,2025-01-07
+Specs_Production,specs/final/code,Euro_2024_Documentation_Summary.csv,Documentation,Documentation summary,Production,Project Documentation,None,Medium,2025-01-07
+Specs_Production,specs/final/code,Euro_2024_Data_Summary_Report.md,Documentation,Data summary report,Production,Data Documentation,None,Medium,2025-01-07
+Specs_Production,specs/final/code,Enhanced_Data_Documentation_Summary.md,Documentation,Enhanced data documentation summary,Production,Data Documentation,None,Medium,2025-01-07
+Specs_Production,specs/final/code,Euro_2024_Event_Types_Map.csv,Documentation,Event types mapping,Production,Data Documentation,None,Medium,2025-01-07
+Specs_Production,specs/final/code,Euro_2024_Key_Connections.csv,Documentation,Key connections documentation,Production,Data Documentation,None,Medium,2025-01-07
+Specs_Production,specs/final/code,Data Retrieval Protocol.csv,Documentation,Data retrieval protocol,Production,Data Documentation,None,Medium,2025-01-07
+Specs_Production,specs/final/code,Open Data Events v4.0.0.pdf,Documentation,StatsBomb open data events documentation,Production,Data Documentation,None,Large,2025-01-07
+
+Specs_Experiments,specs/experiments,README.md,Documentation,Experimental specifications documentation,Experimental,Project Documentation,None,Medium,2025-01-07
+Specs_Experiments,specs/experiments/code,cursor_project_journey_overview_and_ins.md,Documentation,Project journey overview and insights,Experimental,Project Documentation,None,Large,2025-01-07
+Specs_Experiments,specs/experiments/code,cursor_project_overview_from_a_to_z.md,Documentation,Project overview from A to Z,Experimental,Project Documentation,None,Large,2025-01-07
+
+Models_Production,models/final,README.md,Documentation,Production models documentation,Production,Model Documentation,None,Medium,2025-01-07
+Models_Experiments,models/experiments,README.md,Documentation,Experimental models documentation,Experimental,Model Documentation,None,Medium,2025-01-07
+
+Additional_Folders,EDA,README.md,Documentation,Exploratory Data Analysis documentation,Production,EDA Documentation,None,Medium,2025-01-07
+Additional_Folders,Conversations,README.md,Documentation,Project conversations documentation,Production,Conversation Documentation,None,Medium,2025-01-07
+Additional_Folders,thoughts,eda_insights.csv,Documentation,EDA insights tracking,Production,Insight Documentation,None,Small,2025-01-07
+Additional_Folders,images,pitch_coordinates.PNG,Image,Pitch coordinates visualization,Production,Visualization,None,Small,2025-01-07
+Additional_Folders,images,Download-Printable-Euro-2024-Wall-Chart-for-Free.pdf,Document,Euro 2024 wall chart,Production,Reference,None,Medium,2025-01-07 

@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:78719932686888a402c805a339e76a30275ec0cb145ba9c0c1664ed7c72c6a3d
-size 340
+analysis,inflated_predictability,honest_predictability,leakage_impact,ranking_by_honest_prediction,confidence_level,practical_value
+Momentum Transitions,0.789,0.45,-0.339,4,Moderate,Significant
+Team Signatures,0.533,0.51,-0.023,2,Moderate,High
+Heat Zones,0.54,0.47,-0.07,3,Moderate,Good
+Flow Corridors,0.67,0.58,-0.09,1,Good,Very High

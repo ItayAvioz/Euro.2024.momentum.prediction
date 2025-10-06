@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:729b423b530aabe52c92d3c2ce5c051d68c5a82987990f5604c95a242829908c
-size 211
+Metric,Period 1,Period 2
+Total Goals,51,64
+Average per Match,1.00,1.25
+Max Goals in Match,3,4
+Matches with 0 Goals,18,16
+Matches with 1+ Goals,33,35
+Matches with 2+ Goals,14,21
+Matches with 3+ Goals,4,7

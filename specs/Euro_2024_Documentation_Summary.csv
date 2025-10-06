@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:dc5d25d74bd648f575394453705430c1007bd333e296f334ef3a40f1caed6e83
-size 648
+metric,value,description
+Total Columns Documented,88,Complete documentation of all StatsBomb Euro 2024 data columns
+Total CSV Files,4,"matches_complete.csv, events_complete.csv, lineups_complete.csv, data_360_complete.csv"
+Total Event Types,38,Unique event types from StatsBomb taxonomy with ID mappings
+Total Key Connections,6,Primary/foreign key relationships between CSV files
+Total Records,"354,017","51 matches + 187,858 events + 2,587 lineups + 163,521 360° records"
+Time Period,Euro 2024,Complete tournament data from group stage to final
+Data Quality,88/88 columns,All columns successfully documented with examples and connections

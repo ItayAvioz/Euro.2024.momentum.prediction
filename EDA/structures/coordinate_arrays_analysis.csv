@@ -1,3 +1,19 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8417ff3c48c1cff2f740e9943f67c4dfbf821bd94055a4c84f1d9e9fe5ef9972
-size 1340
+Feature,Non_Null_Count,Missing_Count,Missing_Pct,Explanation,Extraction_Strategy
+location,186190,1668,0.887904693970978,"LOCATION ANALYSIS:
+            - Structure: [x, y] coordinates
+            - Pitch dimensions: x (0-120), y (0-80)
+            - Represents event location on football pitch
+            - Extraction: Split into location_x, location_y features
+            - Missing: Events without specific location (0.89%)",Parse and extract coordinate components for location
+visible_area,163521,24337,12.954997923963846,"VISIBLE_AREA ANALYSIS:
+            - Structure: Array of [x, y] coordinate pairs
+            - Represents visible area polygon on pitch
+            - Contains multiple coordinate points defining area
+            - Extraction: Could extract area size, centroid, shape features
+            - Missing: Events without 360° data (12.95%)",Parse and extract coordinate components for visible_area
+carry,44139,143719,76.50406157842626,"CARRY ANALYSIS:
+            - Structure: JSON object with end_location coordinates
+            - Contains carry distance, direction, end position
+            - Extraction: Parse JSON, extract end_location [x, y]
+            - Additional: Could extract carry_distance, carry_angle
+            - Missing: Non-carry events (76.5%)",Parse and extract coordinate components for carry

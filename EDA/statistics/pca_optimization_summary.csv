@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:859a50875a689df6374a85f50ed57a3b8d90cb85c3cc76c4e3a7a6d4aec2170f
-size 1010
+analysis,original_features,optimal_k,original_silhouette,best_pca_components,best_pca_silhouette,silhouette_improvement,feature_reduction,variance_explained,feature_reduction_pct,top_features
+Momentum Transitions,9,10,0.1166128652167743,6,0.16047222612761805,0.04385936091084375,3,0.8450066042647302,33.33333333333333,"is_major_transition, possession_change, pattern_change, complexity_change, momentum_change"
+Team Signatures,14,3,0.10800827282591226,7,0.15425207184564962,0.04624379901973737,7,0.818801108846752,50.0,"progression_rate, avg_patterns, early_momentum, avg_intensity, buildup_rate"
+Heat Zones,14,3,0.06288685355076518,11,0.07265271684700696,0.00976586329624178,3,0.8311920809891854,21.428571428571427,"time_factor, time_window, zone_intensity, activity_balance, heat_trend"
+Flow Corridors,14,7,0.0675391749737309,11,0.08122543162719467,0.013686256653463777,3,0.8533967611013163,21.428571428571427,"flow_consistency, tactical_importance, avg_flow_intensity, tempo_factor, avg_goal_approach"

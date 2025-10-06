@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bebfcb32cdc176a7cc3084a2f8f95f268dd8831dd830d443d220d7705d512040
-size 785
+superiority_metric,outcome_variable,correlation_coefficient,p_value,significant
+momentum_superiority,team_score,0.3044554135608254,0.0018635249227033847,True
+momentum_superiority,goal_difference,0.4106611398966107,1.8105649884237296e-05,True
+momentum_superiority,win,0.36158985881990563,0.00018843152767570212,True
+change_superiority,team_score,-0.0764124614517991,0.4452643437438261,False
+change_superiority,goal_difference,-0.10306805898142624,0.30260850253854793,False
+change_superiority,win,-0.09922579334923075,0.3210844399740263,False
+relative_superiority,team_score,-0.1102732189817578,0.26987612631888086,False
+relative_superiority,goal_difference,-0.14874074754486188,0.13569738345289892,False
+relative_superiority,win,-0.10377429356705392,0.29928983961588634,False

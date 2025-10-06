@@ -1,3 +1,101 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8162a5d8d19ffa8c3bdc0ae005fe7dcb85e398af5eab7c98ecfc151e8ecda79f
-size 6738
+match_id,minute,second,event_type,player_name,team_name,home_team,away_team
+3942819,0,0,Starting XI,N/A,Netherlands,Netherlands,England
+3942819,0,0,Starting XI,N/A,England,Netherlands,England
+3942819,0,0,Half Start,N/A,Netherlands,Netherlands,England
+3942819,0,0,Half Start,N/A,England,Netherlands,England
+3942819,0,0,Pass,Kobbie Mainoo,England,Netherlands,England
+3942819,0,2,Ball Receipt*,Jordan Pickford,England,Netherlands,England
+3942819,0,2,Carry,Jordan Pickford,England,Netherlands,England
+3942819,0,4,Pressure,Memphis Depay,Netherlands,Netherlands,England
+3942819,0,5,Pass,Jordan Pickford,England,Netherlands,England
+3942819,0,8,Pass,Virgil van Dijk,Netherlands,Netherlands,England
+3942819,0,11,Ball Receipt*,Memphis Depay,Netherlands,Netherlands,England
+3942819,0,11,Pass,John Stones,England,Netherlands,England
+3942819,0,13,Pressure,Virgil van Dijk,Netherlands,Netherlands,England
+3942819,0,13,Ball Receipt*,Harry Kane,England,Netherlands,England
+3942819,0,13,Carry,Harry Kane,England,Netherlands,England
+3942819,0,14,Pressure,Tijjani Reijnders,Netherlands,Netherlands,England
+3942819,0,14,Miscontrol,Harry Kane,England,Netherlands,England
+3942819,0,16,Ball Recovery,Cody Mathès Gakpo,Netherlands,Netherlands,England
+3942819,0,16,Carry,Cody Mathès Gakpo,Netherlands,Netherlands,England
+3942819,0,16,Pressure,Kyle Walker,England,Netherlands,England
+3942819,0,16,Foul Committed,Kyle Walker,England,Netherlands,England
+3942819,0,16,Foul Won,Cody Mathès Gakpo,Netherlands,Netherlands,England
+3942819,0,23,Pass,Nathan Aké,Netherlands,Netherlands,England
+3942819,0,24,Ball Receipt*,Virgil van Dijk,Netherlands,Netherlands,England
+3942819,0,24,Carry,Virgil van Dijk,Netherlands,Netherlands,England
+3942819,0,27,Pass,Virgil van Dijk,Netherlands,Netherlands,England
+3942819,0,28,Ball Receipt*,Nathan Aké,Netherlands,Netherlands,England
+3942819,0,28,Carry,Nathan Aké,Netherlands,Netherlands,England
+3942819,0,30,Pass,Nathan Aké,Netherlands,Netherlands,England
+3942819,0,31,Ball Receipt*,Virgil van Dijk,Netherlands,Netherlands,England
+3942819,0,31,Carry,Virgil van Dijk,Netherlands,Netherlands,England
+3942819,0,32,Pass,Virgil van Dijk,Netherlands,Netherlands,England
+3942819,0,33,Ball Receipt*,Stefan de Vrij,Netherlands,Netherlands,England
+3942819,0,33,Carry,Stefan de Vrij,Netherlands,Netherlands,England
+3942819,0,38,Pass,Stefan de Vrij,Netherlands,Netherlands,England
+3942819,0,39,Ball Receipt*,Jerdy Schouten,Netherlands,Netherlands,England
+3942819,0,39,Carry,Jerdy Schouten,Netherlands,Netherlands,England
+3942819,0,39,Pass,Jerdy Schouten,Netherlands,Netherlands,England
+3942819,0,40,Ball Receipt*,Stefan de Vrij,Netherlands,Netherlands,England
+3942819,0,40,Carry,Stefan de Vrij,Netherlands,Netherlands,England
+3942819,0,43,Pass,Stefan de Vrij,Netherlands,Netherlands,England
+3942819,0,44,Ball Receipt*,Virgil van Dijk,Netherlands,Netherlands,England
+3942819,0,44,Carry,Virgil van Dijk,Netherlands,Netherlands,England
+3942819,0,47,Pass,Virgil van Dijk,Netherlands,Netherlands,England
+3942819,0,48,Ball Receipt*,Stefan de Vrij,Netherlands,Netherlands,England
+3942819,0,48,Carry,Stefan de Vrij,Netherlands,Netherlands,England
+3942819,0,49,Pass,Stefan de Vrij,Netherlands,Netherlands,England
+3942819,0,51,Ball Receipt*,Denzel Dumfries,Netherlands,Netherlands,England
+3942819,0,51,Carry,Denzel Dumfries,Netherlands,Netherlands,England
+3942819,0,52,Pass,Denzel Dumfries,Netherlands,Netherlands,England
+3942819,0,53,Ball Receipt*,Stefan de Vrij,Netherlands,Netherlands,England
+3942819,0,53,Carry,Stefan de Vrij,Netherlands,Netherlands,England
+3942819,0,57,Pass,Stefan de Vrij,Netherlands,Netherlands,England
+3942819,0,58,Ball Receipt*,Denzel Dumfries,Netherlands,Netherlands,England
+3942819,0,58,Carry,Denzel Dumfries,Netherlands,Netherlands,England
+3942819,0,59,Pass,Denzel Dumfries,Netherlands,Netherlands,England
+3942819,1,2,Ball Receipt*,Donyell Malen,Netherlands,Netherlands,England
+3942819,1,20,Pass,Marc Guehi,England,Netherlands,England
+3942819,1,22,Ball Receipt*,Jordan Pickford,England,Netherlands,England
+3942819,1,23,Pass,Jordan Pickford,England,Netherlands,England
+3942819,1,25,Ball Receipt*,John Stones,England,Netherlands,England
+3942819,1,25,Carry,John Stones,England,Netherlands,England
+3942819,1,28,Pass,John Stones,England,Netherlands,England
+3942819,1,29,Ball Receipt*,Declan Rice,England,Netherlands,England
+3942819,1,29,Carry,Declan Rice,England,Netherlands,England
+3942819,1,30,Pass,Declan Rice,England,Netherlands,England
+3942819,1,31,Ball Receipt*,Jude Bellingham,England,Netherlands,England
+3942819,1,31,Carry,Jude Bellingham,England,Netherlands,England
+3942819,1,32,Pass,Jude Bellingham,England,Netherlands,England
+3942819,1,34,Ball Receipt*,Marc Guehi,England,Netherlands,England
+3942819,1,34,Carry,Marc Guehi,England,Netherlands,England
+3942819,1,34,Pass,Marc Guehi,England,Netherlands,England
+3942819,1,36,Ball Receipt*,Kieran Trippier,England,Netherlands,England
+3942819,1,36,Carry,Kieran Trippier,England,Netherlands,England
+3942819,1,36,Pass,Kieran Trippier,England,Netherlands,England
+3942819,1,36,Pressure,Tijjani Reijnders,Netherlands,Netherlands,England
+3942819,1,36,Ball Receipt*,Phil Foden,England,Netherlands,England
+3942819,1,36,Carry,Phil Foden,England,Netherlands,England
+3942819,1,38,Pass,Phil Foden,England,Netherlands,England
+3942819,1,39,Ball Receipt*,Jude Bellingham,England,Netherlands,England
+3942819,1,39,Carry,Jude Bellingham,England,Netherlands,England
+3942819,1,40,Pass,Jude Bellingham,England,Netherlands,England
+3942819,1,41,Ball Receipt*,John Stones,England,Netherlands,England
+3942819,1,41,Carry,John Stones,England,Netherlands,England
+3942819,1,41,Pass,John Stones,England,Netherlands,England
+3942819,1,43,Ball Receipt*,Kyle Walker,England,Netherlands,England
+3942819,1,43,Carry,Kyle Walker,England,Netherlands,England
+3942819,1,44,Pressure,Cody Mathès Gakpo,Netherlands,Netherlands,England
+3942819,1,44,Dribbled Past,Cody Mathès Gakpo,Netherlands,Netherlands,England
+3942819,1,44,Dribble,Kyle Walker,England,Netherlands,England
+3942819,1,44,Carry,Kyle Walker,England,Netherlands,England
+3942819,1,46,Pressure,Cody Mathès Gakpo,Netherlands,Netherlands,England
+3942819,1,46,Pass,Kyle Walker,England,Netherlands,England
+3942819,1,47,Ball Receipt*,Bukayo Saka,England,Netherlands,England
+3942819,1,47,Pass,Bukayo Saka,England,Netherlands,England
+3942819,1,48,Ball Receipt*,Kobbie Mainoo,England,Netherlands,England
+3942819,1,48,Carry,Kobbie Mainoo,England,Netherlands,England
+3942819,1,49,Pass,Kobbie Mainoo,England,Netherlands,England
+3942819,1,50,Ball Receipt*,Jude Bellingham,England,Netherlands,England
+3942819,1,50,Carry,Jude Bellingham,England,Netherlands,England

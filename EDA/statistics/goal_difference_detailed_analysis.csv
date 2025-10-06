@@ -1,3 +1,52 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a1ed9afdd854058ebfd65a5110da36bb201fc0e353c7f7805a0ebd62ec4f83ec
-size 3835
+match_id,home_team,away_team,stage,ht_home,ht_away,ht_goal_diff,ht_abs_diff,ft_home,ft_away,ft_goal_diff,ft_abs_diff,has_extra_time,went_to_penalties,is_knockout
+3942819,Netherlands,England,Semi-finals,1,1,0,0,1,2,-1,1,False,False,True
+3943043,Spain,England,Final,0,0,0,0,2,1,1,1,False,False,True
+3942752,Spain,France,Semi-finals,2,1,1,1,2,1,1,1,False,False,True
+3942382,Netherlands,Turkey,Quarter-finals,0,1,-1,1,2,1,1,1,False,False,True
+3942349,Portugal,France,Quarter-finals,0,0,0,0,0,0,0,0,True,True,True
+3930180,Netherlands,Austria,Group Stage,0,0,0,0,2,3,-1,1,False,False,False
+3930171,Denmark,England,Group Stage,1,1,0,0,1,1,0,0,False,False,False
+3942227,England,Switzerland,Quarter-finals,0,0,0,0,1,1,0,0,True,True,True
+3942226,Spain,Germany,Quarter-finals,0,0,0,0,2,1,1,1,True,False,True
+3938645,Ukraine,Belgium,Group Stage,0,0,0,0,0,0,0,0,False,False,False
+3930184,Czech Republic,Turkey,Group Stage,0,0,0,0,1,2,-1,1,False,False,False
+3941022,Austria,Turkey,Round of 16,0,1,-1,1,1,2,-1,1,False,False,True
+3941021,Romania,Netherlands,Round of 16,0,1,-1,1,0,3,-3,3,False,False,True
+3941020,Portugal,Slovenia,Round of 16,0,0,0,0,0,0,0,0,True,True,True
+3941019,France,Belgium,Round of 16,0,0,0,0,1,0,1,1,False,False,True
+3941018,Spain,Georgia,Round of 16,1,0,1,1,4,1,3,3,False,False,True
+3941017,England,Slovakia,Round of 16,0,1,-1,1,2,1,1,1,True,False,True
+3930182,Denmark,Serbia,Group Stage,0,0,0,0,0,0,0,0,False,False,False
+3930179,Albania,Spain,Group Stage,0,1,-1,1,0,1,-1,1,False,False,False
+3940983,Germany,Denmark,Round of 16,0,0,0,0,2,0,2,2,False,False,True
+3940878,Switzerland,Italy,Round of 16,1,0,1,1,2,0,2,2,False,False,True
+3930177,Scotland,Hungary,Group Stage,0,0,0,0,0,1,-1,1,False,False,False
+3930173,Netherlands,France,Group Stage,0,0,0,0,0,0,0,0,False,False,False
+3930172,Spain,Italy,Group Stage,0,0,0,0,1,0,1,1,False,False,False
+3930167,Croatia,Albania,Group Stage,0,1,-1,1,2,2,0,0,False,False,False
+3930168,Germany,Hungary,Group Stage,1,0,1,1,2,0,2,2,False,False,False
+3930165,Austria,France,Group Stage,0,0,0,0,0,1,-1,1,False,False,False
+3930164,Belgium,Slovakia,Group Stage,0,1,-1,1,0,1,-1,1,False,False,False
+3930161,Italy,Albania,Group Stage,2,1,1,1,2,1,1,1,False,False,False
+3938637,Poland,Netherlands,Group Stage,1,1,0,0,1,2,-1,1,False,False,False
+3938640,Slovakia,Ukraine,Group Stage,1,0,1,1,1,2,-1,1,False,False,False
+3938642,Georgia,Czech Republic,Group Stage,1,0,1,1,1,1,0,0,False,False,False
+3938639,Turkey,Georgia,Group Stage,1,1,0,0,3,1,2,2,False,False,False
+3938641,Poland,Austria,Group Stage,1,1,0,0,1,3,-2,2,False,False,False
+3938644,Georgia,Portugal,Group Stage,1,0,1,1,2,0,2,2,False,False,False
+3938643,France,Poland,Group Stage,0,0,0,0,1,1,0,0,False,False,False
+3938638,Romania,Ukraine,Group Stage,1,0,1,1,3,0,3,3,False,False,False
+3930183,Slovakia,Romania,Group Stage,1,1,0,0,1,1,0,0,False,False,False
+3930181,England,Slovenia,Group Stage,0,0,0,0,0,0,0,0,False,False,False
+3930178,Croatia,Italy,Group Stage,0,0,0,0,1,1,0,0,False,False,False
+3930176,Switzerland,Germany,Group Stage,1,0,1,1,1,1,0,0,False,False,False
+3930175,Belgium,Romania,Group Stage,1,0,1,1,2,0,2,2,False,False,False
+3930174,Turkey,Portugal,Group Stage,0,1,-1,1,0,3,-3,3,False,False,False
+3930170,Slovenia,Serbia,Group Stage,0,0,0,0,1,1,0,0,False,False,False
+3930169,Scotland,Switzerland,Group Stage,1,1,0,0,1,1,0,0,False,False,False
+3930166,Portugal,Czech Republic,Group Stage,0,0,0,0,2,1,1,1,False,False,False
+3930163,Serbia,England,Group Stage,0,1,-1,1,0,1,-1,1,False,False,False
+3930162,Slovenia,Denmark,Group Stage,0,1,-1,1,1,1,0,0,False,False,False
+3930160,Spain,Croatia,Group Stage,3,0,3,3,3,0,3,3,False,False,False
+3930159,Hungary,Switzerland,Group Stage,0,2,-2,2,1,3,-2,2,False,False,False
+3930158,Germany,Scotland,Group Stage,3,0,3,3,5,1,4,4,False,False,False

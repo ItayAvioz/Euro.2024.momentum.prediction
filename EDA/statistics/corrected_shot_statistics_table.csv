@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cd64c9fd562237d573383359ef4760468f85e54aa94537c519bce308b855b387
-size 572
+Statistic,Group Stage,Round of 16,Quarter-finals + Semi-finals + Final
+Number of Games,36,8,7
+Games to Extra Time,0,2,3
+Extra Time Percentage,0.0%,25.0%,42.9%
+Total Shots,902,236,202
+Total Shots on Target,377,93,87
+Total Shots off Target,262,78,57
+Total Shots Blocked,263,65,58
+Shots per Game,25.06,29.50,28.86
+Shots per 90min,25.06,27.23,25.25
+Shots on Target per Game,10.47,11.62,12.43
+Shots on Target per 90min,10.47,10.73,10.88
+Shot Accuracy %,41.8%,39.4%,43.1%
+Conversion Rate %,8.2%,8.5%,15.8%
+On Target Conversion %,19,21,36
+Blocked Shot %,29,27,28

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ebef2238304ff2a22baa9e8facb7c7796943fa8b64a167403c54239d6dffaca4
-size 250
+total_flow_sequences,total_corridors,significant_corridors,optimal_k,optimal_silhouette,corridor_types,avg_flow_predictability,high_predictability_pct,team_corridor_combinations
+109068,569,512,7,0.5290970826263051,8,0.6699131626361619,86.71875,128

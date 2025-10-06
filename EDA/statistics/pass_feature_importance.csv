@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:887b6620ad127ac678d4914c8a0dc6b0a88cabf1a0041f3d1422ab77925f5cba
-size 381
+feature,importance
+forward_progress,0.5102133309048517
+zone_progression,0.2616050351413019
+pass_success,0.21711150801517132
+related_events_count,0.010944995187347381
+pass_length,0.0001197266798923738
+pass_height_id,5.38472762470949e-06
+minute,1.934381067031177e-08
+play_pattern_id,3.3682915824724617e-18
+body_part_id,3.339538655577794e-18
+period,0.0
+under_pressure,0.0

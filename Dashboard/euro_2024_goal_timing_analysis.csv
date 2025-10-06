@@ -1,3 +1,116 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1a3c865394257c075148753bc525d87f7e0ed10cd7868347c3ee9e1cde559312
-size 12311
+match_id,home_team,away_team,match_date,stage,period,minute,second,type,team,interval_5min
+3930158,Germany,Scotland,2024-06-14,Group Stage,1,9,55,Shot Goal,"{'id': 770, 'name': 'Germany'}",6-10
+3930158,Germany,Scotland,2024-06-14,Group Stage,1,18,43,Shot Goal,"{'id': 770, 'name': 'Germany'}",16-20
+3930158,Germany,Scotland,2024-06-14,Group Stage,1,45,35,Shot Goal,"{'id': 770, 'name': 'Germany'}",41-45+
+3930158,Germany,Scotland,2024-06-14,Group Stage,2,67,42,Shot Goal,"{'id': 770, 'name': 'Germany'}",66-70
+3930158,Germany,Scotland,2024-06-14,Group Stage,2,86,32,Own Goal,"{'id': 770, 'name': 'Germany'}",86-90+
+3930158,Germany,Scotland,2024-06-14,Group Stage,2,92,32,Shot Goal,"{'id': 770, 'name': 'Germany'}",86-90+
+3930159,Hungary,Switzerland,2024-06-15,Group Stage,1,11,55,Shot Goal,"{'id': 773, 'name': 'Switzerland'}",11-15
+3930159,Hungary,Switzerland,2024-06-15,Group Stage,1,44,42,Shot Goal,"{'id': 773, 'name': 'Switzerland'}",41-45+
+3930159,Hungary,Switzerland,2024-06-15,Group Stage,2,65,25,Shot Goal,"{'id': 916, 'name': 'Hungary'}",61-65
+3930159,Hungary,Switzerland,2024-06-15,Group Stage,2,92,40,Shot Goal,"{'id': 773, 'name': 'Switzerland'}",86-90+
+3930160,Spain,Croatia,2024-06-15,Group Stage,1,28,8,Shot Goal,"{'id': 772, 'name': 'Spain'}",26-30
+3930160,Spain,Croatia,2024-06-15,Group Stage,1,31,24,Shot Goal,"{'id': 772, 'name': 'Spain'}",31-35
+3930160,Spain,Croatia,2024-06-15,Group Stage,1,46,54,Shot Goal,"{'id': 772, 'name': 'Spain'}",41-45+
+3930161,Italy,Albania,2024-06-15,Group Stage,1,0,23,Shot Goal,"{'id': 906, 'name': 'Albania'}",1-5
+3930161,Italy,Albania,2024-06-15,Group Stage,1,10,15,Shot Goal,"{'id': 914, 'name': 'Italy'}",6-10
+3930161,Italy,Albania,2024-06-15,Group Stage,1,15,52,Shot Goal,"{'id': 914, 'name': 'Italy'}",11-15
+3930162,Slovenia,Denmark,2024-06-16,Group Stage,1,16,36,Shot Goal,"{'id': 776, 'name': 'Denmark'}",16-20
+3930162,Slovenia,Denmark,2024-06-16,Group Stage,2,76,26,Shot Goal,"{'id': 944, 'name': 'Slovenia'}",76-80
+3930163,Serbia,England,2024-06-16,Group Stage,1,12,11,Shot Goal,"{'id': 768, 'name': 'England'}",11-15
+3938637,Poland,Netherlands,2024-06-16,Group Stage,1,15,50,Shot Goal,"{'id': 789, 'name': 'Poland'}",11-15
+3938637,Poland,Netherlands,2024-06-16,Group Stage,1,28,49,Shot Goal,"{'id': 941, 'name': 'Netherlands'}",26-30
+3938637,Poland,Netherlands,2024-06-16,Group Stage,2,82,42,Shot Goal,"{'id': 941, 'name': 'Netherlands'}",81-85
+3930164,Belgium,Slovakia,2024-06-17,Group Stage,1,6,5,Shot Goal,"{'id': 908, 'name': 'Slovakia'}",6-10
+3930165,Austria,France,2024-06-17,Group Stage,1,37,31,Own Goal,"{'id': 915, 'name': 'Austria'}",36-40
+3938638,Romania,Ukraine,2024-06-17,Group Stage,1,28,46,Shot Goal,"{'id': 905, 'name': 'Romania'}",26-30
+3938638,Romania,Ukraine,2024-06-17,Group Stage,2,52,24,Shot Goal,"{'id': 905, 'name': 'Romania'}",51-55
+3938638,Romania,Ukraine,2024-06-17,Group Stage,2,56,27,Shot Goal,"{'id': 905, 'name': 'Romania'}",56-60
+3930166,Portugal,Czech Republic,2024-06-18,Group Stage,2,61,31,Shot Goal,"{'id': 912, 'name': 'Czech Republic'}",61-65
+3930166,Portugal,Czech Republic,2024-06-18,Group Stage,2,68,52,Own Goal,"{'id': 912, 'name': 'Czech Republic'}",66-70
+3930166,Portugal,Czech Republic,2024-06-18,Group Stage,2,91,11,Shot Goal,"{'id': 780, 'name': 'Portugal'}",86-90+
+3938639,Turkey,Georgia,2024-06-18,Group Stage,1,24,57,Shot Goal,"{'id': 909, 'name': 'Turkey'}",21-25
+3938639,Turkey,Georgia,2024-06-18,Group Stage,1,31,44,Shot Goal,"{'id': 2138, 'name': 'Georgia'}",31-35
+3938639,Turkey,Georgia,2024-06-18,Group Stage,2,64,54,Shot Goal,"{'id': 909, 'name': 'Turkey'}",61-65
+3938639,Turkey,Georgia,2024-06-18,Group Stage,2,96,29,Shot Goal,"{'id': 909, 'name': 'Turkey'}",86-90+
+3930167,Croatia,Albania,2024-06-19,Group Stage,1,10,15,Shot Goal,"{'id': 906, 'name': 'Albania'}",6-10
+3930167,Croatia,Albania,2024-06-19,Group Stage,2,73,19,Shot Goal,"{'id': 785, 'name': 'Croatia'}",71-75
+3930167,Croatia,Albania,2024-06-19,Group Stage,2,75,44,Own Goal,"{'id': 906, 'name': 'Albania'}",71-75
+3930167,Croatia,Albania,2024-06-19,Group Stage,2,94,23,Shot Goal,"{'id': 906, 'name': 'Albania'}",86-90+
+3930168,Germany,Hungary,2024-06-19,Group Stage,1,21,44,Shot Goal,"{'id': 770, 'name': 'Germany'}",21-25
+3930168,Germany,Hungary,2024-06-19,Group Stage,2,66,20,Shot Goal,"{'id': 770, 'name': 'Germany'}",66-70
+3930169,Scotland,Switzerland,2024-06-19,Group Stage,1,12,38,Shot Goal,"{'id': 942, 'name': 'Scotland'}",11-15
+3930169,Scotland,Switzerland,2024-06-19,Group Stage,1,25,34,Shot Goal,"{'id': 773, 'name': 'Switzerland'}",21-25
+3930170,Slovenia,Serbia,2024-06-20,Group Stage,2,68,6,Shot Goal,"{'id': 944, 'name': 'Slovenia'}",66-70
+3930170,Slovenia,Serbia,2024-06-20,Group Stage,2,94,59,Shot Goal,"{'id': 786, 'name': 'Serbia'}",86-90+
+3930171,Denmark,England,2024-06-20,Group Stage,1,17,21,Shot Goal,"{'id': 768, 'name': 'England'}",16-20
+3930171,Denmark,England,2024-06-20,Group Stage,1,33,36,Shot Goal,"{'id': 776, 'name': 'Denmark'}",31-35
+3930172,Spain,Italy,2024-06-20,Group Stage,2,54,4,Own Goal,"{'id': 914, 'name': 'Italy'}",51-55
+3938640,Slovakia,Ukraine,2024-06-21,Group Stage,1,16,56,Shot Goal,"{'id': 908, 'name': 'Slovakia'}",16-20
+3938640,Slovakia,Ukraine,2024-06-21,Group Stage,2,53,7,Shot Goal,"{'id': 911, 'name': 'Ukraine'}",51-55
+3938640,Slovakia,Ukraine,2024-06-21,Group Stage,2,79,5,Shot Goal,"{'id': 911, 'name': 'Ukraine'}",76-80
+3938641,Poland,Austria,2024-06-21,Group Stage,1,8,45,Shot Goal,"{'id': 915, 'name': 'Austria'}",6-10
+3938641,Poland,Austria,2024-06-21,Group Stage,1,29,36,Shot Goal,"{'id': 789, 'name': 'Poland'}",26-30
+3938641,Poland,Austria,2024-06-21,Group Stage,2,65,58,Shot Goal,"{'id': 915, 'name': 'Austria'}",61-65
+3938641,Poland,Austria,2024-06-21,Group Stage,2,77,50,Shot Goal,"{'id': 915, 'name': 'Austria'}",76-80
+3930174,Turkey,Portugal,2024-06-22,Group Stage,1,20,58,Shot Goal,"{'id': 780, 'name': 'Portugal'}",16-20
+3930174,Turkey,Portugal,2024-06-22,Group Stage,1,28,0,Own Goal,"{'id': 909, 'name': 'Turkey'}",26-30
+3930174,Turkey,Portugal,2024-06-22,Group Stage,2,55,3,Shot Goal,"{'id': 780, 'name': 'Portugal'}",51-55
+3930175,Belgium,Romania,2024-06-22,Group Stage,1,1,14,Shot Goal,"{'id': 782, 'name': 'Belgium'}",1-5
+3930175,Belgium,Romania,2024-06-22,Group Stage,2,79,1,Shot Goal,"{'id': 782, 'name': 'Belgium'}",76-80
+3938642,Georgia,Czech Republic,2024-06-22,Group Stage,1,48,20,Shot Goal,"{'id': 2138, 'name': 'Georgia'}",41-45+
+3938642,Georgia,Czech Republic,2024-06-22,Group Stage,2,58,7,Shot Goal,"{'id': 912, 'name': 'Czech Republic'}",56-60
+3930176,Switzerland,Germany,2024-06-23,Group Stage,1,27,52,Shot Goal,"{'id': 773, 'name': 'Switzerland'}",26-30
+3930176,Switzerland,Germany,2024-06-23,Group Stage,2,91,6,Shot Goal,"{'id': 770, 'name': 'Germany'}",86-90+
+3930177,Scotland,Hungary,2024-06-23,Group Stage,2,99,33,Shot Goal,"{'id': 916, 'name': 'Hungary'}",86-90+
+3930178,Croatia,Italy,2024-06-24,Group Stage,2,54,17,Shot Goal,"{'id': 785, 'name': 'Croatia'}",51-55
+3930178,Croatia,Italy,2024-06-24,Group Stage,2,97,21,Shot Goal,"{'id': 914, 'name': 'Italy'}",86-90+
+3930179,Albania,Spain,2024-06-24,Group Stage,1,12,32,Shot Goal,"{'id': 772, 'name': 'Spain'}",11-15
+3930180,Netherlands,Austria,2024-06-25,Group Stage,1,5,49,Own Goal,"{'id': 941, 'name': 'Netherlands'}",1-5
+3930180,Netherlands,Austria,2024-06-25,Group Stage,2,46,12,Shot Goal,"{'id': 941, 'name': 'Netherlands'}",46-50
+3930180,Netherlands,Austria,2024-06-25,Group Stage,2,58,31,Shot Goal,"{'id': 915, 'name': 'Austria'}",56-60
+3930180,Netherlands,Austria,2024-06-25,Group Stage,2,74,53,Shot Goal,"{'id': 941, 'name': 'Netherlands'}",71-75
+3930180,Netherlands,Austria,2024-06-25,Group Stage,2,79,56,Shot Goal,"{'id': 915, 'name': 'Austria'}",76-80
+3938643,France,Poland,2024-06-25,Group Stage,2,55,37,Shot Goal,"{'id': 771, 'name': 'France'}",51-55
+3938643,France,Poland,2024-06-25,Group Stage,2,78,13,Shot Goal,"{'id': 789, 'name': 'Poland'}",76-80
+3930183,Slovakia,Romania,2024-06-26,Group Stage,1,23,43,Shot Goal,"{'id': 908, 'name': 'Slovakia'}",21-25
+3930183,Slovakia,Romania,2024-06-26,Group Stage,1,36,18,Shot Goal,"{'id': 905, 'name': 'Romania'}",36-40
+3930184,Czech Republic,Turkey,2024-06-26,Group Stage,2,50,48,Shot Goal,"{'id': 909, 'name': 'Turkey'}",46-50
+3930184,Czech Republic,Turkey,2024-06-26,Group Stage,2,65,25,Shot Goal,"{'id': 912, 'name': 'Czech Republic'}",61-65
+3930184,Czech Republic,Turkey,2024-06-26,Group Stage,2,93,45,Shot Goal,"{'id': 909, 'name': 'Turkey'}",86-90+
+3938644,Georgia,Portugal,2024-06-26,Group Stage,1,1,32,Shot Goal,"{'id': 2138, 'name': 'Georgia'}",1-5
+3938644,Georgia,Portugal,2024-06-26,Group Stage,2,56,13,Shot Goal,"{'id': 2138, 'name': 'Georgia'}",56-60
+3940878,Switzerland,Italy,2024-06-29,Round of 16,1,36,20,Shot Goal,"{'id': 773, 'name': 'Switzerland'}",36-40
+3940878,Switzerland,Italy,2024-06-29,Round of 16,2,45,27,Shot Goal,"{'id': 773, 'name': 'Switzerland'}",46-50
+3940983,Germany,Denmark,2024-06-29,Round of 16,2,52,58,Shot Goal,"{'id': 770, 'name': 'Germany'}",51-55
+3940983,Germany,Denmark,2024-06-29,Round of 16,2,67,48,Shot Goal,"{'id': 770, 'name': 'Germany'}",66-70
+3941017,England,Slovakia,2024-06-30,Round of 16,1,24,23,Shot Goal,"{'id': 908, 'name': 'Slovakia'}",21-25
+3941017,England,Slovakia,2024-06-30,Round of 16,2,94,33,Shot Goal,"{'id': 768, 'name': 'England'}",86-90+
+3941018,Spain,Georgia,2024-06-30,Round of 16,1,17,14,Own Goal,"{'id': 772, 'name': 'Spain'}",16-20
+3941018,Spain,Georgia,2024-06-30,Round of 16,1,38,10,Shot Goal,"{'id': 772, 'name': 'Spain'}",36-40
+3941018,Spain,Georgia,2024-06-30,Round of 16,2,50,40,Shot Goal,"{'id': 772, 'name': 'Spain'}",46-50
+3941018,Spain,Georgia,2024-06-30,Round of 16,2,74,40,Shot Goal,"{'id': 772, 'name': 'Spain'}",71-75
+3941018,Spain,Georgia,2024-06-30,Round of 16,2,82,35,Shot Goal,"{'id': 772, 'name': 'Spain'}",81-85
+3941019,France,Belgium,2024-07-01,Round of 16,2,84,30,Own Goal,"{'id': 782, 'name': 'Belgium'}",81-85
+3941021,Romania,Netherlands,2024-07-02,Round of 16,1,19,7,Shot Goal,"{'id': 941, 'name': 'Netherlands'}",16-20
+3941021,Romania,Netherlands,2024-07-02,Round of 16,2,82,23,Shot Goal,"{'id': 941, 'name': 'Netherlands'}",81-85
+3941021,Romania,Netherlands,2024-07-02,Round of 16,2,92,42,Shot Goal,"{'id': 941, 'name': 'Netherlands'}",86-90+
+3941022,Austria,Turkey,2024-07-02,Round of 16,1,0,58,Shot Goal,"{'id': 909, 'name': 'Turkey'}",1-5
+3941022,Austria,Turkey,2024-07-02,Round of 16,2,58,51,Shot Goal,"{'id': 909, 'name': 'Turkey'}",56-60
+3941022,Austria,Turkey,2024-07-02,Round of 16,2,65,53,Shot Goal,"{'id': 915, 'name': 'Austria'}",61-65
+3942226,Spain,Germany,2024-07-05,Quarter-finals,2,51,0,Shot Goal,"{'id': 772, 'name': 'Spain'}",51-55
+3942226,Spain,Germany,2024-07-05,Quarter-finals,2,88,21,Shot Goal,"{'id': 770, 'name': 'Germany'}",86-90+
+3942227,England,Switzerland,2024-07-06,Quarter-finals,2,74,14,Shot Goal,"{'id': 773, 'name': 'Switzerland'}",71-75
+3942227,England,Switzerland,2024-07-06,Quarter-finals,2,79,46,Shot Goal,"{'id': 768, 'name': 'England'}",76-80
+3942382,Netherlands,Turkey,2024-07-06,Quarter-finals,1,34,47,Shot Goal,"{'id': 909, 'name': 'Turkey'}",31-35
+3942382,Netherlands,Turkey,2024-07-06,Quarter-finals,2,69,54,Shot Goal,"{'id': 941, 'name': 'Netherlands'}",66-70
+3942382,Netherlands,Turkey,2024-07-06,Quarter-finals,2,75,27,Own Goal,"{'id': 909, 'name': 'Turkey'}",71-75
+3942752,Spain,France,2024-07-09,Semi-finals,1,8,1,Shot Goal,"{'id': 771, 'name': 'France'}",6-10
+3942752,Spain,France,2024-07-09,Semi-finals,1,20,15,Shot Goal,"{'id': 772, 'name': 'Spain'}",16-20
+3942752,Spain,France,2024-07-09,Semi-finals,1,24,23,Shot Goal,"{'id': 772, 'name': 'Spain'}",21-25
+3942819,Netherlands,England,2024-07-10,Semi-finals,1,6,41,Shot Goal,"{'id': 941, 'name': 'Netherlands'}",6-10
+3942819,Netherlands,England,2024-07-10,Semi-finals,1,17,34,Shot Goal,"{'id': 768, 'name': 'England'}",16-20
+3942819,Netherlands,England,2024-07-10,Semi-finals,2,90,0,Shot Goal,"{'id': 768, 'name': 'England'}",86-90+
+3943043,Spain,England,2024-07-14,Final,2,46,9,Shot Goal,"{'id': 772, 'name': 'Spain'}",46-50
+3943043,Spain,England,2024-07-14,Final,2,72,8,Shot Goal,"{'id': 768, 'name': 'England'}",71-75
+3943043,Spain,England,2024-07-14,Final,2,85,56,Shot Goal,"{'id': 772, 'name': 'Spain'}",81-85

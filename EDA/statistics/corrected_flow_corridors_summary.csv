@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:35aeffc5e384f105a109ce1a4b36c48b9fae95dc6c1cbbc24f655c6d24af8ae4
-size 883
+analysis_name,total_flow_sequences,total_corridors,significant_corridors,optimal_k,original_silhouette,pca_optimized_silhouette,original_predictability_GOOD,corrected_predictability_HONEST,leakage_impact,original_features,leaking_features_removed,honest_features,final_feature_count,feature_reduction_pct,prediction_method,prediction_horizon,confidence_level,practical_value
+Momentum Flow Corridors,109068,569,512,7,0.529,0.543,0.67,0.58,-0.09,14,"['final_corridor_efficiency', 'full_match_tactical_importance']","['corridor_usage_count', 'flow_consistency', 'past_15min_efficiency', 'team_corridor_preference', 'temporal_flow_pattern', 'avg_flow_intensity']",12,14.3,Use team corridor preferences + flow consistency patterns + recent usage,Corridor usage in next 2-3 minutes,GOOD - 58% flow prediction (BEST PREDICTOR),VERY HIGH - 8% edge over random enables tactical positioning

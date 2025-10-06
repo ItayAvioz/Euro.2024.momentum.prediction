@@ -1,3 +1,10 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4569079eaad1c5444d6cec5085e10487afe5cfd709c06bf7b59667eafe02e9ac
-size 961
+feature,type,total_values,unique_values,missing_count,missing_percentage,most_frequent_value,most_frequent_count,top_5_values
+period,ordinal,187858,5,0,0.0,1,93628,"1(93628), 2(88447), 3(3035), 4(2688), 5(60)"
+match_week,ordinal,187858,7,0,0.0,1,43290,"1(43290), 2(43052), 3(42355), 4(31086), 5(17950)"
+minute,ordinal,187858,128,0,0.0,45,4228,"45(4228), 0(2858), 46(2825), 47(2668), 1(2312)"
+second,ordinal,187858,60,0,0.0,0,3582,"0(3582), 34(3316), 16(3306), 7(3278), 20(3256)"
+under_pressure,binomial,187858,2,155280,82.65817798549968,nan,155280,"nan(155280), True(32578)"
+off_camera,binomial,187858,2,185817,98.91354107890002,nan,185817,"nan(185817), True(2041)"
+counterpress,binomial,187858,2,183344,97.59712122986511,nan,183344,"nan(183344), True(4514)"
+out,binomial,187858,2,186540,99.29840624301333,nan,186540,"nan(186540), True(1318)"
+injury_stoppage,binomial,187858,2,187808,99.97338415185938,nan,187808,"nan(187808), {'in_chain': True}(50)"

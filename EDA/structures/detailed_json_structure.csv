@@ -1,3 +1,102 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f8f8fefdd4270bf7cfe086ed56aa318b36201f794a2941b425c5387ff7045717
-size 14797
+Feature,Missing_Count,Missing_Pct,Non_Null_Count,Field_Path,Classification,Data_Types,Unique_Count,Sample_Values,Nested_Fields
+pass,133968,71.31343887404316,53890,recipient,Player Reference - contains player identification,['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+pass,133968,71.31343887404316,53890,recipient.id,ID Field - categorical identifier (19 unique IDs),['int'],19,"['3669', '3306', '15582', '7787', '3308', '8125', '34526', '3205', '37274', '3468']",
+pass,133968,71.31343887404316,53890,recipient.name,"Name Field - categorical labels (19 categories: ['Jude Bellingham', 'Bart Verbruggen', 'Phil Foden', 'Bukayo Saka', 'John Stones'])",['str'],19,"['Jude Bellingham', 'Bart Verbruggen', 'Phil Foden', 'Bukayo Saka', 'John Stones', 'Kyle Walker', 'Jordan Pickford', 'Marc Guehi', 'Memphis Depay', 'Stefan de Vrij']",
+pass,133968,71.31343887404316,53890,length,Measurement - numerical value (51 unique measurements),['float'],51,51 unique values,
+pass,133968,71.31343887404316,53890,angle,Measurement - numerical value (51 unique measurements),['float'],51,51 unique values,
+pass,133968,71.31343887404316,53890,height,Measurement - numerical value (0 unique measurements),['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+pass,133968,71.31343887404316,53890,height.id,Measurement - numerical value (3 unique measurements),['int'],3,"['3', '1', '2']",
+pass,133968,71.31343887404316,53890,height.name,Measurement - numerical value (3 unique measurements),['str'],3,"['Ground Pass', 'Low Pass', 'High Pass']",
+pass,133968,71.31343887404316,53890,end_location,"Coordinate Array - [x, y] position data",['list'],1,['coordinate_array_length_2'],
+pass,133968,71.31343887404316,53890,body_part,Coordinate Value - single position value,['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+pass,133968,71.31343887404316,53890,body_part.id,Coordinate Value - single position value,['int'],3,"['40', '38', '37']",
+pass,133968,71.31343887404316,53890,body_part.name,Coordinate Value - single position value,['str'],3,"['Right Foot', 'Head', 'Left Foot']",
+pass,133968,71.31343887404316,53890,type,Coordinate Value - single position value,['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+pass,133968,71.31343887404316,53890,type.id,Coordinate Value - single position value,['int'],3,"['65', '62', '66']",
+pass,133968,71.31343887404316,53890,type.name,Coordinate Value - single position value,['str'],3,"['Kick Off', 'Recovery', 'Free Kick']",
+pass,133968,71.31343887404316,53890,outcome,Small Categorical - 0 categories: [],['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+pass,133968,71.31343887404316,53890,outcome.id,ID Field - categorical identifier (2 unique IDs),['int'],2,"['9', '76']",
+pass,133968,71.31343887404316,53890,outcome.name,"Name Field - categorical labels (2 categories: ['Incomplete', 'Pass Offside'])",['str'],2,"['Incomplete', 'Pass Offside']",
+shot,186518,99.28669526983147,1340,statsbomb_xg,Coordinate Value - single position value,['float'],43,43 unique values,
+shot,186518,99.28669526983147,1340,end_location,"Coordinate Array - [x, y] position data",['list'],2,"['coordinate_array_length_2', 'coordinate_array_length_3']",
+shot,186518,99.28669526983147,1340,technique,Technique/Method - categorical (0 categories: []),['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+shot,186518,99.28669526983147,1340,technique.id,ID Field - categorical identifier (5 unique IDs),['int'],5,"['92', '95', '93', '91', '94']",
+shot,186518,99.28669526983147,1340,technique.name,"Name Field - categorical labels (5 categories: ['Lob', 'Half Volley', 'Overhead Kick', 'Volley', 'Normal'])",['str'],5,"['Lob', 'Half Volley', 'Overhead Kick', 'Volley', 'Normal']",
+shot,186518,99.28669526983147,1340,body_part,Coordinate Value - single position value,['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+shot,186518,99.28669526983147,1340,body_part.id,Coordinate Value - single position value,['int'],3,"['40', '38', '37']",
+shot,186518,99.28669526983147,1340,body_part.name,Coordinate Value - single position value,['str'],3,"['Right Foot', 'Head', 'Left Foot']",
+shot,186518,99.28669526983147,1340,type,Coordinate Value - single position value,['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+shot,186518,99.28669526983147,1340,type.id,Coordinate Value - single position value,['int'],2,"['88', '87']",
+shot,186518,99.28669526983147,1340,type.name,Coordinate Value - single position value,['str'],2,"['Penalty', 'Open Play']",
+shot,186518,99.28669526983147,1340,outcome,Small Categorical - 0 categories: [],['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+shot,186518,99.28669526983147,1340,outcome.id,ID Field - categorical identifier (6 unique IDs),['int'],6,"['96', '99', '97', '100', '98', '101']",
+shot,186518,99.28669526983147,1340,outcome.name,"Name Field - categorical labels (6 categories: ['Saved', 'Goal', 'Post', 'Wayward', 'Off T'])",['str'],6,"['Saved', 'Goal', 'Post', 'Wayward', 'Off T', 'Blocked']",
+shot,186518,99.28669526983147,1340,freeze_frame,"Small Categorical - 14 categories: ['list_length_19', 'list_length_15', 'list_length_10', 'list_length_8', 'list_length_6', 'list_length_14', 'list_length_18', 'list_length_7', 'list_length_9', 'list_length_11', 'list_length_13', 'list_length_17', 'list_length_16', 'list_length_12']",['list'],14,"['list_length_19', 'list_length_15', 'list_length_10', 'list_length_8', 'list_length_6', 'list_length_14', 'list_length_18', 'list_length_7', 'list_length_9', 'list_length_11']",
+shot,186518,99.28669526983147,1340,key_pass_id,Coordinate Value - single position value,['str'],34,34 unique values,
+shot,186518,99.28669526983147,1340,first_time,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+shot,186518,99.28669526983147,1340,aerial_won,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+shot,186518,99.28669526983147,1340,deflected,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+shot,186518,99.28669526983147,1340,one_on_one,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+carry,143719,76.50406157842626,44139,end_location,"Coordinate Array - [x, y] position data",['list'],1,['coordinate_array_length_2'],
+dribble,186578,99.3186342876002,1280,outcome,Small Categorical - 0 categories: [],['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+dribble,186578,99.3186342876002,1280,outcome.id,ID Field - categorical identifier (2 unique IDs),['int'],2,"['9', '8']",
+dribble,186578,99.3186342876002,1280,outcome.name,"Name Field - categorical labels (2 categories: ['Incomplete', 'Complete'])",['str'],2,"['Incomplete', 'Complete']",
+dribble,186578,99.3186342876002,1280,nutmeg,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+dribble,186578,99.3186342876002,1280,overrun,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+goalkeeper,186240,99.13871115416964,1618,type,Coordinate Value - single position value,['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+goalkeeper,186240,99.13871115416964,1618,type.id,Coordinate Value - single position value,['int'],7,"['33', '28', '25', '26', '27', '32', '30']",
+goalkeeper,186240,99.13871115416964,1618,type.name,Coordinate Value - single position value,['str'],7,"['Keeper Sweeper', 'Collected', 'Shot Saved', 'Shot Faced', 'Penalty Conceded', 'Punch', 'Goal Conceded']",
+goalkeeper,186240,99.13871115416964,1618,outcome,Small Categorical - 0 categories: [],['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+goalkeeper,186240,99.13871115416964,1618,outcome.id,ID Field - categorical identifier (10 unique IDs),['int'],10,"['117', '53', '55', '52', '56', '59', '49', '58', '47', '15']",
+goalkeeper,186240,99.13871115416964,1618,outcome.name,"Name Field - categorical labels (10 categories: ['In Play Danger', 'Collected Twice', 'In Play Safe', 'Claim', 'Touched In'])",['str'],10,"['In Play Danger', 'Collected Twice', 'In Play Safe', 'Claim', 'Touched In', 'Saved Twice', 'No Touch', 'Touched Out', 'Success', 'Punched out']",
+goalkeeper,186240,99.13871115416964,1618,technique,Technique/Method - categorical (0 categories: []),['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+goalkeeper,186240,99.13871115416964,1618,technique.id,ID Field - categorical identifier (2 unique IDs),['int'],2,"['46', '45']",
+goalkeeper,186240,99.13871115416964,1618,technique.name,"Name Field - categorical labels (2 categories: ['Standing', 'Diving'])",['str'],2,"['Standing', 'Diving']",
+goalkeeper,186240,99.13871115416964,1618,position,Coordinate Value - single position value,['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+goalkeeper,186240,99.13871115416964,1618,position.id,Coordinate Value - single position value,['int'],3,"['42', '43', '44']",
+goalkeeper,186240,99.13871115416964,1618,position.name,Coordinate Value - single position value,['str'],3,"['Prone', 'Moving', 'Set']",
+goalkeeper,186240,99.13871115416964,1618,body_part,Coordinate Value - single position value,['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+goalkeeper,186240,99.13871115416964,1618,body_part.id,Coordinate Value - single position value,['int'],3,"['35', '38', '41']",
+goalkeeper,186240,99.13871115416964,1618,body_part.name,Coordinate Value - single position value,['str'],3,"['Both Hands', 'Right Hand', 'Left Foot']",
+goalkeeper,186240,99.13871115416964,1618,end_location,"Coordinate Array - [x, y] position data",['list'],1,['coordinate_array_length_2'],
+goalkeeper,186240,99.13871115416964,1618,punched_out,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+clearance,186006,99.01414898487155,1852,head,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+clearance,186006,99.01414898487155,1852,body_part,Coordinate Value - single position value,['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+clearance,186006,99.01414898487155,1852,body_part.id,Coordinate Value - single position value,['int'],3,"['40', '38', '37']",
+clearance,186006,99.01414898487155,1852,body_part.name,Coordinate Value - single position value,['str'],3,"['Right Foot', 'Head', 'Left Foot']",
+clearance,186006,99.01414898487155,1852,right_foot,Technique/Method - categorical (1 categories: ['True']),['bool'],1,['True'],
+clearance,186006,99.01414898487155,1852,aerial_won,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+clearance,186006,99.01414898487155,1852,left_foot,Technique/Method - categorical (1 categories: ['True']),['bool'],1,['True'],
+interception,187045,99.56722630923358,813,outcome,Small Categorical - 0 categories: [],['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+interception,187045,99.56722630923358,813,outcome.id,ID Field - categorical identifier (4 unique IDs),['int'],4,"['13', '14', '4', '16']",
+interception,187045,99.56722630923358,813,outcome.name,"Name Field - categorical labels (4 categories: ['Lost Out', 'Lost In Play', 'Success In Play', 'Won'])",['str'],4,"['Lost Out', 'Lost In Play', 'Success In Play', 'Won']",
+duel,184799,98.37164241075706,3059,type,Coordinate Value - single position value,['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+duel,184799,98.37164241075706,3059,type.id,Coordinate Value - single position value,['int'],2,"['11', '10']",
+duel,184799,98.37164241075706,3059,type.name,Coordinate Value - single position value,['str'],2,"['Aerial Lost', 'Tackle']",
+duel,184799,98.37164241075706,3059,outcome,Small Categorical - 0 categories: [],['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+duel,184799,98.37164241075706,3059,outcome.id,ID Field - categorical identifier (4 unique IDs),['int'],4,"['13', '14', '4', '16']",
+duel,184799,98.37164241075706,3059,outcome.name,"Name Field - categorical labels (4 categories: ['Lost Out', 'Won', 'Success In Play', 'Lost In Play'])",['str'],4,"['Lost Out', 'Won', 'Success In Play', 'Lost In Play']",
+block,187758,99.94676830371877,100,save_block,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+block,187758,99.94676830371877,100,deflection,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+block,187758,99.94676830371877,100,offensive,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+foul_committed,187432,99.77323297384194,426,advantage,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+foul_committed,187432,99.77323297384194,426,penalty,Coordinate Value - single position value,['bool'],1,['True'],
+foul_committed,187432,99.77323297384194,426,card,Small Categorical - 0 categories: [],['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+foul_committed,187432,99.77323297384194,426,card.id,ID Field - categorical identifier (1 unique IDs),['int'],1,['7'],
+foul_committed,187432,99.77323297384194,426,card.name,Name Field - categorical labels (1 categories: ['Yellow Card']),['str'],1,['Yellow Card'],
+foul_committed,187432,99.77323297384194,426,offensive,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+foul_committed,187432,99.77323297384194,426,type,Coordinate Value - single position value,['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+foul_committed,187432,99.77323297384194,426,type.id,Coordinate Value - single position value,['int'],2,"['24', '21']",
+foul_committed,187432,99.77323297384194,426,type.name,Coordinate Value - single position value,['str'],2,"['Handball', 'Dangerous Play']",
+foul_won,187315,99.7109518891929,543,advantage,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+foul_won,187315,99.7109518891929,543,penalty,Coordinate Value - single position value,['bool'],1,['True'],
+foul_won,187315,99.7109518891929,543,defensive,Boolean/Flag - 1 values: ['True'],['bool'],1,['True'],
+ball_receipt,181582,96.65917874138977,6276,outcome,Small Categorical - 0 categories: [],['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+ball_receipt,181582,96.65917874138977,6276,outcome.id,ID Field - categorical identifier (1 unique IDs),['int'],1,['9'],
+ball_receipt,181582,96.65917874138977,6276,outcome.name,Name Field - categorical labels (1 categories: ['Incomplete']),['str'],1,['Incomplete'],
+substitution,187391,99.75140797836663,467,outcome,Small Categorical - 0 categories: [],['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+substitution,187391,99.75140797836663,467,outcome.id,ID Field - categorical identifier (2 unique IDs),['int'],2,"['102', '103']",
+substitution,187391,99.75140797836663,467,outcome.name,"Name Field - categorical labels (2 categories: ['Injury', 'Tactical'])",['str'],2,"['Injury', 'Tactical']",
+substitution,187391,99.75140797836663,467,replacement,Small Categorical - 0 categories: [],['dict'],0,[],"{'id': {'int'}, 'name': {'str'}}"
+substitution,187391,99.75140797836663,467,replacement.id,ID Field - categorical identifier (40 unique IDs),['int'],40,40 unique values,
+substitution,187391,99.75140797836663,467,replacement.name,"Name Field - categorical labels (40 categories: ['Georginio Wijnaldum', 'Cole Palmer', 'Francisco Fernandes Conceição', 'Ousmane Dembélé', 'Joshua Zirkzee'])",['str'],40,40 unique values,

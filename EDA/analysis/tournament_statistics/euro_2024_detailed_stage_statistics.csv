@@ -1,3 +1,76 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cf7747ff3c0aeacbe5a248936e0e0903ee03205f4ceba28890e1c1229c7e65f6
-size 2447
+Stage,Statistic,Value
+Group Stage,num_games,36.0
+Group Stage,goals,900.0
+Group Stage,avg_goals_per_game,25.0
+Group Stage,extra_time_games,0.0
+Group Stage,penalty_games,0.0
+Group Stage,draws,14.0
+Group Stage,wins,22.0
+Group Stage,substitutions,329.0
+Group Stage,avg_substitutions_per_game,9.13888888888889
+Group Stage,red_cards,1.0
+Group Stage,avg_red_cards_per_game,0.027777777777777776
+Group Stage,yellow_cards,37.0
+Group Stage,avg_yellow_cards_per_game,1.0277777777777777
+Group Stage,corners,308.0
+Group Stage,avg_corners_per_game,8.555555555555555
+Round of 16,num_games,8.0
+Round of 16,goals,232.0
+Round of 16,avg_goals_per_game,29.0
+Round of 16,extra_time_games,1.0
+Round of 16,penalty_games,1.0
+Round of 16,draws,1.0
+Round of 16,wins,7.0
+Round of 16,substitutions,71.0
+Round of 16,avg_substitutions_per_game,8.875
+Round of 16,red_cards,0.0
+Round of 16,avg_red_cards_per_game,0.0
+Round of 16,yellow_cards,10.0
+Round of 16,avg_yellow_cards_per_game,1.25
+Round of 16,corners,81.0
+Round of 16,avg_corners_per_game,10.125
+Quarter-finals,num_games,4.0
+Quarter-finals,goals,145.0
+Quarter-finals,avg_goals_per_game,36.25
+Quarter-finals,extra_time_games,1.0
+Quarter-finals,penalty_games,2.0
+Quarter-finals,draws,2.0
+Quarter-finals,wins,2.0
+Quarter-finals,substitutions,42.0
+Quarter-finals,avg_substitutions_per_game,10.5
+Quarter-finals,red_cards,1.0
+Quarter-finals,avg_red_cards_per_game,0.25
+Quarter-finals,yellow_cards,6.0
+Quarter-finals,avg_yellow_cards_per_game,1.5
+Quarter-finals,corners,37.0
+Quarter-finals,avg_corners_per_game,9.25
+Semi-finals,num_games,2.0
+Semi-finals,goals,31.0
+Semi-finals,avg_goals_per_game,15.5
+Semi-finals,extra_time_games,0.0
+Semi-finals,penalty_games,0.0
+Semi-finals,draws,0.0
+Semi-finals,wins,2.0
+Semi-finals,substitutions,18.0
+Semi-finals,avg_substitutions_per_game,9.0
+Semi-finals,red_cards,0.0
+Semi-finals,avg_red_cards_per_game,0.0
+Semi-finals,yellow_cards,3.0
+Semi-finals,avg_yellow_cards_per_game,1.5
+Semi-finals,corners,12.0
+Semi-finals,avg_corners_per_game,6.0
+Final,num_games,1.0
+Final,goals,25.0
+Final,avg_goals_per_game,25.0
+Final,extra_time_games,0.0
+Final,penalty_games,0.0
+Final,draws,0.0
+Final,wins,1.0
+Final,substitutions,7.0
+Final,avg_substitutions_per_game,7.0
+Final,red_cards,0.0
+Final,avg_red_cards_per_game,0.0
+Final,yellow_cards,0.0
+Final,avg_yellow_cards_per_game,0.0
+Final,corners,11.0
+Final,avg_corners_per_game,11.0

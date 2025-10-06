@@ -1,3 +1,37 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:17324fd157f0fcd736de5a83647ae4c0f95550bbf5f590f2560fc61e553336b5
-size 1849
+match_id,matchday,home_team,away_team,ht_home,ht_away,ht_goal_diff,ft_home,ft_away,ft_goal_diff,total_goals,has_extra_time
+3930180,3,Netherlands,Austria,0,0,0,2,3,1,5,False
+3930171,2,Denmark,England,1,1,0,1,1,0,2,False
+3938645,3,Ukraine,Belgium,0,0,0,0,0,0,0,False
+3930184,3,Czech Republic,Turkey,0,0,0,1,2,1,3,False
+3930182,3,Denmark,Serbia,0,0,0,0,0,0,0,False
+3930179,3,Albania,Spain,0,1,1,0,1,1,1,False
+3930177,3,Scotland,Hungary,0,0,0,0,1,1,1,False
+3930173,2,Netherlands,France,0,0,0,0,0,0,0,False
+3930172,2,Spain,Italy,0,0,0,1,0,1,1,False
+3930167,2,Croatia,Albania,0,1,1,2,2,0,4,False
+3930168,2,Germany,Hungary,1,0,1,2,0,2,2,False
+3930165,1,Austria,France,0,0,0,0,1,1,1,False
+3930164,1,Belgium,Slovakia,0,1,1,0,1,1,1,False
+3930161,1,Italy,Albania,2,1,1,2,1,1,3,False
+3938637,1,Poland,Netherlands,1,1,0,1,2,1,3,False
+3938640,2,Slovakia,Ukraine,1,0,1,1,2,1,3,False
+3938642,2,Georgia,Czech Republic,1,0,1,1,1,0,2,False
+3938639,1,Turkey,Georgia,1,1,0,3,1,2,4,False
+3938641,2,Poland,Austria,1,1,0,1,3,2,4,False
+3938644,3,Georgia,Portugal,1,0,1,2,0,2,2,False
+3938643,3,France,Poland,0,0,0,1,1,0,2,False
+3938638,1,Romania,Ukraine,1,0,1,3,0,3,3,False
+3930183,3,Slovakia,Romania,1,1,0,1,1,0,2,False
+3930181,3,England,Slovenia,0,0,0,0,0,0,0,False
+3930178,3,Croatia,Italy,0,0,0,1,1,0,2,False
+3930176,3,Switzerland,Germany,1,0,1,1,1,0,2,False
+3930175,2,Belgium,Romania,1,0,1,2,0,2,2,False
+3930174,2,Turkey,Portugal,0,1,1,0,3,3,3,False
+3930170,2,Slovenia,Serbia,0,0,0,1,1,0,2,False
+3930169,2,Scotland,Switzerland,1,1,0,1,1,0,2,False
+3930166,1,Portugal,Czech Republic,0,0,0,2,1,1,3,False
+3930163,1,Serbia,England,0,1,1,0,1,1,1,False
+3930162,1,Slovenia,Denmark,0,1,1,1,1,0,2,False
+3930160,1,Spain,Croatia,3,0,3,3,0,3,3,False
+3930159,1,Hungary,Switzerland,0,2,2,1,3,2,4,False
+3930158,1,Germany,Scotland,3,0,3,5,1,4,6,False

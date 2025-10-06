@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6e036cd95da5c536eda9dbebf35e37d4015392a05cdc066e4cdf7f1ef4a84781
-size 1012
+Outcome,Category,Correlation,P-Value,Significance,High_Momentum_Rate,Low_Momentum_Rate,Rate_Difference,Expected_Direction,Matches_Expectation
+Shots,Attacking,0.17522889400434796,0.0,***,2.7614631633178774,0.0,2.7614631633178774,Positive,True
+Fouls Won,Attacking,0.06496043881604409,8.900168842172027e-175,***,1.04688304997424,0.0,1.04688304997424,Positive,True
+Pass Success,Attacking,0.16726736796932218,0.0,***,18.02163833075734,0.0,18.02163833075734,Positive,True
+Clearances,Defensive,-0.29570277740708,0.0,***,0.0,39.7680910457376,-39.7680910457376,Negative,True
+Blocks,Defensive,-0.22313487246858346,0.0,***,0.0,27.506978741679195,-27.506978741679195,Negative,True
+Interceptions,Defensive,-0.1434268965270562,0.0,***,0.0,11.767232123684776,-11.767232123684776,Negative,True
+Fouls Committed,Defensive,-0.03928052730917159,4.783056311519809e-65,***,0.0,0.0,0.0,Negative,True
+Pass Failures,Defensive,0.07376870020154028,6.390306287554834e-225,***,4.138073158165894,0.0,4.138073158165894,Negative,False

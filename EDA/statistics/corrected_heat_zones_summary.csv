@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2084489181e22c478b0451f594ae28332f34181404f780f2d84332850d1c2ff9
-size 839
+analysis_name,total_events,total_zones,zone_time_observations,optimal_k,original_silhouette,pca_optimized_silhouette,original_predictability_INFLATED,corrected_predictability_HONEST,leakage_impact,original_features,leaking_features_removed,honest_features,final_feature_count,feature_reduction_pct,prediction_method,prediction_horizon,confidence_level,practical_value
+Temporal Heat Zones,186190,300,87610,3,0.132,0.142,0.54,0.47,-0.07,14,"['heat_peak_time', 'full_evolution_trend', 'final_heat_density']","['current_zone_intensity', 'past_15min_trend', 'zone_type', 'goal_distance', 'activity_balance', 'historical_heat_pattern']",11,21.4,Use current zone activity + past 15-minute trends + zone characteristics,Zone heat in next 5-10 minutes,MODERATE - 47% spatial momentum prediction,GOOD - spatial positioning guidance still valuable

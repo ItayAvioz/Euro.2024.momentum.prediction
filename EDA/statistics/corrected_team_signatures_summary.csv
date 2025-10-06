@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:27400f83b988a3c3d5446c1ac368962d9fd59ddaf7529449d2680cbd64abe4f6
-size 787
+analysis_name,total_teams,total_observations,optimal_k,original_silhouette,pca_optimized_silhouette,original_predictability_MOSTLY_HONEST,corrected_predictability_HONEST,leakage_impact,original_features,leaking_features_removed,honest_features,final_feature_count,feature_reduction_pct,prediction_method,prediction_horizon,confidence_level,practical_value
+Team Temporal Signatures,24,9854,3,0.342,0.388,0.533,0.51,-0.023,14,['future_peak_timing'],"['avg_possession', 'avg_intensity', 'buildup_rate', 'persistence', 'consistency', 'early_momentum', 'late_momentum', 'progression_rate']",13,7.1,Use team historical behavioral patterns + signature characteristics,Team behavior in upcoming matches,MODERATE - 51% team behavior prediction,HIGH - team DNA analysis for tactical preparation

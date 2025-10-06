@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3eb18d13a05f7bb6809627d218d9009c627177005165cfd0d0cbc85fa703e79f
-size 285
+Cluster,Size,Percentage,Avg_Forward_Progress,Avg_Minute,Play_Pattern_Mode,Avg_Duration,Avg_Speed
+0,11282,25.6%,1.18,71.3,1,1.53s,2.41
+1,9712,22.0%,0.94,43.5,1,1.84s,2.59
+2,8000,18.1%,0.85,45.7,1,1.54s,3.64
+3,3445,7.8%,18.43,48.4,1,4.85s,5.46
+4,11700,26.5%,1.03,22.3,1,1.55s,2.30

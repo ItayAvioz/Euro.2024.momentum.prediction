@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d993883ad53035cccbaad1ef06cfe78dbb9851cecd216ea5b80205cacde08f7d
-size 569
+Metric,Value,Description
+Analysis,Momentum Validation Analysis,Complete validation of momentum function
+Total Correlations Tested,8,Number of outcome variables tested
+Significant Correlations,8/8,Statistically significant correlations (p<0.05)
+Correct Direction,7/8,Correlations matching expected direction
+Validation Score,93.8%,Overall validation success rate
+Strongest Positive,+0.1752,Strongest positive correlation found
+Strongest Negative,-0.2957,Strongest negative correlation found
+Time Pattern Valid,True,Momentum increases over game time as expected

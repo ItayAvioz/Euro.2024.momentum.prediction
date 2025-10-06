@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9ce49813c2fdd727e22dce742b54df41ffbccf67794f0224501973b5417f4e89
-size 898
+analysis_name,dataset_size,total_transitions,major_transitions,optimal_k,original_silhouette,pca_optimized_silhouette,original_predictability_INFLATED,corrected_predictability_HONEST,leakage_impact,original_features,leaking_features_removed,honest_features,final_feature_count,feature_reduction_pct,prediction_method,prediction_horizon,confidence_level,practical_value
+Momentum Transitions,4927,4621,2532,10,0.312,0.356,0.789,0.45,-0.339,9,"['is_major_transition', 'transition_magnitude', 'leading_feature_magnitude']","['momentum_slope_past_3min', 'current_momentum_values', 'game_phase_context', 'team_historical_patterns', 'temporal_autocorrelation', 'possession_trend_past_3min']",6,33.3,Use past 3-minute momentum slopes + team historical patterns + temporal autocorrelation,2-3 minutes ahead,MODERATE - 45% vs 50% random,Still valuable - 5% edge over random chance in sports is significant

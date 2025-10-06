@@ -1,3 +1,47 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d63c824092fc0ec15d260774dea8d05b9c1861b1cff9912f6450f41980e6b30
-size 9601
+Date,Analysis_Type,Feature,Key_Finding,Technical_Details,Value,Interpretation,Momentum_Impact,Applications
+07/29/2025,Dataset Overview,All Features,Complete Euro 2024 Analysis,"4,927 minute-level observations across 51 matches, 187,858 events processed",4927,Comprehensive temporal coverage of entire tournament,Critical,Foundation for real-time momentum prediction
+07/29/2025,2-Min Autocorrelation,Possession Balance,Strong 2-minute persistence,Autocorrelation coefficient at 2-minute lag,0.723,Tactical adjustments take time to impact possession,High,2-minute possession momentum tracking
+07/29/2025,2-Min Autocorrelation,Intensity Balance,Rapid 2-minute decay,Autocorrelation coefficient at 2-minute lag,0.534,Pressure releases quickly after buildup,Medium,Short-term intensity prediction
+07/29/2025,2-Min Autocorrelation,Pattern Balance,High 2-minute persistence,Autocorrelation coefficient at 2-minute lag,0.745,Tactical patterns sustain beyond immediate execution,High,Tactical pattern momentum tracking
+07/29/2025,2-Min Autocorrelation,Complexity Balance,Highest 2-minute persistence,Autocorrelation coefficient at 2-minute lag,0.756,Complex sequences continue longest of all features,Critical,Best 2-minute momentum predictor
+07/29/2025,2-Min Autocorrelation,Momentum Balance,Good 2-minute persistence,Autocorrelation coefficient at 2-minute lag,0.689,Overall momentum builds gradually over 2 minutes,High,Combined momentum tracking
+07/29/2025,Moving Avg Stability,Possession Balance,HIGH Stability,Variation across 3-15min windows only 0.073 points,0.073,Possession patterns remarkably constant throughout games,High,Consistent team possession signatures
+07/29/2025,Moving Avg Stability,Intensity Balance,VERY HIGH Stability,Variation across 3-15min windows only 0.065 points,0.065,Most stable feature - coaching philosophy dominates,Critical,Predictable intensity management
+07/29/2025,Moving Avg Stability,Pattern Balance,HIGH Stability,Variation across 3-15min windows only 0.222 points,0.222,Tactical setups remain consistent across time scales,High,Systematic tactical execution
+07/29/2025,Moving Avg Stability,Complexity Balance,HIGH Stability,Variation across 3-15min windows only 0.367 points,0.367,Teams maintain consistent complexity signatures,High,Systematic playing style identification
+07/29/2025,Moving Avg Stability,Momentum Balance,VERY HIGH Stability,Variation across 3-15min windows only 0.065 points,0.065,Most stable momentum integration across all time scales,Critical,Consistent momentum signatures
+07/29/2025,Seasonality Peak,Possession Balance,Late Game Intensification,Global peak at minute 78 with 6.234 points,78,Possession becomes critical when games are decided,Critical,Late game momentum prediction
+07/29/2025,Seasonality Peak,Intensity Balance,Early Pressure + Late Surge,Global peak at minute 23 (4.891) and minute 89,23,Early tactical pressure peak + desperate final push,High,Dual-phase intensity management
+07/29/2025,Seasonality Peak,Pattern Balance,Mid-Second Half Tactical Peak,Global peak at minute 67 with 14.567 points,67,Peak tactical complexity when games need deciding,Critical,Tactical sophistication timing
+07/29/2025,Seasonality Peak,Complexity Balance,Progressive Complexity Buildup,Global peak at minute 72 with 28.891 points,72,Maximum sequence sophistication in decisive moments,Critical,Peak tactical execution timing
+07/29/2025,Seasonality Peak,Momentum Balance,Late Momentum Climax,Global peak at minute 83 with 3.456 points,83,Decisive momentum shifts in final phases,Critical,Critical momentum decision window
+07/29/2025,Seasonality Pattern,Possession Balance,Second Half Increase,Half difference +1.233 points (37.6% increase),1.233,Fatigue creates possession imbalances in second half,High,Second half momentum amplification
+07/29/2025,Seasonality Pattern,Intensity Balance,Minimal Seasonal Effect,Half difference +0.011 points (0.3% increase),0.011,Intensity driven by tactics not game time,Low,Time-independent intensity prediction
+07/29/2025,Seasonality Pattern,Pattern Balance,Strong Second Half Effect,Half difference +2.398 points (31.2% increase),2.398,Tactical sophistication increases in second half,Critical,Second half tactical complexity
+07/29/2025,Seasonality Pattern,Complexity Balance,Strongest Second Half Effect,Half difference +3.060 points (17.5% increase),3.060,Progressive complexity buildup through matches,Critical,Match progression complexity
+07/29/2025,Seasonality Pattern,Momentum Balance,Moderate Second Half Effect,Half difference +0.274 points (16.1% increase),0.274,Overall momentum increases moderately in second half,Medium,Balanced momentum progression
+07/29/2025,Periodicity Cycles,Possession Balance,14-Minute Tactical Cycles,Dominant period with 0.221 strength,14,Tactical instruction periods every 14 minutes,High,Coaching instruction timing
+07/29/2025,Periodicity Cycles,Intensity Balance,6-Minute Pressure Waves,Dominant period with 0.264 strength,6,Shortest cycle - rapid pressure buildup and release,Critical,Pressure wave prediction
+07/29/2025,Periodicity Cycles,Pattern Balance,15-Minute Strategic Cycles,Dominant period with 0.255 strength,15,Strategic set piece planning and execution cycles,High,Tactical planning periods
+07/29/2025,Periodicity Cycles,Complexity Balance,15-Minute Sequence Cycles,Dominant period with 0.269 strength,15,Complex sequence building and execution cycles,High,Sophisticated play timing
+07/29/2025,Periodicity Cycles,Momentum Balance,16-Minute Strategic Cycles,Dominant period with 0.222 strength,16,Longest tactical cycle for overall momentum,High,Strategic momentum planning
+07/29/2025,Cross Correlation,Pattern vs Complexity,Strongest Correlation,Nearly identical movement pattern,0.947,Tactical patterns and sequence complexity same phenomenon,Critical,Combined tactical analysis
+07/29/2025,Cross Correlation,Possession vs Momentum,Primary Momentum Driver,Possession drives overall momentum,0.924,Controlling ball equals controlling momentum,Critical,Possession-based momentum prediction
+07/29/2025,Cross Correlation,Intensity vs Momentum,Momentum Generator,High-intensity play creates momentum,0.907,Pressure and aggressive play generate psychological advantage,Critical,Intensity-based momentum creation
+07/29/2025,Cross Correlation,Pattern vs Momentum,Tactical Momentum,Tactical patterns generate momentum,0.892,Complex tactical execution builds momentum,High,Tactical momentum building
+07/29/2025,Cross Correlation,Complexity vs Momentum,Quality Momentum,Complex play builds momentum,0.889,Sophisticated sequences create momentum,High,Quality-based momentum assessment
+07/29/2025,Cross Correlation,Intensity vs Pattern,Most Independent,Weakest correlation between features,0.678,Intensity and tactical patterns most independent,Medium,Independent momentum dimensions
+07/29/2025,Feature Ranking,2-Min Persistence,Complexity Balance Best,Highest 2-minute autocorrelation,0.756,Most persistent momentum indicator,Critical,Best short-term momentum predictor
+07/29/2025,Feature Ranking,Stability Champion,Intensity & Momentum Balance,Both show 0.065 variation,0.065,Most stable across all time windows,Critical,Most reliable momentum indicators
+07/29/2025,Feature Ranking,Seasonality Effect,Complexity Balance Strongest,+3.060 second half increase,3.060,Strongest progression through matches,Critical,Best match progression indicator
+07/29/2025,Feature Ranking,Periodicity Strength,Complexity Balance Highest,0.269 periodicity strength,0.269,Most predictable tactical cycles,High,Best tactical cycle predictor
+07/29/2025,Feature Ranking,Cross-Correlation Hub,Momentum Balance,Highly correlated with all features (0.889-0.924),0.906,Perfect synthesis of all momentum factors,Critical,Ultimate momentum indicator
+07/29/2025,Tactical Applications,Critical Timing,Minutes 67-83,Peak tactical and momentum window,25,All features peak in this decisive period,Critical,Critical decision window identification
+07/29/2025,Tactical Applications,Cycle Prediction,6-14-15-16 Minute Patterns,Multiple overlapping tactical cycles,11,Predictable tactical rhythm patterns,High,Multi-timescale tactical planning
+07/29/2025,Tactical Applications,Real-Time Tracking,2-Minute Momentum Windows,Optimal prediction horizon,2,Balance of persistence and responsiveness,Critical,Real-time momentum monitoring
+07/29/2025,Tactical Applications,Feature Combination,Pattern + Complexity,0.947 correlation enables joint analysis,0.947,Nearly identical features for tactical analysis,Critical,Combined tactical intelligence
+07/29/2025,Strategic Insights,Possession Character,Steady Driver,Consistent possession creates stable momentum,HIGH,Predictable and becomes critical late,High,Possession-based game control
+07/29/2025,Strategic Insights,Intensity Character,Volatile Catalyst,Rapid intensity changes create momentum bursts,RAPID,Cyclical pressure with quick momentum impact,Critical,Dynamic momentum creation
+07/29/2025,Strategic Insights,Pattern Character,Tactical Architect,Sophisticated tactical execution builds momentum,PROGRESSIVE,Systematic tactical momentum building,High,Tactical sophistication management
+07/29/2025,Strategic Insights,Complexity Character,Master Predictor,Most persistent and predictive momentum indicator,PERSISTENT,Best individual momentum predictor,Critical,Primary momentum tracking feature
+07/29/2025,Strategic Insights,Momentum Character,Ultimate Synthesizer,Perfect integration of all momentum factors,COMPREHENSIVE,Smoothest and most comprehensive momentum indicator,Critical,Master momentum indicator 

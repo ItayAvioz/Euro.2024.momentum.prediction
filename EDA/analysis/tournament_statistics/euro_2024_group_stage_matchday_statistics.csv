@@ -1,3 +1,17 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0c8c36e1df55f8422fdf2a31999fdd61cbde3eb903a8b1db7412d8f92b88ba47
-size 547
+Statistic,Matchday 1,Matchday 2,Matchday 3
+Number of Games,12,12,12
+Number of Goals,34,27,20
+Average Goals per Game,2.83,2.25,1.67
+Games to Extra Time,0,0,0
+Games to Penalties,0,0,0
+Total Draws,1,6,7
+Draw Percentage,8.3%,50.0%,58.3%
+Total Wins,11,6,5
+Total Substitutions,111,110,108
+Average Substitutions per Game,9.25,9.17,9.00
+Total Red Cards,0,0,1
+Average Red Cards per Game,0.00,0.00,0.08
+Total Yellow Cards,4,14,19
+Average Yellow Cards per Game,0.33,1.17,1.58
+Total Corners,97,109,102
+Average Corners per Game,8.08,9.08,8.50

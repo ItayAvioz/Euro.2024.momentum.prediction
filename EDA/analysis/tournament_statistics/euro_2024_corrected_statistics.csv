@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bb25f0fc81f187db0ca80ebc5d4986a9cfe10a54b3ab6c6758729a39f9ff7946
-size 598
+Statistic,Value,Notes
+Number of Games,51,51 matches in tournament
+Number of Goals,117,Method: shot_outcome_analysis
+Average Goals per Game,2.29,
+Games to Extra Time,2,Extra time only (not penalties)
+Games to Penalties,3,Penalty shootouts
+Total Draws,17,After regular/extra time
+Total Wins,34,Decisive results
+Total Substitutions,467,Player changes
+Average Substitutions per Game,9.16,
+Total Red Cards,2,Dismissals
+Average Red Cards per Game,0.04,
+Total Yellow Cards,56,Bookings
+Average Yellow Cards per Game,1.10,
+Total Corners,449,Corner kicks taken
+Average Corners per Game,8.80,

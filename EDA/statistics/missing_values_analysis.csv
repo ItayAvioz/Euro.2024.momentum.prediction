@@ -1,3 +1,33 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:04c8928ea155426dde0d4cac725a41a34e1ca5e86faa0168d081a2ef67579581
-size 1438
+Feature,Group,Missing_Count,Missing_Percentage
+player_off,Categorical Nominal,187857,100.0
+miscontrol,Categorical Nominal,187826,99.98
+bad_behaviour,Categorical Nominal,187800,99.97
+injury_stoppage,Categorical Binomial,187808,99.97
+block,Categorical Nominal,187758,99.95
+tactics,Categorical Nominal,187585,99.85
+50_50,Categorical Nominal,187565,99.84
+ball_recovery,Categorical Nominal,187558,99.84
+foul_committed,Categorical Nominal,187432,99.77
+substitution,Categorical Nominal,187391,99.75
+foul_won,Categorical Nominal,187315,99.71
+interception,Categorical Nominal,187045,99.57
+dribble,Categorical Nominal,186578,99.32
+out,Categorical Binomial,186540,99.3
+shot,Categorical Nominal,186518,99.29
+goalkeeper,Categorical Nominal,186240,99.14
+clearance,Categorical Nominal,186006,99.01
+off_camera,Categorical Binomial,185817,98.91
+duel,Categorical Nominal,184799,98.37
+counterpress,Categorical Binomial,183344,97.6
+ball_receipt,Categorical Nominal,181582,96.66
+under_pressure,Categorical Binomial,155280,82.66
+carry,Categorical Nominal,143719,76.5
+pass,Categorical Nominal,133968,71.31
+duration,Continuous Normal,51618,27.48
+visible_area,Continuous Non-Normal,24337,12.95
+event_uuid,Categorical Nominal,24337,12.95
+freeze_frame,Categorical Nominal,24337,12.95
+related_events,Unknown,6698,3.57
+location,Continuous Non-Normal,1668,0.89
+position,Categorical Nominal,864,0.46
+player,Categorical Nominal,864,0.46

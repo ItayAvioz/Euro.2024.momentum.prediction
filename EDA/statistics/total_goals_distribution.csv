@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8670934c593647d1a4f59e72e376547998a77f422a2ddb68ea21a2de081319e
-size 95
+Goals,Matches,Percentage
+0,6,11.8
+1,7,13.7
+2,17,33.3
+3,14,27.5
+4,4,7.8
+5,2,3.9
+6,1,2.0

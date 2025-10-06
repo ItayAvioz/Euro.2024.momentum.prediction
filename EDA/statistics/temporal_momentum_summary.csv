@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:67906dc5d4f4254552e1aee9e870d6c36d33122af25a2f08ab356255f9495539
-size 832
+feature,observations,mean_value,std_dev,data_range,autocorr_1min,autocorr_3min,autocorr_5min,autocorr_15min,persistence_level,trend_strength_15min,first_half_mean,second_half_mean,half_difference,dominant_period_min,periodicity_strength,max_cross_correlation
+Possession Balance,4927,3.568,45.2,200.0,0.856,0.561,0.303,0.217,Medium,74.586,3.282,4.515,1.233,14,0.221,0.924
+Intensity Balance,4927,3.271,36.282,286.5,0.79,0.272,0.254,0.199,Medium,40.833,3.466,3.477,0.011,6,0.264,0.907
+Pattern Balance,4927,8.532,85.797,741.4,0.889,0.576,0.302,0.255,Medium,124.853,7.687,10.086,2.398,15,0.255,0.947
+Complexity Balance,4927,17.961,164.767,1191.5,0.889,0.601,0.341,0.269,Medium,226.067,17.475,20.535,3.06,15,0.269,0.947
+Momentum Balance,4927,1.751,21.147,151.253,0.834,0.454,0.3,0.221,Medium,35.684,1.704,1.978,0.274,16,0.222,0.924

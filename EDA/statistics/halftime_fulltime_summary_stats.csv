@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c77e63c6e32ef90e7f024cd66c26ccb05af73871529a57715e8fb4536f10b58b
-size 246
+Metric,Value
+Total Matches,51
+Avg HT Goals,0.9215686274509803
+Avg FT Goals,2.2941176470588234
+Avg SH Goals,1.3725490196078431
+Result Changes,21
+Result Changes %,41.17647058823529
+Most Common HT Result,Draw
+Most Common FT Result,Home Win

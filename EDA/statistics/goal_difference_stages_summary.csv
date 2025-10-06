@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4297f08bec7abde1c2d4ce6df81749ef933be1e40eaf4ba8bbe5f798af4c9db9
-size 686
+Stage,Matches,HT_Draws,HT_Draws_%,HT_1Goal,HT_1Goal_%,HT_2+Goal,HT_2+Goal_%,FT_Draws,FT_Draws_%,FT_1Goal,FT_1Goal_%,FT_2+Goal,FT_2+Goal_%,Avg_HT_Diff,Avg_FT_Diff,Avg_Goals,Extra_Time,Extra_Time_%
+Group Stage,36,19,52.77777777777778,14,38.88888888888889,3,8.333333333333332,14,38.88888888888889,12,33.33333333333333,10,27.77777777777778,0.6111111111111112,1.0277777777777777,2.25,0,0.0
+Round of 16,8,3,37.5,5,62.5,0,0.0,1,12.5,3,37.5,4,50.0,0.625,1.625,2.375,2,25.0
+Quarter-finals,4,3,75.0,1,25.0,0,0.0,2,50.0,2,50.0,0,0.0,0.25,0.5,2.0,3,75.0
+Semi-finals,2,1,50.0,1,50.0,0,0.0,0,0.0,2,100.0,0,0.0,0.5,1.0,3.0,0,0.0
+Final,1,1,100.0,0,0.0,0,0.0,0,0.0,1,100.0,0,0.0,0.0,1.0,3.0,0,0.0

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d8c37496dab695f76312e50f1590fb92c23225492c9b37fe7bc7efe1d7bbe1a
-size 200
+total_teams,total_observations,optimal_k,optimal_silhouette,avg_predictability,avg_signature_strength,high_predictability_pct
+24,9854,3,0.3416670764565708,0.5333485898479918,0.43335512835427403,0.0

@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e54ab60278929370fa9836011505873610db088933965b1a5614cc7e068f6901
-size 3367
+feature,original_value,extracted_features,meaning,momentum_relevance
+location,"[46.2, 34.3]","location_x: 46.2, location_y: 34.3","Pitch coordinates - X: 46.2 (0-120m field width), Y: 34.3 (0-80m field height)","Position on field indicates attack/defense zones, proximity to goal"
+location,"[36.1, 32.3]","location_x: 36.1, location_y: 32.3","Pitch coordinates - X: 36.1 (0-120m field width), Y: 32.3 (0-80m field height)","Position on field indicates attack/defense zones, proximity to goal"
+location,"[21.1, 34.0]","location_x: 21.1, location_y: 34.0","Pitch coordinates - X: 21.1 (0-120m field width), Y: 34.0 (0-80m field height)","Position on field indicates attack/defense zones, proximity to goal"
+location,"[100.9, 11.0]","location_x: 100.9, location_y: 11.0","Pitch coordinates - X: 100.9 (0-120m field width), Y: 11.0 (0-80m field height)","Position on field indicates attack/defense zones, proximity to goal"
+location,"[48.1, 28.5]","location_x: 48.1, location_y: 28.5","Pitch coordinates - X: 48.1 (0-120m field width), Y: 28.5 (0-80m field height)","Position on field indicates attack/defense zones, proximity to goal"
+carry,"{'end_location': [99.8, 11.2]}","carry_end_x: 99.8, carry_end_y: 11.2, carry_distance: 16.8m, carry_direction: 24.3°","Ball carry ending at (99.8, 11.2) - forward carry (attacking)","Forward carries = positive momentum, backward = defensive pressure, distance = momentum magnitude"
+carry,"{'end_location': [92.6, 75.1]}","carry_end_x: 92.6, carry_end_y: 75.1, carry_distance: 0.4m, carry_direction: 33.7°","Ball carry ending at (92.6, 75.1) - forward carry (attacking)","Forward carries = positive momentum, backward = defensive pressure, distance = momentum magnitude"
+carry,"{'end_location': [87.8, 35.5]}","carry_end_x: 87.8, carry_end_y: 35.5, carry_distance: 1.0m, carry_direction: 90.0°","Ball carry ending at (87.8, 35.5) - backward/sideways carry","Forward carries = positive momentum, backward = defensive pressure, distance = momentum magnitude"
+carry,"{'end_location': [41.0, 57.8]}","carry_end_x: 41.0, carry_end_y: 57.8, carry_distance: 0.1m","Ball carry ending at (41.0, 57.8) - backward/sideways carry","Forward carries = positive momentum, backward = defensive pressure, distance = momentum magnitude"
+carry,"{'end_location': [102.1, 5.6]}","carry_end_x: 102.1, carry_end_y: 5.6, carry_distance: 2.5m, carry_direction: -4.6°","Ball carry ending at (102.1, 5.6) - forward carry (attacking)","Forward carries = positive momentum, backward = defensive pressure, distance = momentum magnitude"
+visible_area,"[87.64297568765808, 79.6856111893239, 58.33804570658663, 69.43897450452675, 59.04357208320992, 0.0, ...",area_size: 12 points,360° tracking polygon with 12 boundary points,"Larger visible areas = better field control, centroids indicate pressure zones"
+visible_area,"[71.77555805188119, 80.0, 66.34147453824637, 27.757612538353186, 93.39136650451466, 18.9278636687047...",area_size: 12 points,360° tracking polygon with 12 boundary points,"Larger visible areas = better field control, centroids indicate pressure zones"
+visible_area,"[34.36631195660229, 60.06218010304261, 8.323229038078304, 0.0, 63.74909108538293, 0.0, 62.6126984328...",area_size: 10 points,360° tracking polygon with 10 boundary points,"Larger visible areas = better field control, centroids indicate pressure zones"

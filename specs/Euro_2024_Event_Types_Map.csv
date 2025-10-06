@@ -1,3 +1,260 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ae2c6fef4dbb2a49e0dffc0597b0b6df537857b6be336570e73c9d97953862fc
-size 4792
+event_id,event_name,category,frequency,subcategories,boolean_categories,additional_data
+1,Pass,Core,High,"1: Ground Pass
+2: Low Pass
+3: High Pass
+9: Incomplete
+37: Head
+38: Left Foot
+40: Right Foot
+61: Corner
+62: Free Kick
+63: Goal Kick
+64: Interception
+65: Kick Off
+66: Recovery
+67: Throw-in
+68: Drop Kick
+69: Keeper Arm
+70: Other
+74: Injury Clearance
+75: Out
+76: Pass Offside
+77: Unknown
+104: Inswinging
+105: Outswinging
+106: No Touch
+107: Straight
+108: Through Ball","aerial_won
+cross
+cut_back
+deflected
+goal_assist
+inswinging
+miscommunication
+no_touch
+off_camera
+out
+outswinging
+shot_assist
+straight
+switch
+through_ball
+under_pressure","angle
+coordinates
+length
+recipient
+technique"
+2,Ball Receipt*,Core,High,9: Incomplete,under_pressure,
+3,Carry,Core,High,,"progression
+under_pressure","coordinates
+progression_distance"
+4,Pressure,Core,High,,"counterpress
+off_camera
+under_pressure",
+5,Half Start,Administrative,Low,,,
+6,Half End,Administrative,Low,,under_pressure,
+7,Starting XI,Administrative,Low,,,"array_data
+player_name
+position"
+8,Substitution,Specialized,Low,"102: Injury
+103: Tactical",off_camera,player_name
+9,Shot,Attacking,Medium,"37: Head
+38: Left Foot
+40: Right Foot
+61: Corner
+62: Free Kick
+70: Other
+87: Open Play
+88: Penalty
+89: Backheel
+90: Diving Header
+91: Half Volley
+92: Lob
+93: Normal
+94: Overhead Kick
+95: Volley
+96: Blocked
+97: Goal
+98: Off T
+99: Post
+100: Saved
+101: Wayward
+115: Saved Off Target
+116: Saved to Post","aerial_won
+deflected
+first_time
+follows_dribble
+off_camera
+one_on_one
+open_goal
+out
+redirect
+saved_off_target
+saved_to_post
+under_pressure","coordinates
+freeze_frame_data
+key_pass_id
+statsbomb_xg"
+10,Dribble,Attacking,Medium,"8: Complete
+9: Incomplete","no_touch
+nutmeg
+out
+overrun
+under_pressure",
+11,Clearance,Defensive,Medium,"37: Head
+38: Left Foot
+40: Right Foot
+70: Other","aerial_won
+head
+left_foot
+off_camera
+other
+out
+right_foot
+under_pressure",
+12,Interception,Defensive,Medium,"4: Won
+13: Lost In Play
+14: Lost Out
+16: Success In Play
+17: Success Out",under_pressure,
+13,Ball Recovery,Defensive,Medium,,"off_camera
+offensive
+out
+recovery_failure
+under_pressure",outcome
+14,Foul Committed,Disciplinary,Medium,"5: Red Card
+6: Second Yellow
+7: Yellow Card
+19: 6 Seconds
+21: Dangerous Play
+22: Dive
+23: Foul Out
+24: Handball","advantage
+counterpress
+off_camera
+offensive
+penalty
+under_pressure","card
+outcome
+type"
+15,Foul Won,Disciplinary,Medium,,"advantage
+defensive
+off_camera
+penalty
+under_pressure",
+16,Goal Keeper,Goalkeeper,Medium,"4: Won
+15: Success
+16: Success In Play
+25: Collected
+26: Goal Conceded
+27: Keeper Sweeper
+28: Penalty Conceded
+29: Penalty Saved
+30: Punch
+31: Save
+32: Shot Faced
+33: Shot Saved
+34: Smother
+35: Both Hands
+36: Chest
+37: Head
+38: Left Foot
+39: Left Hand
+40: Right Foot
+41: Right Hand
+42: Moving
+43: Prone
+44: Set
+45: Diving
+46: Standing
+47: Claim
+48: Clear
+49: Collected Twice
+50: Fail
+52: In Play Danger
+53: In Play Safe
+55: No Touch
+56: Saved Twice
+58: Touched In
+59: Touched Out
+109: Penalty Saved to Post
+113: Shot Saved Off Target
+114: Shot Saved to Post
+117: Punched out","off_camera
+out
+penalty_saved_to_post
+punched_out
+shot_saved_off_target
+shot_saved_to_post
+success_in_play
+under_pressure","body_part
+coordinates
+end_location
+outcome
+position
+technique
+type"
+17,Duel,Contest,Medium,"4: Won
+10: Aerial Lost
+11: Tackle
+12: Aerial Won
+13: Ground
+13: Lost In Play
+14: Lost Out
+15: Loose Ball
+16: Success In Play
+17: Success Out","no_touch
+off_camera
+under_pressure","counterpress
+outcome
+type"
+18,Block,Defensive,Medium,,"deflection
+off_camera
+offensive
+out
+save_block
+under_pressure",
+19,Counterpress,Defensive,Low,,,
+20,Miscontrol,Technical,Medium,,"aerial_won
+off_camera
+out
+under_pressure",
+21,Dispossessed,Technical,Medium,,"off_camera
+under_pressure",
+22,Ball Out,Technical,Low,,,
+23,Injury Stoppage,Administrative,Low,,"in_chain
+under_pressure",
+24,50/50,Contest,Low,"1: Lost
+2: Success To Opposition
+3: Success To Team
+4: Won","out
+under_pressure",
+25,Bad Behaviour,Disciplinary,Low,"5: Red Card
+7: Yellow Card",off_camera,
+26,Tactical Shift,Administrative,Low,,,"array_data
+player_name
+position"
+27,Player On,Administrative,Low,,"off_camera
+under_pressure",
+28,Player Off,Administrative,Low,,"off_camera
+permanent",
+29,Shield,Technical,Low,,under_pressure,
+30,Error,Technical,Low,,"off_camera
+under_pressure",
+31,Referee Ball-Drop,Administrative,Low,,off_camera,
+32,Offside,Technical,Low,,,
+33,Camera off,Technical,Low,,,
+34,Goal Kick,Set Piece,Low,,,
+35,Corner,Set Piece,Low,,,
+36,Free Kick,Set Piece,Low,,,
+37,Throw In,Set Piece,Low,,,
+38,Penalty,Set Piece,Low,,,
+play_pattern,Play Pattern,Context,High,"1: Regular Play
+2: From Corner
+3: From Free Kick
+4: From Throw In
+6: From Counter
+8: From Keeper
+9: From Kick Off","context_dependent
+off_camera","phase_start
+tactical_context"

@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f0c12fffd75392ce5ff5cffc5b91aa658ecfea58f010c14571931a841f99f248
-size 738
+analysis,leakage_severity,main_leaking_features,leakage_mechanism,correction_method
+Momentum Transitions,HIGH,"is_major_transition, transition_magnitude, leading_feature_magnitude",Used future direction changes to predict direction changes,Use only past slopes + historical patterns
+Team Signatures,LOW,future_peak_timing,Used actual peak timing to predict peak timing,Use only historical team behavior
+Heat Zones,MEDIUM,"heat_peak_time, full_evolution_trend",Used full temporal evolution to predict evolution,Use only current + past 15min trends
+Flow Corridors,MEDIUM,"final_corridor_efficiency, full_match_tactical_importance",Used final match outcomes to predict intermediate outcomes,Use only recent usage + consistency patterns

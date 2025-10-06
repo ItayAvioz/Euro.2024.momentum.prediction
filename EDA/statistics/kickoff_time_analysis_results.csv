@@ -1,3 +1,52 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ae4f75523e41096c84a5606a56abc2fd8bae5ef303c122d38fb165baace28939
-size 3946
+match_id,kickoff_hour,stage,home_team,away_team,total_goals,outcome,match_date,date_hour
+3942819,22,Semi-finals,Netherlands,England,3,Away Win,2024-07-10,2024-07-10_22
+3943043,22,Final,Spain,England,3,Home Win,2024-07-14,2024-07-14_22
+3942752,22,Semi-finals,Spain,France,3,Home Win,2024-07-09,2024-07-09_22
+3942382,22,Quarter-finals,Netherlands,Turkey,3,Home Win,2024-07-06,2024-07-06_22
+3942349,22,Quarter-finals,Portugal,France,0,Draw,2024-07-05,2024-07-05_22
+3930180,19,Group Stage,Netherlands,Austria,5,Away Win,2024-06-25,2024-06-25_19
+3930171,19,Group Stage,Denmark,England,2,Draw,2024-06-20,2024-06-20_19
+3942227,19,Quarter-finals,England,Switzerland,2,Draw,2024-07-06,2024-07-06_19
+3942226,19,Quarter-finals,Spain,Germany,3,Home Win,2024-07-05,2024-07-05_19
+3938645,19,Group Stage,Ukraine,Belgium,0,Draw,2024-06-26,2024-06-26_19
+3930184,22,Group Stage,Czech Republic,Turkey,3,Away Win,2024-06-26,2024-06-26_22
+3941022,22,Round of 16,Austria,Turkey,3,Away Win,2024-07-02,2024-07-02_22
+3941021,19,Round of 16,Romania,Netherlands,3,Away Win,2024-07-02,2024-07-02_19
+3941020,22,Round of 16,Portugal,Slovenia,0,Draw,2024-07-01,2024-07-01_22
+3941019,19,Round of 16,France,Belgium,1,Home Win,2024-07-01,2024-07-01_19
+3941018,22,Round of 16,Spain,Georgia,5,Home Win,2024-06-30,2024-06-30_22
+3941017,19,Round of 16,England,Slovakia,3,Home Win,2024-06-30,2024-06-30_19
+3930182,22,Group Stage,Denmark,Serbia,0,Draw,2024-06-25,2024-06-25_22
+3930179,22,Group Stage,Albania,Spain,1,Away Win,2024-06-24,2024-06-24_22
+3940983,22,Round of 16,Germany,Denmark,2,Home Win,2024-06-29,2024-06-29_22
+3940878,19,Round of 16,Switzerland,Italy,2,Home Win,2024-06-29,2024-06-29_19
+3930177,22,Group Stage,Scotland,Hungary,1,Away Win,2024-06-23,2024-06-23_22
+3930173,22,Group Stage,Netherlands,France,0,Draw,2024-06-21,2024-06-21_22
+3930172,22,Group Stage,Spain,Italy,1,Home Win,2024-06-20,2024-06-20_22
+3930167,16,Group Stage,Croatia,Albania,4,Draw,2024-06-19,2024-06-19_16
+3930168,19,Group Stage,Germany,Hungary,2,Home Win,2024-06-19,2024-06-19_19
+3930165,22,Group Stage,Austria,France,1,Away Win,2024-06-17,2024-06-17_22
+3930164,19,Group Stage,Belgium,Slovakia,1,Away Win,2024-06-17,2024-06-17_19
+3930161,22,Group Stage,Italy,Albania,3,Home Win,2024-06-15,2024-06-15_22
+3938637,16,Group Stage,Poland,Netherlands,3,Away Win,2024-06-16,2024-06-16_16
+3938640,16,Group Stage,Slovakia,Ukraine,3,Away Win,2024-06-21,2024-06-21_16
+3938642,16,Group Stage,Georgia,Czech Republic,2,Draw,2024-06-22,2024-06-22_16
+3938639,19,Group Stage,Turkey,Georgia,4,Home Win,2024-06-18,2024-06-18_19
+3938641,19,Group Stage,Poland,Austria,4,Away Win,2024-06-21,2024-06-21_19
+3938644,22,Group Stage,Georgia,Portugal,2,Home Win,2024-06-26,2024-06-26_22
+3938643,19,Group Stage,France,Poland,2,Draw,2024-06-25,2024-06-25_19
+3938638,16,Group Stage,Romania,Ukraine,3,Home Win,2024-06-17,2024-06-17_16
+3930183,19,Group Stage,Slovakia,Romania,2,Draw,2024-06-26,2024-06-26_19
+3930181,22,Group Stage,England,Slovenia,0,Draw,2024-06-25,2024-06-25_22
+3930178,22,Group Stage,Croatia,Italy,2,Draw,2024-06-24,2024-06-24_22
+3930176,22,Group Stage,Switzerland,Germany,2,Draw,2024-06-23,2024-06-23_22
+3930175,22,Group Stage,Belgium,Romania,2,Home Win,2024-06-22,2024-06-22_22
+3930174,19,Group Stage,Turkey,Portugal,3,Away Win,2024-06-22,2024-06-22_19
+3930170,16,Group Stage,Slovenia,Serbia,2,Draw,2024-06-20,2024-06-20_16
+3930169,22,Group Stage,Scotland,Switzerland,2,Draw,2024-06-19,2024-06-19_22
+3930166,22,Group Stage,Portugal,Czech Republic,3,Home Win,2024-06-18,2024-06-18_22
+3930163,22,Group Stage,Serbia,England,1,Away Win,2024-06-16,2024-06-16_22
+3930162,19,Group Stage,Slovenia,Denmark,2,Draw,2024-06-16,2024-06-16_19
+3930160,19,Group Stage,Spain,Croatia,3,Home Win,2024-06-15,2024-06-15_19
+3930159,16,Group Stage,Hungary,Switzerland,4,Away Win,2024-06-15,2024-06-15_16
+3930158,22,Group Stage,Germany,Scotland,6,Home Win,2024-06-14,2024-06-14_22

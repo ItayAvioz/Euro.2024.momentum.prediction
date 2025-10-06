@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:abab170d54b61fe4342faef4aaa9ee1022b8d059deb65aaab5b56c32e5f54b38
-size 390
+Event Type,Period 1,Period 2,Difference,Change %
+Ball Receipt*,26247,23836,2411,+10.1%
+Pass,27243,24977,2266,+9.1%
+Carry,22431,20339,2092,+10.3%
+Shot,0,694,-694,-100.0%
+Foul Committed,601,0,601,+100.0%
+Duel,1368,1598,-230,-14.4%
+Goal Keeper,682,847,-165,-19.5%
+Clearance,822,968,-146,-15.1%
+Ball Recovery,1927,2069,-142,-6.9%
+Pressure,7116,7050,66,+0.9%
+Block,956,977,-21,-2.1%
