@@ -1,0 +1,89 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+spain_croatia,0,0,0,"Michael Oliver will officiate today.",general,General,Oliver,Both,41
+spain_croatia,0,0,0,"The players are out and the match is about to start. Croatia will have the kick-off.",general,Kick Off,,Croatia,83
+spain_croatia,1,0,1,"The first half has started.",key_event,Kick Off,,Both,29
+spain_croatia,2,0,2,"Nico Williams (Spain) slides a pass forward, but one of the defenders cuts it out.",general,General,Williams,Spain,91
+spain_croatia,4,0,4,"Rough tackle by Marc Cucurella (Spain). The referee blows his whistle for a foul. Croatia have a free kick.",general,Free Kick,Cucurella,Spain,122
+spain_croatia,4,0,4,"A long cross from the side is directed to the well-positioned Josko Gvardiol (Croatia), but the defence gets it clear.",general,General,Gvardiol,Croatia,133
+spain_croatia,5,0,5,"Rodri (Spain) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",general,General,Rodri,Spain,177
+spain_croatia,6,0,6,"Daniel Carvajal (Spain) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety.",general,General,Carvajal,Spain,205
+spain_croatia,6,0,6,"Nico Williams (Spain) races towards goal but the defender gets back well to make a challenge. The ball goes out of play and Croatia will have a goal kick.",general,General,Williams,Spain,165
+spain_croatia,7,0,7,"Alvaro Morata (Spain) shakes off the attention of a defender and from mid-range lets fly towards the bottom right corner, but Dominik Livakovic is well positioned to make a comfortable save.",general,General,"Morata, Livakovic",Spain,200
+spain_croatia,10,0,10,"Josip Sutalo (Croatia) makes a rough challenge and Michael Oliver blows his whistle for a foul. Spain earn a free kick which could lead to a goal-scoring opportunity.",general,Free Kick,Sutalo,Croatia,169
+spain_croatia,10,0,10,"Nico Williams (Spain) sends in a lofted cross from a mid-range free kick. His effort, however, goes out of play.",general,Free Kick,Williams,Spain,121
+spain_croatia,13,0,13,"Lamine Yamal (Spain) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again. Croatia are awarded a free kick. Let's see what they create from this.",general,Free Kick,Yamal,Spain,251
+spain_croatia,17,0,17,"Marc Cucurella (Spain) was too forceful with his tackle and Michael Oliver interrupted the game to signal a free kick. It's a free kick to Croatia, but it's in no position for a direct shot on goal.",general,Free Kick,Cucurella,Spain,202
+spain_croatia,17,0,17,"Lovro Majer (Croatia) crosses the ball into the box from the free kick, but the defence clears the danger.",general,Free Kick,Majer,Croatia,115
+spain_croatia,20,0,20,"Michael Oliver blows his whistle for a foul after Alvaro Morata (Spain) hacks down one of his opponents. Croatia win a free kick and will be able to apply some pressure on the opposition goal.",general,Free Kick,Morata,Spain,197
+spain_croatia,22,0,22,"Ante Budimir (Croatia) picks up a long through ball, but Unai Simon deserves praise for a brilliant reaction and interception.",general,General,"Budimir, Simon",Croatia,140
+spain_croatia,22,0,22,"An accurate cross picks out Ante Budimir (Croatia) in the centre of the box, but his header floats harmlessly high over the bar.",general,General,Budimir,Croatia,139
+spain_croatia,24,0,24,"Alvaro Morata (Spain) times his run too early and the linesman raises his flag for offside.",general,Offside,Morata,Spain,99
+spain_croatia,24,0,24,"Alvaro Morata (Spain) is obviously not following the Golden Rule: ""Treat others as you want to be treated."" He makes a bad challenge and leaves Michael Oliver with no other option than to blow for a foul.",general,General,Morata,Spain,202
+spain_croatia,26,0,26,"Nico Williams (Spain) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. The ball is off of the pitch and it's a goal kick for Croatia.",general,General,Williams,Spain,228
+spain_croatia,29,0,29,"A superb goal from great team play! Alvaro Morata (Spain) latches on to a perfect pass and fires an excellent low shot into the middle of the net. There is nothing a goalkeeper can do about shots like that.",key_event,Goal,Morata,Spain,216
+spain_croatia,30,0,30,"The shot by Mateo Kovacic (Croatia) from the edge of the box low towards the middle of the goal lacks power and is easily saved by Unai Simon.",general,General,"Kovacic, Simon",Croatia,154
+spain_croatia,32,0,32,"Pedri produces a sweet pass and picks out Fabian Ruiz (Spain) inside the box. He quickly takes a shot which goes into the bottom right corner and leaves the goalkeeper helpless. He makes it 2:0!",key_event,Goal,"Pedri, Ruiz",Spain,218
+spain_croatia,34,0,34,"Marcelo Brozovic (Croatia) is unlucky with a goal-bound effort from the edge of the box. Some classy goalkeeping by Unai Simon stops the ball out of the bottom right corner.",key_event,Save,"Brozovic, Simon",Croatia,182
+spain_croatia,34,0,34,"Lovro Majer (Croatia) has a great chance inside the box following a rebound off a defender, but somehow he gets too much on the ball and it goes well wide of the right post.",general,General,Majer,Croatia,184
+spain_croatia,36,0,36,"Nico Williams (Spain) prepares to take a corner kick.",general,Corner,Williams,Spain,57
+spain_croatia,36,0,36,"Robin Le Normand (Spain) fails to connect properly with the corner kick and plants his header way over the bar from the centre of the box.",general,Corner,Le Normand,Spain,151
+spain_croatia,39,0,39,"Pedri (Spain) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",general,Injury,Pedri,Spain,142
+spain_croatia,40,0,40,"Pedri (Spain) is able to continue to play.",general,Injury,Pedri,Spain,44
+spain_croatia,41,0,41,"Rodri (Spain) was too fierce in his attempt to get the ball from his opponent and Michael Oliver blows for a foul.",general,General,Rodri,Spain,123
+spain_croatia,42,0,42,"Good chance! Josko Gvardiol (Croatia) nicely turned his man inside the box but placed his effort just wide of the right post. He should have scored!",key_event,Shot,Gvardiol,Croatia,164
+spain_croatia,45,0,45,"Andrej Kramaric (Croatia) takes a mid-range shot, but it lacks accuracy and it goes way over the bar.",general,General,Kramaric,Croatia,114
+spain_croatia,45,0,45,"2 min. of stoppage-time to be played.",general,General,,Both,42
+spain_croatia,45,1,45+1,"The move breaks down when Mateo Kovacic (Croatia) attempts an ambitious shot from distance that goes well wide of the right post.",general,General,Kovacic,Croatia,147
+spain_croatia,45,2,45+2,"Nico Williams (Spain) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. The linesman points to the corner flag, Spain are going to take it.",general,Corner,Williams,Spain,236
+spain_croatia,45,2,45+2,"Lamine Yamal (Spain) quickly takes the corner kick with a short pass.",general,Corner,Yamal,Spain,71
+spain_croatia,45,2,45+2,"Daniel Carvajal (Spain) meets a perfect cross from Lamine Yamal deep inside the box and controls it with a nice first touch. He produces a low shot into the middle of the goal. The score has changed to 3:0.",key_event,Goal,"Carvajal, Yamal",Spain,227
+spain_croatia,45,3,45+3,"Michael Oliver has ended the first half by blowing the whistle.",general,Half Time,Oliver,Both,64
+spain_croatia,46,0,46,"The second half has just started.",key_event,Kick Off,,Both,35
+spain_croatia,47,0,47,"Michael Oliver blows for a foul after Josko Gvardiol (Croatia) was too aggressive in the battle for the ball.",general,General,Gvardiol,Croatia,115
+spain_croatia,49,0,49,"The game is interrupted now, Daniel Carvajal (Spain) picks up a knock and the physio has to come on.",general,Injury,Carvajal,Spain,110
+spain_croatia,50,0,50,"Marin Pongracic (Croatia) trips an opposition player and Michael Oliver signals a foul. It's a free kick to Spain, but they probably won't attempt a direct shot on goal from here.",general,Free Kick,Pongracic,Croatia,187
+spain_croatia,50,0,50,"Daniel Carvajal (Spain) seems to be alright and is okay to carry on.",general,Injury,Carvajal,Spain,70
+spain_croatia,51,0,51,"Josko Gvardiol (Croatia) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",general,General,Gvardiol,Croatia,157
+spain_croatia,52,0,52,"Lamine Yamal (Spain) receives a precise pass in the box and takes the shot early. The ball heads towards the bottom left corner, but Dominik Livakovic shows off his skills and makes a brilliant save to deny him.",key_event,Save,"Yamal, Livakovic",Spain,222
+spain_croatia,53,0,53,"Nico Williams (Spain) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",general,Corner,Williams,Spain,115
+spain_croatia,54,0,54,"What a miss! Alvaro Morata (Spain) is left standing right in front of goal with only the keeper to beat after a clever pass, but he somehow contrives to toe poke the ball just past the right post.",general,General,Morata,Spain,209
+spain_croatia,56,0,56,"Josip Stanisic (Croatia) picks up a pass inside the box and finds some space for a shot before unleashing a low drive goalwards, but one of the defending players blocks his effort.",general,General,Stanisic,Croatia,190
+spain_croatia,56,0,56,"Andrej Kramaric (Croatia) jumps high inside the box to head the rebound towards the roof of the net, but Unai Simon pulls off an amazing reflex save to keep the ball out of the net. Nice goalkeeping skill!",key_event,Save,"Kramaric, Simon",Croatia,220
+spain_croatia,56,0,56,"A substitution has been made. Ante Budimir goes off and Ivan Perisic (Croatia) comes on.",key_event,Substitution,"Budimir, Perisic",Croatia,99
+spain_croatia,57,0,57,"Luka Modric (Croatia) pulls the jersey of one of the opposition players and Michael Oliver blows his whistle for a foul. Spain will take a free kick near the side line.",general,Free Kick,Modric,Croatia,168
+spain_croatia,58,0,58,"Lamine Yamal (Spain) smashes the ball towards goal from the edge of the penalty box, but it fails to bother the goalkeeper as it hits the defensive wall.",general,General,Yamal,Spain,158
+spain_croatia,59,0,59,"Luis de la Fuente has decided to introduce fresh legs, with Dani Olmo (Spain) replacing Pedri.",key_event,Substitution,"Pedri, Olmo, de la Fuente",Spain,106
+spain_croatia,63,0,63,"Lovro Majer (Croatia) latches on to a pin-point through ball, but one of the defending players dispossess him. Brilliant defending.",general,General,Majer,Croatia,138
+spain_croatia,65,0,65,"The substitution is prepared. Mario Pasalic (Croatia) joins the action as a substitute, replacing Luka Modric.",key_event,Substitution,"Modric, Pasalic",Croatia,122
+spain_croatia,65,0,65,"Substitution. Luka Sucic (Croatia) replaces Mateo Kovacic.",key_event,Substitution,"Kovacic, Sucic",Croatia,62
+spain_croatia,67,0,67,"The referee stops play so that a substitution can be made and Mikel Oyarzabal is coming onto the pitch as Alvaro Morata (Spain) cannot continue after picking up an injury.",key_event,Substitution,"Morata, Oyarzabal",Spain,180
+spain_croatia,67,0,67,"Mikel Merino (Spain) joins the action as a substitute, replacing Nico Williams.",key_event,Substitution,"Williams, Merino",Spain,84
+spain_croatia,72,0,72,"Zlatko Dalic has decided to make a change. Bruno Petkovic (Croatia) replaces Andrej Kramaric.",key_event,Substitution,"Kramaric, Petkovic, Dalic",Croatia,107
+spain_croatia,74,0,74,"Dani Olmo (Spain) unleashes a missile of a shot towards goal, but his good effort is blocked by one of the defenders.",general,General,Olmo,Spain,131
+spain_croatia,76,0,76,"Mikel Merino (Spain) robs an opponent of the ball and explodes in anger when Michael Oliver blows for a foul.",general,General,Merino,Spain,115
+spain_croatia,77,0,77,"Ivan Perisic (Croatia) swings a cross into the box, but it's far too close to Unai Simon, who smothers the ball.",general,General,"Perisic, Simon",Croatia,125
+spain_croatia,77,0,77,"The linesman raises his flag for offside before Lamine Yamal (Spain) heads on.",general,Offside,Yamal,Spain,79
+spain_croatia,78,0,78,"It's a penalty! Great chance to score for Croatia! Rodri (Spain) jumps into a tackle and Michael Oliver signals a foul.",key_event,Penalty,Rodri,Croatia,136
+spain_croatia,78,0,78,"A yellow card for a tackle by Rodri (Spain). Michael Oliver doesn't hesitate at all to make this decision.",key_event,Yellow Card,Rodri,Spain,113
+spain_croatia,79,0,79,"Hang on! It might not be a penalty for Croatia as the ref now wants to review using VAR. This hopefully won't take too long.",key_event,VAR,,Croatia,136
+spain_croatia,79,0,79,"The penalty decision stands after the VAR review. It's a penalty to Croatia!",key_event,VAR,,Croatia,81
+spain_croatia,80,0,80,"Bruno Petkovic (Croatia) is heading towards the penalty spot to take it.",key_event,Penalty,Petkovic,Croatia,73
+spain_croatia,80,0,80,"Bruno Petkovic (Croatia) fails to beat the goalkeeper from the penalty spot with a shot inside the left post. Unai Simon anticipates his intention perfectly, though, and leaps to stop his effort.",key_event,Penalty,Petkovic,Spain,208
+spain_croatia,80,0,80,"Bruno Petkovic (Croatia) receives a killer pass, finds himself one-on-one with the goalkeeper and coolly sends the ball into the back of the net.",key_event,VAR,Petkovic,Croatia,164
+spain_croatia,81,0,81,"The goal for Croatia is subject to a VAR review by the referee! He's obviously unsure or he received a message.",key_event,VAR,,Croatia,124
+spain_croatia,81,0,81,"The Croatia players' celebrations are quickly cut short after referee Michael Oliver signals NO GOAL following the VAR review.",key_event,VAR,Oliver,Croatia,135
+spain_croatia,84,0,84,"Ivan Perisic (Croatia) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender.",general,General,Perisic,Croatia,159
+spain_croatia,85,0,85,"Ivan Perisic (Croatia) shoots from the edge of the penalty area. The ball travels towards the bottom left corner, but Unai Simon easily deals with the threat.",general,General,"Perisic, Simon",Croatia,170
+spain_croatia,86,0,86,"The referee signals that it is time for a substitution and Ferran Torres (Spain) is coming onto the pitch as Lamine Yamal cannot continue after picking up an injury.",key_event,Substitution,"Yamal, Torres",Spain,177
+spain_croatia,86,0,86,"Luis de la Fuente decides to make a substitution. Rodri will be replaced by Martin Zubimendi (Spain).",key_event,Substitution,"Rodri, Zubimendi, de la Fuente",Spain,105
+spain_croatia,88,0,88,"What a goal-scoring opportunity! Ferran Torres (Spain) finds some space inside the box and gets in a strike, but the shot is brilliantly blocked by one of the defending players sliding in. Corner kick. Spain will have an opportunity.",general,Corner,Torres,Spain,235
+spain_croatia,89,0,89,"The resulting corner from Ferran Torres (Spain) only finds one of the defenders, who heads it out of danger.",general,Corner,Torres,Spain,117
+spain_croatia,90,0,90,"The attendance is 68844.",general,General,,Both,30
+spain_croatia,90,0,90,"The fourth official shows 5 min. of added time.",general,General,,Both,54
+spain_croatia,90,3,90+3,"Ivan Perisic (Croatia) flashes a header well wide of the left post following a lofted pass into the centre of the box.",general,General,Perisic,Croatia,135
+spain_croatia,90,3,90+3,"Mikel Merino (Spain) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger. The ball is out of play. Spain win a corner kick.",general,Corner,Merino,Spain,183
+spain_croatia,90,4,90+4,"A horde of players are waiting inside the penalty area for a cross from the corner, but Ferran Torres (Spain) takes it short.",general,Corner,Torres,Spain,137
+spain_croatia,90,4,90+4,"Josip Sutalo (Croatia) trips an opponent with a slide tackle. Michael Oliver stops the game and he could give him a card, but eventually decides on just a warning.",general,General,Sutalo,Croatia,169
+spain_croatia,90,5,90+5,"Ivan Perisic (Croatia) tackles a bit over-zealously and Michael Oliver blows for a foul.",general,General,Perisic,Croatia,93
+spain_croatia,90,6,90+6,"There will be no more action in this match as the referee signals full time.",key_event,Full Time,,Both,77
+

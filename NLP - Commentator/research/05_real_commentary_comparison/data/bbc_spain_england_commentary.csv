@@ -1,0 +1,66 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+spain_england,1,0,1,"An incredible noise inside the Olympiastadion as England get the Euro 2024 final under way.",key_event,Kick Off,,England,104
+spain_england,2,0,2,"Spain are seeing a lot of the ball in these early exchanges but they're being forced back. A first touch for Luke Shaw, a first tackle which he wins.",general,General,Shaw,Spain,167
+spain_england,3,0,3,"Spain keeper Unai Simon has touched the ball more than anyone else so far.",general,General,Simon,Spain,76
+spain_england,4,0,4,"Great start for Luke Shaw. He wins another tackle. That's three out of three. Now a first corner for Spain after John Stones puts Nico Williams' hopeful cross behind.",general,Corner,"Shaw, Stones, Williams",Spain,175
+spain_england,5,0,5,"Spain are starting to show their attacking intent. Marc Cucurella is out wide deep inside England's half but he is forced back.",general,General,Cucurella,Spain,141
+spain_england,6,0,6,"Neat and tidy by Spain. England are yet to mount a serious attack.",general,General,,Both,71
+spain_england,7,0,7,"Good defending by Kyle Walker and then Declan Rice as Nico Williams looks to pounce inside the penalty area. England look solid at the back but we've seen nothing from them in terms of an attacking threat.",general,General,"Walker, Rice, Williams",England,213
+spain_england,9,0,9,"England are trying to break forward and Jude Bellingham wins a free-kick inside Spain's half after a foul by Rodri. This is in a decent position.",general,Free Kick,"Bellingham, Rodri",England,157
+spain_england,10,0,10,"The set-piece is floated into the Spain box but there is a foul by Marc Guehi and Spain go again.",general,Free Kick,Guehi,England,110
+spain_england,12,0,12,"Oh, that's outstanding by John Stones. A super challenge by the England defender to thwart Nico Williams who has started really strongly. Williams looks Spain's biggest threat at the moment.",general,General,"Stones, Williams",England,203
+spain_england,13,0,13,"Half a chance for Robin Le Normand but it drops well wide.",general,General,Le Normand,Spain,63
+spain_england,14,0,14,"That's more like it. Kyle Walker finds some space out wide and sends in a pass which is put behind for England's first corner.",general,Corner,Walker,England,137
+spain_england,16,0,16,"England are stepping it up! Bukayo Saka is posing a threat and threads a nice pass to Declan Rice who lets fly. It's blocked. England are looking much more lively.",general,General,"Saka, Rice",England,173
+spain_england,18,0,18,"Biggest positive for England so far? Luke Shaw. He's won every challenge and is keeping Lamine Yamal very quiet.",general,General,"Shaw, Yamal",England,125
+spain_england,20,0,20,"And just like that 20 minutes gone in a flash. Nothing for England to be seriously concerned about so far.",general,General,,England,116
+spain_england,22,0,22,"Danger for England. Phil Foden gives the ball away just outside his own penalty area and Dani Olmo tries to tee up Lamine Yamal who cannot find the target.",general,General,"Foden, Olmo, Yamal",England,166
+spain_england,25,0,25,"Luke Shaw looks really sharp and is getting into some decent positions. Now Harry Kane has gone in late on Fabian Ruiz and is shown a yellow card. That's England's 12th booking of the tournament - Kane has two.",key_event,Yellow Card,"Shaw, Kane, Ruiz",England,223
+spain_england,26,0,26,"One attempt by England. They have yet to register an attempt on target.",general,General,,England,76
+spain_england,28,0,28,"England are really struggling to carve out any chances. It's tight and cagey. Goalkeeper Unai Simon has had a really quiet final so far.",general,General,Simon,England,147
+spain_england,30,0,30,"That's going to hurt! Dani Olmo's studs make contact with Declan Rice's chest and the referee whips out a yellow card.",key_event,Yellow Card,"Olmo, Rice",Spain,132
+spain_england,33,0,33,"Did anyone really expect this to be a rip-roaring end-to-end final? Right now, it feels like one goal could win it although England have played well at this tournament after going behind.",general,General,,Both,195
+spain_england,34,0,34,"Tow quick corners for Spain. The second is half cleared to Dani Olmo who lines up a shot but it's blocked. Jordan Pickford has still to be seriously tested.",general,Corner,"Olmo, Pickford",Spain,168
+spain_england,37,0,37,"Lamine Yamal has the ball out wide deep inside England's half. He attempts to deliver it into the box but Luke Shaw is in the right place to clear. Shaw has hardly put a foot wrong.",general,General,"Yamal, Shaw",Spain,189
+spain_england,39,0,39,"What's this? A terrific run by John Stones who drives towards the edge of Spain's penalty area before he is dispossessed.",general,General,Stones,England,133
+spain_england,40,0,40,"A decent spell of possession by England which started with Declan Rice driving forward but it's ended when Kobbie Mainoo gives the ball away.",general,General,"Rice, Mainoo",England,153
+spain_england,42,0,42,"Now Spain captain Alvaro Morata wins a corner after a good piece of defending by John Stones. It doesn't come to anything. Fair to say this hasn't been a classic.",general,Corner,"Morata, Stones",Spain,173
+spain_england,44,0,44,"Strong end to the half by England. Good play by Kyle Walker before Harry Kane has an attempt blocked. Now England have a free-kick about 30 yards out.",general,Free Kick,"Walker, Kane",England,168
+spain_england,45,0,45,"Oh, my! That's the closest England have come to scoring. The free-kick is flicked on into the path of Phil Foden who on the stretch forces Unai Simon into his first serious save.",key_event,Save,"Foden, Simon",England,197
+spain_england,45,3,45+3,"All square. Everything to play for.",general,Half Time,,Both,40
+spain_england,45,0,45,"Wow. Rodri has not come back out. Martín Zubimendi is on.",key_event,Substitution,"Rodri, Zubimendi",Spain,65
+spain_england,45,0,45,"Who will be celebrating at the end? Here we go...back under way.",key_event,Kick Off,,Both,67
+spain_england,46,0,46,"First blood to Spain! England are undone 69 seconds into the second half. It's a lovely move with Lamine Yamal at the centre of it. It falls to Nico Williams free inside the box and he steers it beyond Jordan Pickford.",key_event,Goal,"Williams, Yamal, Pickford",Spain,242
+spain_england,48,0,48,"Almost a second for Spain! England have not turned up this half. This time a chance for Dani Olmo but he snaps at it and it goes wide.",key_event,Shot,Olmo,Spain,151
+spain_england,49,0,49,"No panic from England just yet. They were behind in their three previous games and still managed to get through them in the end.",general,General,,England,135
+spain_england,51,0,51,"England have to go for it now! Still just the one attempt on target.",general,General,,England,75
+spain_england,52,0,52,"England need to find some composure. They have been rattled by that goal and now John Stones goes into the book for a late challenge.",key_event,Yellow Card,Stones,England,145
+spain_england,53,0,53,"12 July: Nico Williams' 22nd birthday. 13 July: Lamine Yamal's 17th birthday. 14 July: Williams scores on a Yamal assist in the Euro 2024 final.",general,General,"Williams, Yamal",Spain,156
+spain_england,55,0,55,"This doesn't look good. England are all over the place! After John Stones makes a vital clearance, Nico Williams goes for goal and it's just wide. England are giving the ball away so cheaply.",key_event,Shot,"Stones, Williams",Spain,203
+spain_england,56,0,56,"There is only one team in this - and it's not England.",general,General,,Spain,61
+spain_england,57,0,57,"It looks like England are about to make a change. Gareth Southgate needs to do something - it's too easy for Spain.",general,General,Southgate,England,127
+spain_england,58,0,58,"Ollie Watkins is getting ready to come on. Is Harry Kane's final about to end?",general,General,"Watkins, Kane",England,90
+spain_england,60,0,60,"Harry Kane passes the armband to Kyle Walker before making way for Ollie Watkins. England fans respond with a roar. That's a positive change as far as they are concerned.",key_event,Substitution,"Kane, Walker, Watkins",England,192
+spain_england,62,0,62,"That's very late! Nico Williams on Bukayo Saka and England have a free-kick out wide deep inside Spain's half. Phil Foden is going to whip this in.",general,Free Kick,"Williams, Saka, Foden",England,169
+spain_england,62,0,62,"That's another disappointing delivery. Easily cleared.",general,Free Kick,,England,59
+spain_england,63,0,63,"Oh, my. Wow. That's the best we have seen of Jude Bellingham in this final. He turns his marker on the edge of the box and creates space for himself before drilling it towards the net. Wide.",key_event,Shot,Bellingham,England,208
+spain_england,65,0,65,"Turn away now England fans.",general,General,,England,28
+spain_england,67,0,67,"Lamine Yamal doing Lamine Yamal things. The 17-year-old creates space for himself outside the box and fires towards the net only for Jordan Pickford to push it behind. Pickford keeps England in this.",key_event,Save,"Yamal, Pickford",Spain,214
+spain_england,69,0,69,"Spain have replaced captain Alvaro Morata with Mikel Oyarzabal.",key_event,Substitution,"Morata, Oyarzabal",Spain,69
+spain_england,70,0,70,"Another England change. Cole Palmer for Kobbie Mainoo.",key_event,Substitution,"Mainoo, Palmer",England,58
+spain_england,72,0,72,"ICEEEEEE COLD PALMER! What a finish by Cole Palmer. He equalises with a finish from about 22 yards out - low and hard beyond Unai Simon. Gareth Southgate punches the air. England are back in it!",key_event,Goal,"Palmer, Simon, Southgate",England,225
+spain_england,74,0,74,"Another substitute rides to England's rescue. A beautiful finish by Cole Palmer! He celebrated it with a trademark salute.",general,General,Palmer,England,128
+spain_england,75,0,75,"That goal has changed the momentum. England are enjoying their best spell of the final. All the noise is coming from England's fans. There is a new energy about the Three Lions now.",general,General,,England,183
+spain_england,77,0,77,"22 Premier League goals for Chelsea in 2023-24. One outstanding finish to rescue England in the Euro 2024 final. Take a bow, Cole Palmer.",general,General,Palmer,England,146
+spain_england,81,0,81,"A massive chance for Spain! Lamine Yamal, who already has an assist, goes for glory from inside the box and it looks like it is going in before Jordan Pickford gets down to keep it out.",key_event,Save,"Yamal, Pickford",Spain,204
+spain_england,83,0,83,"This is agony! Spain have regained their composure after conceding an equaliser and now it's England who are hanging on.",general,General,,Both,129
+spain_england,84,0,84,"A wonderful player. A wonderful finish.",general,General,,England,42
+spain_england,85,0,85,"Jordan Pickford is forced to come off his line and pluck a cross out of the air. Will England force extra time? Gareth Southgate is preparing more changes.",general,General,"Pickford, Southgate",England,165
+spain_england,86,0,86,"Agony for England! Mikel Oyarzabal stretches to meet Marc Cucurella's low cross into the box and steer it past Jordan Pickford. Was he offside? No! England have four minutes plus stoppages to save this.",key_event,Goal,"Oyarzabal, Cucurella, Pickford",Spain,228
+spain_england,88,0,88,"England need a hero. Ivan Toney is on for Phil Foden.",key_event,Substitution,"Foden, Toney",England,57
+spain_england,89,0,89,"SO CLOSE FOR ENGLAND! They win a corner and John Stones' header is somehow kept it. It falls to Declan Rice and the Marc Guehi. Spain somehow survive.",key_event,Shot,"Stones, Rice, Guehi",England,170
+spain_england,90,0,90,"Four minutes of additional time. 240 seconds for England to find another equaliser.",general,General,,England,92
+spain_england,90,1,90+1,"Spain's substitutes are on the sidelines ready to celebrate.",general,General,,Spain,62
+spain_england,90,2,90+2,"A long clearance by Jordan Pickford and Bukayo Saka is onto it. The referee blows for a foul and Spain have a free-kick.",general,General,"Pickford, Saka",Both,137
+spain_england,90,4,90+4,"Spain win Euro 2024. England's long wait goes on.",key_event,Full Time,,Spain,54
+

@@ -1,0 +1,107 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+romania_ukraine,0,0,0,"Glenn Nyberg will supervise the game today.",general,General,Nyberg,Both,45
+romania_ukraine,0,0,0,"The players are out and the match is about to start. Ukraine will have the kick-off.",general,Kick Off,,Ukraine,84
+romania_ukraine,1,0,1,"The first half of this match is about to start.",key_event,Kick Off,,Both,48
+romania_ukraine,1,0,1,"Mykhailo Mudryk (Ukraine) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort.",general,General,Mudryk,Ukraine,181
+romania_ukraine,4,0,4,"Andrei Ratiu (Romania) sends a cross into the box, but Andriy Lunin comes off his line to gather the ball.",general,General,"Ratiu, Lunin",Romania,117
+romania_ukraine,5,0,5,"Ilya Zabarnyi (Ukraine) tries to create a chance, but puts too much weight on his pass.",general,General,Zabarnyi,Ukraine,96
+romania_ukraine,6,0,6,"Rough tackle by Razvan Marin (Romania). The referee blows his whistle for a foul.",general,General,Marin,Romania,90
+romania_ukraine,7,0,7,"Taras Stepanenko (Ukraine) sends a cross into the box, but the opposition's defence clears the ball to safety.",general,General,Stepanenko,Ukraine,126
+romania_ukraine,7,0,7,"Viktor Tsygankov (Ukraine) blasts the ball from just outside the box, but his attempt is blocked by the defender.",general,General,Tsygankov,Ukraine,128
+romania_ukraine,8,0,8,"Florinel Coman (Romania) slams the ball towards the middle of the goal, but it fails to surprise Andriy Lunin and he's equal to it.",key_event,Save,"Coman, Lunin",Romania,150
+romania_ukraine,9,0,9,"The Ukraine players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",general,General,,Ukraine,141
+romania_ukraine,12,0,12,"Artem Dovbyk (Ukraine) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Dovbyk,Ukraine,123
+romania_ukraine,12,0,12,"Georgiy Sudakov (Ukraine) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders.",general,General,Sudakov,Ukraine,170
+romania_ukraine,14,0,14,"Viktor Tsygankov (Ukraine) whips a promising cross into the box, but the opposition's defence intercepts the ball.",general,General,Tsygankov,Ukraine,128
+romania_ukraine,18,0,18,"Glenn Nyberg blows his whistle. Georgiy Sudakov (Ukraine) commits a foul after dangerous play.",general,General,Sudakov,Ukraine,102
+romania_ukraine,19,0,19,"29:71 – this is the current ball possession ratio.",general,General,,Both,51
+romania_ukraine,21,0,21,"Yukhym Konoplya (Ukraine) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging.",general,General,Konoplya,Ukraine,174
+romania_ukraine,21,0,21,"Yukhym Konoplya (Ukraine) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",general,General,Konoplya,Ukraine,155
+romania_ukraine,22,0,22,"Viktor Tsygankov (Ukraine) takes the corner which is cleared by the opposition's defence.",general,Corner,Tsygankov,Ukraine,92
+romania_ukraine,22,0,22,"Artem Dovbyk (Ukraine) takes a mid-range shot, but it lacks accuracy and it goes way over the bar.",key_event,Shot,Dovbyk,Ukraine,111
+romania_ukraine,24,0,24,"Andrei Ratiu (Romania) swings a cross into the box, but it's far too close to Andriy Lunin, who smothers the ball.",general,General,"Ratiu, Lunin",Romania,129
+romania_ukraine,24,0,24,"Viktor Tsygankov (Ukraine) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",general,Corner,Tsygankov,Ukraine,143
+romania_ukraine,26,0,26,"Viktor Tsygankov (Ukraine) looks to break free, but his touch lets him down and he loses the ball.",general,General,Tsygankov,Ukraine,102
+romania_ukraine,27,0,27,"Mykhailo Mudryk (Ukraine) skips past his man but can't keep the ball in play.",general,General,Mudryk,Ukraine,80
+romania_ukraine,27,0,27,"Dennis Man (Romania) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",general,General,Man,Romania,138
+romania_ukraine,27,0,27,"Dennis Man (Romania) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",general,Corner,Man,Romania,157
+romania_ukraine,29,0,29,"Goal - 1:0! Nicolae Stanciu (Romania) gets a shot away from the edge of the box and scores into the top left corner. Dennis Man provided an assist for the goal.",key_event,Goal,"Stanciu, Man",Romania,176
+romania_ukraine,33,0,33,"Glenn Nyberg blows for a foul after Viktor Tsygankov (Ukraine) was too aggressive in the battle for the ball.",general,General,Tsygankov,Ukraine,117
+romania_ukraine,33,0,33,"Romania have an opportunity from a mid-range free kick.",general,Free Kick,,Romania,56
+romania_ukraine,34,0,34,"Nicolae Stanciu (Romania) floats the free kick into the box, but it's easily cleared by the first man. Romania have a corner.",general,Corner,Stanciu,Romania,138
+romania_ukraine,35,0,35,"Romania quickly take a corner kick with a short pass.",general,Corner,,Romania,55
+romania_ukraine,36,0,36,"Mykhailo Mudryk (Ukraine) sends a lofted cross into the box which is headed clear. The referee signals a corner kick to Ukraine.",general,Corner,Mudryk,Ukraine,142
+romania_ukraine,37,0,37,"Viktor Tsygankov (Ukraine) takes a short corner kick.",general,Corner,Tsygankov,Ukraine,55
+romania_ukraine,37,0,37,"Viktor Tsygankov (Ukraine) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender.",general,General,Tsygankov,Ukraine,137
+romania_ukraine,39,0,39,"Dennis Man (Romania) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders. Romania earn a corner.",general,Corner,Man,Romania,185
+romania_ukraine,39,0,39,"Nicolae Stanciu (Romania) is heading toward the corner flag to take the set piece.",general,Corner,Stanciu,Romania,88
+romania_ukraine,39,0,39,"You don't see this every day. Nicolae Stanciu (Romania) takes the corner but his cross crashes against the crossbar!",key_event,Shot,Stanciu,Romania,131
+romania_ukraine,41,0,41,"Marius Marin (Romania) is lying on the ground after being tackled and the physio comes onto the pitch to give him medical treatment.",general,Injury,Marin,Romania,141
+romania_ukraine,44,0,44,"Total attempts – 4:4.",general,General,,Both,23
+romania_ukraine,44,0,44,"Marius Marin (Romania) is moving okay again after that injury scare.",general,Injury,Marin,Romania,68
+romania_ukraine,45,0,45,"Georgiy Sudakov (Ukraine) should know this behaviour is beyond the rules. He was too careless with his challenge and left Glenn Nyberg no option but to blow his whistle.",general,General,Sudakov,Ukraine,177
+romania_ukraine,45,0,45,"The fourth official shows 2 min. of added time.",general,General,,Both,54
+romania_ukraine,45,1,45+1,"Georgiy Sudakov (Ukraine) plays a through ball but overhits it.",general,General,Sudakov,Ukraine,63
+romania_ukraine,45,3,45+3,"The match has reached half-time.",general,Half Time,,Both,35
+romania_ukraine,46,0,46,"Glenn Nyberg blows his whistle and the second half starts.",key_event,Kick Off,Nyberg,Both,57
+romania_ukraine,46,0,46,"Florinel Coman (Romania) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards wide of the right post.",key_event,Shot,Coman,Romania,162
+romania_ukraine,47,0,47,"A cross by Yukhym Konoplya (Ukraine) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor.",general,General,Konoplya,Ukraine,158
+romania_ukraine,48,0,48,"Mykhailo Mudryk (Ukraine) swings in a cross, but the ball is cleared to safety by one of the defending players.",general,General,Mudryk,Ukraine,126
+romania_ukraine,49,0,49,"A cross from Georgiy Sudakov (Ukraine) fails to reach the box as the defence clears the ball away to safety.",general,General,Sudakov,Ukraine,123
+romania_ukraine,50,0,50,"Georgiy Sudakov (Ukraine) bursts pass a defender and attempts to score from the edge of the area, but the shot goes high over the bar.",key_event,Shot,Sudakov,Ukraine,151
+romania_ukraine,51,0,51,"Dennis Man (Romania) crosses the ball into the box, but one of the defending players averts the threat.",general,General,Man,Romania,108
+romania_ukraine,51,0,51,"Denis Dragus (Romania) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",general,General,Dragus,Romania,180
+romania_ukraine,52,0,52,"Viktor Tsygankov (Ukraine) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. The referee and his assistant both point at the corner flag. Ukraine will have an opportunity to threaten the opposition's goal.",general,Corner,Tsygankov,Ukraine,282
+romania_ukraine,52,0,52,"Mykhailo Mudryk (Ukraine) quickly takes the corner kick with a short pass.",general,Corner,Mudryk,Ukraine,73
+romania_ukraine,52,0,52,"Mykhailo Mudryk (Ukraine) creates himself some space on the edge of the box and unleashes a strong shot which is blocked by a defender.",general,General,Mudryk,Ukraine,151
+romania_ukraine,53,0,53,"Razvan Marin (Romania) quickly gets to a rebound. He is not worried how far out he is and slams the ball towards the goal. To the amazement of all, it goes all the way into the bottom left corner. He makes it 2:0 with this magnificent strike.",key_event,Goal,Marin,Romania,254
+romania_ukraine,55,0,55,"Mykola Matviienko (Ukraine) sends a teasing cross into the area, but Florin Nita intercepts the ball.",general,General,"Matviienko, Nita",Ukraine,114
+romania_ukraine,56,0,56,"Nicolae Stanciu (Romania) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",general,General,Stanciu,Romania,158
+romania_ukraine,56,0,56,"Andrei Ratiu (Romania) runs onto the ball inside the box and smashes it towards the top right corner. It's a great effort but an even better save from Andriy Lunin, who tips the ball over the bar.",key_event,Save,"Ratiu, Lunin",Romania,204
+romania_ukraine,57,0,57,"Romania force a corner. They send men into the box.",general,Corner,,Romania,54
+romania_ukraine,57,0,57,"Goal! Denis Dragus (Romania) finishes from close range with an easy finish and he makes it 3:0. He was ably assisted there by Dennis Man.",key_event,Goal,"Dragus, Man",Romania,159
+romania_ukraine,57,0,57,"Houston, we have a problem! The referee has indicated that there will be a VAR review of the goal to look at a possible offside. The Romania players aren't happy.",general,VAR,,Romania,174
+romania_ukraine,58,0,58,"Here comes the VAR verdict: Referee Glenn Nyberg signals that the goal stands! The Romania players celebrate.",key_event,VAR,Nyberg,Romania,117
+romania_ukraine,60,0,60,"Denis Dragus (Romania) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch.",general,Injury,Dragus,Romania,159
+romania_ukraine,61,0,61,"Denis Dragus (Romania) seems to be alright and is okay to carry on.",general,Injury,Dragus,Romania,63
+romania_ukraine,62,0,62,"Substitution. Ianis Hagi (Romania) has come on for Dennis Man.",key_event,Substitution,"Man, Hagi",Romania,66
+romania_ukraine,62,0,62,"Edward Iordanescu has decided to make a change. Valentin Mihaila (Romania) replaces Florinel Coman.",key_event,Substitution,"Coman, Mihaila, Iordanescu",Romania,110
+romania_ukraine,62,0,62,"Substitution. Taras Stepanenko leaves the pitch and is replaced by Volodymyr Brazhko (Ukraine).",key_event,Substitution,"Stepanenko, Brazhko",Ukraine,98
+romania_ukraine,62,0,62,"Here is a change. Mykola Shaparenko is going off and Sergiy Rebrov gives the last tactical orders to Roman Yaremchuk (Ukraine).",key_event,Substitution,"Shaparenko, Yaremchuk, Rebrov",Ukraine,135
+romania_ukraine,62,0,62,"The referee stops play so that a substitution can be made and Viktor Tsygankov trots off the pitch and is replaced by Andriy Yarmolenko (Ukraine).",key_event,Substitution,"Tsygankov, Yarmolenko",Ukraine,155
+romania_ukraine,64,0,64,"Nicolae Stanciu (Romania) makes an overly-aggressive challenge and Glenn Nyberg blows his whistle for a foul.",general,General,Stanciu,Romania,117
+romania_ukraine,64,0,64,"Mykhailo Mudryk (Ukraine) whips in the resulting set piece but it's cleared.",general,General,Mudryk,Ukraine,82
+romania_ukraine,65,0,65,"Unbelievable miss! Andriy Yarmolenko (Ukraine) reacts superbly to latch on to a rebound, but he blazes the ball high over the crossbar!",key_event,Shot,Yarmolenko,Ukraine,153
+romania_ukraine,66,0,66,"Florin Nita is alert and has a clear sight of a long through ball from Ilya Zabarnyi (Ukraine). Easy save!",key_event,Save,"Nita, Zabarnyi",Ukraine,121
+romania_ukraine,67,0,67,"Georgiy Sudakov (Ukraine) was too forceful with his tackle and Glenn Nyberg interrupted the game to signal a free kick.",general,General,Sudakov,Ukraine,125
+romania_ukraine,67,0,67,"This yellow card was deserved. The tackle by Yukhym Konoplya (Ukraine) was quite harsh and Glenn Nyberg didn't hesitate to show him a yellow card.",key_event,Yellow Card,Konoplya,Ukraine,162
+romania_ukraine,69,0,69,"Nicolae Stanciu (Romania) strikes the ball from a direct free kick on the edge of the box. His shot only goes narrowly wide of the left post.",key_event,Shot,Stanciu,Romania,153
+romania_ukraine,70,0,70,"The game is interrupted. Ianis Hagi (Romania) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did. Ukraine are awarded a free kick from a dangerous position.",general,Free Kick,Hagi,Romania,229
+romania_ukraine,71,0,71,"Georgiy Sudakov (Ukraine) steps up and sends the free kick straight into the defensive wall. Ukraine have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",general,Corner,Sudakov,Ukraine,203
+romania_ukraine,71,0,71,"The resulting corner from Mykhailo Mudryk (Ukraine) is cleared by the defence.",general,Corner,Mudryk,Ukraine,84
+romania_ukraine,72,0,72,"Yukhym Konoplya comes off the pitch to be replaced by Oleksandr Tymchyk (Ukraine).",key_event,Substitution,"Konoplya, Tymchyk",Ukraine,83
+romania_ukraine,72,0,72,"Romania couldn't find the way to score from a mid-range free kick as Andriy Lunin (Ukraine) leaped high and intercepted the cross.",general,Free Kick,Lunin,Ukraine,143
+romania_ukraine,73,0,73,"Good defending. Andriy Yarmolenko (Ukraine) tries to find Artem Dovbyk inside the box, but the pass is cut out.",general,General,"Yarmolenko, Dovbyk",Ukraine,127
+romania_ukraine,73,0,73,"Georgiy Sudakov (Ukraine) steps up to take the corner, but the ball just sails in among the defenders.",general,Corner,Sudakov,Ukraine,110
+romania_ukraine,74,0,74,"Mykhailo Mudryk (Ukraine) attempts to find Artem Dovbyk with a delicate little through ball from inside the box, but one of the defending players makes a timely intervention.",general,General,"Mudryk, Dovbyk",Ukraine,180
+romania_ukraine,75,0,75,"Mykhailo Mudryk (Ukraine) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",general,General,Mudryk,Ukraine,127
+romania_ukraine,75,0,75,"Today's match ends for Marius Marin who will be replaced by Adrian Rus (Romania).",key_event,Substitution,"Marin, Rus",Romania,84
+romania_ukraine,75,0,75,"Edward Iordanescu prepares a substitution. Denis Dragus is replaced by George Puscas (Romania).",key_event,Substitution,"Dragus, Puscas, Iordanescu",Romania,104
+romania_ukraine,76,0,76,"One of the players from Romania times his run too early and the referee blows his whistle for offside.",general,Offside,,Romania,112
+romania_ukraine,77,0,77,"A run and shot from the edge of the box by Georgiy Sudakov (Ukraine) causes Florin Nita little worry as it's towards the middle of the goal. Easy save.",key_event,Save,"Sudakov, Nita",Ukraine,165
+romania_ukraine,78,0,78,"Roman Yaremchuk (Ukraine) fires the ball towards goal from outside the penalty area, but it is blocked by one of his teammates.",general,General,Yaremchuk,Ukraine,140
+romania_ukraine,79,0,79,"Razvan Marin (Romania) picks up a yellow card for an infringement.",key_event,Yellow Card,Marin,Romania,69
+romania_ukraine,79,0,79,"Mykhailo Mudryk (Ukraine) takes the ball and sets it for the free kick.",general,Free Kick,Mudryk,Ukraine,75
+romania_ukraine,80,0,80,"Flag goes up against Artem Dovbyk (Ukraine) and the referee blows his whistle for offside.",general,Offside,Dovbyk,Ukraine,98
+romania_ukraine,83,0,83,"Andriy Yarmolenko (Ukraine) commits a rough challenge and Glenn Nyberg blows his whistle for an infringement.",general,General,Yarmolenko,Ukraine,117
+romania_ukraine,83,0,83,"The referee stops play so that a substitution can be made and Georgiy Sudakov departs the field of play to be replaced by Ruslan Malinovsky (Ukraine).",key_event,Substitution,"Sudakov, Malinovsky",Ukraine,161
+romania_ukraine,85,0,85,"CHANCE! Mykhailo Mudryk (Ukraine) picks up a perfect pass inside the box, makes himself some space for a shot, but his effort goes just over the crossbar.",key_event,Shot,Mudryk,Ukraine,172
+romania_ukraine,87,0,87,"Edward Iordanescu decides to make a substitution. Nicolae Stanciu will be replaced by Bogdan Racovitan (Romania).",key_event,Substitution,"Stanciu, Racovitan, Iordanescu",Romania,128
+romania_ukraine,89,0,89,"A cross into the box from Oleksandr Zinchenko (Ukraine) is cleared. The linesman makes the right call and Ukraine will have a corner.",general,Corner,Zinchenko,Ukraine,144
+romania_ukraine,89,0,89,"Ruslan Malinovsky (Ukraine) will take a corner kick.",general,Corner,Malinovsky,Ukraine,54
+romania_ukraine,89,0,89,"Mykhailo Mudryk (Ukraine) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",general,Corner,Mudryk,Ukraine,137
+romania_ukraine,90,0,90,"We will have 4 min. of added time.",general,General,,Both,40
+romania_ukraine,90,2,90+2,"Roman Yaremchuk (Ukraine) smashes the ball against the crossbar! What a chance.",key_event,Shot,Yaremchuk,Ukraine,83
+romania_ukraine,90,4,90+4,"Florin Nita makes a good save! Mykhailo Mudryk (Ukraine) easily weaves through the defence and fires in from long range. His low shot goes towards the middle of the goal but is saved by the keeper!",key_event,Save,"Nita, Mudryk",Ukraine,215
+romania_ukraine,90,5,90+5,"The match has just finished.",key_event,Full Time,,Both,30
+

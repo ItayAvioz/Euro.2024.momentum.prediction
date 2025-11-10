@@ -763,11 +763,47 @@ def create_narrative_flow(df, event_indices):
     if len(event_indices) == 0:
         return ""
     
+    # Prioritize key events (goals, own goals) - always include them
+    # Skip "Ball Receipt*" unless significant (under pressure in danger zone)
+    key_event_indices = []
+    regular_event_indices = []
+    
+    for idx in event_indices:
+        try:
+            event = df.loc[idx]
+            event_type = event['event_type']
+            is_goal = event.get('is_goal', False)
+            
+            # Key events: goals, own goals, shots that are goals
+            if is_goal or event_type in ['Own Goal Against', 'Own Goal For']:
+                key_event_indices.append(idx)
+            # Skip "Ball Receipt*" events (receiving is implied from pass)
+            # UNLESS it's significant (under pressure in danger zone)
+            elif event_type == 'Ball Receipt*':
+                under_pressure = event.get('under_pressure', False)
+                is_danger_zone = event.get('is_danger_zone', False)
+                # Only include if receiving under pressure in danger zone
+                if under_pressure and is_danger_zone:
+                    regular_event_indices.append(idx)
+                # Otherwise skip - receiving is implied!
+            else:
+                regular_event_indices.append(idx)
+        except:
+            regular_event_indices.append(idx)
+    
+    # Build final list: first 4 regular events + all key events (goals always included!)
+    if key_event_indices:
+        # Include build-up (max 4 events) + all goals
+        selected_indices = regular_event_indices[:4] + key_event_indices
+    else:
+        # No goals, just take first 5 events
+        selected_indices = regular_event_indices[:5]
+    
     narrative_parts = []
     last_player = None
     last_team = None
     
-    for i, idx in enumerate(event_indices[:5]):  # Limit to 5 events
+    for i, idx in enumerate(selected_indices):  # Use selected events (build-up + goals)
         try:
             event = df.loc[idx]
             player = event['player_name']
@@ -855,7 +891,7 @@ def main():
     """Main execution"""
     
     # Load enriched data
-    input_file = os.path.join(SCRIPT_DIR, 'final_game_detailed_commentary_data.csv')
+    input_file = os.path.join(SCRIPT_DIR, '..', 'data', 'final_game_detailed_commentary_data.csv')
     df = pd.read_csv(input_file)
     
     print(f"Loaded {len(df)} events")
@@ -877,7 +913,7 @@ def main():
     df['sequence_length'] = df.index.map(lambda x: sequence_map.get(x, {}).get('sequence_length'))
     
     # Save
-    output_file = os.path.join(SCRIPT_DIR, 'final_game_rich_commentary.csv')
+    output_file = os.path.join(SCRIPT_DIR, '..', 'data', 'final_game_rich_commentary.csv')
     df.to_csv(output_file, index=False)
     
     print(f"\n✅ Rich commentary saved to: {output_file}")

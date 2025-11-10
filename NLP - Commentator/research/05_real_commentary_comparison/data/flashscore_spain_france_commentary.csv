@@ -1,0 +1,102 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+spain_france,0,0,0,"Slavko Vincic will supervise the game today.",general,General,Vincic,Both,45
+spain_france,0,0,0,"The players are out at last! France will take the kick-off.",general,Kick Off,,France,57
+spain_france,1,0,1,"The first half has just begun.",key_event,Kick Off,,Both,29
+spain_france,3,0,3,"Fabian Ruiz (Spain) fails to pick a body out in the box with an over-hit chip pass. The ball goes out of play and France will have a goal kick.",general,General,Ruiz,Spain,142
+spain_france,4,0,4,"Lamine Yamal (Spain) jumps into a tackle and Slavko Vincic signals a foul.",general,General,Yamal,Spain,77
+spain_france,5,0,5,"Spain are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball.",general,General,,Spain,199
+spain_france,5,0,5,"What a chance that is! Lamine Yamal swings the ball into the box, and Fabian Ruiz (Spain) gets in front of his man and powers his header just over the bar.",key_event,Chance,"Yamal, Ruiz",Spain,154
+spain_france,7,0,7,"Kylian Mbappe (France) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger.",general,General,Mbappe,France,147
+spain_france,8,0,8,"Nacho Fernandez (Spain) was trying to get to the ball but clattered into the legs of the opponent as well. Slavko Vincic blows his whistle for an infringement. It's a free kick to France, but they probably won't attempt a direct shot on goal from here.",general,Free Kick,Nacho,Spain,242
+spain_france,9,0,9,"Goal! Randal Kolo Muani (France) makes the score 0:1 after burying a close-range header in the right side of the goal after a good run and cross by Kylian Mbappe.",key_event,Goal,"Kolo Muani, Mbappe",France,168
+spain_france,11,0,11,"Nico Williams (Spain) tries to pass the ball into the penalty area but it's blocked.",general,General,Williams,Spain,85
+spain_france,12,0,12,"Fabian Ruiz (Spain) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",general,General,Ruiz,Spain,168
+spain_france,14,0,14,"Jesus Navas (Spain) is booked after bringing down an opponent. Slavko Vincic had an easy-decision to make.",key_event,Yellow Card,Navas,Spain,107
+spain_france,15,0,15,"Adrien Rabiot (France) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch.",general,General,Rabiot,France,143
+spain_france,16,0,16,"The resulting free kick from 27 metres out taken by Kylian Mbappe (France) was blocked by the defensive wall, which was perfectly positioned by the goalkeeper.",general,Free Kick,Mbappe,France,162
+spain_france,17,0,17,"Adrien Rabiot (France) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",general,General,Rabiot,France,119
+spain_france,19,0,19,"Kylian Mbappe (France) makes space for himself in the box after some nice work, but his shot is immediately charged down by a defender.",key_event,Shot,Mbappe,France,138
+spain_france,21,0,21,"Lamine Yamal (Spain) unleashes a powerful shot from long distance. His precise attempt glances off the post into the top left corner and leaves the goalkeeper beaten.",key_event,Goal,Yamal,Spain,169
+spain_france,23,0,23,"The ball is cleared after Jesus Navas (Spain) attempted to dribble past an opposing player. Good work from Spain as they win a corner.",general,Corner,Navas,Spain,138
+spain_france,23,0,23,"Nico Williams (Spain) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",general,Corner,Williams,Spain,142
+spain_france,25,0,25,"It's a goal! Dani Olmo (Spain) displays superb quick feet and dribbling as he jinks his way through multiple challenges and takes a shot from inside the box, which is deflected and goes past stranded Mike Maignan. 2:1.",key_event,Goal,"Olmo, Maignan",Spain,221
+spain_france,27,0,27,"A pass by Ousmane Dembele (France) ends up in no man's land, and the attacking effort comes to an end. The ball is off of the pitch and it's a goal kick for Spain.",general,General,Dembele,France,164
+spain_france,28,0,28,"Ousmane Dembele (France) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Dembele,France,164
+spain_france,28,0,28,"Slavko Vincic has a clear sight and sees a foul from Alvaro Morata (Spain). France win a free kick and will be able to apply some pressure on the opposition goal.",general,Free Kick,Morata,Spain,157
+spain_france,29,0,29,"Ousmane Dembele (France) sends in a lofted cross from a mid-range free kick. His effort, however, goes out of play. The ball is off of the pitch and it's a goal kick for Spain.",general,Free Kick,Dembele,France,171
+spain_france,30,0,30,"Dani Olmo (Spain) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Olmo,Spain,110
+spain_france,33,0,33,"The ball spins up and hits the hand of Jules Kounde (France) after he fails to control it and the referee blows his whistle for a foul.",general,General,Kounde,France,137
+spain_france,34,0,34,"Ousmane Dembele (France) is unable to feed an accurate cross into the box.",general,General,Dembele,France,72
+spain_france,35,0,35,"Slavko Vincic blows his whistle for a foul after Theo Hernandez (France) hacks down one of his opponents.",general,General,Hernandez,France,106
+spain_france,36,0,36,"Fabian Ruiz (Spain) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players. Spain will have a chance to score from a corner kick.",general,Corner,Ruiz,Spain,182
+spain_france,37,0,37,"The corner kick from Nico Williams (Spain) is headed out of the penalty area by one of the defenders.",general,Corner,Williams,Spain,103
+spain_france,38,0,38,"Ousmane Dembele (France) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. The referee and one of his assistants signal for a corner kick to France.",general,Corner,Dembele,France,224
+spain_france,38,0,38,"The resulting corner from Ousmane Dembele (France) only finds one of the defenders, who heads it out of danger.",general,Corner,Dembele,France,113
+spain_france,39,0,39,"Marc Cucurella (Spain) trips an opponent with a slide tackle. Slavko Vincic stops the game and he could give him a card, but eventually decides on just a warning. France are awarded a free kick from a dangerous position.",general,Free Kick,Cucurella,Spain,213
+spain_france,39,0,39,"Ousmane Dembele (France) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",general,Free Kick,Dembele,France,115
+spain_france,40,0,40,"France quickly take a corner kick with a short pass.",general,Corner,,France,53
+spain_france,40,0,40,"This shall not pass! Lamine Yamal (Spain) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender. The linesman makes the right call and Spain will have a corner.",general,Corner,Yamal,Spain,208
+spain_france,41,0,41,"Mike Maignan comes off his line to intercept the corner from Nico Williams (Spain).",general,Corner,"Maignan, Williams",Spain,84
+spain_france,44,0,44,"The referee blows his whistle, a clear handball by Alvaro Morata (Spain). France have been awarded a free kick.",general,Free Kick,Morata,Spain,114
+spain_france,44,0,44,"2 min. of stoppage-time to be played.",general,General,,Both,39
+spain_france,44,0,44,"Ousmane Dembele (France) crosses the ball into the box from the free kick, but the defence clears the danger.",general,Free Kick,Dembele,France,113
+spain_france,45,1,45+1,"William Saliba (France) was too forceful with his tackle and Slavko Vincic interrupted the game to signal a free kick.",general,Free Kick,Saliba,France,120
+spain_france,45,2,45+2,"Randal Kolo Muani (France) tackles a bit over-zealously and Slavko Vincic blows for a foul.",general,General,Kolo Muani,France,91
+spain_france,45,3,45+3,"That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",general,Half Time,,Both,122
+spain_france,46,0,46,"The players are back out on the pitch following the half-time break and the second half is about to start.",key_event,Kick Off,,Both,110
+spain_france,46,0,46,"Nico Williams (Spain) picks up a long through ball, but Mike Maignan deserves praise for a brilliant reaction and interception.",general,General,"Williams, Maignan",Spain,132
+spain_france,47,0,47,"Ousmane Dembele (France) sends a cross into the box, but Unai Simon comes off his line to gather the ball.",general,General,"Dembele, Simon",France,111
+spain_france,49,0,49,"Jesus Navas (Spain) delivers a promising cross into the box, but it's cleared.",general,General,Navas,Spain,78
+spain_france,50,0,50,"Marc Cucurella (Spain) tries to slide the ball through to a teammate but it's well blocked by a defender.",general,General,Cucurella,Spain,107
+spain_france,52,0,52,"Half-chance! Ousmane Dembele (France) plays a pass into the box, but Unai Simon reacts well to snuff out the attack.",general,General,"Dembele, Simon",France,127
+spain_france,53,0,53,"Jules Kounde (France) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort.",general,General,Kounde,France,160
+spain_france,53,0,53,"Ousmane Dembele (France) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",general,Corner,Dembele,France,122
+spain_france,53,0,53,"Aurelien Tchouameni (France) peeled away from his marker and got on the end of the resulting corner, but he sends his header straight at the goalkeeper.",key_event,Shot,Tchouameni,France,149
+spain_france,55,0,55,"A cross from Jules Kounde (France) fails to reach the box as the defence clears the ball away to safety.",general,General,Kounde,France,106
+spain_france,57,0,57,"Kylian Mbappe (France) goes on a mazy run through the defence and gets within shooting range inside the box, but his low effort to the middle of the target is thwarted by Unai Simon.",key_event,Save,"Mbappe, Simon",France,184
+spain_france,58,0,58,"Substitution. Jesus Navas will be replaced by Dani Vivian (Spain).",key_event,Substitution,"Navas, Vivian",Spain,63
+spain_france,58,0,58,"A fan invades the pitch and the game has to be interrupted!",general,Pitch Invasion,,Both,60
+spain_france,59,0,59,"Slavko Vincic blows his whistle after William Saliba (France) kicks an opponent's legs instead of the ball.",general,General,Saliba,France,109
+spain_france,60,0,60,"Half-chance! Ousmane Dembele (France) plays a pass into the box, but Unai Simon reacts well to snuff out the attack.",general,General,"Dembele, Simon",France,127
+spain_france,60,0,60,"Aurelien Tchouameni (France) commits a foul and is shown a yellow card without any hesitation from the referee.",key_event,Yellow Card,Tchouameni,France,113
+spain_france,62,0,62,"One of the defenders reacts at the last minute to brilliantly block a pass from Theo Hernandez (France).",general,General,Hernandez,France,104
+spain_france,62,0,62,"That's the end of the game for Adrien Rabiot, who is replaced by Eduardo Camavinga (France).",key_event,Substitution,"Rabiot, Camavinga",France,88
+spain_france,62,0,62,"Here is a change. N'Golo Kante is going off and Didier Deschamps gives the last tactical orders to Antoine Griezmann (France).",key_event,Substitution,"Kante, Griezmann, Deschamps",France,124
+spain_france,62,0,62,"Didier Deschamps prepares a substitution. Randal Kolo Muani is replaced by Bradley Barcola (France).",key_event,Substitution,"Kolo Muani, Barcola, Deschamps",France,98
+spain_france,63,0,63,"Ousmane Dembele (France) is about to take a corner kick.",general,Corner,Dembele,France,55
+spain_france,64,0,64,"Dayot Upamecano (France) reacts well and displays good awareness inside the box to get on the end of the resulting corner kick. He fails to direct the ball into the net as it flies narrowly wide of the right post. The ball is off of the pitch and it's a goal kick for Spain.",key_event,Shot,Upamecano,France,250
+spain_france,67,0,67,"Ousmane Dembele (France) races towards goal but the defender gets back well to make a challenge.",general,General,Dembele,France,95
+spain_france,68,0,68,"The most active player in today's match is definitely Ousmane Dembele (France). He's trying to be on the ball as much as possible and you can literally see the enthusiasm in his play. He keeps exchanging some one touch passes and waits for the right moment to send a killer pass. What a player!",general,General,Dembele,France,297
+spain_france,69,0,69,"Ousmane Dembele (France) feels very aggrieved after the referee stops play for a foul that he commits while in possession of the ball.",general,General,Dembele,France,136
+spain_france,71,0,71,"Bradley Barcola (France) tries to send a pass but it's blocked.",general,General,Barcola,France,58
+spain_france,72,0,72,"The cross into the penalty area from Ousmane Dembele (France) needed to be more accurate in order to create a goal-scoring opportunity for his team.",general,General,Dembele,France,149
+spain_france,73,0,73,"Kylian Mbappe (France) looks to break free, but an opposing player clears the ball away.",general,General,Mbappe,France,86
+spain_france,73,0,73,"Ousmane Dembele (France) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety. France have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",general,Corner,Dembele,France,233
+spain_france,73,0,73,"Ousmane Dembele (France) takes the corner, but it's intercepted by the defender.",general,Corner,Dembele,France,79
+spain_france,75,0,75,"Spain are showing great team chemistry. They are passing it around beautifully. Excellent team work.",general,General,,Spain,106
+spain_france,76,0,76,"The ball rebounds out to Theo Hernandez (France) on the edge of the box. He immediately strikes for goal, but sends the ball high over the bar.",key_event,Shot,Hernandez,France,144
+spain_france,76,0,76,"Here comes a substitution. Alvaro Morata is given a rest as he is replaced by Mikel Oyarzabal (Spain).",key_event,Substitution,"Morata, Oyarzabal",Spain,105
+spain_france,76,0,76,"Luis de la Fuente has decided to substitute Dani Olmo and he is replaced by Mikel Merino (Spain).",key_event,Substitution,"Olmo, Merino, De la Fuente",Spain,96
+spain_france,79,0,79,"Here's the change. Ousmane Dembele leaves the pitch and Olivier Giroud (France) comes on as a substitute.",key_event,Substitution,"Dembele, Giroud",France,107
+spain_france,80,0,80,"William Saliba (France) is penalised after knocking an opponent down.",general,General,Saliba,France,70
+spain_france,80,0,80,"Bradley Barcola (France) fails to find any of his teammates inside the box as his pass is blocked. The ball goes out of play. France are awarded a corner kick.",general,Corner,Barcola,France,159
+spain_france,80,0,80,"The corner from Antoine Griezmann (France) is cleared away by the defence.",general,Corner,Griezmann,France,75
+spain_france,81,0,81,"Lamine Yamal (Spain) jinks his way past two defenders and from the edge of the box has an effort which goes just over the bar. The ball is off of the pitch and it's a goal kick for France.",key_event,Shot,Yamal,Spain,176
+spain_france,83,0,83,"Olivier Giroud (France) makes a rough challenge and Slavko Vincic blows his whistle for a foul.",general,General,Giroud,France,95
+spain_france,84,0,84,"Aymeric Laporte (Spain) is having a really tough time right now. We are about to find out how serious his injury is.",general,General,Laporte,Spain,118
+spain_france,86,0,86,"Kylian Mbappe (France) bursts into the box and only has the keeper to beat, but sends a poor shot well over the crossbar.",key_event,Shot,Mbappe,France,121
+spain_france,87,0,87,"Aymeric Laporte (Spain) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",general,General,Laporte,Spain,124
+spain_france,87,0,87,"Mikel Oyarzabal (Spain) brings his opponent down with a tackle and Slavko Vincic blows his whistle for a foul.",general,General,Oyarzabal,Spain,111
+spain_france,89,0,89,"Eduardo Camavinga (France) shouldn't be surprised it's a yellow from the ref, who cooled the situation down well.",key_event,Yellow Card,Camavinga,France,113
+spain_france,90,0,90,"Marc Cucurella (Spain) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear. The ball is out of play. A goal-scoring opportunity from a corner for Spain.",general,Corner,Cucurella,Spain,208
+spain_france,90,0,90,"Nothing comes of the resulting corner from Nico Williams (Spain). The defence is alert and manages to cut it out.",general,Corner,Williams,Spain,116
+spain_france,90,0,90,"We will have 5 min. of added time.",general,General,,Both,38
+spain_france,90,1,90+1,"Lamine Yamal (Spain) receives a yellow card from the referee for a foul that he committed a little earlier.",key_event,Yellow Card,Yamal,Spain,109
+spain_france,90,2,90+2,"Rodri (Spain) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",general,General,Rodri,Spain,115
+spain_france,90,3,90+3,"Luis de la Fuente decides to make a substitution. Nico Williams will be replaced by Martin Zubimendi (Spain).",key_event,Substitution,"Williams, Zubimendi, De la Fuente",Spain,110
+spain_france,90,4,90+4,"Substitution. Ferran Torres (Spain) on for Lamine Yamal.",key_event,Substitution,"Torres, Yamal",Spain,54
+spain_france,90,5,90+5,"Jules Kounde (France) crosses the ball into the box, but one of the defending players averts the threat.",general,General,Kounde,France,103
+spain_france,90,5,90+5,"What an opportunity! Antoine Griezmann (France) latches on to a perfect cross from the wing and produces a bullet header from around the penalty spot which goes narrowly over the crossbar! The ball goes out of play and Spain will have a goal kick.",key_event,Chance,Griezmann,France,239
+spain_france,90,6,90+6,"Jules Kounde (France) commits a rough foul. Slavko Vincic stops the game and makes a call.",general,General,Kounde,France,87
+spain_france,90,6,90+6,"The referee blows for the end of today's match.",key_event,Full Time,,Both,50
+

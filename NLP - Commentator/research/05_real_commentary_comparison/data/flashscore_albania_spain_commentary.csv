@@ -1,0 +1,85 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+albania_spain,0,0,0,"Glenn Nyberg will officiate today.",general,General,Nyberg,Both,37
+albania_spain,0,0,0,"Albania will kick the game off.",general,Kick Off,,Albania,31
+albania_spain,1,0,1,"The first half has started.",key_event,Kick Off,,Both,28
+albania_spain,1,0,1,"Rey Manaj (Albania) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again.",general,General,Manaj,Albania,181
+albania_spain,2,0,2,"Albania are showing great team chemistry. They are passing it around beautifully. Excellent team work.",general,General,,Albania,108
+albania_spain,2,0,2,"Nedim Bajrami (Albania) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",general,General,Bajrami,Albania,142
+albania_spain,3,0,3,"Alejandro Grimaldo (Spain) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",general,General,Grimaldo,Spain,166
+albania_spain,5,0,5,"Nedim Bajrami (Albania) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",general,General,Bajrami,Albania,139
+albania_spain,5,0,5,"Kristjan Asllani (Albania) takes the corner but fails to find any of his teammates.",general,Corner,Asllani,Albania,84
+albania_spain,7,0,7,"Dani Olmo (Spain) races towards goal but the defender gets back well to make a challenge.",general,General,Olmo,Spain,95
+albania_spain,8,0,8,"Alejandro Grimaldo (Spain) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Grimaldo,Spain,169
+albania_spain,9,0,9,"Martin Zubimendi (Spain) robs an opponent of the ball and explodes in anger when Glenn Nyberg blows for a foul.",general,General,Zubimendi,Spain,119
+albania_spain,11,0,11,"Mikel Merino (Spain) passes the ball into the box but an opposing player clears.",general,General,Merino,Spain,84
+albania_spain,12,0,12,"Mikel Merino (Spain) rises above the opponent's defence and heads a precise cross towards the middle of the goal. His effort, however, is blocked by Thomas Strakosha, who pulls off a comfortable save!",key_event,Save,"Merino, Strakosha",Spain,206
+albania_spain,12,0,12,"Joselu (Spain) receives a lofted pass in the goal area and unleashes a dangerous header which sails a few inches over the bar!",key_event,Shot,Joselu,Spain,143
+albania_spain,13,0,13,"Ferran Torres (Spain) has a golden opportunity after receiving a beautiful pass. He keeps his cool and takes a low shot which ricochets in off the left post.",key_event,Goal,Torres,Spain,170
+albania_spain,16,0,16,"Mikel Merino (Spain) brings an opponent down and Glenn Nyberg interrupts the game.",general,General,Merino,Spain,85
+albania_spain,17,0,17,"Qazim Laci (Albania) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",general,General,Laci,Albania,142
+albania_spain,19,0,19,"Wonderful movement by Spain. The players are holding possession, mostly exchanging one-touch passes. They control the pace of the game now.",general,General,,Spain,149
+albania_spain,22,0,22,"The ball is played back to Dani Olmo (Spain), who controls it instantly and releases a piledriver from long range, but the shot lacks accuracy and drifts well wide of the left post.",key_event,Shot,Olmo,Spain,189
+albania_spain,23,0,23,"Mikel Merino (Spain) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",general,General,Merino,Spain,148
+albania_spain,24,0,24,"Nedim Bajrami (Albania) slaloms his way past challenges, but an opposing player does well to get the ball away.",general,General,Bajrami,Albania,124
+albania_spain,25,0,25,"Glenn Nyberg blows his whistle after Kristjan Asllani (Albania) brings one of his opponents down with a strong tackle.",general,General,Asllani,Albania,130
+albania_spain,26,0,26,"Alejandro Grimaldo (Spain) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",general,Corner,Grimaldo,Spain,127
+albania_spain,27,0,27,"Ferran Torres (Spain) sends a long ball in, but Thomas Strakosha comfortably gathers the ball.",general,General,"Torres, Strakosha",Spain,106
+albania_spain,30,0,30,"Jasir Asani (Albania) fails to find a teammate across the pitch with a long ball.",general,General,Asani,Albania,84
+albania_spain,32,0,32,"The current number of corner kicks is 1:1.",general,General,,Both,45
+albania_spain,33,0,33,"Jesus Navas (Spain) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",general,General,Navas,Spain,147
+albania_spain,34,0,34,"Spain work the corner short. The ball is passed to a nearby teammate.",general,Corner,,Spain,72
+albania_spain,36,0,36,"An attempted cross from Martin Zubimendi (Spain) is cleared.",general,General,Zubimendi,Spain,62
+albania_spain,36,0,36,"Dani Olmo (Spain) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",key_event,Shot,Olmo,Spain,151
+albania_spain,37,0,37,"A corner kick by Spain is thwarted by the well prepared Thomas Strakosha (Albania).",general,Corner,Strakosha,Albania,88
+albania_spain,37,0,37,"Dani Olmo (Spain) smashes the ball with a volley from the edge of the box, but his poor attempt goes miles wide of the left post.",key_event,Shot,Olmo,Spain,140
+albania_spain,39,0,39,"Nedim Bajrami (Albania) looks to break free, but an opposing player clears the ball away.",general,General,Bajrami,Albania,92
+albania_spain,41,0,41,"Ferran Torres (Spain) leaps highest in the middle of the box to meet a lofted ball and powers a header at a goal, but unfortunately for him it flies just over the bar.",key_event,Shot,Torres,Spain,171
+albania_spain,43,0,43,"Alejandro Grimaldo (Spain) quickly takes the corner kick with a short pass.",general,Corner,Grimaldo,Spain,74
+albania_spain,44,0,44,"The ball sits up nicely on the edge of the box for Mikel Merino (Spain), but his powerful first-time effort flies high over the bar.",key_event,Shot,Merino,Spain,144
+albania_spain,45,0,45,"Kristjan Asllani (Albania) attempts to score with a first-time shot from the edge of the box. His effort towards the right post is saved by David Raya.",key_event,Save,"Asllani, Raya",Albania,163
+albania_spain,45,0,45,"1 additional min. will be played.",general,General,,Both,38
+albania_spain,45,2,45+2,"That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",general,Half Time,,Both,131
+albania_spain,46,0,46,"Everything is set for the start of the second half.",key_event,Kick Off,,Both,52
+albania_spain,46,0,46,"Luis de la Fuente has decided to introduce fresh legs, with Robin Le Normand (Spain) replacing Aymeric Laporte.",key_event,Substitution,"Laporte, Le Normand, de la Fuente",Spain,121
+albania_spain,47,0,47,"Joselu (Spain) hits a screaming first-time shot from the edge of the box from a clearance, but it flies a whisker wide of the left post.",key_event,Shot,Joselu,Spain,148
+albania_spain,49,0,49,"One of the Spain players tripped an opponent and conceded a foul.",general,General,,Spain,66
+albania_spain,49,0,49,"Kristjan Asllani (Albania) takes a first-time shot from the edge of the box, but his effort is well blocked by the defender.",key_event,Shot,Asllani,Albania,128
+albania_spain,51,0,51,"A clumsy foul by Nedim Bajrami (Albania) and Glenn Nyberg blows his whistle.",general,General,Bajrami,Albania,79
+albania_spain,53,0,53,"Albania seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack.",general,General,,Albania,155
+albania_spain,54,0,54,"The attendance is 40586.",general,General,,Both,27
+albania_spain,57,0,57,"Jesus Navas (Spain) is unable to feed an accurate cross into the box.",general,General,Navas,Spain,69
+albania_spain,59,0,59,"The manager has decided to make a substitution and Rey Manaj walks off the pitch to be replaced by Armando Broja (Albania).",key_event,Substitution,"Manaj, Broja",Albania,131
+albania_spain,60,0,60,"Alejandro Grimaldo (Spain) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",general,General,Grimaldo,Spain,178
+albania_spain,62,0,62,"Here is a change. Mikel Oyarzabal is going off and Luis de la Fuente gives the last tactical orders to Fermin Lopez (Spain).",key_event,Substitution,"Oyarzabal, Lopez, de la Fuente",Spain,137
+albania_spain,63,0,63,"Long passes, short passes and one-two passes. Spain are showcasing great team work by keeping possession and producing pin-point passes from player to player. The opposition's players are finding it very difficult to intercept at the moment.",general,General,,Spain,236
+albania_spain,64,0,64,"Armando Broja (Albania) cracked a first-time shot, but the goalkeeper pulled off an amazing save.",key_event,Save,"Broja, Raya",Albania,104
+albania_spain,65,0,65,"Kristjan Asllani (Albania) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety.",key_event,Shot,Asllani,Albania,164
+albania_spain,66,0,66,"A cross from a corner kick by Albania is too strong and the ball goes well out of play.",general,Corner,,Albania,91
+albania_spain,66,0,66,"Nedim Bajrami (Albania) goes in the referee's notebook after being shown a yellow card.",key_event,Yellow Card,Bajrami,Albania,88
+albania_spain,69,0,69,"A nice pass finds Jasir Asani (Albania) in space. He sets himself up and hammers in a fantastic low shot from distance that looks bound for the middle of the goal, but the out of position David Raya pulls off a breathtaking save to deny him.",key_event,Save,"Asani, Raya",Albania,234
+albania_spain,70,0,70,"Substitution. Medon Berisha receives a signal from the referee and is now allowed to enter the pitch as Qazim Laci (Albania) walks off.",key_event,Substitution,"Laci, Berisha",Albania,139
+albania_spain,71,0,71,"It's time for a substitution. That's the last involvement from Qazim Laci as he is replaced by Medon Berisha (Albania).",key_event,Substitution,"Laci, Berisha",Albania,129
+albania_spain,71,0,71,"We are about to witness a subsitution. Arber Hoxha (Albania) for Nedim Bajrami.",key_event,Substitution,"Bajrami, Hoxha",Albania,84
+albania_spain,71,0,71,"The referee stops play so that a substitution can be made and Lamine Yamal (Spain) replaces Ferran Torres.",key_event,Substitution,"Torres, Yamal",Spain,118
+albania_spain,71,0,71,"Luis de la Fuente prepares a substitution. Joselu is replaced by Alvaro Morata (Spain).",key_event,Substitution,"Joselu, Morata, de la Fuente",Spain,92
+albania_spain,75,0,75,"Spain slow the tempo of the game down by exchanging a combination of one or two touch passes. The opposition's players are finding it very difficult at the moment, very physically demanding to run without the ball.",general,General,,Spain,220
+albania_spain,76,0,76,"Fermin Lopez (Spain) makes a run beyond the last defender, but he's offside.",general,Offside,Lopez,Spain,80
+albania_spain,77,0,77,"Fermin Lopez (Spain) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players.",key_event,Shot,Lopez,Spain,150
+albania_spain,77,0,77,"Jasir Asani (Albania) creates a good chance for himself and goes for goal from mid-range, but he misses the right post by a whisker.",key_event,Shot,Asani,Albania,140
+albania_spain,79,0,79,"Medon Berisha (Albania) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",key_event,Shot,Berisha,Albania,137
+albania_spain,79,0,79,"Dani Olmo (Spain) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away.",key_event,Shot,Olmo,Spain,250
+albania_spain,80,0,80,"Alejandro Grimaldo (Spain) will take a corner kick.",general,Corner,Grimaldo,Spain,54
+albania_spain,80,0,80,"Alvaro Morata (Spain) times his run and jump perfectly to get on the end of the resulting corner, but the ball comes off the top of his head and goes miles over the bar.",key_event,Shot,Morata,Spain,177
+albania_spain,82,0,82,"The referee signals a substitution. Ernest Muci (Albania) is brought on as a substitute for Jasir Asani.",key_event,Substitution,"Asani, Muci",Albania,113
+albania_spain,82,0,82,"Martin Zubimendi (Spain) makes a slide tackle, but referee Glenn Nyberg blows for a foul.",general,General,Zubimendi,Spain,97
+albania_spain,84,0,84,"Arber Hoxha (Albania) nutmegs the defender on the edge of the box and lashes in a shot at goal that flies high over the bar.",key_event,Shot,Hoxha,Albania,139
+albania_spain,84,0,84,"Luis de la Fuente has decided to make a change. Alex Baena (Spain) replaces Dani Olmo.",key_event,Substitution,"Olmo, Baena, de la Fuente",Spain,92
+albania_spain,85,0,85,"Spain can't profit from the corner as the defence clear the ball upfield.",general,Corner,,Spain,77
+albania_spain,87,0,87,"Jesus Navas (Spain) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul.",general,General,Navas,Spain,129
+albania_spain,88,0,88,"Kristjan Asllani (Albania) sends in a lofted cross from a long-range free kick in order to find one of his teammates. His poor effort, however, sails way out of play.",general,Free Kick,Asllani,Albania,173
+albania_spain,89,0,89,"Medon Berisha (Albania) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",key_event,Yellow Card,Berisha,Albania,161
+albania_spain,90,0,90,"Dani Vivian (Spain) receives a yellow card for a nasty tackle.",key_event,Yellow Card,Vivian,Spain,65
+albania_spain,90,0,90,"4 min. of stoppage-time to be played.",general,General,,Both,43
+albania_spain,90,2,90+2,"Armando Broja (Albania) finds himself some space inside the box, collects a rebound and sends an effort in on goal. David Raya pulls off a fantastic reflex save to stop the ball going inside the left-hand post.",key_event,Save,"Broja, Raya",Albania,211
+albania_spain,90,5,90+5,"That's all for today as the game is over.",key_event,Full Time,,Both,44
+

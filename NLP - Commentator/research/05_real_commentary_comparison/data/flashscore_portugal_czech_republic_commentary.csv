@@ -1,0 +1,116 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+portugal_czech_republic,0,0,0,"The players are on the pitch and Portugal will have the kick-off.",general,Kick Off,,Portugal,69
+portugal_czech_republic,1,0,1,"Today's match has just started, enjoy the game!",key_event,Kick Off,,Both,50
+portugal_czech_republic,1,0,1,"Tomas Soucek (Czech Republic) plays a through ball but overhits it.",general,General,Soucek,Czech Republic,70
+portugal_czech_republic,3,0,3,"A cross is clipped into the penalty area by Bernardo Silva (Portugal) but poses no threat.",general,General,Silva,Portugal,95
+portugal_czech_republic,4,0,4,"A pass by Bruno Fernandes (Portugal) ends up in no man's land, and the attacking effort comes to an end.",general,General,Fernandes,Portugal,113
+portugal_czech_republic,4,0,4,"Pavel Sulc (Czech Republic) gets on the end of a pass on the edge of the box but his shot is blocked.",general,General,Sulc,Czech Republic,107
+portugal_czech_republic,4,0,4,"The referee blows his whistle after Pavel Sulc (Czech Republic) does a good impression of a basketball player and handles the ball.",general,General,Sulc,Czech Republic,141
+portugal_czech_republic,6,0,6,"Vitinha (Portugal) takes the corner, but the opposition's defence is ready and clears the ball to safety.",general,Corner,Vitinha,Portugal,119
+portugal_czech_republic,8,0,8,"Rafael Leao somehow manages to send in a good cross towards the centre of the box from an acute angle, but the header from Cristiano Ronaldo (Portugal) flies well wide of the left post.",key_event,Shot,"Leao, Ronaldo",Portugal,202
+portugal_czech_republic,11,0,11,"Lukas Provod (Czech Republic) looks to break free, but his touch lets him down and he loses the ball.",general,General,Provod,Czech Republic,113
+portugal_czech_republic,12,0,12,"Rafael Leao (Portugal) passes the ball into the box but an opposing player clears.",general,General,Leao,Portugal,90
+portugal_czech_republic,12,0,12,"Bruno Fernandes (Portugal) sends a cross into the box, but Jindrich Stanek comes off his line to gather the ball.",general,General,"Fernandes, Stanek",Portugal,127
+portugal_czech_republic,13,0,13,"Bernardo Silva (Portugal) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",general,General,Silva,Portugal,151
+portugal_czech_republic,14,0,14,"Tomas Soucek (Czech Republic) robs an opponent of the ball and explodes in anger when Marco Guida blows for a foul.",general,General,Soucek,Czech Republic,128
+portugal_czech_republic,15,0,15,"Nuno Mendes (Portugal) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat.",general,General,Mendes,Portugal,172
+portugal_czech_republic,17,0,17,"Nuno Mendes (Portugal) receives a pass and decides to smash the ball from long range. His poor effort sails well wide of the right post. The ball is off of the pitch and it's a goal kick for Czech Republic.",key_event,Shot,Mendes,Portugal,206
+portugal_czech_republic,19,0,19,"Diogo Dalot (Portugal) serves up a nice cross, but the defence clears the danger.",general,General,Dalot,Portugal,89
+portugal_czech_republic,19,0,19,"Bruno Fernandes (Portugal) sends the ball into the box from the side of the pitch, but his cross is blocked. The referee points to the corner flag. It's a corner to Portugal.",general,Corner,Fernandes,Portugal,179
+portugal_czech_republic,20,0,20,"Vitinha (Portugal) swings in the corner, but it's comfortably cleared away.",general,Corner,Vitinha,Portugal,75
+portugal_czech_republic,22,0,22,"Ruben Dias (Portugal) gets on the end of a good pass and from mid-range he unleashes a decent strike, but the shot is blocked by the defender.",general,General,Dias,Portugal,152
+portugal_czech_republic,22,0,22,"Vitinha (Portugal) takes the corner but fails to find any of his teammates.",general,Corner,Vitinha,Portugal,77
+portugal_czech_republic,22,0,22,"Vitinha (Portugal) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",general,Corner,Vitinha,Portugal,135
+portugal_czech_republic,23,0,23,"Joao Cancelo (Portugal) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away.",general,General,Cancelo,Portugal,250
+portugal_czech_republic,24,0,24,"Bruno Fernandes (Portugal) has an effort from distance but it's blocked.",general,General,Fernandes,Portugal,74
+portugal_czech_republic,24,0,24,"Vitinha (Portugal) quickly takes the corner kick with a short pass.",general,Corner,Vitinha,Portugal,68
+portugal_czech_republic,26,0,26,"Bruno Fernandes (Portugal) tries to find Rafael Leao, but he puts too much power on the pass.",general,General,"Fernandes, Leao",Portugal,100
+portugal_czech_republic,28,0,28,"Rafael Leao (Portugal) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",general,General,Leao,Portugal,179
+portugal_czech_republic,28,0,28,"Vitinha (Portugal) takes the corner, but it's intercepted by the defender.",general,Corner,Vitinha,Portugal,78
+portugal_czech_republic,30,0,30,"Nuno Mendes (Portugal) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",general,General,Mendes,Portugal,179
+portugal_czech_republic,31,0,31,"Rafael Leao (Portugal) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort.",general,General,Leao,Portugal,173
+portugal_czech_republic,33,0,33,"A defence-splitting pass is taken in his stride by Cristiano Ronaldo (Portugal) in the box. Without even looking up he drills a shot towards the middle of the goal, but Jindrich Stanek pulls off an easy save.",key_event,Save,"Ronaldo, Stanek",Portugal,219
+portugal_czech_republic,33,0,33,"Vitinha (Portugal) aims for the middle of the goal, but that's an easy job for the goalkeeper. It will take more than that to test him!",general,General,Vitinha,Portugal,143
+portugal_czech_republic,33,0,33,"Vitinha (Portugal) receives a neat pass inside the box and instantly thumps the ball goalward, but a defender makes a last ditch block to deny him.",general,General,Vitinha,Portugal,161
+portugal_czech_republic,34,0,34,"Vitinha (Portugal) decides to speed play up with a short corner kick.",general,Corner,Vitinha,Portugal,72
+portugal_czech_republic,34,0,34,"Vitinha (Portugal) sends a cross into the box, but the opposition's defence clears the ball to safety.",general,General,Vitinha,Portugal,111
+portugal_czech_republic,34,0,34,"A cross from Bruno Fernandes (Portugal) fails to reach the box as the defence clears the ball away to safety.",general,General,Fernandes,Portugal,122
+portugal_czech_republic,35,0,35,"Rafael Leao (Portugal) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging.",general,General,Leao,Portugal,179
+portugal_czech_republic,37,0,37,"Rafael Leao (Portugal) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger.",general,General,Leao,Portugal,174
+portugal_czech_republic,39,0,39,"The defence is alert as they clear a dangerous cross from Vladimir Coufal (Czech Republic).",general,General,Coufal,Czech Republic,94
+portugal_czech_republic,39,0,39,"Rafael Leao (Portugal) makes it easy for the referee to show him a yellow card.",key_event,Yellow Card,Leao,Portugal,83
+portugal_czech_republic,40,0,40,"An attempted cross from Vladimir Coufal (Czech Republic) is cleared.",general,General,Coufal,Czech Republic,66
+portugal_czech_republic,43,0,43,"Portugal string together a series of short passes.",general,General,,Portugal,52
+portugal_czech_republic,44,0,44,"Nuno Mendes (Portugal) sends a chip pass into the box, but Jindrich Stanek is quickest to intercept the ball.",general,General,"Mendes, Stanek",Portugal,124
+portugal_czech_republic,45,0,45,"Lukas Provod (Czech Republic) should know this behaviour is beyond the rules. He was too careless with his challenge and left Marco Guida no option but to blow his whistle.",general,General,Provod,Czech Republic,185
+portugal_czech_republic,45,0,45,"Rafael Leao (Portugal) wastes a good opportunity as his pass into the box is blocked by the defence.",general,General,Leao,Portugal,108
+portugal_czech_republic,45,0,45,"Bruno Fernandes (Portugal) takes a short corner kick.",general,Corner,Fernandes,Portugal,54
+portugal_czech_republic,45,0,45,"1 additional min. will be played.",general,General,,Both,38
+portugal_czech_republic,45,1,45+1,"Cristiano Ronaldo (Portugal) had time and space inside the box after picking up a neat pass, but his shot towards the middle of the goal was easily saved by Jindrich Stanek.",key_event,Save,"Ronaldo, Stanek",Portugal,193
+portugal_czech_republic,45,1,45+1,"Rafael Leao (Portugal) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Leao,Portugal,170
+portugal_czech_republic,45,2,45+2,"The end of the first half.",general,Half Time,,Both,28
+portugal_czech_republic,46,0,46,"The second half gets underway.",key_event,Kick Off,,Both,35
+portugal_czech_republic,46,0,46,"Tomas Holes (Czech Republic) makes a strong challenge and Marco Guida blows for a foul.",general,General,Holes,Czech Republic,96
+portugal_czech_republic,47,0,47,"Diogo Dalot (Portugal) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",key_event,Shot,Dalot,Portugal,168
+portugal_czech_republic,48,0,48,"Bernardo Silva (Portugal) delivers a low pass into the box which is intercepted.",general,General,Silva,Portugal,86
+portugal_czech_republic,48,0,48,"Bernardo Silva (Portugal) decides to take a short corner instead of crossing into the box.",general,Corner,Silva,Portugal,95
+portugal_czech_republic,49,0,49,"Good movement by Vitinha (Portugal), but he can't find any of his teammates as the cross is poor.",general,General,Vitinha,Portugal,112
+portugal_czech_republic,50,0,50,"A cross by Patrik Schick (Czech Republic) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor.",general,General,Schick,Czech Republic,159
+portugal_czech_republic,52,0,52,"Lukas Provod (Czech Republic) makes a reckless foul in order to win the ball from his opponent. Marco Guida has a clear sight of it and blows his whistle.",general,General,Provod,Czech Republic,163
+portugal_czech_republic,52,0,52,"Bernardo Silva (Portugal) fires the ball on goal, but his attempt goes well wide of the left post.",key_event,Shot,Silva,Portugal,109
+portugal_czech_republic,53,0,53,"Flag up against Cristiano Ronaldo (Portugal). He had space to move into behind the defence, but he went too soon.",general,Offside,Ronaldo,Portugal,130
+portugal_czech_republic,55,0,55,"Cristiano Ronaldo (Portugal) latched on to a cross inside the six-yard box and headed at goal. If it wasn't for one of the defenders making a save on the goal line, he would have been celebrating a goal now.",general,General,Ronaldo,Portugal,206
+portugal_czech_republic,55,0,55,"A dangerous looking corner kick from Bruno Fernandes (Portugal) is cleared to safety by the defence.",general,Corner,Fernandes,Portugal,111
+portugal_czech_republic,56,0,56,"A lofted cross from Bruno Fernandes (Portugal) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",general,General,Fernandes,Portugal,148
+portugal_czech_republic,56,0,56,"Joao Cancelo (Portugal) sends a teasing cross into the area, but Jindrich Stanek intercepts the ball.",general,General,"Cancelo, Stanek",Portugal,112
+portugal_czech_republic,57,0,57,"Patrik Schick (Czech Republic) is booked after bringing down an opponent. Marco Guida had an easy-decision to make.",key_event,Yellow Card,Schick,Czech Republic,128
+portugal_czech_republic,58,0,58,"Cristiano Ronaldo (Portugal) fires the resulting free kick on goal from a medium range, but sees his shot saved by the goalkeeper.",key_event,Save,Ronaldo,Portugal,138
+portugal_czech_republic,59,0,59,"Bernardo Silva (Portugal) tries to pass the ball into the penalty area but it's blocked.",general,General,Silva,Portugal,90
+portugal_czech_republic,59,0,59,"Bernardo Silva (Portugal) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",general,Corner,Silva,Portugal,127
+portugal_czech_republic,60,0,60,"Cristiano Ronaldo (Portugal) found some space to dink a cross from the side into the box, but it needed to be more precise to threaten the opposition.",general,General,Ronaldo,Portugal,163
+portugal_czech_republic,60,0,60,"The referee signals a substitution. Ondrej Lingr (Czech Republic) is brought on as a substitute for Jan Kuchta.",key_event,Substitution,"Kuchta, Lingr",Czech Republic,125
+portugal_czech_republic,60,0,60,"Here is a change. Patrik Schick is going off and Ivan Hasek gives the last tactical orders to Mojmir Chytil (Czech Republic).",key_event,Substitution,"Schick, Chytil, Hasek",Czech Republic,136
+portugal_czech_republic,62,0,62,"Goal! Vladimir Coufal slips it to Lukas Provod (Czech Republic) on the edge of the box and he finds the left side of the net with a great effort. The score is 0:1.",key_event,Goal,"Coufal, Provod",Czech Republic,177
+portugal_czech_republic,63,0,63,"Substitution. Rafael Leao walks off the pitch and Diogo Jota (Portugal) comes on as a substitute.",key_event,Substitution,"Leao, Jota",Portugal,107
+portugal_czech_republic,63,0,63,"It's time for a substitution. Goncalo Inacio (Portugal) comes on in place of Diogo Dalot.",key_event,Substitution,"Dalot, Inacio",Portugal,93
+portugal_czech_republic,64,0,64,"Mojmir Chytil (Czech Republic) makes an overly-aggressive challenge and Marco Guida blows his whistle for a foul.",general,General,Chytil,Czech Republic,118
+portugal_czech_republic,66,0,66,"The referee blows his whistle as Diogo Jota (Portugal) was too aggressive in his challenge.",general,General,Jota,Portugal,101
+portugal_czech_republic,69,0,69,"Bernardo Silva (Portugal) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",general,General,Silva,Portugal,147
+portugal_czech_republic,69,0,69,"OWN GOAL! Robin Hranac (Czech Republic) scores an unlucky own goal after he deflected a shot which went into his own net! 1:1.",key_event,Own Goal,Hranac,Czech Republic,143
+portugal_czech_republic,73,0,73,"Bernardo Silva (Portugal) runs onto a loose pass inside the box and releases a tremendous shot towards the middle of the goal. However, Jindrich Stanek anticipates the shot and makes a decent save.",key_event,Save,"Silva, Stanek",Portugal,201
+portugal_czech_republic,73,0,73,"Nuno Mendes (Portugal) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",general,General,Mendes,Portugal,145
+portugal_czech_republic,75,0,75,"Half-chance! Diogo Jota (Portugal) plays a pass into the box, but Jindrich Stanek reacts well to snuff out the attack.",general,General,"Jota, Stanek",Portugal,131
+portugal_czech_republic,75,0,75,"Ruben Dias (Portugal) commits a rough foul. Marco Guida stops the game and makes a call.",general,General,Dias,Portugal,97
+portugal_czech_republic,76,0,76,"Cristiano Ronaldo (Portugal) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",general,Offside,Ronaldo,Portugal,156
+portugal_czech_republic,78,0,78,"A neat pass finds Vitinha (Portugal) in space. He needs no second invitation to shoot and hits a piledriver from distance towards the bottom left corner, but Jindrich Stanek denies him with a good save.",key_event,Save,"Vitinha, Stanek",Portugal,208
+portugal_czech_republic,79,0,79,"Bruno Fernandes (Portugal) takes the corner but fails to find any of his teammates as he overhits the effort.",general,Corner,Fernandes,Portugal,119
+portugal_czech_republic,79,0,79,"Substitution. Lukas Provod will be replaced by Antonin Barak (Czech Republic).",key_event,Substitution,"Provod, Barak",Czech Republic,82
+portugal_czech_republic,79,0,79,"Ivan Hasek decides to make a substitution. Pavel Sulc will be replaced by Petr Sevcik (Czech Republic).",key_event,Substitution,"Sulc, Sevcik, Hasek",Czech Republic,109
+portugal_czech_republic,80,0,80,"Bruno Fernandes (Portugal) flights in the cross, but the defender is alert and clears to safety.",general,General,Fernandes,Portugal,105
+portugal_czech_republic,81,0,81,"Portugal quickly take a corner kick with a short pass.",general,Corner,,Portugal,59
+portugal_czech_republic,81,0,81,"Bruno Fernandes (Portugal) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender.",general,General,Fernandes,Portugal,164
+portugal_czech_republic,81,0,81,"Bruno Fernandes (Portugal) makes a rough challenge and the referee blows for a foul.",general,General,Fernandes,Portugal,93
+portugal_czech_republic,82,0,82,"Petr Sevcik (Czech Republic) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",general,General,Sevcik,Czech Republic,212
+portugal_czech_republic,82,0,82,"Wasted opportunity. Tomas Soucek (Czech Republic) gets to the rebound inside the box and smashes the ball just wide of the right post.",key_event,Shot,Soucek,Czech Republic,145
+portugal_czech_republic,84,0,84,"Portugal are showing great team chemistry. They are passing the ball around seamlessly.",general,General,,Portugal,98
+portugal_czech_republic,85,0,85,"Diogo Jota (Portugal) looks to break free, but an opposing player clears the ball away.",general,General,Jota,Portugal,94
+portugal_czech_republic,85,0,85,"Marco Guida has a clear sight and sees a foul from Nuno Mendes (Portugal).",general,General,Mendes,Portugal,81
+portugal_czech_republic,86,0,86,"Rough tackle by Tomas Holes (Czech Republic). The referee blows his whistle for a foul.",general,General,Holes,Czech Republic,96
+portugal_czech_republic,87,0,87,"Cristiano Ronaldo (Portugal) latches on to a superb cross into the box and hits the right post with his header. A stroke of luck for the goalkeeper!",general,General,Ronaldo,Portugal,159
+portugal_czech_republic,87,0,87,"Diogo Jota (Portugal) is more aggressive than the defenders which allows him to finish a rebound with a header from inside the box. The score changes to 2:1 and Cristiano Ronaldo gets a place in the statistics with the assistance.",key_event,Disallowed Goal,"Jota, Ronaldo",Portugal,242
+portugal_czech_republic,88,0,88,"Wait! Referee Marco Guida has indicated he is going to review the Portugal goal using VAR. It's probably to see if there was an offside in the build-up.",general,VAR,Guida,Portugal,165
+portugal_czech_republic,88,0,88,"Here comes the VAR verdict. NO GOAL for Portugal due to an offside in the build-up play.",key_event,VAR,,Portugal,100
+portugal_czech_republic,88,0,88,"Antonin Barak (Czech Republic) gives away a foul for a clumsy challenge. Referee Marco Guida saw the whole situation.",general,General,Barak,Czech Republic,120
+portugal_czech_republic,90,0,90,"Substitution. Francisco Conceicao (Portugal) on for Vitinha.",key_event,Substitution,"Vitinha, Conceicao",Portugal,63
+portugal_czech_republic,90,0,90,"Roberto Martinez has decided to substitute Joao Cancelo and he is replaced by Nelson Semedo (Portugal).",key_event,Substitution,"Cancelo, Semedo, Martinez",Portugal,123
+portugal_czech_republic,90,0,90,"The substitution has been made. Pedro Neto (Portugal) has replaced Nuno Mendes.",key_event,Substitution,"Mendes, Neto",Portugal,88
+portugal_czech_republic,90,0,90,"4 min. of stoppage-time to be played.",general,General,,Both,45
+portugal_czech_republic,90,1,90+1,"Mojmir Chytil (Czech Republic) fails to find any of his teammates inside the box as his pass is blocked.",general,General,Chytil,Czech Republic,117
+portugal_czech_republic,90,1,90+1,"One of the defenders reacts at the last minute to brilliantly block a pass from Tomas Soucek (Czech Republic).",general,General,Soucek,Czech Republic,121
+portugal_czech_republic,90,2,90+2,"Pedro Neto (Portugal) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",general,General,Neto,Portugal,138
+portugal_czech_republic,90,2,90+2,"Goal! Francisco Conceicao (Portugal) was in the right place at the right time to pounce on the rebound inside the box and gleefully rifles the ball home. It's 2:1.",key_event,Goal,Conceicao,Portugal,180
+portugal_czech_republic,90,3,90+3,"Francisco Conceicao (Portugal) is rightly booked by the referee because it could not have been anything other than a yellow card.",key_event,Yellow Card,Conceicao,Portugal,140
+portugal_czech_republic,90,3,90+3,"Tomas Holes will be replaced by Tomas Chory (Czech Republic).",key_event,Substitution,"Holes, Chory",Czech Republic,66
+portugal_czech_republic,90,4,90+4,"Ondrej Lingr (Czech Republic) is offside and the linesman raises his flag.",general,Offside,Lingr,Czech Republic,77
+portugal_czech_republic,90,6,90+6,"The referee checks his watch and blows his whistle to signal the end of this match.",key_event,Full Time,,Both,88
+

@@ -1,0 +1,115 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+belgium_romania,0,0,0,"Szymon Marciniak was nominated as the referee for this game.",general,General,Marciniak,Both,63
+belgium_romania,0,0,0,"Belgium will kick the game off.",general,Kick Off,,Belgium,31
+belgium_romania,1,0,1,"Today's match has just started, enjoy the game!",key_event,Kick Off,,Both,51
+belgium_romania,1,0,1,"Nicolae Stanciu (Romania) makes a rough challenge and Szymon Marciniak blows his whistle for a foul.",general,General,Stanciu,Romania,108
+belgium_romania,2,0,2,"It's in! Romelu Lukaku spots his teammate in a good position on the edge of the box and provides him with a nice pass. Youri Tielemans (Belgium) doesn't think twice and rifles a first-time shot into the bottom left corner. The score is now 1:0.",key_event,Goal,"Lukaku, Tielemans",Belgium,248
+belgium_romania,3,0,3,"Razvan Marin (Romania) unleashes a shot, but it's well wide of the right-hand post.",key_event,Shot,Marin,Romania,92
+belgium_romania,4,0,4,"Dennis Man (Romania) decides to take a short corner instead of crossing into the box.",general,Corner,Man,Romania,86
+belgium_romania,5,0,5,"Radu Dragusin (Romania) rises above the opponent's defence and heads a precise cross towards the roof of the net. His effort, however, is blocked by Koen Casteels, who pulls off a stunning save! The ball goes out of play and Romania have been awarded a corner kick.",key_event,Save,"Dragusin, Casteels",Romania,256
+belgium_romania,5,0,5,"Romania quickly take a corner kick with a short pass.",general,Corner,,Romania,54
+belgium_romania,7,0,7,"Kevin De Bruyne (Belgium) picks up a long through ball, but Florin Nita deserves praise for a brilliant reaction and interception.",general,General,"De Bruyne, Nita",Belgium,145
+belgium_romania,10,0,10,"The Belgium players are exchanging some short passes.",general,General,,Belgium,54
+belgium_romania,11,0,11,"Youri Tielemans (Belgium) takes a first-time shot from the edge of the box, but his effort is well blocked by the defender.",key_event,Shot,Tielemans,Belgium,135
+belgium_romania,13,0,13,"The defence is alert as they clear a dangerous cross from Timothy Castagne (Belgium).",general,General,Castagne,Belgium,85
+belgium_romania,14,0,14,"A pass lands at the feet of Romelu Lukaku (Belgium) in the middle of the box, he looks up and shoots but the effort is superbly blocked by a defender. Belgium win a corner.",general,Corner,Lukaku,Belgium,181
+belgium_romania,15,0,15,"The resulting corner comes to nothing as Kevin De Bruyne (Belgium) sends it out of play.",general,Corner,De Bruyne,Belgium,96
+belgium_romania,16,0,16,"Szymon Marciniak blows his whistle and it's Dodi Lukebakio (Belgium) who is penalised for an offensive foul. Good decision by the referee.",general,General,Lukebakio,Belgium,149
+belgium_romania,17,0,17,"Marius Marin (Romania) makes a rough challenge and the referee blows for a foul.",general,General,Marin,Romania,85
+belgium_romania,18,0,18,"Youri Tielemans (Belgium) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Tielemans,Belgium,169
+belgium_romania,18,0,18,"Dodi Lukebakio (Belgium) receives a precise low pass inside the box, controls the ball and releases it towards the left post. Unfortunately for him, Florin Nita makes a great save to stop his effort. The referee and one of his assistants signal for a corner kick to Belgium.",general,Corner,"Lukebakio, Nita",Belgium,275
+belgium_romania,19,0,19,"A horde of players are waiting inside the penalty area for a cross from the corner, but Kevin De Bruyne (Belgium) takes it short.",general,Corner,De Bruyne,Belgium,147
+belgium_romania,19,0,19,"Jan Vertonghen (Belgium) darts into the box and immediately fires a first-time effort. He produces a poor shot which goes well over the crossbar.",key_event,Shot,Vertonghen,Belgium,159
+belgium_romania,20,0,20,"Youri Tielemans (Belgium) robs an opponent of the ball and explodes in anger when Szymon Marciniak blows for a foul. It's a free kick to Romania, but it's in no position for a direct shot on goal.",general,Free Kick,Tielemans,Belgium,203
+belgium_romania,21,0,21,"Razvan Marin (Romania) crosses the ball into the box from the free kick, but the defence clears the danger. Romania have been awarded a corner kick.",general,Corner,Marin,Romania,155
+belgium_romania,22,0,22,"This corner kick is taken with a short pass by Nicolae Stanciu (Romania).",general,Corner,Stanciu,Romania,73
+belgium_romania,22,0,22,"Valentin Mihaila (Romania) smashes the ball towards goal from the edge of the penalty box, but it goes well wide of the right post.",key_event,Shot,Mihaila,Romania,141
+belgium_romania,22,0,22,"Nicusor Bancu (Romania) commits a rough foul. Szymon Marciniak stops the game and makes a call.",general,General,Bancu,Romania,103
+belgium_romania,23,0,23,"Jeremy Doku (Belgium) latches on to a brilliant through ball in a promising position, but one of the defenders is alert to the danger and dispossess him.",general,General,Doku,Belgium,164
+belgium_romania,24,0,24,"Kevin De Bruyne (Belgium) tries to send a pass but it's blocked. The referee signals a corner kick to Belgium.",general,Corner,De Bruyne,Belgium,122
+belgium_romania,24,0,24,"Florin Nita leaps to intercept the corner kick from Kevin De Bruyne (Belgium).",general,Corner,"Nita, De Bruyne",Belgium,82
+belgium_romania,25,0,25,"Valentin Mihaila (Romania) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders.",key_event,Shot,Mihaila,Romania,167
+belgium_romania,25,0,25,"Dennis Man (Romania) is penalised for a foul. Szymon Marciniak had a clear view and blows his whistle.",general,General,Man,Romania,110
+belgium_romania,25,0,25,"Valentin Mihaila (Romania) is lying on the ground after being tackled and the physio comes onto the pitch to give him medical treatment.",general,General,Mihaila,Romania,138
+belgium_romania,26,0,26,"Valentin Mihaila (Romania) is able to continue to play.",general,General,Mihaila,Romania,55
+belgium_romania,27,0,27,"Timothy Castagne (Belgium) tries to slide the ball through to a teammate but it's well blocked by a defender.",general,General,Castagne,Belgium,117
+belgium_romania,28,0,28,"Marius Marin (Romania) makes an overly-aggressive challenge and Szymon Marciniak blows his whistle for a foul. Free kick. Belgium will probably just try to cross the ball in from here.",general,Free Kick,Marin,Romania,188
+belgium_romania,28,0,28,"Youri Tielemans (Belgium) holds his opponent to prevent him from getting the ball and the referee blows for a foul after seeing the whole situation.",general,General,Tielemans,Belgium,161
+belgium_romania,30,0,30,"Jeremy Doku (Belgium) goes on a solo run, but he fails to create a chance as an opposition player blocks him. It will be a corner kick for Belgium.",general,Corner,Doku,Belgium,163
+belgium_romania,31,0,31,"Kevin De Bruyne (Belgium) works the corner short instead of sending the ball into the penalty area.",general,Corner,De Bruyne,Belgium,103
+belgium_romania,31,0,31,"Jeremy Doku (Belgium) is the one to unleash a good effort towards the left side of the goal. His shot, however, is saved by the goalkeeper. What a save! Belgium get a corner.",key_event,Save,"Doku, Nita",Belgium,191
+belgium_romania,31,0,31,"Belgium fail to score from a corner as Florin Nita (Romania) leaps to collect the ball.",general,Corner,Nita,Belgium,90
+belgium_romania,33,0,33,"Dodi Lukebakio (Belgium) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety. The ball goes out of play. Belgium are awarded a corner kick.",general,Corner,Lukebakio,Belgium,219
+belgium_romania,34,0,34,"Kevin De Bruyne (Belgium) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",general,Corner,De Bruyne,Belgium,143
+belgium_romania,35,0,35,"Szymon Marciniak shows a yellow card to Dodi Lukebakio (Belgium) for his blatant foul.",key_event,Yellow Card,Lukebakio,Belgium,89
+belgium_romania,35,0,35,"Dodi Lukebakio (Belgium) will miss the next game.",general,General,Lukebakio,Belgium,51
+belgium_romania,37,0,37,"That didn't go as planned! Dennis Man (Romania) tried his luck from the edge of the box, but his effort towards the bottom right corner was too weak to get past Koen Casteels, who easily kept it out.",key_event,Save,"Man, Casteels",Romania,205
+belgium_romania,38,0,38,"The ball is cleared after Dodi Lukebakio (Belgium) attempted to dribble past an opposing player. Corner kick. Belgium will have an opportunity.",general,Corner,Lukebakio,Belgium,158
+belgium_romania,39,0,39,"The resulting corner from Kevin De Bruyne (Belgium) comes to nothing.",general,Corner,De Bruyne,Belgium,68
+belgium_romania,39,0,39,"Koen Casteels displays his ability to read the game and clears the danger after Denis Dragus (Romania) threatened to latch onto a through ball from just outside the box.",general,General,"Casteels, Dragus",Romania,177
+belgium_romania,42,0,42,"Kevin De Bruyne (Belgium) tries to play a through ball from just inside the box to Romelu Lukaku, but one of the defending players is alert to the danger and makes a timely interception.",general,General,"De Bruyne, Lukaku",Belgium,194
+belgium_romania,43,0,43,"Valentin Mihaila (Romania) picks up a long through ball, but Koen Casteels deserves praise for a brilliant reaction and interception.",general,General,"Mihaila, Casteels",Romania,145
+belgium_romania,45,0,45,"Jeremy Doku (Belgium) gives away a foul for a fierce tackle on an opponent.",general,General,Doku,Belgium,77
+belgium_romania,45,0,45,"Dennis Man (Romania) decides to speed play up with a short corner kick.",general,Corner,Man,Romania,75
+belgium_romania,45,0,45,"1 min. of stoppage-time to be played.",general,General,,Both,40
+belgium_romania,45,1,45+1,"What a wasted chance that was! An inch-perfect cross into the box finds Andrei Burca (Romania) who loops his header high over the bar.",key_event,Shot,Burca,Romania,146
+belgium_romania,45,2,45+2,"The first half of today's match has just finished.",general,Half Time,,Both,56
+belgium_romania,46,0,46,"Szymon Marciniak blows his whistle and the second half starts.",key_event,Kick Off,,Both,63
+belgium_romania,47,0,47,"Dennis Man (Romania) is unlucky with a goal-bound effort from the edge of the box. A fortuitous save from Koen Casteels stops the ball from going into the middle of the goal.",key_event,Save,"Man, Casteels",Romania,181
+belgium_romania,48,0,48,"Valentin Mihaila (Romania) wins the ball in the box, but curls his effort high over the bar.",key_event,Shot,Mihaila,Romania,95
+belgium_romania,51,0,51,"Jeremy Doku (Belgium) clips a neat ball into the box in the direction of Romelu Lukaku, but he can't get on the end of the pass.",general,General,"Doku, Lukaku",Belgium,140
+belgium_romania,52,0,52,"What a chance that is! Kevin De Bruyne (Belgium) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the right post.",key_event,Shot,De Bruyne,Belgium,201
+belgium_romania,53,0,53,"The game is interrupted now, Jeremy Doku (Belgium) picks up a knock and the physio has to come on.",general,General,Doku,Belgium,111
+belgium_romania,53,0,53,"Jeremy Doku (Belgium) is moving okay again after that injury scare.",general,General,Doku,Belgium,68
+belgium_romania,54,0,54,"Razvan Marin (Romania) pulls the jersey of one of the opposition players and Szymon Marciniak blows his whistle for a foul.",general,General,Marin,Romania,137
+belgium_romania,55,0,55,"Denis Dragus (Romania) is obviously not following the Golden Rule: \"Treat others as you want to be treated.\" He makes a bad challenge and leaves Szymon Marciniak with no other option than to blow for a foul.",general,General,Dragus,Romania,206
+belgium_romania,55,0,55,"Kevin De Bruyne (Belgium) picks up a pass and tries his luck from mid-range towards the bottom right corner, but Florin Nita is equal to it and makes an easy save.",key_event,Save,"De Bruyne, Nita",Belgium,179
+belgium_romania,56,0,56,"Substitution. Dodi Lukebakio leaves the pitch and is replaced by Leandro Trossard (Belgium).",key_event,Substitution,"Lukebakio, Trossard",Belgium,92
+belgium_romania,57,0,57,"Excellent touch by Valentin Mihaila (Romania)! He latches on to a precise pass on the edge of the box but miskicks and the ball goes well wide of the right post. Poor effort.",key_event,Shot,Mihaila,Romania,174
+belgium_romania,58,0,58,"Kevin De Bruyne (Belgium) breaks past challenges inside the box, but puts too much pace on his pass to Jeremy Doku.",general,General,"De Bruyne, Doku",Belgium,132
+belgium_romania,58,0,58,"Romelu Lukaku (Belgium) unleashes a bullet of a shot that is blocked by a defender.",key_event,Shot,Lukaku,Belgium,89
+belgium_romania,59,0,59,"Valentin Mihaila (Romania) makes a reckless foul in order to win the ball from his opponent. Szymon Marciniak has a clear sight of it and blows his whistle. A free kick has been awarded to Belgium.",general,Free Kick,Mihaila,Romania,201
+belgium_romania,59,0,59,"Romelu Lukaku (Belgium) connects with the ball in the six-yard box after the resulting free kick and shoots low towards goal, but Florin Nita makes a magnificent save!",key_event,Save,"Lukaku, Nita",Belgium,182
+belgium_romania,59,0,59,"Szymon Marciniak shows a yellow card to Nicusor Bancu (Romania) for a tough tackle.",key_event,Yellow Card,Bancu,Romania,83
+belgium_romania,60,0,60,"The attendance is 42535.",general,General,,Both,27
+belgium_romania,61,0,61,"Romelu Lukaku (Belgium) was all set to receive a beautiful pass into a promising position. However, one of the defenders makes a timely clearance.",general,General,Lukaku,Belgium,155
+belgium_romania,62,0,62,"Leandro Trossard (Belgium) is flagged for offside.",general,Offside,Trossard,Belgium,54
+belgium_romania,63,0,63,"Jeremy Doku (Belgium) weaves through the defence with ease and gets into a good position in front of goal. He pulls the trigger in an effort to beat the keeper, but fails as the ball zooms around the left post.",key_event,Shot,Doku,Belgium,215
+belgium_romania,63,0,63,"Stunning strike! Romelu Lukaku (Belgium) latches on to a precise through ball from Kevin De Bruyne before unleashing an unstoppable shot into the bottom left corner from the edge of the area. Fantastic goal. The score is now 1:0.",key_event,Disallowed Goal,"Lukaku, De Bruyne",Belgium,242
+belgium_romania,65,0,65,"Houston, we have a problem! The referee has indicated that there will be a VAR review of the goal to look at a possible offside. The Belgium players aren't happy.",general,VAR,,Belgium,171
+belgium_romania,65,0,65,"The goal by Belgium won't count as it has been disallowed due to offside on the advice of the video assistant referee!",key_event,VAR,,Belgium,130
+belgium_romania,65,0,65,"Marius Marin (Romania) receives a yellow card from the referee for a foul that he committed a little earlier.",key_event,Yellow Card,Marin,Romania,116
+belgium_romania,66,0,66,"Romelu Lukaku (Belgium) has a great chance inside the six-yard box, shoots to the middle of the goal, but Florin Nita pulls off an exquisite save to deny him.",key_event,Save,"Lukaku, Nita",Belgium,169
+belgium_romania,67,0,67,"Kevin De Bruyne (Belgium) goes for goal but he blazes his shot well over the top.",key_event,Shot,De Bruyne,Belgium,87
+belgium_romania,68,0,68,"Substitution. Darius Olaru (Romania) in, Marius Marin out.",key_event,Substitution,"Marin, Olaru",Romania,62
+belgium_romania,68,0,68,"Edward Iordanescu has decided to substitute Valentin Mihaila and he is replaced by Ianis Hagi (Romania).",key_event,Substitution,"Mihaila, Hagi, Iordanescu",Romania,105
+belgium_romania,69,0,69,"Dennis Man (Romania) runs with the ball towards the keeper and pulls the trigger from close range, but Koen Casteels anticipates his intention and makes an amazing save to stop the shot going into the middle of the target.",key_event,Save,"Man, Casteels",Romania,224
+belgium_romania,69,0,69,"Jeremy Doku (Belgium) wastes a good opportunity as his pass into the box is blocked by the defence.",general,General,Doku,Belgium,107
+belgium_romania,70,0,70,"Andrei Ratiu (Romania) fails to find any of his teammates inside the box as his pass is blocked.",general,General,Ratiu,Romania,104
+belgium_romania,72,0,72,"Domenico Tedesco has decided to introduce fresh legs, with Yannick Carrasco (Belgium) replacing Jeremy Doku.",key_event,Substitution,"Doku, Carrasco, Tedesco",Belgium,116
+belgium_romania,72,0,72,"It will be a substitution. Orel Mangala (Belgium) is ready to enter the pitch as Youri Tielemans walks off.",key_event,Substitution,"Tielemans, Mangala",Belgium,115
+belgium_romania,75,0,75,"The keeper doesn't have to worry about this one. Razvan Marin (Romania) sacrificed accuracy for power, and thus his attempt went well wide of the right post.",key_event,Shot,Marin,Romania,167
+belgium_romania,77,0,77,"The referee allows time for a substitution. Arthur Theate will be replaced by Zeno Debast (Belgium).",key_event,Substitution,"Theate, Debast",Belgium,109
+belgium_romania,78,0,78,"Ianis Hagi (Romania) looks to break free, but his touch lets him down and he loses the ball.",general,General,Hagi,Romania,97
+belgium_romania,79,0,79,"Ianis Hagi (Romania) is offside and the linesman raises his flag.",general,Offside,Hagi,Romania,66
+belgium_romania,80,0,80,"It's a goal! Kevin De Bruyne (Belgium) scores with a brilliant shot into the bottom right corner after being released inside the box by a superb lofted pass from Koen Casteels. The score is now 2:0.",key_event,Goal,"De Bruyne, Casteels",Belgium,211
+belgium_romania,80,0,80,"The Belgium players celebrate the goal but the referee immediately signals a VAR review. Let's see what happens. Big moment in the game.",general,VAR,,Belgium,141
+belgium_romania,80,0,80,"Here comes the VAR verdict: Referee Szymon Marciniak signals that the goal stands! The Belgium players celebrate.",key_event,VAR,,Belgium,122
+belgium_romania,81,0,81,"Substitution. Denis Alibec (Romania) replaces Denis Dragus.",key_event,Substitution,"Dragus, Alibec",Romania,64
+belgium_romania,82,0,82,"Nicolae Stanciu (Romania) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",general,Corner,Stanciu,Romania,123
+belgium_romania,83,0,83,"Leandro Trossard (Belgium) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort.",general,General,Trossard,Belgium,173
+belgium_romania,84,0,84,"Kevin De Bruyne (Belgium) gets a shot away from distance, but wasn't really set to take it and fires high and wide.",key_event,Shot,De Bruyne,Belgium,129
+belgium_romania,85,0,85,"Leandro Trossard (Belgium) found some space to dink a cross from the side into the box, but it needed to be more precise to threaten the opposition.",general,General,Trossard,Belgium,159
+belgium_romania,86,0,86,"Denis Alibec (Romania) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players.",key_event,Shot,Alibec,Romania,200
+belgium_romania,87,0,87,"A corner kick by Romania is thwarted by the well prepared Koen Casteels (Belgium).",general,Corner,Casteels,Romania,88
+belgium_romania,87,0,87,"Kevin De Bruyne (Belgium) is caught offside!",general,Offside,De Bruyne,Belgium,46
+belgium_romania,89,0,89,"Kevin De Bruyne (Belgium) is penalised for holding. Szymon Marciniak signals a set piece.",general,General,De Bruyne,Belgium,96
+belgium_romania,89,0,89,"Romelu Lukaku (Belgium) receives a pass inside the box, controls the ball and drills it towards the left post. Unfortunately for him, Florin Nita makes a great save to stop his effort.",key_event,Save,"Lukaku, Nita",Belgium,193
+belgium_romania,90,0,90,"It is time for a substitution. Deian Sorescu (Romania) is on for Andrei Ratiu.",key_event,Substitution,"Ratiu, Sorescu",Romania,86
+belgium_romania,90,0,90,"The fourth official shows 4 min. of added time.",general,General,,Both,54
+belgium_romania,90,1,90+1,"The linesman raises his flag. Kevin De Bruyne (Belgium) is adjudged offside.",general,Offside,De Bruyne,Belgium,81
+belgium_romania,90,2,90+2,"Radu Dragusin (Romania) shoots from outside the box, but his effort is blocked. The ball is out of play and the linesman points at the corner flag. Corner to Romania.",general,Corner,Dragusin,Romania,177
+belgium_romania,90,3,90+3,"Ianis Hagi (Romania) takes a short corner kick.",general,Corner,Hagi,Romania,51
+belgium_romania,90,4,90+4,"The linesman signals that Yannick Carrasco (Belgium) is offside and the referee confirms the decision.",general,Offside,Carrasco,Belgium,115
+belgium_romania,90,5,90+5,"Nothing more will happen in this game as the referee blows for full time.",key_event,Full Time,,Both,79
+

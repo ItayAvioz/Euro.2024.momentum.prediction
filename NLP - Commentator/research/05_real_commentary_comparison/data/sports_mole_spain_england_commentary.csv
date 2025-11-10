@@ -1,0 +1,85 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+final,1,0,1,KICKOFF:  England kick us off here...,key_event,Kick Off,,England,37
+final,2,0,2,"... England immediately look down the right, with Pickford delivering long towards Saka, but it goes behind for a Spain goal kick. The atmosphere inside the stadium really is sensational.",general,General,"Pickford, Saka",Both,187
+final,3,0,3,"Shaw wins his first battle against Yamal, knocking the Barcelona teenager to the ground in the process, but you can be sure that the 17-year-old will come back time and time again.",general,General,"Shaw, Yamal",Both,180
+final,5,0,5,"Spain are looking to control the possession early on here, which is not a surprise. England are dropping into their shape, though, and look relatively comfortable in there. Shaw again wins his battle against Yamal, which will give England plenty of confidence early here.",general,General,"Shaw, Yamal",England,271
+final,7,0,7,"Pass, pass, pass from Spain, who have been the better outfit in the first seven minutes. England, though, are not overly concerned at this moment in time. Cagey start here.",general,General,,Both,172
+final,9,0,9,"England have not yet managed to break clear, but the opportunity will be there at some stage, as Spain are pushing really high. No doubt that La Roja have started the better here, with Williams looking dangerous down the left. Ruiz has also been impressive in midfield.",general,General,"Ruiz, Williams",Both,269
+final,11,0,11,"England deliver a deep free kick into the Spain box, but Guehi pushes Rodri to the ground, and Spain are able to gather control of the ball once again here.",general,Free Kick,"Guehi, Rodri",Spain,156
+final,13,0,13,"CLOSE!  Some concern over Walker here, who stays down after a challenge, but he should be able to continue. Le Normand then hooks one behind from a corner, with Spain having a half-chance.",key_event,Close Call,"Walker, Le Normand",Spain,188
+final,15,0,15,"Trippier is warming up here amid the concerns over Walker, but it does appear that the Manchester City defender will be able to continue. Still all square in the final.",general,General,"Walker, Trippier",Both,168
+final,16,0,16,"Walker breaks into a dangerous position for England, and his low cross is cleared behind by Laporte. Much better for England, who have their first corner of the match...",general,Corner,"Walker, Laporte",England,169
+final,16,0,16,... Rodri does really well to clear the danger.,general,General,Rodri,Both,47
+final,18,0,18,"Rodri again does brilliantly to block a strike from Rice, before Cucurella clears at the far post. England are suddenly turning up the heat here, with Foden also involved.",general,General,"Rice, Foden, Cucurella, Rodri",England,171
+final,19,0,19,Shaw again wins a personal battle with Yamal. He's been brilliant.,general,General,"Shaw, Yamal",Both,66
+final,20,0,20,"Much more of an even game at the moment, with England relatively comfortable in their shape, while Spain have been forced to make some clearances over the last few minutes. Shaw has been England's standout player thus far, while Rodri has been excellent for Spain.",general,General,"Shaw, Rodri",Both,264
+final,22,0,22,Some thoughts from Senior Reporter Ben Knapton...,general,Analysis,,Both,49
+final,22,0,22,"""Unlike the semi-final, this has been a much more tentative start from the Three Lions, who have conceded the lion's share of possession to Spain, albeit while defending resolutely - John Stones and Declan Rice have done their bits to snuff out attacks. While Nico Williams is looking lively on the left, Lamine Yamal is yet to get the better of Luke Shaw, making his first England start in over 12 months. Southgate's risky call is paying off so far, but this one is still waiting to explode into life.""",general,General,"Stones, Shaw, Rice, Yamal, Williams",Both,504
+final,24,0,24,"Not too much happening at the moment. We are still waiting for the first major chance here. Spain are controlling the possession, but England will also be relatively comfortable.",general,General,,Both,178
+final,25,0,25,Carvajal is on his last warning here after pulling Saka to the ground...,general,General,"Saka, Carvajal",Both,72
+final,25,0,25,YELLOW CARD!  Kane picks up the first yellow of the match for a late tackle on Ruiz.,key_event,Yellow Card,"Kane, Ruiz",Both,84
+final,27,0,27,"Mainoo is throwing his weight around in midfield at the moment, with the Manchester United youngster starting to make his mark, but he is up against two wonderful players in the shape of Rodri and Ruiz. It remains goalless in the Euro 2024 final with 27 minutes on the clock.",general,General,"Mainoo, Rodri, Ruiz",Both,275
+final,28,0,28,"SAVE!  Ruiz strikes one towards goal, but it deflects off Guehi and into the arms of Pickford. Good work from Spain there, but again England manage to deal with the danger.",key_event,Save,"Pickford, Guehi, Ruiz",Both,172
+final,30,0,30,"Little over 15 minutes of the first period remaining here. Bellingham has just attempted to gather a long pass down the left, but Carvajal is across to deal with the danger.",general,General,"Bellingham, Carvajal",Both,173
+final,31,0,31,YELLOW CARD!  Olmo is in the book for Spain for a foul on Rice.,key_event,Yellow Card,"Rice, Olmo",Spain,63
+final,32,0,32,"Rice is still down here, it was a nasty kick in his stomach from Olmo.",general,General,"Rice, Olmo",Both,70
+final,34,0,34,"Stop-start game at the moment, with the referee being forced to intervene due to some late tackles. Little over 10 minutes until the end of the first period, and it has flown past.",general,General,,Both,180
+final,36,0,36,"Laporte wants a penalty, as Rice pulls him to the ground, but the referee is not interested and VAR agree. Spain have another corner, but England again deal with it, as Kane blocks Olmo's shot.",general,Corner,"Rice, Kane, Laporte, Olmo",Both,193
+final,38,0,38,"Spain are on the front foot at the moment, but we are still waiting for the first serious chance of the match. England just need to find a way to relieve some of the pressure.",general,General,,Both,175
+final,40,0,40,"We have not seen too much from Foden and Bellingham in this first period, with Spain dealing with the England duo, but the Three Lions are having some possession in the Spain half in the latter stages of the first period. Stones has just burst forward, but Spain clear.",general,General,"Stones, Bellingham, Foden",Spain,269
+final,42,0,42,"Williams breaks clear down the left, but he has to cut back, and Spain look to go down the other side. Nothing to separate the two teams in the opening half of action.",general,General,Williams,Spain,167
+final,43,0,43,"Morata has just broken into the England box, but Stones and Guehi between them manage to make the clearance, as Spain have another corner here.",general,Corner,"Stones, Guehi, Morata",Both,143
+final,45,0,45,"England have a free kick in a dangerous area, as Williams fouls Walker...",general,Free Kick,"Walker, Williams",England,73
+final,45,1,45+1,"CHANCE!  ... best chance of the match! The ball comes to Foden at the far post following a deep free kick, but Simon is on hand to make a smart save. Foden got good contact on the ball!",key_event,Chance,"Foden, Simon",Both,185
+final,45,2,45+2,We are into the second of two added minutes at the end of the first period.,general,General,,Both,75
+final,45,3,45+3,HALF TIME:  SPAIN 0-0 ENGLAND,key_event,Half Time,,Both,29
+final,46,0,46,KICKOFF:  Spain restart the contest here.,key_event,Kick Off,,Spain,41
+final,47,0,47,"No word of the issue for Rodri, but it simply has to be a fitness problem, as he is his country's most important player. It is a huge blow for La Roja, but Zubimendi is a super player.",general,General,"Rodri, Zubimendi",Both,184
+final,47,0,47,GOAL!  SPAIN 1-0 ENGLAND (WILLIAMS),key_event,Goal,,Both,35
+final,47,0,47,"Oh my goodness me - what a goal! Spain make the breakthrough early in the second period as Yamal sets up Williams, who places one into the bottom corner. Super finish!",key_event,Corner,"Yamal, Williams",Spain,167
+final,48,0,48,England simply have not started in the second period.,general,General,,England,53
+final,49,0,49,"CHANCE!  Huge chance for Spain to score a second, as Williams finds Olmo inside the England box, but he fires wide of the post. It really should have been 2-0 to La Roja there.",key_event,Chance,"Olmo, Williams",Both,176
+final,51,0,51,"Bit of possession for England at the moment, but Spain are comfortable in their shape.",general,General,,Both,86
+final,53,0,53,"Southgate will not be thinking about changes this early, but it will be interesting to see how he views the match over the next five or 10 minutes if it stays 1-0. England need more.",general,General,,England,182
+final,53,0,53,YELLOW CARD!  Stones is booked for pulling Zubimendi to the ground.,key_event,Yellow Card,"Stones, Zubimendi",Both,67
+final,55,0,55,Some thoughts from Senior Reporter Ben Knapton...,general,Analysis,,Both,49
+final,55,0,55,"""How a few minutes can make all the difference in football! Optimism may have been rife among England fans when Rodri failed to emerge for the second half, but Spain's wing wizards live up to the hype. Yamal - now on four assists for the tournament - expertly let the ball run across his body before picking out the untracked run of Williams, who did what Williams does. Spain exploded out of the blocks at the start of the second half, and they have been rewarded.""",general,General,"Rodri, Yamal, Williams",Spain,466
+final,56,0,56,"CHANCE!  Big chance for Spain again, as Morata breaks into the box and looks to pick out the bottom corner, but Stones is across to make the clearance, almost off the line!",key_event,Chance,"Stones, Morata",Spain,172
+final,56,0,56,CLOSE!  Williams swings one just wide of the post. Spain are all over this final!,key_event,Close Call,Williams,Spain,81
+final,58,0,58,Southgate must be thinking about changes here. Something needs to happen.,general,General,,Both,73
+final,60,0,60,"Little over 30 minutes of the second period remaining here, and England are about to introduce Watkins. Surely it will be Kane to leave the field in the final?",general,General,"Kane, Watkins",England,159
+final,61,0,61,ENGLAND SUB! Watkins indeed replaces Kane here.,key_event,Substitution,"Kane, Watkins",England,47
+final,63,0,63,"Possession for England at the moment, but not too much is happening with it. Will Spain be made to regret not scoring a second? England have been here before in the tournament.",general,General,,England,176
+final,65,0,65,Here was the moment...,general,General,,Both,22
+final,65,0,65,"CLOSE!  Bellingham turns on the edge of the Spain box and then looks to pick out the bottom corner, but his effort is just wide of the post. Much better from England there!",key_event,Close Call,Bellingham,Both,172
+final,66,0,66,"Spain are not having it their own way at the moment. England have survived their wobble without conceding a second, and this final is very much still alive.",general,General,,Both,156
+final,67,0,67,"SAVE!  Brilliant save from Pickford to keep out a low strike from Yamal, who had broken past Shaw and then looked to pick out the bottom corner. Excellent goalkeeping from Pickford.",key_event,Save,"Pickford, Shaw, Yamal",Both,181
+final,68,0,68,SPAIN SUB! Morata is replaced by Oyarzabal for Spain.,key_event,Substitution,"Morata, Oyarzabal",Spain,53
+final,70,0,70,"CLOSE!  Fabian Ruiz hits one just over the crossbar, as Spain threaten a second. Still plenty of time left in this final, and it is delicately poised. Another change is coming here...",key_event,Close Call,Ruiz,Spain,183
+final,70,0,70,... ENGLAND SUB! Palmer replaces Mainoo for England.,key_event,Substitution,"Mainoo, Palmer",England,52
+final,71,0,71,"Smart defending from Laporte to clear ahead of Saka, as England cause problems with another long ball. Watkins is stretching Spain, and suddenly De la Fuente's side look uncomfortable.",general,General,"Saka, Watkins, Laporte",Both,184
+final,72,0,72,SAVE!  Easy save for Pickford to keep out a low strike from Oyarzabal.,key_event,Save,"Pickford, Oyarzabal",Both,70
+final,73,0,73,GOAL!  SPAIN 1-1 ENGLAND (PALMER),key_event,Goal,,Both,33
+final,73,0,73,"All square in the final! Palmer smashes one past Simon from the edge of the box to level the scores! Saka was down the right, Bellingham then set up Palmer, and the Chelsea attacker managed to find the back of the net to level it up in Berlin.",general,General,"Bellingham, Saka, Palmer, Simon",Both,243
+final,75,0,75,Palmer has been sensational since he entered the field. What a footballer.,general,General,Palmer,Both,74
+final,77,0,77,"There is going to be a winner in normal time here, I can sense it.",general,General,,Both,66
+final,78,0,78,"""Palmer always cuts a composed demeanour on the field, but the Chelsea man could not help but explode into elation after that stunning equaliser! Once again, Southgate's substitutions have a devastating impact, and the Chelsea man's finish from outside the box could not have been more exquisite. England came from behind to win their last-16, quarter-final and semi-final ties. They couldn't do it again, could they?""",general,General,Palmer,England,418
+final,79,0,79,Here is the leveller...,general,General,,Both,23
+final,80,0,80,"Spain have settled after conceding, and they are looking strong again here.",general,General,,Spain,75
+final,82,0,82,"A goal now surely wins it. I still feel like there is another before the end of normal time. Spain are dominating the possession at the moment, with England sitting in their shape.",general,General,,Both,180
+final,82,0,82,"SAVE!  Another super save from Pickford to keep out a strike from Yamal, who had been found after smart work from Williams and Olmo. Another big moment from the goalkeeper.",key_event,Save,"Pickford, Olmo, Yamal, Williams",Both,172
+final,83,0,83,SPAIN SUB! Nacho enters the field for Le Normand.,key_event,Substitution,"Le Normand, Nacho",Spain,49
+final,85,0,85,"Spain are knocking on the door at the moment, but England hold firm.",general,General,,Both,68
+final,86,0,86,"Pickford again does well to gather a cross from Yamal, who continues to look dangerous down the right for Spain. We are heading towards the final stages of normal time here.",general,General,"Pickford, Yamal",Spain,173
+final,86,0,86,GOAL!  SPAIN 2-1 ENGLAND (OYARZABAL),key_event,Goal,,Both,36
+final,86,0,86,"Goodness me. Spain score a second in the 86th minute, as Oyarzabal turns a low Cucurella cross into the back of the net. Hint of offside, but the flag stays down, and he's on.",general,General,"Cucurella, Oyarzabal",Spain,175
+final,87,0,87,Super goal that. No question. England do not have long left to turn this one.,general,General,,England,77
+final,89,0,89,ENGLAND SUB! Toney replaces Foden here.,key_event,Substitution,"Foden, Toney",England,39
+final,89,0,89,SPAIN SUB! Merino enters the field for Yamal.,key_event,Substitution,"Merino, Yamal",Spain,45
+final,90,0,90,"CHANCE!  Oh my word. How? How has it not gone in? England have a header from Guehi cleared off the line by Olmo, before Rice heads over. Simon also kept out an effort in there. Spain survive.",key_event,Chance,"Guehi, Rice, Simon, Olmo",Both,191
+final,90,1,90+1,We are into the first of four additional minutes here.,general,General,,Both,54
+final,90,2,90+2,YELLOW CARD!  Watkins picks up a yellow card for kicking Nacho in the stomach.,key_event,Yellow Card,"Watkins, Nacho",Both,78
+final,90,3,90+3,"Spain are almost there. England are going to fall just short here, unless...",general,General,,Both,76
+final,90,3,90+3,"... still time for England, who have a free kick inside their own half.",general,Free Kick,,England,71
+final,90,4,90+4,"Saka has just fouled Cucurella, and Spain are almost there.",general,General,"Saka, Cucurella",Spain,59
+final,90,5,90+5,FULL TIME:  SPAIN 2-1 ENGLAND,key_event,Full Time,,Both,29

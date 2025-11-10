@@ -1,0 +1,116 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+spain_england,0,0,0,"The current period has begun.",key_event,Kick Off,,Both,30
+spain_england,1,0,1,"Goal kick for Spain at Olympiastadion.",general,General,,Spain,40
+spain_england,1,0,1,"Francois Letexier signals a Spain throw-in in England's half.",general,General,Letexier,Spain,65
+spain_england,2,0,2,"Throw-in Spain.",general,General,,Spain,17
+spain_england,5,0,5,"Spain have been awarded a corner by Francois Letexier.",general,Corner,Letexier,Spain,58
+spain_england,8,0,8,"Spain have a dangerous throw-in.",general,General,,Spain,33
+spain_england,8,0,8,"England awarded a throw-in in their own half.",general,General,,England,48
+spain_england,9,0,9,"Spain to take a throw-in in England territory.",general,General,,Spain,47
+spain_england,9,0,9,"Throw-in for England at Olympiastadion.",general,General,,England,42
+spain_england,10,0,10,"Francois Letexier signals a free kick to England.",general,Free Kick,Letexier,England,50
+spain_england,11,0,11,"Spain awarded a free kick in their own half.",general,Free Kick,,Spain,45
+spain_england,13,0,13,"Corner awarded to Spain.",general,Corner,,Spain,25
+spain_england,13,0,13,"Spain are pushing forward but Robin Le Normand's finish is wide of the goal.",general,General,Le Normand,Spain,83
+spain_england,13,0,13,"Francois Letexier awards England a goal kick.",general,General,Letexier,England,47
+spain_england,15,0,15,"Can England get the ball into an attacking position from this throw-in in Spain's half?",general,General,,England,91
+spain_england,16,0,16,"England have been awarded a corner by Francois Letexier.",general,Corner,Letexier,England,59
+spain_england,18,0,18,"Throw-in for Spain in their own half.",general,General,,Spain,39
+spain_england,19,0,19,"Francois Letexier signals a Spain throw-in in England's half.",general,General,Letexier,Spain,65
+spain_england,20,0,20,"Ball safe as Spain is awarded a throw-in in their half.",general,General,,Spain,58
+spain_england,22,0,22,"Francois Letexier signals a free kick to England in their own half.",general,Free Kick,Letexier,England,69
+spain_england,23,0,23,"Ball safe as Spain is awarded a throw-in in their half.",general,General,,Spain,58
+spain_england,24,0,24,"Corner awarded to Spain.",general,Corner,,Spain,25
+spain_england,24,0,24,"England awarded a free kick in their own half.",general,Free Kick,,England,47
+spain_england,25,0,25,"Francois Letexier signals a free kick to Spain in their own half.",general,Free Kick,Letexier,Spain,69
+spain_england,25,0,25,"Harry Kane (England) has received a first yellow card.",key_event,Yellow Card,Kane,England,53
+spain_england,26,0,26,"Francois Letexier waits before resuming play because Fabian Ruiz for Spain is still down.",general,Injury,"Letexier, Ruiz",Spain,90
+spain_england,27,0,27,"Spain's Fabian Ruiz is on his feet again at Olympiastadion.",general,Injury,Ruiz,Spain,58
+spain_england,27,0,27,"Spain to take a throw-in in England territory.",general,General,,Spain,47
+spain_england,28,0,28,"Fabian Ruiz of Spain smashes in a shot on target. The keeper saves, though.",general,General,Ruiz,Spain,79
+spain_england,29,0,29,"Throw-in for Spain at Olympiastadion.",general,General,,Spain,40
+spain_england,29,0,29,"Spain awarded a throw-in in their own half.",general,General,,Spain,46
+spain_england,30,0,30,"England awarded a free kick in their own half.",general,Free Kick,,England,47
+spain_england,31,0,31,"Spain's Dani Olmo has been booked in Berlin.",key_event,Yellow Card,Olmo,Spain,43
+spain_england,31,0,31,"Play has been temporarily suspended for attention to Declan Rice for England who is writhing in pain on the pitch.",general,Injury,Rice,England,123
+spain_england,32,0,32,"Declan Rice has recovered and rejoins the match in Berlin.",general,Injury,Rice,England,57
+spain_england,32,0,32,"Free kick England.",general,Free Kick,,England,19
+spain_england,35,0,35,"Corner awarded to Spain.",general,Corner,,Spain,25
+spain_england,35,0,35,"Spain have been awarded a corner by Francois Letexier.",general,Corner,Letexier,Spain,58
+spain_england,36,0,36,"Ball goes out of play for a England goal kick.",general,General,,England,47
+spain_england,38,0,38,"England have a goal kick.",general,General,,England,25
+spain_england,41,0,41,"Can Spain get the ball into an attacking position from this throw-in in England's half?",general,General,,Spain,91
+spain_england,42,0,42,"Throw-in for England in their own half.",general,General,,England,39
+spain_england,43,0,43,"In Berlin Spain drive forward through Alvaro Morata. His shot is on target but it's saved.",general,General,Morata,Spain,95
+spain_england,43,0,43,"Corner awarded to Spain.",general,Corner,,Spain,25
+spain_england,44,0,44,"Francois Letexier awards England a goal kick.",general,General,Letexier,England,47
+spain_england,45,0,45,"Spain will need to be alert as they defend a dangerous free kick from England.",general,Free Kick,,Spain,78
+spain_england,45,1,45+1,"England's Phil Foden gets in a shot on goal at Olympiastadion. But the effort is unsuccessful.",general,General,Foden,England,97
+spain_england,45,2,45+2,"England have a goal kick.",general,General,,England,25
+spain_england,45,0,45,"The current period has ended.",general,Half Time,,Both,32
+spain_england,45,0,45,"Luis De La Fuente is making the team's first substitution at Olympiastadion with Martin Zubimendi replacing Rodri.",key_event,Substitution,"Rodri, Zubimendi, De La Fuente",Spain,118
+spain_england,45,0,45,"The current period has begun.",key_event,Kick Off,,Both,30
+spain_england,46,0,46,"Throw-in Spain.",general,General,,Spain,17
+spain_england,47,0,47,"Goal! Nico Williams gives Spain a 1-0 lead in Berlin.",key_event,Goal,Williams,Spain,57
+spain_england,49,0,49,"Dani Olmo for Spain gets in a strike but fails to hit the target.",general,General,Olmo,Spain,68
+spain_england,49,0,49,"Goal kick for England at Olympiastadion.",general,General,,England,42
+spain_england,50,0,50,"Francois Letexier signals a England throw-in in Spain's half.",general,General,Letexier,England,65
+spain_england,50,0,50,"Ball goes out of play for a Spain goal kick.",general,General,,Spain,43
+spain_england,52,0,52,"Throw-in Spain.",general,General,,Spain,17
+spain_england,53,0,53,"Francois Letexier signals a free kick to Spain.",general,Free Kick,Letexier,Spain,47
+spain_england,53,0,53,"John Stones (England) gets a yellow card.",key_event,Yellow Card,Stones,England,40
+spain_england,55,0,55,"Spain to take a throw-in in England territory.",general,General,,Spain,47
+spain_england,56,0,56,"In Berlin Spain attack through Nico Williams. The finish is off target, however.",general,General,Williams,Spain,85
+spain_england,56,0,56,"Goal kick for England at Olympiastadion.",general,General,,England,42
+spain_england,56,0,56,"Francois Letexier signals a free kick to England in their own half.",general,Free Kick,Letexier,England,69
+spain_england,57,0,57,"Spain awarded a throw-in in their own half.",general,General,,Spain,46
+spain_england,58,0,58,"Can Spain get the ball into an attacking position from this throw-in in England's half?",general,General,,Spain,91
+spain_england,61,0,61,"Can England get the ball into an attacking position from this throw-in in Spain's half?",general,General,,England,91
+spain_england,61,0,61,"Ollie Watkins is on a sub for Harry Kane for England.",key_event,Substitution,"Kane, Watkins",England,52
+spain_england,62,0,62,"Francois Letexier signals a free kick to England just outside Spain's area.",general,Free Kick,Letexier,England,76
+spain_england,64,0,64,"England's Jude Bellingham breaks free at Olympiastadion. But the strike goes wide of the post.",general,General,Bellingham,England,99
+spain_england,64,0,64,"Ball goes out of play for a Spain goal kick.",general,General,,Spain,43
+spain_england,65,0,65,"Francois Letexier awards Spain a goal kick.",general,General,Letexier,Spain,45
+spain_england,66,0,66,"Lamine Yamal for Spain drives towards goal at Olympiastadion. But the finish is unsuccessful.",general,General,Yamal,Spain,95
+spain_england,67,0,67,"Spain have been awarded a corner by Francois Letexier.",general,Corner,Letexier,Spain,58
+spain_england,67,0,67,"Spain to take a throw-in in England territory.",general,General,,Spain,47
+spain_england,67,0,67,"Spain make their second substitution with Mikel Oyarzabal replacing Alvaro Morata.",key_event,Substitution,"Morata, Oyarzabal",Spain,81
+spain_england,68,0,68,"England have a goal kick.",general,General,,England,25
+spain_england,69,0,69,"Spain have been awarded a corner by Francois Letexier.",general,Corner,Letexier,Spain,58
+spain_england,70,0,70,"Spain are coming forward and Fabian Ruiz gets in a strike, it misses the target, however.",general,General,Ruiz,Spain,96
+spain_england,70,0,70,"Ball goes out of play for a England goal kick.",general,General,,England,47
+spain_england,70,0,70,"Cole Palmer is on a sub for Kobbie Mainoo for England.",key_event,Substitution,"Mainoo, Palmer",England,54
+spain_england,71,0,71,"Francois Letexier signals a England throw-in in Spain's half.",general,General,Letexier,England,65
+spain_england,72,0,72,"Spain push upfield but Francois Letexier quickly pulls them for offside.",general,Offside,Letexier,Spain,72
+spain_england,72,0,72,"Spain's Mikel Oyarzabal is on target but unsuccessful.",general,General,Oyarzabal,Spain,51
+spain_england,73,0,73,"Cole Palmer gets an equalizer for England. The score is now 1-1.",key_event,Goal,Palmer,England,68
+spain_england,75,0,75,"Francois Letexier signals a England throw-in in Spain's half.",general,General,Letexier,England,65
+spain_england,75,0,75,"Francois Letexier signals a throw-in for England, close to Spain's area.",general,General,Letexier,England,77
+spain_england,76,0,76,"Goal kick for Spain at Olympiastadion.",general,General,,Spain,40
+spain_england,79,0,79,"Corner awarded to Spain.",general,Corner,,Spain,25
+spain_england,79,0,79,"Ball safe as Spain is awarded a throw-in in their half.",general,General,,Spain,58
+spain_england,80,0,80,"Francois Letexier awards England a goal kick.",general,General,Letexier,England,47
+spain_england,82,0,82,"Lamine Yamal gets his shot on target but fails to score for Spain.",general,General,Yamal,Spain,67
+spain_england,82,0,82,"Can Spain get the ball into an attacking position from this throw-in in England's half?",general,General,,Spain,91
+spain_england,83,0,83,"Throw-in for England in their own half.",general,General,,England,39
+spain_england,83,0,83,"Nacho is replacing Robin Le Normand for Spain at Olympiastadion.",key_event,Substitution,"Le Normand, Nacho",Spain,65
+spain_england,85,0,85,"Corner awarded to Spain.",general,Corner,,Spain,25
+spain_england,86,0,86,"Throw-in for Spain at Olympiastadion.",general,General,,Spain,40
+spain_england,86,0,86,"Goal! Spain have got their heads in front thanks to a Mikel Oyarzabal strike.",key_event,Goal,Oyarzabal,Spain,80
+spain_england,89,0,89,"England make their third substitution with Ivan Toney replacing Phil Foden.",key_event,Substitution,"Foden, Toney",England,74
+spain_england,89,0,89,"Spain make their fourth substitution with Mikel Merino replacing Lamine Yamal.",key_event,Substitution,"Yamal, Merino",Spain,79
+spain_england,90,0,90,"England have been awarded a corner by Francois Letexier.",general,Corner,Letexier,England,59
+spain_england,90,0,90,"England's Marc Guehi goes close with his head but his effort is blocked.",general,Corner,Guehi,England,71
+spain_england,90,0,90,"Declan Rice (England) is first to the ball but his header is off-target.",general,Corner,Rice,England,74
+spain_england,90,0,90,"Spain have a goal kick.",general,General,,Spain,21
+spain_england,90,1,90+1,"Ball safe as England is awarded a throw-in in their half.",general,General,,England,60
+spain_england,90,1,90+1,"Spain awarded a throw-in in their own half.",general,General,,Spain,46
+spain_england,90,1,90+1,"Ball goes out of play for a England goal kick.",general,General,,England,47
+spain_england,90,1,90+1,"Francois Letexier signals a free kick to Spain in their own half.",general,Free Kick,Letexier,Spain,69
+spain_england,90,2,90+2,"Ollie Watkins (England) has received a yellow card from Francois Letexier.",key_event,Yellow Card,"Watkins, Letexier",England,72
+spain_england,90,3,90+3,"England awarded a free kick in their own half.",general,Free Kick,,England,47
+spain_england,90,3,90+3,"Free kick England.",general,Free Kick,,England,19
+spain_england,90,3,90+3,"Francois Letexier signals a free kick to Spain in their own half.",general,Free Kick,Letexier,Spain,69
+spain_england,90,4,90+4,"England awarded a free kick in their own half.",general,Free Kick,,England,47
+spain_england,90,0,90,"The match has ended.",key_event,Full Time,,Both,22
+

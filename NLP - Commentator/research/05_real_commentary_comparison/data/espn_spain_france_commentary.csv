@@ -1,0 +1,97 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+spain_france,0,0,0,"First Half begins.",key_event,Kick Off,,Both,19
+spain_france,4,0,4,"Foul by Lamine Yamal (Spain).",general,Foul,Yamal,Spain,30
+spain_france,4,0,4,"Théo Hernández (France) wins a free kick on the left wing.",general,Free Kick,Hernández,France,57
+spain_france,5,0,5,"Attempt missed. Fabián Ruiz (Spain) header from the left side of the six yard box is just a bit too high. Assisted by Lamine Yamal with a cross.",general,General,"Ruiz, Yamal",Spain,147
+spain_france,8,0,8,"Foul by Nacho (Spain).",general,Foul,Nacho,Spain,23
+spain_france,8,0,8,"Randal Kolo Muani (France) wins a free kick in the attacking half.",general,Free Kick,Kolo Muani,France,65
+spain_france,9,0,9,"Goal! Spain 0, France 1. Randal Kolo Muani (France) header from very close range to the top right corner. Assisted by Kylian Mbappé with a cross.",key_event,Goal,"Kolo Muani, Mbappé",France,151
+spain_france,13,0,13,"Adrien Rabiot (France) wins a free kick in the attacking half.",general,Free Kick,Rabiot,France,60
+spain_france,13,0,13,"Foul by Jesús Navas (Spain).",general,Foul,Navas,Spain,29
+spain_france,14,0,14,"Jesús Navas (Spain) is shown the yellow card for a bad foul.",key_event,Yellow Card,Navas,Spain,60
+spain_france,14,0,14,"Delay in match because of an injury Adrien Rabiot (France).",general,Injury,Rabiot,France,59
+spain_france,16,0,16,"Delay over. They are ready to continue.",general,General,,Both,42
+spain_france,16,0,16,"Attempt blocked. Kylian Mbappé (France) right footed shot from outside the box is blocked.",general,General,Mbappé,France,94
+spain_france,19,0,19,"Attempt blocked. Kylian Mbappé (France) right footed shot from the left side of the box is blocked. Assisted by Théo Hernández.",general,General,"Mbappé, Hernández",France,134
+spain_france,21,0,21,"Goal! Spain 1, France 1. Lamine Yamal (Spain) left footed shot from outside the box to the bottom left corner. Assisted by Álvaro Morata.",key_event,Goal,"Yamal, Morata",Spain,145
+spain_france,23,0,23,"Corner, Spain. Conceded by Théo Hernández.",general,Corner,"Hernández",Spain,45
+spain_france,25,0,25,"Goal! Spain 2, France 1. Dani Olmo (Spain) right footed shot from the right side of the box to the centre of the goal.",key_event,Goal,Olmo,Spain,123
+spain_france,28,0,28,"Foul by Álvaro Morata (Spain).",general,Foul,Morata,Spain,31
+spain_france,28,0,28,"Jules Koundé (France) wins a free kick on the right wing.",general,Free Kick,Koundé,France,55
+spain_france,33,0,33,"Hand ball by Jules Koundé (France).",general,Foul,Koundé,France,35
+spain_france,35,0,35,"Foul by Théo Hernández (France).",general,Foul,Hernández,France,34
+spain_france,35,0,35,"Lamine Yamal (Spain) wins a free kick in the defensive half.",general,Free Kick,Yamal,Spain,59
+spain_france,36,0,36,"Attempt blocked. Fabián Ruiz (Spain) left footed shot from outside the box is blocked. Assisted by Lamine Yamal.",general,General,"Ruiz, Yamal",Spain,120
+spain_france,36,0,36,"Corner, Spain. Conceded by Aurélien Tchouaméni.",general,Corner,Tchouaméni,Spain,48
+spain_france,38,0,38,"Corner, France. Conceded by Marc Cucurella.",general,Corner,Cucurella,France,45
+spain_france,39,0,39,"Foul by Marc Cucurella (Spain).",general,Foul,Cucurella,Spain,32
+spain_france,39,0,39,"Ousmane Dembélé (France) wins a free kick on the right wing.",general,Free Kick,Dembélé,France,59
+spain_france,40,0,40,"Corner, France. Conceded by Jesús Navas.",general,Corner,Navas,France,43
+spain_france,40,0,40,"Attempt blocked. Lamine Yamal (Spain) left footed shot from outside the box is blocked. Assisted by Nico Williams.",general,General,"Yamal, Williams",Spain,121
+spain_france,40,0,40,"Corner, Spain. Conceded by Théo Hernández.",general,Corner,Hernández,Spain,45
+spain_france,43,0,43,"Hand ball by Álvaro Morata (Spain).",general,Foul,Morata,Spain,35
+spain_france,45,1,45+1,"Foul by Ousmane Dembélé (France).",general,Foul,Dembélé,France,35
+spain_france,45,1,45+1,"Marc Cucurella (Spain) wins a free kick in the defensive half.",general,Free Kick,Cucurella,Spain,61
+spain_france,45,1,45+1,"Dani Olmo (Spain) wins a free kick in the defensive half.",general,Free Kick,Olmo,Spain,56
+spain_france,45,1,45+1,"Foul by William Saliba (France).",general,Foul,Saliba,France,33
+spain_france,45,2,45+2,"Foul by Randal Kolo Muani (France).",general,Foul,Kolo Muani,France,37
+spain_france,45,2,45+2,"Nacho (Spain) wins a free kick in the defensive half.",general,Free Kick,Nacho,Spain,52
+spain_france,45,3,45+3,"First Half ends, Spain 2, France 1.",general,Half Time,,Both,38
+spain_france,45,0,45,"Second Half begins Spain 2, France 1.",key_event,Kick Off,,Both,41
+spain_france,48,0,48,"Foul by William Saliba (France).",general,Foul,Saliba,France,33
+spain_france,48,0,48,"Jesús Navas (Spain) wins a free kick in the defensive half.",general,Free Kick,Navas,Spain,61
+spain_france,53,0,53,"Corner, France. Conceded by Aymeric Laporte.",general,Corner,Laporte,France,47
+spain_france,53,0,53,"Attempt saved. Aurélien Tchouaméni (France) header from the centre of the box is saved in the centre of the goal. Assisted by Ousmane Dembélé with a cross.",general,General,"Tchouaméni, Dembélé",France,148
+spain_france,54,0,54,"Adrien Rabiot (France) wins a free kick in the defensive half.",general,Free Kick,Rabiot,France,61
+spain_france,54,0,54,"Foul by Álvaro Morata (Spain).",general,Foul,Morata,Spain,31
+spain_france,56,0,56,"Attempt saved. Kylian Mbappé (France) right footed shot from the left side of the box is saved in the centre of the goal. Assisted by Adrien Rabiot.",general,General,"Mbappé, Rabiot",France,146
+spain_france,57,0,57,"Delay in match because of an injury Jesús Navas (Spain).",general,Injury,Navas,Spain,57
+spain_france,58,0,58,"Substitution, Spain. Dani Vivian replaces Jesús Navas because of an injury.",key_event,Substitution,"Navas, Vivian",Spain,74
+spain_france,58,0,58,"Delay over. They are ready to continue.",general,General,,Both,42
+spain_france,58,0,58,"Delay in match (Spain).",general,General,,Spain,23
+spain_france,59,0,59,"Foul by William Saliba (France).",general,Foul,Saliba,France,33
+spain_france,59,0,59,"Álvaro Morata (Spain) wins a free kick in the attacking half.",general,Free Kick,Morata,Spain,60
+spain_france,59,0,59,"Delay over. They are ready to continue.",general,General,,Both,42
+spain_france,60,0,60,"Foul by Aurélien Tchouaméni (France).",general,Foul,Tchouaméni,France,38
+spain_france,60,0,60,"Álvaro Morata (Spain) wins a free kick in the defensive half.",general,Free Kick,Morata,Spain,59
+spain_france,60,0,60,"Aurélien Tchouaméni (France) is shown the yellow card for a bad foul.",key_event,Yellow Card,Tchouaméni,France,68
+spain_france,62,0,62,"Corner, France. Conceded by Dani Vivian.",general,Corner,Vivian,France,44
+spain_france,62,0,62,"Substitution, France. Eduardo Camavinga replaces Adrien Rabiot.",key_event,Substitution,"Rabiot, Camavinga",France,64
+spain_france,62,0,62,"Substitution, France. Antoine Griezmann replaces N'Golo Kanté.",key_event,Substitution,"Kanté, Griezmann",France,63
+spain_france,63,0,63,"Substitution, France. Bradley Barcola replaces Randal Kolo Muani.",key_event,Substitution,"Kolo Muani, Barcola",France,66
+spain_france,63,0,63,"Attempt missed. Dayot Upamecano (France) header from the right side of the six yard box misses to the right. Assisted by Ousmane Dembélé with a cross following a corner.",general,Corner,"Upamecano, Dembélé",France,157
+spain_france,69,0,69,"Foul by Ousmane Dembélé (France).",general,Foul,Dembélé,France,35
+spain_france,69,0,69,"Álvaro Morata (Spain) wins a free kick in the defensive half.",general,Free Kick,Morata,Spain,59
+spain_france,71,0,71,"Foul by Dayot Upamecano (France).",general,Foul,Upamecano,France,34
+spain_france,71,0,71,"Álvaro Morata (Spain) wins a free kick in the defensive half.",general,Free Kick,Morata,Spain,59
+spain_france,73,0,73,"Corner, France. Conceded by Nico Williams.",general,Corner,Williams,France,45
+spain_france,76,0,76,"Attempt missed. Théo Hernández (France) right footed shot from the centre of the box is too high.",general,General,Hernández,France,98
+spain_france,76,0,76,"Substitution, Spain. Mikel Merino replaces Dani Olmo.",key_event,Substitution,"Olmo, Merino",Spain,56
+spain_france,76,0,76,"Substitution, Spain. Mikel Oyarzabal replaces Álvaro Morata.",key_event,Substitution,"Morata, Oyarzabal",Spain,60
+spain_france,79,0,79,"Substitution, France. Olivier Giroud replaces Ousmane Dembélé.",key_event,Substitution,"Dembélé, Giroud",France,61
+spain_france,79,0,79,"Foul by William Saliba (France).",general,Foul,Saliba,France,33
+spain_france,79,0,79,"Lamine Yamal (Spain) wins a free kick in the defensive half.",general,Free Kick,Yamal,Spain,59
+spain_france,80,0,80,"Corner, France. Conceded by Nacho.",general,Corner,Nacho,France,37
+spain_france,81,0,81,"Attempt missed. Lamine Yamal (Spain) left footed shot from outside the box is just a bit too high. Assisted by Mikel Merino.",general,General,"Yamal, Merino",Spain,131
+spain_france,83,0,83,"Aymeric Laporte (Spain) wins a free kick in the defensive half.",general,Free Kick,Laporte,Spain,61
+spain_france,83,0,83,"Foul by Olivier Giroud (France).",general,Foul,Giroud,France,33
+spain_france,83,0,83,"Delay in match because of an injury Aymeric Laporte (Spain).",general,Injury,Laporte,Spain,60
+spain_france,85,0,85,"Delay over. They are ready to continue.",general,General,,Both,42
+spain_france,86,0,86,"Attempt missed. Kylian Mbappé (France) right footed shot from the centre of the box is too high. Assisted by Bradley Barcola.",general,General,"Mbappé, Barcola",France,128
+spain_france,87,0,87,"Eduardo Camavinga (France) wins a free kick in the defensive half.",general,Free Kick,Camavinga,France,63
+spain_france,87,0,87,"Foul by Mikel Oyarzabal (Spain).",general,Foul,Oyarzabal,Spain,33
+spain_france,89,0,89,"Foul by Eduardo Camavinga (France).",general,Foul,Camavinga,France,35
+spain_france,89,0,89,"Marc Cucurella (Spain) wins a free kick on the left wing.",general,Free Kick,Cucurella,Spain,55
+spain_france,89,0,89,"Eduardo Camavinga (France) is shown the yellow card for a bad foul.",key_event,Yellow Card,Camavinga,France,64
+spain_france,90,0,90,"Corner, Spain. Conceded by Jules Koundé.",general,Corner,Koundé,Spain,42
+spain_france,90,1,90+1,"Foul by Lamine Yamal (Spain).",general,Foul,Yamal,Spain,30
+spain_france,90,1,90+1,"Théo Hernández (France) wins a free kick in the attacking half.",general,Free Kick,Hernández,France,60
+spain_france,90,1,90+1,"Lamine Yamal (Spain) is shown the yellow card for a bad foul.",key_event,Yellow Card,Yamal,Spain,60
+spain_france,90,3,90+3,"Substitution, Spain. Ferran Torres replaces Lamine Yamal.",key_event,Substitution,"Yamal, Torres",Spain,57
+spain_france,90,4,90+4,"Substitution, Spain. Martín Zubimendi replaces Nico Williams.",key_event,Substitution,"Williams, Zubimendi",Spain,60
+spain_france,90,5,90+5,"Attempt blocked. Antoine Griezmann (France) header from the centre of the box is blocked. Assisted by Bradley Barcola with a cross.",general,General,"Griezmann, Barcola",France,136
+spain_france,90,6,90+6,"Foul by Jules Koundé (France).",general,Foul,Koundé,France,32
+spain_france,90,6,90+6,"Mikel Merino (Spain) wins a free kick on the left wing.",general,Free Kick,Merino,Spain,53
+spain_france,90,6,90+6,"Second Half ends, Spain 2, France 1.",general,Full Time,,Both,38
+spain_france,90,6,90+6,"Match ends, Spain 2, France 1.",key_event,Full Time,,Both,33
+

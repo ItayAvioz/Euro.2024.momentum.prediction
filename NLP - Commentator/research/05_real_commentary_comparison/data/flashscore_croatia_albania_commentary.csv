@@ -1,0 +1,123 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+croatia_albania,0,0,0,"Francois Letexier will referee today's match.",general,General,Letexier,Both,48
+croatia_albania,0,0,0,"The players are out and the match is about to start. Albania will have the kick-off.",general,Kick Off,,Albania,86
+croatia_albania,1,0,1,"The referee blows his whistle and we are underway.",key_event,Kick Off,,Both,54
+croatia_albania,1,0,1,"Nedim Bajrami (Albania) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Bajrami,Albania,168
+croatia_albania,3,0,3,"Rey Manaj loses the ball after receiving a sweet pass from Kristjan Asllani (Albania).",general,General,"Manaj, Asllani",Albania,93
+croatia_albania,4,0,4,"Francois Letexier couldn't ignore the rough tackle by Andrej Kramaric (Croatia) and blew his whistle.",general,General,Kramaric,Croatia,110
+croatia_albania,5,0,5,"Josip Juranovic (Croatia) fails to find any of his teammates inside the box as his pass is blocked. Corner kick. Croatia will have an opportunity.",general,Corner,Juranovic,Croatia,151
+croatia_albania,6,0,6,"Lovro Majer (Croatia) works the corner short instead of sending the ball into the penalty area.",general,Corner,Majer,Croatia,99
+croatia_albania,6,0,6,"Josip Juranovic (Croatia) sends a pass into the box, but his attempt is thwarted and cleared.",general,General,Juranovic,Croatia,100
+croatia_albania,7,0,7,"Josip Juranovic (Croatia) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",general,General,Juranovic,Croatia,132
+croatia_albania,8,0,8,"Lovro Majer (Croatia) tries to slide the ball through to a teammate but it's well blocked by a defender.",general,General,Majer,Croatia,116
+croatia_albania,8,0,8,"Francois Letexier blows his whistle after Arlind Ajeti (Albania) brings one of his opponents down with a strong tackle. That's a free kick to Croatia.",general,Free Kick,Ajeti,Albania,162
+croatia_albania,9,0,9,"The resulting set piece, sent into the penalty area by Luka Modric (Croatia), was easily dealt with by one of the defenders.",general,Free Kick,Modric,Croatia,141
+croatia_albania,11,0,11,"It's a goal! Qazim Laci (Albania) bravely launches himself at a cross from Jasir Asani and gives Dominik Livakovic no chance with a close-range bullet header low into the middle of the goal. 0:1.",key_event,Goal,"Laci, Asani, Livakovic",Albania,223
+croatia_albania,12,0,12,"Rey Manaj (Albania) jumps into a tackle and Francois Letexier signals a foul.",general,General,Manaj,Albania,82
+croatia_albania,14,0,14,"Josko Gvardiol (Croatia) makes an overly-aggressive challenge and Francois Letexier blows his whistle for a foul.",general,General,Gvardiol,Croatia,121
+croatia_albania,15,0,15,"Nedim Bajrami (Albania) makes space for himself in the box after some nice work, but his shot is immediately charged down by a defender. The referee points to the corner flag. It's a corner to Albania.",general,Corner,Bajrami,Albania,207
+croatia_albania,16,0,16,"Kristjan Asllani (Albania) steps up to take the corner, but the ball just sails in among the defenders.",general,Corner,Asllani,Albania,110
+croatia_albania,16,0,16,"Elseid Hysaj (Albania) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",general,General,Hysaj,Albania,186
+croatia_albania,16,0,16,"The game is interrupted, a clear handball by Bruno Petkovic (Croatia).",general,General,Petkovic,Croatia,71
+croatia_albania,18,0,18,"Jasir Asani (Albania) pulls the jersey of one of the opposition players and Francois Letexier blows his whistle for a foul. Croatia are awarded a free kick. Let's see what they create from this.",general,Free Kick,Asani,Albania,200
+croatia_albania,19,0,19,"Lovro Majer (Croatia) decides to speed play up by quickly sending the free kick into the box.",general,Free Kick,Majer,Croatia,99
+croatia_albania,19,0,19,"Luka Modric (Croatia) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",general,General,Modric,Croatia,171
+croatia_albania,19,0,19,"Ivan Perisic (Croatia) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",general,General,Perisic,Croatia,148
+croatia_albania,20,0,20,"Luka Modric (Croatia) attempts to find one of his teammates inside the box with a chip pass, but one of the defending players reacts superbly and intercepts the ball.",general,General,Modric,Croatia,174
+croatia_albania,20,0,20,"Mateo Kovacic (Croatia) fires the ball from distance, but it's blocked by a defender.",general,General,Kovacic,Croatia,92
+croatia_albania,20,0,20,"Marcelo Brozovic (Croatia) receives a precise pass on the edge of the box and shoots. His poorly placed shot flies well wide of the left post.",key_event,Shot,Brozovic,Croatia,153
+croatia_albania,22,0,22,"Francois Letexier has a clear sight and sees a foul from Rey Manaj (Albania).",general,General,Manaj,Albania,82
+croatia_albania,25,0,25,"Ivan Perisic (Croatia) commits a foul and Francois Letexier immediately signals a free kick.",general,General,Perisic,Croatia,97
+croatia_albania,26,0,26,"Berat Djimsiti (Albania) should know this behaviour is beyond the rules. He was too careless with his challenge and left Francois Letexier no option but to blow his whistle.",general,General,Djimsiti,Albania,175
+croatia_albania,27,0,27,"An accurate cross picks out Bruno Petkovic (Croatia) in the centre of the box, but his header floats harmlessly high over the bar.",key_event,Shot,Petkovic,Croatia,144
+croatia_albania,27,0,27,"Josip Sutalo (Croatia) holds his opponent to prevent him from getting the ball and the referee blows for a foul after seeing the whole situation.",general,General,Sutalo,Croatia,156
+croatia_albania,28,0,28,"Nedim Bajrami (Albania) swings in a cross, but the ball is cleared to safety by one of the defending players.",general,General,Bajrami,Albania,122
+croatia_albania,29,0,29,"Mario Mitaj (Albania) sends a cross into the box, but the opposition's defence clears the ball to safety.",general,General,Mitaj,Albania,116
+croatia_albania,29,0,29,"Jasir Asani (Albania) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The ball rebounds out to Elseid Hysaj (Albania) on the edge of the box. He immediately strikes for goal, but sends the ball high over the bar.",key_event,Shot,"Asani, Hysaj",Albania,261
+croatia_albania,30,0,30,"Francois Letexier blows the whistle, Mario Mitaj (Albania) is penalised for a foul.",general,General,Mitaj,Albania,89
+croatia_albania,31,0,31,"A defence-splitting pass is taken in his stride by Kristjan Asllani (Albania) in the box. Without even looking up he drills a shot towards the bottom left corner, but Dominik Livakovic pulls off a brilliant save.",key_event,Save,"Asllani, Livakovic",Albania,216
+croatia_albania,32,0,32,"Mateo Kovacic (Croatia) gives away a foul for a fierce tackle on an opponent. Albania earn a free kick.",general,Free Kick,Kovacic,Croatia,109
+croatia_albania,32,0,32,"A poorly executed mid-range free kick by Kristjan Asllani (Albania) as he fails to deliver a decent cross.",general,Free Kick,Asllani,Albania,116
+croatia_albania,34,0,34,"Lovro Majer (Croatia) fails to send a pass into the box as his effort is cut out.",general,General,Majer,Croatia,85
+croatia_albania,36,0,36,"Jasir Asani (Albania) trips an opposition player and Francois Letexier signals a foul. There is a free kick near the sideline to Croatia.",general,Free Kick,Asani,Albania,147
+croatia_albania,36,0,36,"Luka Modric (Croatia) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity.",general,Free Kick,Modric,Croatia,218
+croatia_albania,37,0,37,"Lovro Majer (Croatia) makes a rough challenge and the referee blows for a foul.",general,General,Majer,Croatia,84
+croatia_albania,37,0,37,"Francois Letexier blows for a foul after Mateo Kovacic (Croatia) was too aggressive in the battle for the ball.",general,General,Kovacic,Croatia,117
+croatia_albania,39,0,39,"Marcelo Brozovic (Croatia) had a good opportunity from long range. His shot was directed towards the bottom left corner, but Thomas Strakosha was alert and made a comfortable save.",key_event,Save,"Brozovic, Strakosha",Croatia,184
+croatia_albania,40,0,40,"Francois Letexier blows his whistle after Andrej Kramaric (Croatia) kicks an opponent's legs instead of the ball.",general,General,Kramaric,Croatia,119
+croatia_albania,41,0,41,"A cross from Andrej Kramaric (Croatia) fails to reach the box as the defence clears the ball away to safety.",general,General,Kramaric,Croatia,120
+croatia_albania,42,0,42,"The referee blows his whistle as Josip Sutalo (Croatia) was too aggressive in his challenge.",general,General,Sutalo,Croatia,99
+croatia_albania,43,0,43,"Ivan Perisic (Croatia) sends the ball into the box from the side of the pitch, but his cross is blocked.",general,General,Perisic,Croatia,111
+croatia_albania,43,0,43,"Lovro Majer (Croatia) does well to reach the lofted pass in the centre of the box, but doesn't make full contact and his header drifts well past the right post.",key_event,Shot,Majer,Croatia,170
+croatia_albania,45,0,45,"1 additional min. will be played.",general,General,,Both,38
+croatia_albania,45,0,45,"Andrej Kramaric (Croatia) sends a teasing cross into the area, but Thomas Strakosha intercepts the ball.",general,General,"Kramaric, Strakosha",Croatia,118
+croatia_albania,45,2,45+2,"Rey Manaj (Albania) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the left post is denied by a decent save from Dominik Livakovic.",key_event,Save,"Manaj, Livakovic",Albania,195
+croatia_albania,45,2,45+2,"Andrej Kramaric (Croatia) commits a foul after unfairly battling his opponent for the ball.",general,General,Kramaric,Croatia,98
+croatia_albania,45,2,45+2,"Francois Letexier has ended the first half by blowing the whistle.",general,Half Time,Letexier,Both,70
+croatia_albania,46,0,46,"Everything is set for the start of the second half.",key_event,Kick Off,,Both,56
+croatia_albania,46,0,46,"Half-time substitution. Marcelo Brozovic (Croatia) will not participate anymore and Mario Pasalic is coming on.",key_event,Substitution,"Brozovic, Pasalic",Croatia,127
+croatia_albania,46,0,46,"Zlatko Dalic has decided to make a substitution during the half-time break. Luka Sucic comes on the pitch for Lovro Majer (Croatia).",key_event,Substitution,"Majer, Sucic, Dalic",Croatia,145
+croatia_albania,47,0,47,"Josip Juranovic (Croatia) sends a cross into the box, but Thomas Strakosha comes off his line to gather the ball.",general,General,"Juranovic, Strakosha",Croatia,127
+croatia_albania,48,0,48,"Rough tackle by Ivan Perisic (Croatia). The referee blows his whistle for a foul.",general,General,Perisic,Croatia,89
+croatia_albania,50,0,50,"Rey Manaj (Albania) is adjudged offside.",general,Offside,Manaj,Albania,44
+croatia_albania,50,0,50,"Luka Sucic (Croatia) receives a precise pass in the box and takes the shot early. The ball heads towards the middle of the goal, but Thomas Strakosha shows off his skills and makes a brilliant save to deny him.",key_event,Save,"Sucic, Strakosha",Croatia,218
+croatia_albania,51,0,51,"Mario Pasalic (Croatia) connects with a cross from the side, but produces a header which goes way over the bar.",key_event,Shot,Pasalic,Croatia,122
+croatia_albania,52,0,52,"Josip Juranovic (Croatia) delivers a promising cross into the box, but it's cleared.",general,General,Juranovic,Croatia,89
+croatia_albania,54,0,54,"Mateo Kovacic (Croatia) had a good opportunity from long range. His shot was directed towards the middle of the goal, but Thomas Strakosha was alert and made a comfortable save.",key_event,Save,"Kovacic, Strakosha",Croatia,181
+croatia_albania,54,0,54,"A flowing move ends with a great cross into the centre of the box, which Mario Pasalic (Croatia) latches onto but sends a wild header well wide of the right post.",key_event,Shot,Pasalic,Croatia,168
+croatia_albania,55,0,55,"Jasir Asani (Albania) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",general,Offside,Asani,Albania,149
+croatia_albania,57,0,57,"The attendance is 46784.",general,General,,Both,29
+croatia_albania,57,0,57,"Bruno Petkovic (Croatia) wins some space for himself around the penalty spot and manages to produce a promising header. One of the defenders stops his effort before it gets to the goalkeeper, making him redundant. Now Croatia have a corner.",general,Corner,Petkovic,Croatia,243
+croatia_albania,58,0,58,"Luka Modric (Croatia) is about to take a corner kick.",general,Corner,Modric,Croatia,54
+croatia_albania,58,0,58,"Josip Sutalo (Croatia) is unable to get a good contact on the ball from the corner and heads it well wide of the left post from close range.",key_event,Shot,Sutalo,Croatia,152
+croatia_albania,59,0,59,"A rebound sits up nicely for Luka Modric (Croatia), whose shot from distance is blocked by a defender.",general,General,Modric,Croatia,116
+croatia_albania,59,0,59,"Ylber Ramadani (Albania) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch.",general,Injury,Ramadani,Albania,159
+croatia_albania,61,0,61,"Ylber Ramadani (Albania) is moving okay again after that injury scare.",general,Injury,Ramadani,Albania,72
+croatia_albania,61,0,61,"Ivan Perisic (Croatia) approaches the edge of the box with intent and shoots, but Thomas Strakosha rushes out to narrow the angle and smothers the ball. Good goalkeeping!",key_event,Save,"Perisic, Strakosha",Croatia,181
+croatia_albania,62,0,62,"Luka Modric (Croatia) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",general,General,Modric,Croatia,162
+croatia_albania,63,0,63,"Francois Letexier interrupts the game for a tactical foul by Josip Sutalo (Croatia).",general,General,Sutalo,Croatia,89
+croatia_albania,63,0,63,"Kristjan Asllani (Albania) aims a low effort to the middle of the goal, but the goalkeeper makes a comfortable save.",key_event,Save,Asllani,Albania,126
+croatia_albania,64,0,64,"Substitution. Taulant Seferi (Albania) replaces Jasir Asani.",key_event,Substitution,"Asani, Seferi",Albania,64
+croatia_albania,65,0,65,"Andrej Kramaric (Croatia) serves up a nice cross, but the defence clears the danger.",general,General,Kramaric,Croatia,93
+croatia_albania,65,0,65,"Josip Sutalo (Croatia) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",general,Injury,Sutalo,Croatia,144
+croatia_albania,66,0,66,"Josip Sutalo (Croatia) seems to be alright and is okay to carry on.",general,Injury,Sutalo,Croatia,68
+croatia_albania,67,0,67,"Nedim Bajrami (Albania) shows off his amazing technique to get to the edge of the box by himself. He pulls the trigger but sends the ball miles wide of the right post. Nice run, but poor finish!",key_event,Shot,Bajrami,Albania,202
+croatia_albania,68,0,68,"Josip Juranovic (Croatia) swings a cross into the box, but it's far too close to Thomas Strakosha, who smothers the ball.",general,General,"Juranovic, Strakosha",Croatia,136
+croatia_albania,69,0,69,"The referee signals that it is time for a substitution and Ante Budimir (Croatia) comes onto the pitch so that Bruno Petkovic can be given a rest.",key_event,Substitution,"Petkovic, Budimir",Croatia,165
+croatia_albania,69,0,69,"Ivan Perisic swings the cross over. Mario Pasalic (Croatia) gets his head to it but it goes just wide of the right post.",key_event,Shot,"Perisic, Pasalic",Croatia,136
+croatia_albania,70,0,70,"Ante Budimir (Croatia) tries to send a pass but it's blocked. Croatia earn a corner.",general,Corner,Budimir,Croatia,89
+croatia_albania,71,0,71,"Luka Modric (Croatia) takes the corner which is cleared by the opposition's defence.",general,Corner,Modric,Croatia,86
+croatia_albania,72,0,72,"The referee stops play so that a substitution can be made and Qazim Laci leaves the pitch and Klaus Gjasula (Albania) comes on.",key_event,Substitution,"Laci, Gjasula",Albania,143
+croatia_albania,73,0,73,"A fine lofted pass into the box, sent by Ivan Perisic (Croatia), is intercepted by the opposition's defence.",general,General,Perisic,Croatia,119
+croatia_albania,74,0,74,"Goal Andrej Kramaric (Croatia)! Andrej Kramaric (Croatia) was put through by Ante Budimir and he showed brilliant composure inside the box to fire into the bottom left corner. 1:1.",key_event,Goal,"Kramaric, Budimir",Croatia,195
+croatia_albania,75,0,75,"CHANCE! Luka Sucic (Croatia) receives a brilliant pass and finds himself one-on-one with Thomas Strakosha, who reacts superbly to stop him.",key_event,Save,"Sucic, Strakosha",Croatia,155
+croatia_albania,76,0,76,"Luka Sucic (Croatia) receives a neat pass inside the box and instantly thumps the ball goalward, but a defender makes a last ditch block to deny him.",general,General,Sucic,Croatia,158
+croatia_albania,76,0,76,"Klaus Gjasula (Albania) scores an unfortunate own goal after deflecting the ball into his own net!",key_event,Own Goal,Gjasula,Albania,104
+croatia_albania,76,0,76,"Elseid Hysaj (Albania) was probably a bit loose with his words to Francois Letexier, who decides to show him a yellow.",key_event,Yellow Card,Hysaj,Albania,129
+croatia_albania,78,0,78,"Rey Manaj (Albania) makes a strong challenge and Francois Letexier blows for a foul.",general,General,Manaj,Albania,93
+croatia_albania,80,0,80,"Ante Budimir (Croatia) is picked out by his teammate with a brilliant short pass, but it takes him too long to control the ball inside the box and this allows one of the defending players to rob him.",general,General,Budimir,Croatia,205
+croatia_albania,80,0,80,"Ivan Perisic (Croatia) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",general,General,Perisic,Croatia,176
+croatia_albania,84,0,84,"Josip Sutalo (Croatia) clearly holds his opponent to prevent him from getting the ball and the referee immediately stops play.",general,General,Sutalo,Croatia,132
+croatia_albania,84,0,84,"The manager has decided to make a substitution and Ivan Perisic walks off the pitch to be replaced by Borna Sosa (Croatia).",key_event,Substitution,"Perisic, Sosa",Croatia,138
+croatia_albania,84,0,84,"Here is a change. Andrej Kramaric is going off and Zlatko Dalic gives the last tactical orders to Martin Baturina (Croatia).",key_event,Substitution,"Kramaric, Baturina, Dalic",Croatia,135
+croatia_albania,85,0,85,"That's the end of the game for Ylber Ramadani, who is replaced by Arber Hoxha (Albania).",key_event,Substitution,"Ramadani, Hoxha",Albania,90
+croatia_albania,85,0,85,"The manager makes a subsitution with Mirlind Daku (Albania) coming on for Rey Manaj.",key_event,Substitution,"Manaj, Daku",Albania,89
+croatia_albania,86,0,86,"Josip Sutalo (Croatia) was too fierce in his attempt to get the ball from his opponent and Francois Letexier blows for a foul.",general,General,Sutalo,Croatia,139
+croatia_albania,87,0,87,"Albania are ruled offside.",general,Offside,,Albania,28
+croatia_albania,87,0,87,"Having seen unsporting behavior, Francois Letexier shows a yellow card to one of the players sitting on the bench. And Ivica Ivusic (Croatia) is the recipient.",key_event,Yellow Card,Ivusic,Croatia,167
+croatia_albania,88,0,88,"Luka Modric (Croatia) tricks his way to the edge of the box where he shoots at goal. The keeper scrambles to cover the effort, but it goes just wide of the left post.",key_event,Shot,Modric,Croatia,172
+croatia_albania,89,0,89,"Martin Baturina (Croatia) doesn't hesitate and begins a run towards the opponent's goal. Defenders try to tackle him, but he manages to keep the ball at his feet and pulls the trigger in front of the goal. The strike, though, was not as successful as the solo run and the ball is easily stopped by the keeper.",general,General,Baturina,Croatia,289
+croatia_albania,90,0,90,"Dominik Livakovic makes a brilliant save! Arber Hoxha (Albania) easily weaves through the defence and fires the ball from mid-range. His effort goes towards the bottom left corner but is saved by the keeper!",key_event,Save,"Livakovic, Hoxha",Albania,226
+croatia_albania,90,0,90,"The linesman raises his flag. Mirlind Daku (Albania) is adjudged offside.",general,Offside,Daku,Albania,79
+croatia_albania,90,0,90,"Dominik Livakovic (Croatia) is asking for medical treatment after picking up an injury.",general,Injury,Livakovic,Croatia,89
+croatia_albania,90,0,90,"There will be a minimum of 6 min. of added time.",general,General,,Both,55
+croatia_albania,90,2,90+2,"Dominik Livakovic (Croatia) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",general,Injury,Livakovic,Croatia,142
+croatia_albania,90,3,90+3,"Mirlind Daku (Albania) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition.",general,General,Daku,Albania,130
+croatia_albania,90,3,90+3,"This yellow card was deserved. The tackle by Mirlind Daku (Albania) was quite harsh and Francois Letexier didn't hesitate to show him a yellow card.",key_event,Yellow Card,Daku,Albania,162
+croatia_albania,90,5,90+5,"Goal! Klaus Gjasula (Albania) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 2:2.",key_event,Goal,Gjasula,Albania,190
+croatia_albania,90,7,90+7,"Klaus Gjasula (Albania) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",general,General,Gjasula,Albania,168
+croatia_albania,90,7,90+7,"Francois Letexier shows a yellow card to Klaus Gjasula (Albania) for his blatant foul.",key_event,Yellow Card,Gjasula,Albania,89
+croatia_albania,90,8,90+8,"Mirlind Daku (Albania) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",general,General,Daku,Albania,138
+croatia_albania,90,9,90+9,"Mateo Kovacic (Croatia) aims for the middle of the goal, but that's an easy job for the goalkeeper. It will take more than that to test him!",general,General,Kovacic,Croatia,150
+croatia_albania,90,9,90+9,"Nothing more will happen in this game as the referee blows for full time.",key_event,Full Time,,Both,79
+

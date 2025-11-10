@@ -1,0 +1,128 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+czech_republic_turkey,0,0,0,"Istvan Kovacs will officiate today.",general,General,Kovacs,Both,35
+czech_republic_turkey,0,0,0,"The players are on the pitch and Czech Republic will have the kick-off.",general,Kick Off,,Czech Republic,70
+czech_republic_turkey,1,0,1,"Today's match has just started, enjoy the game!",key_event,Kick Off,,Both,47
+czech_republic_turkey,1,0,1,"Tomas Soucek (Czech Republic) commits a foul during an attacking move.",general,General,Soucek,Czech Republic,68
+czech_republic_turkey,3,0,3,"Lukas Provod (Czech Republic) receives a clever pass and shoots from mid-range. His shot looks like it's going inside the right post, but Mert Gunok has other ideas and makes a brilliant save.",key_event,Save,"Provod, Gunok",Czech Republic,196
+czech_republic_turkey,3,0,3,"There's an opportunity for Vladimir Coufal (Czech Republic) to deliver the ball into the box from a corner.",general,Corner,Coufal,Czech Republic,103
+czech_republic_turkey,4,0,4,"Istvan Kovacs blows for a foul after Merih Demiral (Turkey) was too aggressive in the battle for the ball.",general,General,Demiral,Turkey,109
+czech_republic_turkey,7,0,7,"A defender unwittingly blocks the ball on the line after a snap shot from Kenan Yildiz (Turkey) inside the box following a slide rule pass.",key_event,Shot,Yildiz,Turkey,149
+czech_republic_turkey,7,0,7,"Hakan Calhanoglu (Turkey) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",general,Corner,Calhanoglu,Turkey,150
+czech_republic_turkey,11,0,11,"Turkey are showing great team chemistry. They are passing the ball around seamlessly.",general,General,,Turkey,85
+czech_republic_turkey,11,0,11,"This yellow card was deserved. The tackle by Antonin Barak (Czech Republic) was quite harsh and Istvan Kovacs didn't hesitate to show him a yellow card.",key_event,Yellow Card,Barak,Czech Republic,155
+czech_republic_turkey,13,0,13,"The keeper doesn't have to worry about this one. Arda Guler (Turkey) sacrificed accuracy for power, and thus his attempt went well wide of the right post.",key_event,Shot,Guler,Turkey,156
+czech_republic_turkey,15,0,15,"A lofted cross from Tomas Holes (Czech Republic) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",general,General,Holes,Czech Republic,148
+czech_republic_turkey,15,0,15,"David Jurasek (Czech Republic) gets into a good scoring position. He creates some space for himself and tries his luck from distance. His decent effort towards the middle of the goal is, however, saved by Mert Gunok!",key_event,Save,"Jurasek, Gunok",Czech Republic,223
+czech_republic_turkey,15,0,15,"A pass by Tomas Soucek (Czech Republic) ends up in no man's land, and the attacking effort comes to an end.",general,General,Soucek,Czech Republic,114
+czech_republic_turkey,16,0,16,"Istvan Kovacs blows his whistle. Ladislav Krejci (Czech Republic) commits a foul after dangerous play.",general,General,Krejci,Czech Republic,103
+czech_republic_turkey,17,0,17,"Adam Hlozek (Czech Republic) looks to break free, but an opposing player clears the ball away.",general,General,Hlozek,Czech Republic,94
+czech_republic_turkey,17,0,17,"Robin Hranac (Czech Republic) misses a great chance after he found some space in the box! His glancing header goes over the crossbar.",key_event,Shot,Hranac,Czech Republic,141
+czech_republic_turkey,20,0,20,"Istvan Kovacs has a clear sight and sees a foul from Robin Hranac (Czech Republic).",general,General,Hranac,Czech Republic,81
+czech_republic_turkey,20,0,20,"Istvan Kovacs blows his whistle and Antonin Barak (Czech Republic) is shown a second yellow card for his foul. His manager will not be pleased. He has lot of time to think about it as he walks off.",key_event,Red Card,Barak,Czech Republic,188
+czech_republic_turkey,22,0,22,"The cross into the penalty area from Ismail Yuksek (Turkey) needed to be more accurate in order to create a goal-scoring opportunity for his team.",general,General,Yuksek,Turkey,145
+czech_republic_turkey,23,0,23,"Handball by Salih Ozcan (Turkey).",general,General,Ozcan,Turkey,33
+czech_republic_turkey,24,0,24,"Robin Hranac (Czech Republic) gets to the rebound and shoots, but the effort is blocked.",key_event,Shot,Hranac,Czech Republic,87
+czech_republic_turkey,25,0,25,"The game is interrupted, a clear handball by Mert Muldur (Turkey).",general,General,Muldur,Turkey,67
+czech_republic_turkey,26,0,26,"Kenan Yildiz (Turkey) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger.",general,General,Yildiz,Turkey,148
+czech_republic_turkey,27,0,27,"Kenan Yildiz (Turkey) displays brilliant individual ability, gets inside the box and pulls the trigger. His promising effort is blocked by one of the defenders.",key_event,Shot,Yildiz,Turkey,166
+czech_republic_turkey,27,0,27,"Arda Guler (Turkey) connects with a precise cross inside the goalmouth and shoots. One of the defending players reacts in time and clears the ball to safety.",key_event,Shot,Guler,Turkey,161
+czech_republic_turkey,28,0,28,"Arda Guler (Turkey) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",general,Corner,Guler,Turkey,129
+czech_republic_turkey,28,0,28,"Samet Akaydin (Turkey) misses a complete sitter from the corner, heading the ball well wide of the left post from close in.",key_event,Shot,Akaydin,Turkey,134
+czech_republic_turkey,29,0,29,"Merih Demiral (Turkey) makes a strong challenge and Istvan Kovacs blows for a foul.",general,General,Demiral,Turkey,88
+czech_republic_turkey,29,0,29,"Baris Alper Yilmaz (Turkey) sends a cross into the box, but Jindrich Stanek comes off his line to gather the ball.",general,General,"Yilmaz, Stanek",Turkey,120
+czech_republic_turkey,29,0,29,"Mojmir Chytil (Czech Republic) commits a rough challenge and Istvan Kovacs blows his whistle for a foul.",general,General,Chytil,Czech Republic,107
+czech_republic_turkey,31,0,31,"Salih Ozcan (Turkey) is booked after bringing down an opponent. Istvan Kovacs had an easy-decision to make.",key_event,Yellow Card,Ozcan,Turkey,115
+czech_republic_turkey,32,0,32,"Baris Alper Yilmaz (Turkey) sends a pass into the penalty area, but the opponent manages to cut it out.",general,General,Yilmaz,Turkey,106
+czech_republic_turkey,32,0,32,"Arda Guler (Turkey) floats the ball in from the corner but it's intercepted.",general,Corner,Guler,Turkey,75
+czech_republic_turkey,33,0,33,"Hakan Calhanoglu (Turkey) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety.",general,General,Calhanoglu,Turkey,153
+czech_republic_turkey,33,0,33,"Nothing comes of the resulting corner from Arda Guler (Turkey). The defence is alert and manages to cut it out.",general,Corner,Guler,Turkey,115
+czech_republic_turkey,34,0,34,"Lukas Provod (Czech Republic) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",general,General,Provod,Czech Republic,148
+czech_republic_turkey,34,0,34,"Although Patrik Schick (Czech Republic) is just on the bench, Istvan Kovacs has awarded him with a yellow card. Unsporting behavior says the referee.",key_event,Yellow Card,Schick,Czech Republic,153
+czech_republic_turkey,34,0,34,"Patrik Schick (Czech Republic) will miss the next game.",general,General,Schick,Czech Republic,52
+czech_republic_turkey,37,0,37,"The ball is cleared after Kenan Yildiz (Turkey) attempted to dribble past an opposing player.",general,General,Yildiz,Turkey,93
+czech_republic_turkey,37,0,37,"Istvan Kovacs shows a yellow card to Kenan Yildiz (Turkey) for his blatant foul.",key_event,Yellow Card,Yildiz,Turkey,78
+czech_republic_turkey,39,0,39,"The game is interrupted now, Vladimir Coufal (Czech Republic) picks up a knock and the physio has to come on.",general,General,Coufal,Czech Republic,116
+czech_republic_turkey,40,0,40,"Vladimir Coufal (Czech Republic) is able to continue to play.",general,General,Coufal,Czech Republic,59
+czech_republic_turkey,40,0,40,"The game is interrupted. Hakan Calhanoglu (Turkey) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",general,General,Calhanoglu,Turkey,179
+czech_republic_turkey,41,0,41,"Tomas Holes (Czech Republic) is going to send the ball in from the free kick.",general,Free Kick,Holes,Czech Republic,78
+czech_republic_turkey,41,0,41,"Istvan Kovacs blows his whistle and it's Tomas Soucek (Czech Republic) who is penalised for an offensive foul. Good decision by the referee.",general,General,Soucek,Czech Republic,137
+czech_republic_turkey,43,0,43,"Hakan Calhanoglu (Turkey) collects a sweet pass on the edge of the box and in one movement smashes a shot in on goal, but it balloons high over the bar.",key_event,Shot,Calhanoglu,Turkey,165
+czech_republic_turkey,44,0,44,"Vladimir Coufal (Czech Republic) gives away a foul for a fierce tackle on an opponent.",general,General,Coufal,Czech Republic,85
+czech_republic_turkey,44,0,44,"Ferdi Kadioglu (Turkey) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net.",general,General,Kadioglu,Turkey,207
+czech_republic_turkey,45,0,45,"David Jurasek (Czech Republic) had time and space inside the box after picking up a neat pass, but his shot towards the middle of the goal was easily saved by Mert Gunok.",key_event,Save,"Jurasek, Gunok",Czech Republic,184
+czech_republic_turkey,45,0,45,"The fourth official shows 3 min. of added time.",general,General,,Both,54
+czech_republic_turkey,45,1,45+1,"The resulting corner from David Jurasek (Czech Republic) is cleared by the defence.",general,Corner,Jurasek,Czech Republic,83
+czech_republic_turkey,45,4,45+4,"Arda Guler (Turkey) latches on to an accurate pass on the edge of the box and immediately unleashes a shot which is wide of the mark.",key_event,Shot,Guler,Turkey,142
+czech_republic_turkey,45,4,45+4,"That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",general,Half Time,,Both,126
+czech_republic_turkey,46,0,46,"The second half gets underway.",key_event,Kick Off,,Both,33
+czech_republic_turkey,46,0,46,"Vincenzo Montella makes a switch. Kaan Ayhan (Turkey) is coming on in place of Salih Ozcan at the start of the second period.",key_event,Substitution,"Ozcan, Ayhan, Montella",Turkey,124
+czech_republic_turkey,47,0,47,"Baris Alper Yilmaz (Turkey) jumps above the defenders in order to convert a lofted cross with a nice header. Jindrich Stanek makes a reflexive save to block his effort from hitting the net.",key_event,Save,"Yilmaz, Stanek",Turkey,188
+czech_republic_turkey,47,0,47,"One of the defenders reacts at the last minute to brilliantly block a pass from Baris Alper Yilmaz (Turkey).",general,General,Yilmaz,Turkey,110
+czech_republic_turkey,47,0,47,"Hakan Calhanoglu (Turkey) takes the corner.",general,Corner,Calhanoglu,Turkey,45
+czech_republic_turkey,47,0,47,"A cross from the corner kick arrives at the feet of Kenan Yildiz (Turkey), giving him an opportunity to shoot. He misses completely, well to the right of the goal.",key_event,Shot,Yildiz,Turkey,163
+czech_republic_turkey,49,0,49,"Ismail Yuksek (Turkey) has tested the patience of referee Istvan Kovacs and goes into the book for a previous late challenge.",key_event,Yellow Card,Yuksek,Turkey,127
+czech_republic_turkey,51,0,51,"Chance! Adam Hlozek (Czech Republic) gets to the rebound on the edge of the box and smashes the ball towards goal, but Mert Gunok is alert and makes a great save to deny him.",key_event,Save,"Hlozek, Gunok",Czech Republic,180
+czech_republic_turkey,51,0,51,"Kenan Yildiz (Turkey) receives a sweet pass inside the box, but his effort on goal is blocked by the defender.",key_event,Shot,Yildiz,Turkey,116
+czech_republic_turkey,51,0,51,"Kenan Yildiz (Turkey) quickly picks up the rebound and shoots towards the bottom left corner. The goalkeeper pulls off a stunning save to deny him.",key_event,Save,"Yildiz, Stanek",Turkey,149
+czech_republic_turkey,51,0,51,"Ismail Yuksek (Turkey) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",key_event,Shot,Yuksek,Turkey,141
+czech_republic_turkey,51,0,51,"Ismail Yuksek produces a sweet pass and picks out Hakan Calhanoglu (Turkey) inside the box. He quickly takes a shot which goes into the bottom right corner and leaves the goalkeeper helpless. He makes it 0:1!",key_event,Goal,"Yuksek, Calhanoglu",Turkey,218
+czech_republic_turkey,52,0,52,"Jindrich Stanek (Czech Republic) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch.",general,General,Stanek,Czech Republic,157
+czech_republic_turkey,55,0,55,"Ivan Hasek is forced to make a change. Jindrich Stanek is unable to continue due to injury, Matej Kovar (Czech Republic) comes on.",key_event,Substitution,"Stanek, Kovar, Hasek",Czech Republic,134
+czech_republic_turkey,55,0,55,"Substitution. Adam Hlozek is replaced by Tomas Chory (Czech Republic).",key_event,Substitution,"Hlozek, Chory",Czech Republic,71
+czech_republic_turkey,55,0,55,"That's the end of the game for Mojmir Chytil, who is replaced by Jan Kuchta (Czech Republic).",key_event,Substitution,"Chytil, Kuchta",Czech Republic,89
+czech_republic_turkey,57,0,57,"The linesman raises his flag. Arda Guler (Turkey) is adjudged offside.",general,Offside,Guler,Turkey,73
+czech_republic_turkey,58,0,58,"Tomas Chory (Czech Republic) is penalised for a foul. Istvan Kovacs had a clear view and blows his whistle.",general,General,Chory,Czech Republic,107
+czech_republic_turkey,59,0,59,"Tomas Chory (Czech Republic) gives away a foul during an attacking move and the referee blows his whistle.",general,General,Chory,Czech Republic,105
+czech_republic_turkey,60,0,60,"David Jurasek (Czech Republic) plays a through ball inside the box, but it's too strong and Mert Gunok comes off his line to intercept.",general,General,"Jurasek, Gunok",Czech Republic,141
+czech_republic_turkey,61,0,61,"Mert Muldur (Turkey) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Muldur,Turkey,158
+czech_republic_turkey,61,0,61,"Arda Guler (Turkey) decides to speed play up with a short corner kick.",general,Corner,Guler,Turkey,73
+czech_republic_turkey,61,0,61,"Arda Guler (Turkey) swings in a cross, but the ball is cleared to safety by one of the defending players.",general,General,Guler,Turkey,114
+czech_republic_turkey,62,0,62,"Dangerous play by Samet Akaydin (Turkey). Istvan Kovacs blows his whistle for a foul.",general,General,Akaydin,Turkey,87
+czech_republic_turkey,62,0,62,"Samet Akaydin (Turkey) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",general,General,Akaydin,Turkey,132
+czech_republic_turkey,63,0,63,"A substitution has been made. Ismail Yuksek goes off and Okay Yokuslu (Turkey) comes on.",key_event,Substitution,"Yuksek, Yokuslu",Turkey,87
+czech_republic_turkey,64,0,64,"Ladislav Krejci (Czech Republic) wasted a big chance to finish after the resulting free kick! He latched on to a well-placed cross deep inside the box and produced a fine header towards the net!",key_event,Shot,Krejci,Czech Republic,195
+czech_republic_turkey,64,0,64,"Mert Gunok (Turkey) makes it easy for the referee to show him a yellow card.",key_event,Yellow Card,Gunok,Turkey,79
+czech_republic_turkey,65,0,65,"Baris Alper Yilmaz (Turkey) wastes a good opportunity as his pass into the box is blocked by the defence.",general,General,Yilmaz,Turkey,108
+czech_republic_turkey,66,0,66,"Tomas Chory (Czech Republic) wastes a golden opportunity inside the box by shooting straight into the back of an opponent when the goal was at his mercy.",key_event,Shot,Chory,Czech Republic,162
+czech_republic_turkey,66,0,66,"Goal! Tomas Soucek (Czech Republic) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball into the middle of the net. It's 1:1.",key_event,Goal,Soucek,Czech Republic,181
+czech_republic_turkey,66,0,66,"The referee shows a yellow card to Hakan Calhanoglu (Turkey). No wonder. A clear yellow for bad language.",key_event,Yellow Card,Calhanoglu,Turkey,109
+czech_republic_turkey,66,0,66,"Hakan Calhanoglu (Turkey) will miss the next game because of that yellow card.",general,General,Calhanoglu,Turkey,72
+czech_republic_turkey,67,0,67,"Maybe there was an infringement in the build up to the Czech Republic goal as the referee signals a VAR review. This could get tense.",general,VAR,,Czech Republic,145
+czech_republic_turkey,68,0,68,"The goal stands! That took a long time for referee Istvan Kovacs to decide. The relieved Czech Republic players can finally celebrate.",key_event,VAR,,Czech Republic,139
+czech_republic_turkey,68,0,68,"Having seen unsporting behavior, Istvan Kovacs shows a yellow card to one of the players sitting on the bench. And Ugurcan Cakir (Turkey) is the recipient.",key_event,Yellow Card,Cakir,Turkey,149
+czech_republic_turkey,70,0,70,"Robin Hranac (Czech Republic) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul.",general,General,Hranac,Czech Republic,148
+czech_republic_turkey,71,0,71,"Ladislav Krejci (Czech Republic) touches the ball with his hand.",general,General,Krejci,Czech Republic,59
+czech_republic_turkey,72,0,72,"Istvan Kovacs couldn't ignore the rough tackle by Robin Hranac (Czech Republic) and blew his whistle.",general,General,Hranac,Czech Republic,102
+czech_republic_turkey,73,0,73,"The corner kick from Arda Guler (Turkey) is headed out of the penalty area by one of the defenders.",general,Corner,Guler,Turkey,101
+czech_republic_turkey,74,0,74,"Arda Guler (Turkey) sends a teasing cross into the area, but Matej Kovar intercepts the ball.",general,General,"Guler, Kovar",Turkey,95
+czech_republic_turkey,75,0,75,"The referee signals that it is time for a substitution and Ondrej Lingr (Czech Republic) will replace Lukas Provod.",key_event,Substitution,"Provod, Lingr",Czech Republic,119
+czech_republic_turkey,75,0,75,"Here is a change. Arda Guler is going off and Vincenzo Montella gives the last tactical orders to Cenk Tosun (Turkey).",key_event,Substitution,"Guler, Tosun, Montella",Turkey,117
+czech_republic_turkey,75,0,75,"The manager makes a subsitution with Kerem Akturkoglu (Turkey) coming on for Kenan Yildiz.",key_event,Substitution,"Yildiz, Akturkoglu",Turkey,93
+czech_republic_turkey,77,0,77,"The attendance is 47683.",general,General,,Both,27
+czech_republic_turkey,78,0,78,"David Jurasek (Czech Republic) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Jurasek,Czech Republic,122
+czech_republic_turkey,78,0,78,"Vladimir Coufal (Czech Republic) swings in a cross from the corner, but Mert Gunok reads it well and gathers the ball.",general,Corner,"Coufal, Gunok",Czech Republic,121
+czech_republic_turkey,79,0,79,"David Jurasek (Czech Republic) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",general,General,Jurasek,Czech Republic,141
+czech_republic_turkey,80,0,80,"A pass lands at the feet of Ondrej Lingr (Czech Republic) in the middle of the box, he looks up and shoots but the effort is superbly blocked by a defender.",key_event,Shot,Lingr,Czech Republic,159
+czech_republic_turkey,80,0,80,"Ondrej Lingr (Czech Republic) had a good opportunity when he latched on to a cross from the wing, but his header wasn't accurate at all and the ball went well wide of the left post.",key_event,Shot,Lingr,Czech Republic,181
+czech_republic_turkey,80,0,80,"Mert Muldur (Turkey) goes into the book for bad language. His vulgar comments could have made it worse. Luckily for him, it's a yellow card.",key_event,Yellow Card,Muldur,Turkey,144
+czech_republic_turkey,81,0,81,"Substitution. David Jurasek makes way for Matej Jurasek (Czech Republic).",key_event,Substitution,"Jurasek D, Jurasek M",Czech Republic,73
+czech_republic_turkey,82,0,82,"Goal! No, wait. It's disallowed for a foul by Jan Kuchta (Czech Republic).",key_event,Disallowed Goal,Kuchta,Czech Republic,77
+czech_republic_turkey,84,0,84,"Vitezslav Jaros (Czech Republic) gets a yellow card, off the field.",key_event,Yellow Card,Jaros,Czech Republic,64
+czech_republic_turkey,85,0,85,"Lukas Cerv (Czech Republic) has too much to say to the referee and is cautioned.",key_event,Yellow Card,Cerv,Czech Republic,79
+czech_republic_turkey,85,0,85,"Samet Akaydin (Turkey) is booked after bringing down an opponent. Istvan Kovacs had an easy-decision to make.",key_event,Yellow Card,Akaydin,Turkey,115
+czech_republic_turkey,85,0,85,"Samet Akaydin (Turkey) will miss the next game because of that yellow card.",general,General,Akaydin,Turkey,70
+czech_republic_turkey,87,0,87,"A wild pass somehow finds Okay Yokuslu (Turkey) in space, he steadies himself and shoots from mid-range but sends it just over the bar. The ball is off of the pitch and it's a goal kick for Czech Republic.",key_event,Shot,Yokuslu,Turkey,201
+czech_republic_turkey,87,0,87,"Hakan Calhanoglu goes off the pitch and Orkun Kokcu (Turkey) comes on.",key_event,Substitution,"Calhanoglu, Kokcu",Turkey,70
+czech_republic_turkey,90,0,90,"Matej Jurasek (Czech Republic) tries to send a pass but it's blocked.",general,General,Jurasek,Czech Republic,67
+czech_republic_turkey,90,0,90,"We will have 6 min. of added time.",general,General,,Both,38
+czech_republic_turkey,90,1,90+1,"This yellow card was deserved. The tackle by Ladislav Krejci (Czech Republic) was quite harsh and Istvan Kovacs didn't hesitate to show him a yellow card.",key_event,Yellow Card,Krejci,Czech Republic,155
+czech_republic_turkey,90,3,90+3,"Baris Alper Yilmaz (Turkey) produces a good strike that sails to the middle of the goal, but his low effort ends up in the goalkeeper's gloves.",key_event,Save,"Yilmaz, Kovar",Turkey,148
+czech_republic_turkey,90,4,90+4,"Goal! Orkun Kokcu displays great vision and sends a pass to Cenk Tosun (Turkey), who shows brilliant composure inside the box to bury the ball into the bottom right corner. The score is 1:2.",key_event,Goal,"Kokcu, Tosun",Turkey,195
+czech_republic_turkey,90,5,90+5,"Kaan Ayhan (Turkey) receives a yellow card from the referee as expected.",key_event,Yellow Card,Ayhan,Turkey,71
+czech_republic_turkey,90,5,90+5,"Orkun Kokcu (Turkey) gives the referee no choice but to show him a yellow card.",key_event,Yellow Card,Kokcu,Turkey,79
+czech_republic_turkey,90,7,90+7,"Robin Hranac (Czech Republic) was too forceful with his tackle and Istvan Kovacs interrupted the game to signal a free kick.",general,General,Hranac,Czech Republic,128
+czech_republic_turkey,90,8,90+8,"The referee checks his watch and blows his whistle to signal the end of this match.",key_event,Full Time,,Both,88
+czech_republic_turkey,90,8,90+8,"The match is over and Tomas Chory (Czech Republic) gets a red card for unsporting behaviour.",key_event,Red Card,Chory,Czech Republic,94
+czech_republic_turkey,90,8,90+8,"Tomas Soucek (Czech Republic) gets a yellow card after the final whistle for unsporting behaviour.",key_event,Yellow Card,Soucek,Czech Republic,95
+czech_republic_turkey,90,8,90+8,"Istvan Kovacs shows a yellow card to Arda Guler (Turkey) for his unsportsmanlike behavior after the match has ended.",key_event,Yellow Card,Guler,Turkey,120
+

@@ -1,0 +1,111 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+romania_netherlands,0,0,0,"Felix Zwayer will referee today's match.",general,General,Zwayer,Both,43
+romania_netherlands,0,0,0,"Netherlands will kick the game off.",general,Kick Off,,Netherlands,35
+romania_netherlands,1,0,1,"The referee blows his whistle and we are underway.",key_event,Kick Off,,Both,50
+romania_netherlands,1,0,1,"Felix Zwayer blows the whistle, Memphis Depay (Netherlands) is penalised for a foul.",general,General,Depay,Netherlands,90
+romania_netherlands,2,0,2,"Razvan Marin (Romania) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",general,General,Marin,Romania,116
+romania_netherlands,3,0,3,"Ianis Hagi (Romania) is down injured and the referee stops play so that he can receive medical treatment.",general,General,Hagi,Romania,113
+romania_netherlands,5,0,5,"Steven Bergwijn (Netherlands) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",general,Offside,Bergwijn,Netherlands,153
+romania_netherlands,6,0,6,"A run and shot from the edge of the box by Xavi Simons (Netherlands) causes Florin Nita little worry as it's towards the middle of the goal. Easy save.",key_event,Save,"Simons, Nita",Netherlands,157
+romania_netherlands,6,0,6,"Ianis Hagi (Romania) is moving okay again after that injury scare.",general,General,Hagi,Romania,63
+romania_netherlands,8,0,8,"A pass into the penalty area from Ianis Hagi (Romania) is intercepted by the defence.",general,General,Hagi,Romania,88
+romania_netherlands,10,0,10,"Dennis Man (Romania) swings in a cross, but the ball is cleared to safety by one of the defending players.",general,General,Man,Romania,113
+romania_netherlands,11,0,11,"The game is interrupted as Memphis Depay (Netherlands) is flagged offside.",general,Offside,Depay,Netherlands,71
+romania_netherlands,14,0,14,"Great solo effort from Dennis Man (Romania)! He beat a couple of players and shot from the edge of the box, but the effort rose just over the bar.",key_event,Shot,Man,Romania,152
+romania_netherlands,16,0,16,"Memphis Depay (Netherlands) skips past his man but can't keep the ball in play.",general,General,Depay,Netherlands,77
+romania_netherlands,17,0,17,"Denzel Dumfries (Netherlands) tries to send a pass but it's blocked.",general,General,Dumfries,Netherlands,66
+romania_netherlands,17,0,17,"Memphis Depay (Netherlands) will deliver the corner kick.",general,Corner,Depay,Netherlands,55
+romania_netherlands,17,0,17,"Stefan de Vrij (Netherlands) gets himself onto the end of the corner, but his header is blocked.",key_event,Shot,de Vrij,Netherlands,98
+romania_netherlands,18,0,18,"Corner kick. Memphis Depay (Netherlands) is ready to send the ball into the box.",general,Corner,Depay,Netherlands,78
+romania_netherlands,19,0,19,"The corner from Memphis Depay (Netherlands) is cleared away by the defence.",general,Corner,Depay,Netherlands,75
+romania_netherlands,20,0,20,"Cody Gakpo (Netherlands) finishes his beautiful individual effort with a superb strike from inside the box. Florin Nita is just a bystander as the ball flies into the left side of the goal. The score is 0:1.",key_event,Goal,"Gakpo, Nita",Netherlands,210
+romania_netherlands,21,0,21,"Ianis Hagi (Romania) misses the target from a promising position, sending the ball well wide of the left post.",key_event,Shot,Hagi,Romania,117
+romania_netherlands,22,0,22,"Denzel Dumfries (Netherlands) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",general,General,Dumfries,Netherlands,129
+romania_netherlands,23,0,23,"The ball is whipped in from the corner by Memphis Depay (Netherlands), but one of the defenders gets it clear.",general,Corner,Depay,Netherlands,115
+romania_netherlands,24,0,24,"Nicolae Stanciu sprays a pass out to Dennis Man (Romania), but he produces a poor effort from inside the box which goes well wide of the right post.",key_event,Shot,"Stanciu, Man",Romania,162
+romania_netherlands,26,0,26,"Memphis Depay (Netherlands) will take a corner kick.",general,Corner,Depay,Netherlands,52
+romania_netherlands,26,0,26,"Stefan de Vrij (Netherlands) outbattles the defender to win the ball from the corner, but he can't quite control his header and sends it just wide of the right post.",key_event,Shot,de Vrij,Netherlands,166
+romania_netherlands,26,0,26,"Tijjani Reijnders (Netherlands) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender.",key_event,Shot,Reijnders,Netherlands,133
+romania_netherlands,28,0,28,"Memphis Depay (Netherlands) takes the corner but fails to find any of his teammates.",general,Corner,Depay,Netherlands,84
+romania_netherlands,28,0,28,"Poor challenge! Denis Dragus (Romania) is penalised for tripping and Felix Zwayer blows his whistle.",general,General,Dragus,Romania,107
+romania_netherlands,29,0,29,"Memphis Depay (Netherlands) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",general,Free Kick,Depay,Netherlands,125
+romania_netherlands,30,0,30,"Denzel Dumfries (Netherlands) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",general,General,Dumfries,Netherlands,139
+romania_netherlands,30,0,30,"Memphis Depay (Netherlands) puts a dangerous cross into the box, but the corner is cleared by the first man.",general,Corner,Depay,Netherlands,114
+romania_netherlands,31,0,31,"Denzel Dumfries (Netherlands) tries to send the ball in front of the goal, but the opposition's defence averts the threat.",general,General,Dumfries,Netherlands,128
+romania_netherlands,32,0,32,"Memphis Depay (Netherlands) will take the corner.",general,Corner,Depay,Netherlands,49
+romania_netherlands,32,0,32,"Nathan Ake (Netherlands) fouls an opponent during an attacking move.",general,General,Ake,Netherlands,70
+romania_netherlands,32,0,32,"Denzel Dumfries (Netherlands) gives away a foul for a clumsy challenge. Referee Felix Zwayer saw the whole situation.",general,General,Dumfries,Netherlands,122
+romania_netherlands,32,0,32,"Vasile Mogos (Romania) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",general,General,Mogos,Romania,148
+romania_netherlands,34,0,34,"The actual number of corner kicks in this match – 0:8.",general,General,,Both,52
+romania_netherlands,35,0,35,"Cody Gakpo (Netherlands) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",general,General,Gakpo,Netherlands,174
+romania_netherlands,35,0,35,"Denzel Dumfries (Netherlands) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",general,General,Dumfries,Netherlands,170
+romania_netherlands,37,0,37,"Netherlands are showing great team chemistry. They are passing the ball around seamlessly.",general,General,,Netherlands,94
+romania_netherlands,38,0,38,"Edward Iordanescu is forced to make a change. Vasile Mogos is not able to carry on due to injury. He is replaced by Bogdan Racovitan (Romania).",key_event,Substitution,"Mogos, Racovitan, Iordanescu",Romania,144
+romania_netherlands,39,0,39,"Xavi Simons (Netherlands) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort.",general,General,Simons,Netherlands,181
+romania_netherlands,40,0,40,"Xavi Simons (Netherlands) attempts to find a teammate with the corner, but the effort is snuffed out by the goalkeeper.",general,Corner,Simons,Netherlands,120
+romania_netherlands,41,0,41,"Denzel Dumfries (Netherlands) produces a dangerous lofted cross into the box which is intercepted.",general,General,Dumfries,Netherlands,101
+romania_netherlands,43,0,43,"Memphis Depay (Netherlands) sends over a poor, overhit cross from the corner kick and the ball goes out of play.",general,Corner,Depay,Netherlands,117
+romania_netherlands,44,0,44,"Denzel Dumfries provides the assist in the box, but Xavi Simons (Netherlands) places his shot a fraction wide of the right post.",key_event,Shot,"Dumfries, Simons",Netherlands,141
+romania_netherlands,45,0,45,"There will be a minimum of 3 min. of added time.",general,General,,Both,54
+romania_netherlands,45,1,45+1,"Felix Zwayer blows for a foul after Marius Marin (Romania) was too aggressive in the battle for the ball.",general,General,Marin,Romania,108
+romania_netherlands,45,2,45+2,"Bart Verbruggen makes a brilliant save! Denis Dragus (Romania) easily weaves through the defence and fires the ball from mid-range. His effort goes towards the middle of the goal but is saved by the keeper!",key_event,Save,"Verbruggen, Dragus",Romania,208
+romania_netherlands,45,4,45+4,"Ianis Hagi (Romania) sends a pass into the box, but his attempt is thwarted and cleared.",general,General,Hagi,Romania,90
+romania_netherlands,45,4,45+4,"Ianis Hagi (Romania) whips in the corner, but one of the defending players gets a head on it and intercepts.",general,Corner,Hagi,Romania,113
+romania_netherlands,45,4,45+4,"The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",general,Half Time,,Both,104
+romania_netherlands,46,0,46,"The referee blows his whistle to signal the start of the second half.",key_event,Kick Off,,Both,69
+romania_netherlands,46,0,46,"The teams are back out for the second half and here is a change on the pitch. Ronald Koeman gives a chance to Donyell Malen and Steven Bergwijn (Netherlands) is off.",key_event,Substitution,"Bergwijn, Malen, Koeman",Netherlands,168
+romania_netherlands,46,0,46,"The attendance for today's match is 65012.",general,General,,Both,47
+romania_netherlands,47,0,47,"Stefan de Vrij (Netherlands) commits a rough challenge and Felix Zwayer blows his whistle for a foul.",general,General,de Vrij,Netherlands,105
+romania_netherlands,48,0,48,"Nicolae Stanciu (Romania) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball.",general,Free Kick,Stanciu,Romania,210
+romania_netherlands,49,0,49,"Ianis Hagi (Romania) tackles a bit over-zealously and Felix Zwayer blows for a foul.",general,General,Hagi,Romania,88
+romania_netherlands,50,0,50,"Tijjani Reijnders (Netherlands) blasts the ball from just outside the box, but his attempt is blocked by the defender.",key_event,Shot,Reijnders,Netherlands,126
+romania_netherlands,50,0,50,"Donyell Malen (Netherlands) latches on to a superb cross into the box and plants a header well wide of the right post.",key_event,Shot,Malen,Netherlands,128
+romania_netherlands,51,0,51,"Foul! Virgil van Dijk (Netherlands) is penalised for pulling back his opponent.",general,General,van Dijk,Netherlands,78
+romania_netherlands,52,0,52,"Nicolae Stanciu (Romania) takes the free kick from a long way out but the defender manages to get it clear.",general,Free Kick,Stanciu,Romania,112
+romania_netherlands,54,0,54,"Donyell Malen (Netherlands) wastes a good opportunity as his pass into the box is blocked by the defence.",general,General,Malen,Netherlands,107
+romania_netherlands,54,0,54,"Memphis Depay (Netherlands) is first to the rebound but his shot is blocked. Wow, what an escape there for the opposition.",key_event,Shot,Depay,Netherlands,129
+romania_netherlands,55,0,55,"Cody Gakpo (Netherlands) attempts to find Denzel Dumfries, but puts far too much on the pass and the chance is gone.",general,General,"Gakpo, Dumfries",Netherlands,125
+romania_netherlands,57,0,57,"Tijjani Reijnders (Netherlands) spanks one well wide of the left post from the edge of the box.",key_event,Shot,Reijnders,Netherlands,99
+romania_netherlands,58,0,58,"Donyell Malen (Netherlands) fails to find any of his teammates inside the box as his pass is blocked.",general,General,Malen,Netherlands,106
+romania_netherlands,58,0,58,"Memphis Depay (Netherlands) steps up to send the ball in.",general,Corner,Depay,Netherlands,55
+romania_netherlands,58,0,58,"Virgil van Dijk (Netherlands) latches on to the corner kick inside the box, but his header from near the penalty spot crashes against the right post! The goalkeeper would have been helpless.",key_event,Hit Post,van Dijk,Netherlands,182
+romania_netherlands,59,0,59,"What a wasted opportunity by Cody Gakpo (Netherlands)! He creates himself some space inside the penalty box and unleashes a decent strike towards the left side of the goal, but Florin Nita makes an astonishing save to thwart him.",key_event,Save,"Gakpo, Nita",Netherlands,219
+romania_netherlands,60,0,60,"Denis Dragus (Romania) has a shot blocked from inside the box.",key_event,Shot,Dragus,Romania,62
+romania_netherlands,60,0,60,"Romania take a short corner kick.",general,Corner,,Romania,34
+romania_netherlands,60,0,60,"Razvan Marin (Romania) takes the corner but it's cleared.",general,Corner,Marin,Romania,57
+romania_netherlands,62,0,62,"Cody Gakpo (Netherlands) wasted a huge opportunity! The fans already began to celebrate as he produced a shot from the edge of the box after a brilliant solo effort. The ball went towards the left side of the goal, but Florin Nita made an astonishing save!",key_event,Save,"Gakpo, Nita",Netherlands,244
+romania_netherlands,63,0,63,"Memphis Depay (Netherlands) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",general,Corner,Depay,Netherlands,149
+romania_netherlands,63,0,63,"Goal! Cody Gakpo (Netherlands) pounced on a loose ball inside the box and beats the goalkeeper with a shot into the top of the net. He makes it 0:2.",key_event,Disallowed Goal,Gakpo,Netherlands,155
+romania_netherlands,64,0,64,"The Netherlands players halt their celebrations as referee Felix Zwayer makes the VAR signal to review the goal, most likely to ascertain if there was an offside in the build-up play.",general,VAR,,Netherlands,179
+romania_netherlands,65,0,65,"Here comes the VAR verdict. NO GOAL for Netherlands due to an offside in the build-up play.",general,VAR,,Netherlands,94
+romania_netherlands,67,0,67,"Some patient build-up play from Netherlands as they look to unlock the defence.",general,General,,Netherlands,79
+romania_netherlands,67,0,67,"Marius Marin (Romania) commits a foul and is shown a yellow card without any hesitation from the referee.",key_event,Yellow Card,Marin,Romania,109
+romania_netherlands,68,0,68,"Memphis Depay (Netherlands) strikes the ball from a direct free kick on the edge of the box. His shot only goes narrowly wide of the left post.",key_event,Shot,Depay,Netherlands,145
+romania_netherlands,69,0,69,"It's time for a substitution. Micky van de Ven (Netherlands) comes on in place of Nathan Ake.",key_event,Substitution,"Ake, van de Ven",Netherlands,95
+romania_netherlands,69,0,69,"Ronald Koeman has decided to make a change. Joey Veerman (Netherlands) replaces Jerdy Schouten.",key_event,Substitution,"Schouten, Veerman, Koeman",Netherlands,98
+romania_netherlands,71,0,71,"Memphis Depay (Netherlands) gets on the ball and beats an opponent, but his run is stopped by the referee Felix Zwayer who sees an offensive foul.",general,General,Depay,Netherlands,146
+romania_netherlands,72,0,72,"Substitution. Denis Alibec (Romania) receives a signal from the referee and is now allowed to enter the pitch as Ianis Hagi walks off.",key_event,Substitution,"Hagi, Alibec",Romania,141
+romania_netherlands,72,0,72,"The referee stops play so that a substitution can be made and Valentin Mihaila (Romania) replaces Denis Dragus.",key_event,Substitution,"Dragus, Mihaila",Romania,121
+romania_netherlands,72,0,72,"Here is a change. Marius Marin is going off and Edward Iordanescu gives the last tactical orders to Alexandru Cicaldau (Romania).",key_event,Substitution,"Marin, Cicaldau, Iordanescu",Romania,125
+romania_netherlands,73,0,73,"What a big chance! Micky van de Ven (Netherlands) picks up an inch-perfect pass inside the box and fires the ball a whisker wide of the right post.",key_event,Shot,van de Ven,Netherlands,149
+romania_netherlands,74,0,74,"Cody Gakpo (Netherlands) is adjudged offside.",general,Offside,Gakpo,Netherlands,46
+romania_netherlands,76,0,76,"Cody Gakpo (Netherlands) serves up a nice cross, but the defence clears the danger.",general,General,Gakpo,Netherlands,85
+romania_netherlands,76,0,76,"Cody Gakpo (Netherlands) is penalised for a foul. Felix Zwayer had a clear view and blows his whistle.",general,General,Gakpo,Netherlands,108
+romania_netherlands,78,0,78,"Denzel Dumfries (Netherlands) goes into the book and receives a yellow card.",key_event,Yellow Card,Dumfries,Netherlands,74
+romania_netherlands,79,0,79,"Memphis Depay (Netherlands) fires the ball at goal from inside the area, but it's well blocked.",key_event,Shot,Depay,Netherlands,96
+romania_netherlands,80,0,80,"A defender unwittingly blocks the ball on the line after a snap shot from Cody Gakpo (Netherlands) inside the box following a slide rule pass.",key_event,Shot,Gakpo,Netherlands,145
+romania_netherlands,81,0,81,"Nothing comes of the resulting corner from Memphis Depay (Netherlands). The defence is alert and manages to cut it out.",general,Corner,Depay,Netherlands,121
+romania_netherlands,81,0,81,"Nicolae Stanciu (Romania) picked up a yellow card for talking out of turn to the referee. He has to be careful for the remainder of the match.",key_event,Yellow Card,Stanciu,Romania,147
+romania_netherlands,83,0,83,"Goal! Donyell Malen (Netherlands) finishes from close range with an easy finish and he makes it 0:2. He was ably assisted there by Cody Gakpo.",key_event,Goal,"Malen, Gakpo",Netherlands,155
+romania_netherlands,84,0,84,"We are about to witness a substitution. Wout Weghorst (Netherlands) is replacing Cody Gakpo.",key_event,Substitution,"Gakpo, Weghorst",Netherlands,95
+romania_netherlands,85,0,85,"Memphis Depay (Netherlands) makes some space to meet a perfect cross inside the box, but he blazes his shot over the bar. High, wide and not at all pretty.",key_event,Shot,Depay,Netherlands,162
+romania_netherlands,87,0,87,"The total number of attempts is 5:23.",general,General,,Both,42
+romania_netherlands,88,0,88,"Edward Iordanescu has decided to introduce fresh legs, with Darius Olaru (Romania) replacing Nicolae Stanciu.",key_event,Substitution,"Stanciu, Olaru, Iordanescu",Romania,115
+romania_netherlands,90,0,90,"A pass from Micky van de Ven (Netherlands) is intercepted by Florin Nita and the move breaks down.",general,General,"van de Ven, Nita",Netherlands,101
+romania_netherlands,90,0,90,"The fourth official shows 4 min. of added time.",general,General,,Both,50
+romania_netherlands,90,2,90+2,"The referee stops play so that a substitution can be made and Memphis Depay trots off the pitch and is replaced by Daley Blind (Netherlands).",key_event,Substitution,"Depay, Blind",Netherlands,147
+romania_netherlands,90,3,90+3,"Valentin Mihaila (Romania) is heading toward the corner flag to take the set piece.",general,Corner,Mihaila,Romania,85
+romania_netherlands,90,3,90+3,"An amazing individual effort from Donyell Malen (Netherlands) ends with a strike from inside the penalty area. He sends the ball precisely into the bottom left corner and makes it 0:3. Florin Nita was helpless.",key_event,Goal,"Malen, Nita",Netherlands,216
+romania_netherlands,90,4,90+4,"Donyell Malen (Netherlands) goes in the referee's notebook after being shown a yellow card.",key_event,Yellow Card,Malen,Netherlands,90
+romania_netherlands,90,5,90+5,"That's all for today as the game is over.",key_event,Full Time,,Both,43
+

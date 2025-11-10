@@ -1,0 +1,91 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+france_belgium,0,0,0,"First Half begins.",key_event,Kick Off,,Both,19
+france_belgium,2,0,2,"Attempt missed. Adrien Rabiot (France) left footed shot from the centre of the box misses to the left. Assisted by Aurélien Tchouaméni with a cross.",general,General,"Rabiot, Tchouaméni",France,144
+france_belgium,3,0,3,"Offside, France. Marcus Thuram is caught offside.",general,Offside,Thuram,France,52
+france_belgium,10,0,10,"Attempt saved. Antoine Griezmann (France) left footed shot from outside the box is saved in the centre of the goal. Assisted by Adrien Rabiot.",general,General,"Griezmann, Rabiot",France,142
+france_belgium,14,0,14,"Corner, France. Conceded by Timothy Castagne.",general,Corner,Castagne,France,47
+france_belgium,14,0,14,"Attempt missed. Kylian Mbappé (France) right footed shot from the left side of the box is high and wide to the right. Assisted by Théo Hernández following a corner.",general,Corner,"Mbappé, Hernández",France,159
+france_belgium,14,0,14,"Aurélien Tchouaméni (France) is shown the yellow card.",key_event,Yellow Card,Tchouaméni,France,52
+france_belgium,17,0,17,"Corner, France. Conceded by Arthur Theate.",general,Corner,Theate,France,45
+france_belgium,18,0,18,"Attempt missed. Marcus Thuram (France) header from the centre of the box is high and wide to the right. Assisted by Antoine Griezmann with a cross following a corner.",general,Corner,"Thuram, Griezmann",France,158
+france_belgium,20,0,20,"Attempt missed. Adrien Rabiot (France) left footed shot from outside the box is high and wide to the right. Assisted by Aurélien Tchouaméni.",general,General,"Rabiot, Tchouaméni",France,140
+france_belgium,23,0,23,"Foul by Antoine Griezmann (France).",general,Foul,Griezmann,France,37
+france_belgium,23,0,23,"Jérémy Doku (Belgium) wins a free kick on the left wing.",general,Free Kick,Doku,Belgium,58
+france_belgium,23,0,23,"Antoine Griezmann (France) is shown the yellow card for a bad foul.",key_event,Yellow Card,Griezmann,France,68
+france_belgium,24,0,24,"Foul by Adrien Rabiot (France).",general,Foul,Rabiot,France,32
+france_belgium,24,0,24,"Jérémy Doku (Belgium) wins a free kick in the defensive half.",general,Free Kick,Doku,Belgium,63
+france_belgium,24,0,24,"Adrien Rabiot (France) is shown the yellow card for a bad foul.",key_event,Yellow Card,Rabiot,France,63
+france_belgium,25,0,25,"Delay in match because of an injury Jérémy Doku (Belgium).",general,Injury,Doku,Belgium,60
+france_belgium,26,0,26,"Delay over. They are ready to continue.",general,General,,Both,42
+france_belgium,27,0,27,"Attempt blocked. Yannick Carrasco (Belgium) left footed shot from the centre of the box is blocked.",general,General,Carrasco,Belgium,100
+france_belgium,33,0,33,"Antoine Griezmann (France) wins a free kick in the defensive half.",general,Free Kick,Griezmann,France,66
+france_belgium,33,0,33,"Foul by Kevin De Bruyne (Belgium).",general,Foul,De Bruyne,Belgium,35
+france_belgium,34,0,34,"Attempt missed. Marcus Thuram (France) header from the centre of the box is close, but misses the top right corner. Assisted by Jules Koundé with a cross.",general,General,"Thuram, Koundé",France,147
+france_belgium,35,0,35,"Foul by Jules Koundé (France).",general,Foul,Koundé,France,30
+france_belgium,35,0,35,"Jérémy Doku (Belgium) wins a free kick in the defensive half.",general,Free Kick,Doku,Belgium,63
+france_belgium,36,0,36,"Aurélien Tchouaméni (France) wins a free kick in the defensive half.",general,Free Kick,Tchouaméni,France,66
+france_belgium,36,0,36,"Foul by Loïs Openda (Belgium).",general,Foul,Openda,Belgium,31
+france_belgium,39,0,39,"Attempt missed. Aurélien Tchouaméni (France) right footed shot from outside the box is close, but misses the top right corner. Assisted by Antoine Griezmann.",general,General,"Tchouaméni, Griezmann",France,154
+france_belgium,41,0,41,"Attempt missed. Marcus Thuram (France) right footed shot from the centre of the box misses to the right.",general,General,Thuram,France,96
+france_belgium,43,0,43,"Delay in match because of an injury Arthur Theate (Belgium).",general,Injury,Theate,Belgium,60
+france_belgium,44,0,44,"Delay over. They are ready to continue.",general,General,,Both,42
+france_belgium,44,0,44,"Adrien Rabiot (France) wins a free kick in the defensive half.",general,Free Kick,Rabiot,France,61
+france_belgium,44,0,44,"Foul by Kevin De Bruyne (Belgium).",general,Foul,De Bruyne,Belgium,35
+france_belgium,45,0,45,"Corner, France. Conceded by Wout Faes.",general,Corner,Faes,France,42
+france_belgium,45,1,45+1,"Attempt missed. Aurélien Tchouaméni (France) right footed shot from the centre of the box is too high following a corner.",general,Corner,Tchouaméni,France,119
+france_belgium,45,2,45+2,"First Half ends, France 0, Belgium 0.",general,Half Time,,Both,40
+france_belgium,45,0,45,"Second Half begins France 0, Belgium 0.",key_event,Kick Off,,Both,43
+france_belgium,49,0,49,"Attempt saved. Aurélien Tchouaméni (France) right footed shot from outside the box is saved in the bottom right corner. Assisted by N'Golo Kanté.",general,General,"Tchouaméni, Kanté",France,150
+france_belgium,49,0,49,"Corner, France. Conceded by Koen Casteels.",general,Corner,Casteels,France,47
+france_belgium,50,0,50,"Attempt blocked. Kylian Mbappé (France) right footed shot from the left side of the box is blocked. Assisted by Aurélien Tchouaméni.",general,General,"Mbappé, Tchouaméni",France,136
+france_belgium,50,0,50,"Foul by Loïs Openda (Belgium).",general,Foul,Openda,Belgium,31
+france_belgium,50,0,50,"Théo Hernández (France) wins a free kick on the left wing.",general,Free Kick,Hernández,France,59
+france_belgium,50,0,50,"Attempt missed. Marcus Thuram (France) with an attempt from the centre of the box is just a bit too high. Assisted by Jules Koundé with a cross following a set piece situation.",general,General,"Thuram, Koundé",France,166
+france_belgium,54,0,54,"Attempt missed. Kylian Mbappé (France) right footed shot from the left side of the box is too high. Assisted by Adrien Rabiot.",general,General,"Mbappé, Rabiot",France,135
+france_belgium,56,0,56,"Attempt missed. Kylian Mbappé (France) right footed shot from the centre of the box misses to the left. Assisted by Jules Koundé with a cross.",general,General,"Mbappé, Koundé",France,138
+france_belgium,58,0,58,"Foul by Jules Koundé (France).",general,Foul,Koundé,France,30
+france_belgium,58,0,58,"Jérémy Doku (Belgium) wins a free kick in the defensive half.",general,Free Kick,Doku,Belgium,63
+france_belgium,59,0,59,"Antoine Griezmann (France) wins a free kick in the defensive half.",general,Free Kick,Griezmann,France,66
+france_belgium,59,0,59,"Foul by Jérémy Doku (Belgium).",general,Foul,Doku,Belgium,31
+france_belgium,60,0,60,"Foul by Amadou Onana (Belgium).",general,Foul,Onana,Belgium,33
+france_belgium,60,0,60,"Kylian Mbappé (France) wins a free kick on the left wing.",general,Free Kick,Mbappé,France,58
+france_belgium,61,0,61,"Attempt blocked. Yannick Carrasco (Belgium) right footed shot from the right side of the box is blocked. Assisted by Kevin De Bruyne with a through ball.",general,General,"Carrasco, De Bruyne",Belgium,150
+france_belgium,61,0,61,"Corner, Belgium. Conceded by Théo Hernández.",general,Corner,Hernández,Belgium,47
+france_belgium,62,0,62,"Substitution, France. Randal Kolo Muani replaces Marcus Thuram.",key_event,Substitution,"Thuram, Kolo Muani",France,67
+france_belgium,63,0,63,"Substitution, Belgium. Orel Mangala replaces Loïs Openda.",key_event,Substitution,"Openda, Mangala",Belgium,60
+france_belgium,64,0,64,"Foul by Romelu Lukaku (Belgium).",general,Foul,Lukaku,Belgium,34
+france_belgium,64,0,64,"Jules Koundé (France) wins a free kick on the right wing.",general,Free Kick,Koundé,France,56
+france_belgium,65,0,65,"Attempt missed. Antoine Griezmann (France) right footed shot from outside the box is close, but misses to the right. Assisted by Adrien Rabiot.",general,General,"Griezmann, Rabiot",France,143
+france_belgium,69,0,69,"Attempt missed. Aurélien Tchouaméni (France) right footed shot from outside the box is close, but misses the top right corner. Assisted by Antoine Griezmann.",general,General,"Tchouaméni, Griezmann",France,154
+france_belgium,71,0,71,"Attempt saved. Romelu Lukaku (Belgium) left footed shot from the left side of the box is saved in the centre of the goal. Assisted by Orel Mangala.",general,General,"Lukaku, Mangala",Belgium,142
+france_belgium,71,0,71,"Delay in match (France).",general,General,,France,23
+france_belgium,72,0,72,"Delay over. They are ready to continue.",general,General,,Both,42
+france_belgium,73,0,73,"Corner, France. Conceded by Arthur Theate.",general,Corner,Theate,France,45
+france_belgium,74,0,74,"Attempt missed. William Saliba (France) left footed shot from the right side of the box is close, but misses to the right. Assisted by Jules Koundé following a corner.",general,Corner,"Saliba, Koundé",France,149
+france_belgium,76,0,76,"Foul by Jan Vertonghen (Belgium).",general,Foul,Vertonghen,Belgium,35
+france_belgium,76,0,76,"Randal Kolo Muani (France) wins a free kick in the defensive half.",general,Free Kick,Kolo Muani,France,66
+france_belgium,76,0,76,"Jan Vertonghen (Belgium) is shown the yellow card.",key_event,Yellow Card,Vertonghen,Belgium,51
+france_belgium,78,0,78,"Attempt missed. Kylian Mbappé (France) right footed shot from the centre of the box is high and wide to the right. Assisted by Jules Koundé.",general,General,"Mbappé, Koundé",France,138
+france_belgium,79,0,79,"Foul by Randal Kolo Muani (France).",general,Foul,Kolo Muani,France,37
+france_belgium,79,0,79,"Orel Mangala (Belgium) wins a free kick in the defensive half.",general,Free Kick,Mangala,Belgium,61
+france_belgium,81,0,81,"Foul by Yannick Carrasco (Belgium).",general,Foul,Carrasco,Belgium,36
+france_belgium,81,0,81,"Théo Hernández (France) wins a free kick in the defensive half.",general,Free Kick,Hernández,France,62
+france_belgium,82,0,82,"Foul by N'Golo Kanté (France).",general,Foul,Kanté,France,30
+france_belgium,82,0,82,"Jérémy Doku (Belgium) wins a free kick in the defensive half.",general,Free Kick,Doku,Belgium,63
+france_belgium,83,0,83,"Attempt saved. Kevin De Bruyne (Belgium) right footed shot from outside the box is saved in the centre of the goal. Assisted by Jérémy Doku.",general,General,"De Bruyne, Doku",Belgium,145
+france_belgium,85,0,85,"Attempt missed. Randal Kolo Muani (France) right footed shot from the right side of the box misses to the left. Assisted by N'Golo Kanté.",general,General,"Kolo Muani, Kanté",France,138
+france_belgium,85,0,85,"Own Goal by Jan Vertonghen, Belgium. France 1, Belgium 0.",key_event,Goal,Vertonghen,Belgium,61
+france_belgium,88,0,88,"Substitution, Belgium. Dodi Lukébakio replaces Yannick Carrasco.",key_event,Substitution,"Carrasco, Lukébakio",Belgium,66
+france_belgium,88,0,88,"Substitution, Belgium. Charles De Ketelaere replaces Timothy Castagne.",key_event,Substitution,"Castagne, De Ketelaere",Belgium,71
+france_belgium,89,0,89,"Charles De Ketelaere (Belgium) wins a free kick in the defensive half.",general,Free Kick,De Ketelaere,Belgium,68
+france_belgium,89,0,89,"Foul by William Saliba (France).",general,Foul,Saliba,France,33
+france_belgium,90,0,90,"Attempt missed. Arthur Theate (Belgium) left footed shot from outside the box is close, but misses to the right.",general,General,Theate,Belgium,116
+france_belgium,90,0,90,"Delay in match (France).",general,General,,France,23
+france_belgium,90,0,90,"Delay over. They are ready to continue.",general,General,,Both,42
+france_belgium,90,2,90+2,"Corner, Belgium. Conceded by Dayot Upamecano.",general,Corner,Upamecano,Belgium,49
+france_belgium,90,3,90+3,"Foul by Orel Mangala (Belgium).",general,Foul,Mangala,Belgium,33
+france_belgium,90,3,90+3,"Randal Kolo Muani (France) wins a free kick on the right wing.",general,Free Kick,Kolo Muani,France,62
+france_belgium,90,3,90+3,"Orel Mangala (Belgium) is shown the yellow card for a bad foul.",key_event,Yellow Card,Mangala,Belgium,63
+france_belgium,90,4,90+4,"Second Half ends, France 1, Belgium 0.",general,Full Time,,Both,41
+france_belgium,90,4,90+4,"Match ends, France 1, Belgium 0.",key_event,Full Time,,Both,35
+

@@ -1,0 +1,91 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+poland_austria,0,0,0,"Halil Umut Meler will referee today's match.",general,General,Meler,Both,48
+poland_austria,0,0,0,"The match will be delayed due to minute of silence.",general,General,,Both,56
+poland_austria,0,0,0,"The players are out and the match is about to start. Austria will have the kick-off.",general,Kick Off,,Austria,87
+poland_austria,1,0,1,"The first half has just begun.",key_event,Kick Off,,Both,32
+poland_austria,1,0,1,"A pass into the penalty area from Marcel Sabitzer (Austria) is intercepted by the defence.",general,General,Sabitzer,Austria,101
+poland_austria,1,0,1,"Stefan Posch (Austria) tries his luck with a long-range effort after receiving a precise pass, but Wojciech Szczesny has a clear view of it and makes a comfortable save.",key_event,Save,"Posch, Szczesny",Austria,177
+poland_austria,3,0,3,"Phillipp Mwene (Austria) picks out Marko Arnautovic with a fine lofted pass, but the latter wasn't able to create some space to get into shooting range.",general,General,"Mwene, Arnautovic",Austria,164
+poland_austria,4,0,4,"Marcel Sabitzer (Austria) tries to find Marko Arnautovic, but he puts too much power on the pass. The ball goes out of play and Poland will have a goal kick.",general,General,"Sabitzer, Arnautovic",Austria,162
+poland_austria,5,0,5,"Stefan Posch (Austria) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. The ball is out of play. Austria will have a chance to score from a corner.",general,Corner,Posch,Austria,236
+poland_austria,5,0,5,"The goalkeeper punched the ball away after Marcel Sabitzer (Austria) took the corner.",general,Corner,"Szczesny, Sabitzer",Austria,88
+poland_austria,7,0,7,"Pawel Dawidowicz (Poland) pulls the jersey of one of the opposition players and Halil Umut Meler blows his whistle for a foul. Austria have a free kick.",general,Free Kick,Dawidowicz,Poland,165
+poland_austria,7,0,7,"A poorly executed mid-range free kick by Marcel Sabitzer (Austria) as he fails to deliver a decent cross. The ball is off of the pitch and it's a goal kick for Poland.",general,Free Kick,Sabitzer,Austria,175
+poland_austria,8,0,8,"Marcel Sabitzer (Austria) puts a cross into the box from the free kick but it's cleared.",general,Free Kick,Sabitzer,Austria,92
+poland_austria,9,0,9,"Phillipp Mwene displays his great technique and produces a beautiful lofted cross deep into the box. Gernot Trauner (Austria) gets onto the scoresheet by superbly heading it into the top left corner - 0:1.",key_event,Goal,"Mwene, Trauner",Austria,213
+poland_austria,10,0,10,"Marcel Sabitzer (Austria) is caught off guard a bit when the ball lands at his feet, causing him to rush a first-time shot that is easily blocked by an opposition player.",general,General,Sabitzer,Austria,175
+poland_austria,12,0,12,"Phillipp Mwene (Austria) delivers a promising cross into the box, but it's cleared.",general,General,Mwene,Austria,86
+poland_austria,15,0,15,"Christoph Baumgartner passes to Marko Arnautovic (Austria), but he produces a wild shot from the edge of the box which goes well wide of the right post.",key_event,Shot,"Baumgartner, Arnautovic",Austria,164
+poland_austria,17,0,17,"Marcel Sabitzer (Austria) receives a precise pass inside the box and drills a promising first-time blast towards the middle of the goal. His effort is blocked by Wojciech Szczesny who dives to keep the ball out. What a save!",key_event,Save,"Sabitzer, Szczesny",Austria,232
+poland_austria,17,0,17,"Piotr Zielinski (Poland) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away.",key_event,Shot,Zielinski,Poland,246
+poland_austria,18,0,18,"Surely that's handball by one of the Austria players in the box, but the referee just waves play on!",general,General,,Austria,110
+poland_austria,18,0,18,"Nicola Zalewski (Poland) rips an amazing volley from deep inside the box that goes narrowly over the crossbar.",key_event,Shot,Zalewski,Poland,118
+poland_austria,21,0,21,"Halil Umut Meler has a clear sight and sees a foul from Stefan Posch (Austria).",general,General,Posch,Austria,81
+poland_austria,23,0,23,"The referee stops play as the linesman flags Marko Arnautovic (Austria) offside.",general,Offside,Arnautovic,Austria,84
+poland_austria,24,0,24,"Krzysztof Piatek (Poland) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Piotr Zielinski (Poland) receives a rebound and has a go from distance. His shot flies towards the goal, but is blocked at the last moment by a defender.",general,General,"Piatek, Zielinski",Poland,271
+poland_austria,27,0,27,"The defence had a hard time blocking out the strike from Piotr Zielinski (Poland). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate.",general,General,Zielinski,Poland,186
+poland_austria,29,0,29,"Przemyslaw Frankowski (Poland) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Poland win a corner.",general,Corner,Frankowski,Poland,168
+poland_austria,30,0,30,"Piotr Zielinski (Poland) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",general,Corner,Zielinski,Poland,175
+poland_austria,30,0,30,"It's in the back of the net! Jan Bednarek has a shot blocked, but the ball falls to Krzysztof Piatek (Poland) who finds some space inside the box and buries the ball into the bottom right corner. The score is 1:1.",key_event,Goal,"Bednarek, Piatek",Poland,220
+poland_austria,33,0,33,"Phillipp Mwene (Austria) found some space to dink a cross from the side into the box, but it needed to be more precise to threaten the opposition. The ball is off of the pitch and it's a goal kick for Poland.",general,General,Mwene,Austria,199
+poland_austria,34,0,34,"Halil Umut Meler blows his whistle after Pawel Dawidowicz (Poland) kicks an opponent's legs instead of the ball. A free kick has been awarded to Austria.",general,Free Kick,Dawidowicz,Poland,162
+poland_austria,37,0,37,"Przemyslaw Frankowski (Poland) makes a rough challenge and the referee blows for a foul.",general,General,Frankowski,Poland,91
+poland_austria,39,0,39,"Marcel Sabitzer (Austria) receives a neat pass inside the box and instantly thumps the ball goalward, but a defender makes a last ditch block to deny him.",key_event,Shot,Sabitzer,Austria,161
+poland_austria,42,0,42,"Marcel Sabitzer (Austria) collects a wonderful lead pass and creates some space to smash the ball goalwards from long range. His shot goes painfully wide of the left post!",key_event,Shot,Sabitzer,Austria,179
+poland_austria,45,0,45,"Stefan Posch (Austria) makes a reckless foul in order to win the ball from his opponent. Halil Umut Meler has a clear sight of it and blows his whistle. Poland are awarded a free kick from a dangerous position.",general,Free Kick,Posch,Austria,205
+poland_austria,45,0,45,"The fourth official shows 1 min. of added time.",general,General,,Both,54
+poland_austria,45,1,45+1,"Piotr Zielinski (Poland) releases a promising shot from the free kick on the edge of the box. His effort towards the right post is comfortably saved by Patrick Pentz. The linesman points to the corner flag, Poland are going to take it.",general,Corner,"Zielinski, Pentz",Poland,236
+poland_austria,45,2,45+2,"Piotr Zielinski (Poland) floats the ball in from the corner but it's intercepted.",general,Corner,Zielinski,Poland,84
+poland_austria,45,2,45+2,"The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",general,Half Time,,Both,112
+poland_austria,46,0,46,"The second half has just started.",key_event,Kick Off,,Both,35
+poland_austria,46,0,46,"Half-time substitution. Michal Probierz decided to make a change. Jakub Piotrowski (Poland) is replaced by Jakub Moder.",key_event,Substitution,"Piotrowski, Moder, Probierz",Poland,131
+poland_austria,46,0,46,"Here is a change after the half-time break. Florian Grillitsch (Austria) is replaced by Patrick Wimmer.",key_event,Substitution,"Grillitsch, Wimmer",Austria,113
+poland_austria,47,0,47,"The cross into the penalty area from Marcel Sabitzer (Austria) needed to be more accurate in order to create a goal-scoring opportunity for his team. The linesman signals a throw-in for Poland.",general,General,Sabitzer,Austria,194
+poland_austria,49,0,49,"Stefan Posch (Austria) received a pass out of defence and immediately attempted a long-range shot, but a defender bravely blocked the effort.",general,General,Posch,Austria,152
+poland_austria,51,0,51,"Patrick Wimmer (Austria) swings in a cross, but the ball is cleared to safety by one of the defending players. The ball goes out of play. Austria are awarded a corner kick.",general,Corner,Wimmer,Austria,173
+poland_austria,51,0,51,"Patrick Wimmer (Austria) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",general,Corner,Wimmer,Austria,128
+poland_austria,51,0,51,"Stefan Posch (Austria) outjumps the defence to meet the resulting corner and heads the ball towards the top of the net. The long-range header is not powerful enough, and the keeper comfortably makes a save.",key_event,Save,"Posch, Szczesny",Austria,212
+poland_austria,52,0,52,"Krzysztof Piatek (Poland) gets the ball and drives a shot high over the bar from the edge of the area.",key_event,Shot,Piatek,Poland,111
+poland_austria,52,0,52,"Jakub Moder (Poland) fails to pick a body out in the box with an over-hit chip pass. The ball is off of the pitch and it's a goal kick for Austria.",general,General,Moder,Poland,158
+poland_austria,53,0,53,"This yellow card was deserved. The tackle by Bartosz Slisz (Poland) was quite harsh and Halil Umut Meler didn't hesitate to show him a yellow card.",key_event,Yellow Card,Slisz,Poland,161
+poland_austria,54,0,54,"Marcel Sabitzer (Austria) sends in a lofted cross from a mid-range free kick, but his poor effort goes out of play. The ball is off of the pitch and it's a goal kick for Poland.",general,Free Kick,Sabitzer,Austria,178
+poland_austria,55,0,55,"A defender unwittingly blocks the ball on the line after a snap shot from Marcel Sabitzer (Austria) inside the box following a slide rule pass.",general,General,Sabitzer,Austria,148
+poland_austria,56,0,56,"Patrick Wimmer (Austria) makes it easy for the referee to show him a yellow card.",key_event,Yellow Card,Wimmer,Austria,84
+poland_austria,57,0,57,"Gernot Trauner (Austria) trips an opponent with a slide tackle. Halil Umut Meler stops the game and he could give him a card, but eventually decides on just a warning. Poland have a free kick from a promising distance.",general,Free Kick,Trauner,Austria,212
+poland_austria,57,0,57,"The free kick is taken by Piotr Zielinski (Poland), but ball is cleared.",general,Free Kick,Zielinski,Poland,76
+poland_austria,58,0,58,"The game is interrupted now, Gernot Trauner (Austria) picks up a knock and the physio has to come on.",general,Injury,Trauner,Austria,120
+poland_austria,59,0,59,"Gernot Trauner (Austria) is substituted due to injury. Ralf Rangnick gives a chance to Kevin Danso.",key_event,Substitution,"Trauner, Danso, Rangnick",Austria,104
+poland_austria,60,0,60,"Here's the change. Adam Buksa leaves the pitch and Robert Lewandowski (Poland) comes on as a substitute.",key_event,Substitution,"Buksa, Lewandowski",Poland,115
+poland_austria,60,0,60,"Here is a change. Krzysztof Piatek is going off and Michal Probierz gives the last tactical orders to Karol Swiderski (Poland).",key_event,Substitution,"Piatek, Swiderski, Probierz",Poland,134
+poland_austria,60,0,60,"Piotr Zielinski (Poland) takes the resulting free kick from the edge of the box, but it's blocked by the players standing in the wall, saving the goalkeeper a lot of effort.",general,Free Kick,Zielinski,Poland,183
+poland_austria,61,0,61,"Piotr Zielinski (Poland) looks like he will be the one to take the corner kick.",general,Corner,Zielinski,Poland,81
+poland_austria,61,0,61,"Piotr Zielinski pings in the corner towards the centre of the box and finds Pawel Dawidowicz (Poland) unmarked, but his free header is woeful and slips well over the bar.",key_event,Shot,"Zielinski, Dawidowicz",Poland,175
+poland_austria,62,0,62,"This is a yellow card! Jakub Moder (Poland) is not happy with the decision, but from our point of view it was clear.",key_event,Yellow Card,Moder,Poland,128
+poland_austria,63,0,63,"The substitution has been made. Alexander Prass (Austria) has replaced Phillipp Mwene.",key_event,Substitution,"Mwene, Prass",Austria,93
+poland_austria,64,0,64,"Marko Arnautovic (Austria) was standing in a clear offside position, making it an easy call for the linesman.",general,Offside,Arnautovic,Austria,119
+poland_austria,64,0,64,"Robert Lewandowski (Poland) is given a fully deserved yellow card.",key_event,Yellow Card,Lewandowski,Poland,68
+poland_austria,66,0,66,"Goal! Alexander Prass plays a long ball to Christoph Baumgartner (Austria), who cuts inside and unleashes a screamer into the bottom right corner. The keeper had no chance. Superb strike! 1:2.",key_event,Goal,"Prass, Baumgartner",Austria,209
+poland_austria,69,0,69,"Karol Swiderski (Poland) is unlucky with a goal-bound effort from the edge of the box. A fortuitous save from Patrick Pentz stops the ball from going into the middle of the goal.",key_event,Save,"Swiderski, Pentz",Poland,182
+poland_austria,70,0,70,"Marko Arnautovic (Austria) is booked after bringing down an opponent. Halil Umut Meler had an easy-decision to make.",key_event,Yellow Card,Arnautovic,Austria,125
+poland_austria,71,0,71,"The attendance is 69455.",general,General,,Both,27
+poland_austria,73,0,73,"Piotr Zielinski (Poland) swings a cross into the box, but it's far too close to Patrick Pentz, who smothers the ball.",general,General,"Zielinski, Pentz",Poland,131
+poland_austria,75,0,75,"Patrick Wimmer (Austria) produces a ferocious strike from the edge of the box. His dangerous effort towards the bottom left corner is blocked by Wojciech Szczesny, who pulls off a superb save to keep the ball out of the net.",key_event,Save,"Wimmer, Szczesny",Austria,222
+poland_austria,75,0,75,"Michal Probierz has decided to make a change. Kamil Grosicki (Poland) replaces Bartosz Slisz.",key_event,Substitution,"Slisz, Grosicki, Probierz",Poland,103
+poland_austria,76,0,76,"Nicolas Seiwald (Austria) smashes an explosive long-range volley towards the middle of the net, but the goalkeeper makes a comfortable save.",key_event,Save,"Seiwald, Szczesny",Austria,153
+poland_austria,77,0,77,"Wojciech Szczesny (Poland) brings his opponent down with a tackle and Halil Umut Meler blows his whistle for a foul. Austria are given a penalty!",general,Penalty,Szczesny,Poland,158
+poland_austria,77,0,77,"Wojciech Szczesny (Poland) is rightly booked by the referee because it could not have been anything other than a yellow card.",key_event,Yellow Card,Szczesny,Poland,132
+poland_austria,78,0,78,"Marko Arnautovic (Austria) is heading towards the penalty spot to take it.",general,Penalty,Arnautovic,Austria,77
+poland_austria,78,0,78,"Goal! Marko Arnautovic (Austria) wins the battle of wills and sends an unstoppable penalty past Wojciech Szczesny into the bottom right corner.",key_event,Goal,"Arnautovic, Szczesny",Austria,158
+poland_austria,81,0,81,"Ralf Rangnick has decided to introduce fresh legs, with Romano Schmid (Austria) replacing Christoph Baumgartner.",key_event,Substitution,"Baumgartner, Schmid, Rangnick",Austria,122
+poland_austria,81,0,81,"Substitution. Marko Arnautovic is replaced by Michael Gregoritsch (Austria).",key_event,Substitution,"Arnautovic, Gregoritsch",Austria,78
+poland_austria,84,0,84,"Stefan Posch (Austria) blows a good opportunity. He has a lot of space around him and fires a terrific shot from the edge of the box towards the left side of the goal, but the goalkeeper makes a brilliant save and stops this one! Corner kick. Austria will have an opportunity.",general,Corner,"Posch, Szczesny",Austria,272
+poland_austria,84,0,84,"Patrick Wimmer (Austria) takes the corner, but he overhits it and none of his teammates are able to reach the ball.",general,Corner,Wimmer,Austria,120
+poland_austria,85,0,85,"Brilliant play from Konrad Laimer (Austria) to get past Wojciech Szczesny in goal, but he fails to find the net from an acute angle.",general,General,"Laimer, Szczesny",Austria,144
+poland_austria,86,0,86,"Kamil Grosicki (Poland) goes over to take a corner kick after one of the defenders makes a good clearance.",general,Corner,Grosicki,Poland,118
+poland_austria,87,0,87,"The corner kick is deflected to Piotr Zielinski (Poland), who immediately sends in a long-range shot. However, he hits the ball poorly and it goes high over the bar.",key_event,Shot,Zielinski,Poland,172
+poland_austria,87,0,87,"Here comes a substitution. Piotr Zielinski is given a rest as he is replaced by Kacper Urbanski (Poland).",key_event,Substitution,"Zielinski, Urbanski",Poland,117
+poland_austria,88,0,88,"Surely that's handball by one of the Poland players in the box, but the referee just waves play on!",general,General,,Poland,110
+poland_austria,90,0,90,"There will be a minimum of 4 min. of added time.",general,General,,Both,54
+poland_austria,90,3,90+3,"Kamil Grosicki (Poland) watches the ball all the way and fires a first-time shot goalwards from inside the box, but the effort flies just wide of the left post.",key_event,Shot,Grosicki,Poland,173
+poland_austria,90,5,90+5,"The referee blows his whistle for the final time to end this match.",key_event,Full Time,,Both,70
+

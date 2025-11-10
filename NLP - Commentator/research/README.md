@@ -11,14 +11,15 @@ This directory contains the complete research and development journey for the **
 
 ## 📂 Directory Structure
 
-The research is organized chronologically into **4 phases**, showing the evolution from initial experiments to production-ready system:
+The research is organized chronologically into **5 phases**, showing the evolution from initial experiments to production-ready system and validation:
 
 ```
 research/
-├── 01_initial_experiments/      # Phase 1: Data exploration (3 games, 30 sequences)
-├── 02_starting_game_commentary/ # Phase 2: Pre-match commentary (10 games)
-├── 03_top_11_events_analysis/   # Phase 3: Event type templates (11 types)
-└── 04_final_game_production/    # Phase 4: Full final game ⭐ PRODUCTION
+├── 01_initial_experiments/         # Phase 1: Data exploration (3 games, 30 sequences)
+├── 02_starting_game_commentary/    # Phase 2: Pre-match commentary (10 games)
+├── 03_top_11_events_analysis/      # Phase 3: Event type templates (11 types)
+├── 04_final_game_production/       # Phase 4: Full final game ⭐ PRODUCTION
+└── 05_real_commentary_comparison/  # Phase 5: Real commentary comparison ⭐ NEW
 ```
 
 ---
@@ -144,6 +145,55 @@ research/
 
 ---
 
+### Phase 5: Real Commentary Comparison ⭐ NEW
+**Goal:** Validate generated commentary quality by comparing with professional human commentary
+
+**What is being done:**
+- **Data Collection (Complete):** Extracted real commentary from Sports Mole
+- **3 Matches:** Final + 2 Semi-finals (~90 minute-by-minute entries)
+- **Comparison Method:** 1-minute aggregation strategy
+- **3 Metrics:** Cosine Similarity, Entity Overlap, Semantic Similarity
+
+**Why Sports Mole:**
+✅ Minute-by-minute structure (perfect for 1-min aggregation)  
+✅ Event-driven narrative (matches our approach)  
+✅ Consistent vocabulary (similar terms: shoots, passes, saves)  
+✅ Entity-rich descriptions (players, actions, locations)  
+✅ 95% match score (best fit for comparison)
+
+**Key Files:**
+- `docs/DATA_SOURCES_EVALUATION.md` - Why Sports Mole (7 sources compared)
+- `docs/COMPARISON_METHODOLOGY.md` - How to compare (1-min aggregation strategy)
+- `data/sports_mole_final_commentary.csv` - Spain vs England (30 entries)
+- `data/sports_mole_england_netherlands_commentary.csv` - Semi-final (30+ entries)
+- `data/sports_mole_spain_france_commentary.csv` - Semi-final (30+ entries)
+
+**Comparison Strategy:**
+```
+Our Data (47'):     [Event 1] → [Event 2] → [Event 3] → [Event 4]
+                    ↓
+Sequence:           "Williams receives, carries, shoots - GOAL! Spain 1-0"
+                    ↓ Compare ↓
+Sports Mole (47'):  "Williams bursts into box, fires into corner - GOAL Spain 1-0"
+                    ↓
+Metrics:            Cosine=0.55, Entity=0.90, Semantic=0.85 (Excellent)
+```
+
+**Expected Results:**
+- Goals (n=9): Cosine 0.55-0.65, Entity 0.85-0.95, Semantic 0.80-0.90
+- Shots (n=70): Cosine 0.40-0.50, Entity 0.70-0.80, Semantic 0.65-0.75
+- Overall Quality Score: 0.65-0.80 (Good to Excellent)
+
+**Next Steps:**
+1. 🔄 Aggregate our data by minute
+2. 🔄 Calculate all 3 metrics for key moments
+3. 🔄 Analyze results and identify improvements
+4. 🔄 Update templates based on real examples
+
+**Status:** 🔄 **DATA COLLECTION COMPLETE** - Ready for comparison
+
+---
+
 ## 📊 Dataset Evolution
 
 | Phase | Events | Columns | Matches | Sequences | Status |
@@ -152,6 +202,7 @@ research/
 | Phase 2 | 40 | 20+ | 10 | 10 | Experimental |
 | Phase 3 | 144 | 40 | 3 | 30 | Experimental |
 | **Phase 4** | **3,312** | **62** | **1** | **376** | **✅ Production** |
+| **Phase 5** | **~90** | **7** | **3** | **N/A** | **🔄 Data Collection** |
 
 ---
 

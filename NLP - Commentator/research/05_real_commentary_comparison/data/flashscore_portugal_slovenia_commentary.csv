@@ -1,0 +1,162 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+portugal_slovenia,0,0,0,"Let us introduce today's referee to you, and it's Daniele Orsato.",general,General,Orsato,Both,67
+portugal_slovenia,0,0,0,"Portugal will kick-off.",general,Kick Off,,Portugal,23
+portugal_slovenia,1,0,1,"Here we go, today's match is starting right now.",key_event,Kick Off,,Both,48
+portugal_slovenia,1,0,1,"Bernardo Silva (Portugal) is flagged for offside.",general,Offside,Silva,Portugal,49
+portugal_slovenia,2,0,2,"Timi Max Elsnik (Slovenia) whips a promising cross into the box, but the opposition's defence intercepts the ball.",general,General,Elsnik,Slovenia,123
+portugal_slovenia,3,0,3,"Benjamin Sesko (Slovenia) commits a foul and Daniele Orsato immediately signals a free kick.",general,General,Sesko,Slovenia,96
+portugal_slovenia,4,0,4,"Nuno Mendes (Portugal) races towards goal but the defender gets back well to make a challenge.",general,General,Mendes,Portugal,97
+portugal_slovenia,4,0,4,"Bruno Fernandes (Portugal) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The referee and his assistant both point at the corner flag. Portugal will have an opportunity to threaten the opposition's goal.",general,Corner,Fernandes,Portugal,234
+portugal_slovenia,4,0,4,"The referee and his assistant both point at the corner flag. Portugal will have an opportunity to threaten the opposition's goal.",general,Corner,,Portugal,128
+portugal_slovenia,5,0,5,"Ruben Dias (Portugal) receives a fine cross inside the box and attempts to score a goal, but his shot flies just wide of the right post. The ball goes out of play and Slovenia will have a goal kick.",key_event,Shot,Dias,Portugal,192
+portugal_slovenia,6,0,6,"The linesman raises his flag for offside before Andraz Sporar (Slovenia) heads on.",general,Offside,Sporar,Slovenia,83
+portugal_slovenia,7,0,7,"A poorly executed mid-range free kick by Vitinha (Portugal) as he fails to deliver a decent cross. The ball is off of the pitch and it's a goal kick for Slovenia.",general,Free Kick,Vitinha,Portugal,156
+portugal_slovenia,8,0,8,"The ball is cleared after Cristiano Ronaldo (Portugal) attempted to dribble past an opposing player.",general,General,Ronaldo,Portugal,100
+portugal_slovenia,10,0,10,"Vitinha (Portugal) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",general,Corner,Vitinha,Portugal,168
+portugal_slovenia,12,0,12,"Zan Karnicnik (Slovenia) robs an opponent of the ball and explodes in anger when Daniele Orsato blows for a foul.",general,General,Karnicnik,Slovenia,119
+portugal_slovenia,13,0,13,"Bernardo Silva (Portugal) clips a neat ball into the box in the direction of Bruno Fernandes, but he can't get on the end of the pass. The ball goes out of play and Slovenia will have a goal kick.",general,General,"Silva, Fernandes",Portugal,194
+portugal_slovenia,14,0,14,"Rafael Leao (Portugal) fails to find any of his teammates inside the box as his pass is blocked.",general,General,Leao,Portugal,101
+portugal_slovenia,16,0,16,"Bruno Fernandes (Portugal) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",general,General,Fernandes,Portugal,138
+portugal_slovenia,18,0,18,"Daniele Orsato blows his whistle. Jan Mlakar (Slovenia) commits a foul after dangerous play.",general,General,Mlakar,Slovenia,97
+portugal_slovenia,19,0,19,"Nuno Mendes (Portugal) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",general,General,Mendes,Portugal,148
+portugal_slovenia,20,0,20,"Nuno Mendes (Portugal) has picked up a minor injury, but it looks like he will be able to continue.",general,General,Mendes,Portugal,100
+portugal_slovenia,21,0,21,"Andraz Sporar (Slovenia) tries to find Benjamin Sesko, but he puts too much power on the pass.",general,General,"Sporar, Sesko",Slovenia,99
+portugal_slovenia,22,0,22,"Zan Karnicnik (Slovenia) tries to send a pass but it's blocked.",general,General,Karnicnik,Slovenia,59
+portugal_slovenia,23,0,23,"The foul by Andraz Sporar (Slovenia) was seen by Daniele Orsato who didn't hesitate to blow the whistle.",general,General,Sporar,Slovenia,111
+portugal_slovenia,25,0,25,"Handball by Joao Palhinha (Portugal).",general,General,Palhinha,Portugal,36
+portugal_slovenia,26,0,26,"Rafael Leao (Portugal) commits an ugly challenge. The referee sees it and immediately blows his whistle.",general,General,Leao,Portugal,110
+portugal_slovenia,27,0,27,"A cross into the box from Joao Cancelo (Portugal) is cleared.",general,General,Cancelo,Portugal,61
+portugal_slovenia,29,0,29,"Bernardo Silva (Portugal) steps up to take the corner, but the ball just sails in among the defenders.",general,Corner,Silva,Portugal,109
+portugal_slovenia,30,0,30,"Ruben Dias (Portugal) is caught offside!",general,Offside,Dias,Portugal,42
+portugal_slovenia,31,0,31,"Bruno Fernandes (Portugal) is picked out by one of his teammates with a brilliant long-range cross, but he doesn't control the ball well and the defence eliminates the danger without any problem.",general,General,Fernandes,Portugal,203
+portugal_slovenia,32,0,32,"Cristiano Ronaldo (Portugal) attempts a nice header from inside the penalty area, but his effort is blocked.",key_event,Shot,Ronaldo,Portugal,114
+portugal_slovenia,32,0,32,"The foul by Vanja Drkusic (Slovenia) is worthy of a card and a yellow is duly shown by Daniele Orsato.",key_event,Yellow Card,Drkusic,Slovenia,112
+portugal_slovenia,33,0,33,"Portugal earn a free kick which could lead to a goal-scoring opportunity.",general,Free Kick,,Portugal,71
+portugal_slovenia,34,0,34,"Cristiano Ronaldo (Portugal) takes the free kick and curls the ball just over the crossbar. That was close! The ball is off of the pitch and it's a goal kick for Slovenia.",key_event,Shot,Ronaldo,Portugal,164
+portugal_slovenia,35,0,35,"Rafael Leao (Portugal) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball is out of play. Portugal will have a chance to score from a corner.",general,Corner,Leao,Portugal,177
+portugal_slovenia,35,0,35,"Vitinha (Portugal) takes a short corner kick.",general,Corner,Vitinha,Portugal,45
+portugal_slovenia,36,0,36,"Vitinha (Portugal) attempts to find Cristiano Ronaldo, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for Slovenia.",general,General,Vitinha,Portugal,166
+portugal_slovenia,37,0,37,"The expression of the referee Daniele Orsato is crystal clear. This behaviour won't be tolerated. Zan Karnicnik (Slovenia) is shown a yellow card.",key_event,Yellow Card,Karnicnik,Slovenia,154
+portugal_slovenia,38,0,38,"Cristiano Ronaldo (Portugal) steps up to take the free kick. He attempts to threaten the goal but his powerful shot sails way past the right post. What a waste! The ball goes out of play and Slovenia will have a goal kick.",key_event,Shot,Ronaldo,Portugal,218
+portugal_slovenia,39,0,39,"Petar Stojanovic (Slovenia) tries to slide the ball through to a teammate but it's well blocked by a defender. Corner kick. Slovenia will have an opportunity.",general,Corner,Stojanovic,Slovenia,160
+portugal_slovenia,40,0,40,"This corner kick is taken with a short pass by Adam Gnezda Cerin (Slovenia).",general,Corner,Cerin,Slovenia,77
+portugal_slovenia,40,0,40,"Adam Gnezda Cerin (Slovenia) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat. The referee and the linesman both signal a throw-in for Portugal.",general,General,Cerin,Slovenia,222
+portugal_slovenia,41,0,41,"Cristiano Ronaldo (Portugal) is adjudged offside.",general,Offside,Ronaldo,Portugal,47
+portugal_slovenia,43,0,43,"A long cross from the side is directed to the well-positioned Bruno Fernandes (Portugal), but the defence gets it clear.",general,General,Fernandes,Portugal,130
+portugal_slovenia,44,0,44,"A great solo effort from Benjamin Sesko (Slovenia) and he attempts to surprise the goalkeeper with a long-range shot towards the middle of the goal. Diogo Costa has a clear view of it and makes a comfortable save.",key_event,Save,"Sesko, Costa",Slovenia,202
+portugal_slovenia,45,0,45,"Jan Mlakar (Slovenia) fails to send a pass into the box as his effort is cut out. The ball is out of play. A goal-scoring opportunity from a corner for Slovenia.",general,Corner,Mlakar,Slovenia,165
+portugal_slovenia,45,0,45,"The ball is out of play. A goal-scoring opportunity from a corner for Slovenia.",general,Corner,,Slovenia,81
+portugal_slovenia,45,0,45,"The fourth official shows 2 min. of added time.",general,General,,Both,50
+portugal_slovenia,45,1,45+1,"Jaka Bijol (Slovenia) wins the ball from the corner and heads at goal from near the penalty spot, but it's a soft effort and drifts well past the left post. The ball is off of the pitch and it's a goal kick for Portugal.",key_event,Shot,Bijol,Slovenia,208
+portugal_slovenia,45,2,45+2,"Daniele Orsato blows his whistle as Bruno Fernandes (Portugal) used excessive force in the tackle during an attack.",general,General,Fernandes,Portugal,115
+portugal_slovenia,45,2,45+2,"Joao Palhinha (Portugal) latches onto a pass and lets fly at goal from the edge of the box. The shot beats the keeper but smashes against the left post. Good effort!",key_event,Hit Post,Palhinha,Portugal,167
+portugal_slovenia,45,3,45+3,"The end of the first half.",general,Half Time,,Both,27
+portugal_slovenia,46,0,46,"The game restarts for the second half.",key_event,Kick Off,,Both,38
+portugal_slovenia,47,0,47,"Timi Max Elsnik (Slovenia) makes an overly-aggressive challenge and Daniele Orsato blows his whistle for a foul.",general,General,Elsnik,Slovenia,112
+portugal_slovenia,47,0,47,"Bernardo Silva (Portugal) has a great chance inside the box following a rebound off a defender, but somehow he gets underneath the ball and it flies high over the bar. The ball goes out of play and Slovenia will have a goal kick.",key_event,Shot,Silva,Portugal,216
+portugal_slovenia,49,0,49,"Adam Gnezda Cerin (Slovenia) takes the corner with a short pass.",general,Corner,Cerin,Slovenia,63
+portugal_slovenia,49,0,49,"Timi Max Elsnik (Slovenia) runs onto a lofted ball into the box, but hits a weak shot towards the middle of the goal that is easily dealt with by Diogo Costa.",key_event,Save,"Elsnik, Costa",Slovenia,164
+portugal_slovenia,51,0,51,"Benjamin Sesko (Slovenia) is adjudged to have been offside when making his run.",general,Offside,Sesko,Slovenia,77
+portugal_slovenia,52,0,52,"A lofted cross from Ruben Dias (Portugal) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",general,General,Dias,Portugal,138
+portugal_slovenia,52,0,52,"Vitinha (Portugal) pulls the trigger and strikes the ball towards goal from long-range, but his effort is blocked by one of the defenders.",key_event,Shot,Vitinha,Portugal,141
+portugal_slovenia,54,0,54,"Joao Cancelo (Portugal) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Cancelo,Portugal,119
+portugal_slovenia,54,0,54,"Adam Gnezda Cerin (Slovenia) tackles a bit over-zealously and Daniele Orsato blows for a foul. Another situation results in a direct free kick for Portugal.",general,Free Kick,Cerin,Slovenia,151
+portugal_slovenia,55,0,55,"Cristiano Ronaldo (Portugal) releases a promising shot from the set piece towards the left post, but Jan Oblak makes a save to deny him.",key_event,Save,"Ronaldo, Oblak",Portugal,145
+portugal_slovenia,57,0,57,"Vitinha (Portugal) has a shot blocked from inside the box.",key_event,Shot,Vitinha,Portugal,56
+portugal_slovenia,58,0,58,"Joao Cancelo (Portugal) looks to break free, but an opposing player clears the ball away. The ball is out of play. Portugal win a corner kick.",general,Corner,Cancelo,Portugal,145
+portugal_slovenia,58,0,58,"A horde of players are waiting inside the penalty area for a cross from the corner, but Bernardo Silva (Portugal) takes it short.",general,Corner,Silva,Portugal,131
+portugal_slovenia,59,0,59,"Joao Palhinha (Portugal) connects with a cross from the side and steers a header from around the penalty spot towards the goal. The ball goes in the right direction, but it's stopped by one of the defenders.",key_event,Shot,Palhinha,Portugal,200
+portugal_slovenia,60,0,60,"Adam Gnezda Cerin (Slovenia) cracks a volley from just outside the box, but his miskick goes skyward. The ball is off of the pitch and it's a goal kick for Portugal.",key_event,Shot,Cerin,Slovenia,163
+portugal_slovenia,61,0,61,"Bruno Fernandes (Portugal) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",general,General,Fernandes,Portugal,137
+portugal_slovenia,62,0,62,"Benjamin Sesko (Slovenia) makes a good run with the ball into the box, but mishits his shot as it goes well wide of the right post. The ball goes out of play and Portugal will have a goal kick.",key_event,Shot,Sesko,Slovenia,182
+portugal_slovenia,63,0,63,"Joao Cancelo (Portugal) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",general,General,Cancelo,Portugal,161
+portugal_slovenia,65,0,65,"Rafael Leao (Portugal) skips past his man but can't keep the ball in play. The ball is off of the pitch and it's a goal kick for Slovenia.",general,General,Leao,Portugal,137
+portugal_slovenia,65,0,65,"We are about to witness a subsitution. Diogo Jota (Portugal) for Vitinha.",key_event,Substitution,"Vitinha, Jota",Portugal,80
+portugal_slovenia,66,0,66,"Cristiano Ronaldo (Portugal) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Ronaldo,Portugal,119
+portugal_slovenia,68,0,68,"Andraz Sporar (Slovenia) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",general,Offside,Sporar,Slovenia,147
+portugal_slovenia,69,0,69,"A cross from Petar Stojanovic (Slovenia) fails to reach the box as the defence clears the ball away to safety.",general,General,Stojanovic,Slovenia,115
+portugal_slovenia,70,0,70,"Jure Balkovec (Slovenia) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders.",general,General,Balkovec,Slovenia,142
+portugal_slovenia,71,0,71,"Joao Cancelo (Portugal) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",general,General,Cancelo,Portugal,172
+portugal_slovenia,71,0,71,"Daniele Orsato blows his whistle and signals a foul after Petar Stojanovic (Slovenia) brought his opponent down. Portugal win a free kick. It's a promising situation for a direct shot.",general,Free Kick,Stojanovic,Slovenia,176
+portugal_slovenia,72,0,72,"Cristiano Ronaldo (Portugal) attempts to put in the resulting set piece, but he miskicks and sends the ball into the stands. A strong but inaccurate shot. The ball goes out of play and Slovenia will have a goal kick.",key_event,Shot,Ronaldo,Portugal,203
+portugal_slovenia,73,0,73,"Rafael Leao (Portugal) sends a teasing cross into the area, but Jan Oblak intercepts the ball.",general,General,"Leao, Oblak",Portugal,97
+portugal_slovenia,74,0,74,"Joao Cancelo (Portugal) clips a neat ball into the box in the direction of Bernardo Silva, but he can't get on the end of the pass. The ball goes out of play and Slovenia will have a goal kick.",general,General,"Cancelo, Silva",Portugal,186
+portugal_slovenia,74,0,74,"The referee allows time for a substitution. Jan Mlakar will be replaced by Jon Gorenc Stankovic (Slovenia).",key_event,Substitution,"Mlakar, Stankovic",Slovenia,116
+portugal_slovenia,74,0,74,"Matjaz Kek prepares a substitution. Andraz Sporar is replaced by Zan Celar (Slovenia).",key_event,Substitution,"Sporar, Celar, Kek",Slovenia,89
+portugal_slovenia,76,0,76,"Flag up against Cristiano Ronaldo (Portugal). He had space to move into behind the defence, but he went too soon.",general,Offside,Ronaldo,Portugal,130
+portugal_slovenia,76,0,76,"The manager has decided to make a substitution and Rafael Leao walks off the pitch to be replaced by Francisco Conceicao (Portugal).",key_event,Substitution,"Leao, Conceicao",Portugal,134
+portugal_slovenia,77,0,77,"Nuno Mendes (Portugal) delivers a promising cross into the box, but it's cleared.",general,General,Mendes,Portugal,82
+portugal_slovenia,78,0,78,"Cristiano Ronaldo (Portugal) tries to find the head of a teammate in the box but overhits the cross. The ball goes out of play and Slovenia will have a goal kick.",general,General,Ronaldo,Portugal,153
+portugal_slovenia,78,0,78,"The attendance is 46576.",general,General,,Both,27
+portugal_slovenia,79,0,79,"The referee blows his whistle for a foul after Benjamin Sesko (Slovenia) overruns the ball during an attack and makes an aggressive challenge on his opponent.",general,General,Sesko,Slovenia,162
+portugal_slovenia,81,0,81,"Nuno Mendes (Portugal) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",general,General,Mendes,Portugal,165
+portugal_slovenia,82,0,82,"Bruno Fernandes (Portugal) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",general,General,Fernandes,Portugal,136
+portugal_slovenia,83,0,83,"Bruno Fernandes (Portugal) is able to continue to play.",general,General,Fernandes,Portugal,55
+portugal_slovenia,84,0,84,"The defence is alert as they clear a dangerous cross from Bruno Fernandes (Portugal).",general,General,Fernandes,Portugal,87
+portugal_slovenia,85,0,85,"Flag goes up against Zan Celar (Slovenia) and the referee blows his whistle for offside.",general,Offside,Celar,Slovenia,90
+portugal_slovenia,86,0,86,"Francisco Conceicao (Portugal) looks to break free, but his touch lets him down and he loses the ball. The ball is off of the pitch and it's a goal kick for Slovenia.",general,General,Conceicao,Portugal,157
+portugal_slovenia,87,0,87,"Matjaz Kek decides to make a substitution. Petar Stojanovic will be replaced by Benjamin Verbic (Slovenia).",key_event,Substitution,"Stojanovic, Verbic, Kek",Slovenia,110
+portugal_slovenia,87,0,87,"Adam Gnezda Cerin (Slovenia) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger.",general,Free Kick,Cerin,Slovenia,143
+portugal_slovenia,88,0,88,"An attempted cross from Jure Balkovec (Slovenia) is cleared.",general,General,Balkovec,Slovenia,59
+portugal_slovenia,88,0,88,"An opponent rises to his feet after being downed by Bruno Fernandes (Portugal). Daniele Orsato saw the sliding tackle and blows for a foul.",general,General,Fernandes,Portugal,143
+portugal_slovenia,90,0,90,"Jan Oblak pulls off a great save to deny Cristiano Ronaldo (Portugal) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal.",key_event,Save,"Ronaldo, Oblak",Portugal,181
+portugal_slovenia,90,0,90,"4 additional min. will be played.",general,General,,Both,38
+portugal_slovenia,90,1,90+1,"Nuno Mendes (Portugal) sends a pass into the box, but his attempt is thwarted and cleared.",general,General,Mendes,Portugal,91
+portugal_slovenia,90,1,90+1,"The linesman signals that Zan Celar (Slovenia) is offside and the referee confirms the decision.",general,Offside,Celar,Slovenia,100
+portugal_slovenia,90,3,90+3,"The corner from Bruno Fernandes (Portugal) is intercepted by Jan Oblak.",general,Corner,Fernandes,Portugal,69
+portugal_slovenia,90,3,90+3,"Cristiano Ronaldo (Portugal) is penalised for a foul. Daniele Orsato had a clear view and blows his whistle.",general,General,Ronaldo,Portugal,109
+portugal_slovenia,90,5,90+5,"Bruno Fernandes (Portugal) takes the corner kick but the ball only finds the head of an opponent.",general,Corner,Fernandes,Portugal,101
+portugal_slovenia,90,5,90+5,"The referee blows his whistle to signal the end of the second half, with no clear winner in the 90 minutes.",general,Full Time,,Both,111
+portugal_slovenia,91,0,91,"Extra time will now be played as the result of this match was not decided in normal time.",general,Extra Time Start,,Both,96
+portugal_slovenia,91,0,91,"Timi Max Elsnik (Slovenia) pulls the jersey of one of the opposition players and Daniele Orsato blows his whistle for a foul.",general,General,Elsnik,Slovenia,129
+portugal_slovenia,92,0,92,"Bruno Fernandes (Portugal) hammers the ball from far out, but his shot is blocked by an opposition player.",key_event,Shot,Fernandes,Portugal,110
+portugal_slovenia,92,0,92,"Nuno Mendes (Portugal) clips a neat ball into the box in the direction of Cristiano Ronaldo, but he can't get on the end of the pass. The ball is off of the pitch and it's a goal kick for Slovenia.",general,General,"Mendes, Ronaldo",Portugal,195
+portugal_slovenia,93,0,93,"One of the defenders reacts at the last minute to brilliantly block a pass from Timi Max Elsnik (Slovenia).",general,General,Elsnik,Slovenia,109
+portugal_slovenia,94,0,94,"Francisco Conceicao (Portugal) sends a cross into the box, but the opposition's defence clears the ball to safety.",general,General,Conceicao,Portugal,118
+portugal_slovenia,95,0,95,"Benjamin Verbic (Slovenia) wriggles into space and fires the ball from the edge of the area, but one of the defenders is there to block the effort. The ball goes behind for a corner. Slovenia will have an opportunity to threaten the opposition's goal.",general,Corner,Verbic,Slovenia,235
+portugal_slovenia,96,0,96,"Adam Gnezda Cerin (Slovenia) swings in the corner, but it's comfortably cleared away.",general,Corner,Cerin,Slovenia,87
+portugal_slovenia,96,0,96,"Jon Gorenc Stankovic (Slovenia) sends a screamer well wide of the right post from the edge of the box. The ball is off of the pitch and it's a goal kick for Portugal.",key_event,Shot,Stankovic,Slovenia,163
+portugal_slovenia,98,0,98,"Great teamplay by Portugal as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score.",general,General,,Portugal,151
+portugal_slovenia,99,0,99,"Diogo Jota (Portugal) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The referee signals a corner kick to Portugal.",general,Corner,Jota,Portugal,159
+portugal_slovenia,100,0,100,"Bruno Fernandes (Portugal) decides to take a short corner instead of crossing into the box.",general,Corner,Fernandes,Portugal,94
+portugal_slovenia,100,0,100,"Diogo Jota (Portugal) is well placed to meet a cross and sends a difficult header towards the middle of the goal, but the goalkeeper reacts well to stop the effort.",key_event,Save,Jota,Portugal,167
+portugal_slovenia,101,0,101,"A yellow card for a tackle by Jon Gorenc Stankovic (Slovenia). Daniele Orsato doesn't hesitate at all to make this decision.",key_event,Yellow Card,Stankovic,Slovenia,125
+portugal_slovenia,103,0,103,"Vanja Drkusic (Slovenia) trips an opposition player and Daniele Orsato signals a foul. The referee blows the whistle and gives a penalty to Portugal!!",general,Penalty,Drkusic,Slovenia,148
+portugal_slovenia,104,0,104,"Cristiano Ronaldo (Portugal) is heading towards the penalty spot to take it.",general,Penalty,Ronaldo,Portugal,74
+portugal_slovenia,104,0,104,"Celebrations by Portugal are cut short as the referee signals that the penalty decision will be checked using the VAR. Hopefully it won't take too long.",general,VAR,,Portugal,156
+portugal_slovenia,105,0,105,"Referee Daniele Orsato is happy with his original decision after the VAR review. It's a PENALTY to Portugal!",general,VAR,,Portugal,110
+portugal_slovenia,105,0,105,"Cristiano Ronaldo (Portugal) takes a penalty kick. The shot goes in the direction of the right post, but Jan Oblak reacts superbly and stops it, deflecting the ball onto the woodwork!",key_event,Penalty Miss,"Ronaldo, Oblak",Portugal,184
+portugal_slovenia,105,1,105+1,"Bernardo Silva (Portugal) works the corner short instead of sending the ball into the penalty area.",general,Corner,Silva,Portugal,103
+portugal_slovenia,105,1,105+1,"Referee Daniele Orsato has finally had enough of Matjaz Kek and gives him a straight RED CARD!",key_event,Red Card,Kek,Slovenia,96
+portugal_slovenia,105,2,105+2,"The referee blows his whistle to end the first period of extra-time.",general,Half Time Extra,,Both,70
+portugal_slovenia,106,0,106,"It will be a substitution. Josip Ilicic (Slovenia) is ready to enter the pitch as Timi Max Elsnik walks off.",key_event,Substitution,"Elsnik, Ilicic",Slovenia,113
+portugal_slovenia,106,0,106,"Jaka Bijol (Slovenia) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Daniele Orsato ignores the protests.",key_event,Yellow Card,Bijol,Slovenia,145
+portugal_slovenia,106,0,106,"Everything is ready for the beginning of the second period of extra-time, so the match is about to get going again.",key_event,Extra Time Start,,Both,124
+portugal_slovenia,107,0,107,"Jaka Bijol (Slovenia) will miss the next game.",general,General,Bijol,Slovenia,46
+portugal_slovenia,107,0,107,"Jure Balkovec (Slovenia) has received a yellow card for his foul.",key_event,Yellow Card,Balkovec,Slovenia,65
+portugal_slovenia,107,0,107,"Joao Cancelo (Portugal) earns the yellow card.",key_event,Yellow Card,Cancelo,Portugal,46
+portugal_slovenia,108,0,108,"Joao Palhinha (Portugal) finds himself some space around the penalty spot and leaps high to meet the free kick. He tries to put his header into the top of the net but Jan Oblak keeps it out. The ball goes out of play and Portugal have been awarded a corner kick.",key_event,Save,"Palhinha, Oblak",Portugal,252
+portugal_slovenia,108,0,108,"The ball goes out of play and Portugal have been awarded a corner kick.",general,Corner,,Portugal,78
+portugal_slovenia,109,0,109,"Daniele Orsato blows his whistle and it's Cristiano Ronaldo (Portugal) who is penalised for an offensive foul. Good decision by the referee.",general,General,Ronaldo,Portugal,137
+portugal_slovenia,110,0,110,"Benjamin Verbic (Slovenia) produces a dangerous lofted cross into the box which is intercepted.",general,General,Verbic,Slovenia,99
+portugal_slovenia,111,0,111,"Daniele Orsato couldn't ignore the rough tackle by Diogo Jota (Portugal) and blew his whistle. Slovenia have a free kick from a promising distance.",general,Free Kick,Jota,Portugal,147
+portugal_slovenia,111,0,111,"Roberto Martinez is stunned as referee Daniele Orsato shows him a yellow card. What was that for?",key_event,Yellow Card,Martinez,Portugal,105
+portugal_slovenia,112,0,112,"Josip Ilicic (Slovenia) tries to get the ball up and over the defensive wall, but they easily block the effort.",general,Free Kick,Ilicic,Slovenia,112
+portugal_slovenia,114,0,114,"Zan Celar (Slovenia) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Celar,Slovenia,117
+portugal_slovenia,115,0,115,"Diogo Costa makes a brilliant save! Benjamin Sesko (Slovenia) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the bottom right corner but is saved by the keeper!",key_event,Save,"Costa, Sesko",Slovenia,220
+portugal_slovenia,116,0,116,"Francisco Conceicao (Portugal) crosses the ball into the box, but one of the defending players averts the threat.",general,General,Conceicao,Portugal,114
+portugal_slovenia,117,0,117,"Here is a change. Joao Cancelo is going off and Roberto Martinez gives the last tactical orders to Nelson Semedo (Portugal).",key_event,Substitution,"Cancelo, Semedo, Martinez",Portugal,127
+portugal_slovenia,118,0,118,"The referee stops play so that a substitution can be made and Pepe trots off the pitch and is replaced by Ruben Neves (Portugal).",key_event,Substitution,"Pepe, Neves",Portugal,131
+portugal_slovenia,119,0,119,"Bruno Fernandes (Portugal) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The ball is out of play and the linesman points at the corner flag. Corner to Portugal.",general,Corner,Fernandes,Portugal,217
+portugal_slovenia,120,0,120,"Bernardo Silva (Portugal) works the corner short.",general,Corner,Silva,Portugal,53
+portugal_slovenia,120,0,120,"1 min. of stoppage-time to be played.",general,General,,Both,38
+portugal_slovenia,120,2,120+2,"Daniele Orsato blows his whistle and ends extra time of today's match. The penalty shoot-out will determine the winner.",general,Penalty Shootout,,Both,126
+portugal_slovenia,121,0,121,"It is sometimes said that a penalty kick can only be missed by the taker rather than saved by the goalkeeper. Do you think that will be in the minds of the players today?",general,Penalty Shootout,,Both,184
+portugal_slovenia,121,0,121,"Diogo Costa dives to the left side of the goal and brilliantly saves the penalty taken by Josip Ilicic (Slovenia)!",key_event,Penalty Miss,"Costa, Ilicic",Slovenia,117
+portugal_slovenia,121,0,121,"Cristiano Ronaldo (Portugal) gives no chance to the keeper and converts the penalty with a sharp low drive into the left side of the net.",key_event,Penalty Goal,Ronaldo,Portugal,142
+portugal_slovenia,121,0,121,"Jure Balkovec (Slovenia) places the ball on the penalty spot and sends it towards the left post. His effort isn't powerful enough, allowing Diogo Costa to dive and keep the ball out with an excellent save.",key_event,Penalty Miss,"Balkovec, Costa",Slovenia,197
+portugal_slovenia,121,0,121,"Goal! Bruno Fernandes (Portugal) calmly steps up and smashes the ball into the bottom left corner.",key_event,Penalty Goal,Fernandes,Portugal,104
+portugal_slovenia,121,0,121,"Penalty saved! Benjamin Verbic (Slovenia) sends the penalty towards the left hand side of the goal, but Diogo Costa pulls off a wonderful save to deny him.",key_event,Penalty Miss,"Verbic, Costa",Slovenia,165
+portugal_slovenia,121,0,121,"Bernardo Silva (Portugal) smoothly converts the penalty with a beautiful low drive into the right side of the goal.",key_event,Penalty Goal,Silva,Portugal,122
+portugal_slovenia,121,0,121,"This is yet another match that has been decided by a dramatic penalty shootout.",key_event,Full Time,,Both,85
+

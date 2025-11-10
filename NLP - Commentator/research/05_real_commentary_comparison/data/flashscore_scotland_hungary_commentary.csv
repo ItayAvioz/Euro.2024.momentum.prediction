@@ -1,0 +1,113 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+scotland_hungary,0,0,0,"Let us introduce today's referee to you, and it's Facundo Tello.",general,General,Tello,Both,67
+scotland_hungary,0,0,0,"The players are out and the match is about to start. Hungary will have the kick-off.",general,Kick Off,,Hungary,82
+scotland_hungary,1,0,1,"The first half of this match is about to start.",key_event,Kick Off,,Both,47
+scotland_hungary,1,0,1,"Referee Facundo Tello sees the trip by Marton Dardai (Hungary) and doesn't hesitate to blow his whistle.",general,General,Dardai,Hungary,111
+scotland_hungary,2,0,2,"Marton Dardai (Hungary) holds his opponent to prevent him from getting the ball and the referee blows for a foul after seeing the whole situation.",general,General,Dardai,Hungary,154
+scotland_hungary,3,0,3,"Scotland seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities.",general,General,,Scotland,148
+scotland_hungary,3,0,3,"Grant Hanley (Scotland) commits a foul after unfairly battling his opponent for the ball.",general,General,Hanley,Scotland,91
+scotland_hungary,4,0,4,"The linesman signals a throw-in for Scotland.",general,General,,Scotland,49
+scotland_hungary,5,0,5,"The ball is out of play. Scotland will take a throw-in.",general,General,,Scotland,58
+scotland_hungary,6,0,6,"Endre Botka (Hungary) brings his opponent down with a tackle and Facundo Tello blows his whistle for a foul.",general,General,Botka,Hungary,119
+scotland_hungary,7,0,7,"Andrew Robertson (Scotland) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger.",general,Free Kick,Robertson,Scotland,150
+scotland_hungary,8,0,8,"Bendeguz Bolla (Hungary) latches onto a pass and lets rip with a swerving shot from long range low towards the middle of the goal. It's a difficult effort to deal with and Angus Gunn does well to punch it away.",key_event,Save,"Bolla, Gunn",Hungary,215
+scotland_hungary,9,0,9,"Some neat passing and movement from Scotland as they ping around some short passes in order to create a new attacking opportunity.",general,General,,Scotland,136
+scotland_hungary,10,0,10,"Jack Hendry (Scotland) should know this behaviour is beyond the rules. He was too careless with his challenge and left Facundo Tello no option but to blow his whistle.",general,General,Hendry,Scotland,175
+scotland_hungary,12,0,12,"Angus Gunn displays his ability to read the game and clears the danger after Roland Sallai (Hungary) threatened to latch onto a through ball from just outside the box.",general,General,"Gunn, Sallai",Hungary,173
+scotland_hungary,13,0,13,"It's a throw-in for Hungary.",general,General,,Hungary,30
+scotland_hungary,14,0,14,"The players claim that Che Adams (Scotland) handled the ball and it seems they are right.",general,General,Adams,Scotland,93
+scotland_hungary,14,0,14,"Dominik Szoboszlai (Hungary) whips a long ball in from the free kick which is intercepted by Angus Gunn.",general,Free Kick,"Szoboszlai, Gunn",Hungary,111
+scotland_hungary,17,0,17,"Another attempt to send the ball beyond the defence by Billy Gilmour (Scotland) is thwarted and cleared to safety.",general,General,Gilmour,Scotland,128
+scotland_hungary,18,0,18,"Facundo Tello shows a yellow card to Callum Styles (Hungary) for a tough tackle.",key_event,Yellow Card,Styles,Hungary,82
+scotland_hungary,19,0,19,"Roland Sallai (Hungary) is unable to control an accurate defence-splitting pass properly and one of the defending players reacts well to rob him of the ball.",general,General,Sallai,Hungary,165
+scotland_hungary,19,0,19,"Endre Botka (Hungary) commits a foul during an attacking move.",general,General,Botka,Hungary,62
+scotland_hungary,20,0,20,"Good movement by John McGinn (Scotland), but he can't find any of his teammates as the cross is poor. The ball is off of the pitch and it's a goal kick for Hungary.",general,General,McGinn,Scotland,170
+scotland_hungary,21,0,21,"Milos Kerkez (Hungary) pulls the jersey of one of the opposition players and Facundo Tello blows his whistle for a foul.",general,General,Kerkez,Hungary,131
+scotland_hungary,21,0,21,"Andrew Robertson (Scotland) crosses the ball into the box from the free kick, but the defence clears the danger.",general,Free Kick,Robertson,Scotland,124
+scotland_hungary,23,0,23,"The ball is cleared after Che Adams (Scotland) attempted to dribble past an opposing player.",general,General,Adams,Scotland,98
+scotland_hungary,24,0,24,"The ball is out of play. Hungary will have a throw-in.",general,General,,Hungary,58
+scotland_hungary,25,0,25,"Jack Hendry (Scotland) was too forceful with his tackle and Facundo Tello interrupted the game to signal a free kick.",general,General,Hendry,Scotland,124
+scotland_hungary,26,0,26,"Willi Orban (Hungary) sees a yellow card from Facundo Tello after he sent one of the opposing players to the ground.",key_event,Yellow Card,Orban,Hungary,122
+scotland_hungary,27,0,27,"A lofted cross from Milos Kerkez (Hungary) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area. Hungary force a corner. Their opponents will face another attacking threat.",general,Corner,Kerkez,Hungary,208
+scotland_hungary,27,0,27,"Dominik Szoboszlai (Hungary) works the corner short instead of sending the ball into the penalty area.",general,Corner,Szoboszlai,Hungary,105
+scotland_hungary,28,0,28,"A cross into the box from Dominik Szoboszlai (Hungary) is cleared.",general,General,Szoboszlai,Hungary,67
+scotland_hungary,30,0,30,"Facundo Tello has a clear sight and sees a foul from Jack Hendry (Scotland).",general,General,Hendry,Scotland,79
+scotland_hungary,31,0,31,"Dangerous play by Che Adams (Scotland). Facundo Tello blows his whistle for a foul. Another situation results in a direct free kick for Hungary.",general,Free Kick,Adams,Scotland,155
+scotland_hungary,31,0,31,"The free kick will be taken by Dominik Szoboszlai (Hungary).",general,Free Kick,Szoboszlai,Hungary,63
+scotland_hungary,32,0,32,"A poor mid-range free-kick by Dominik Szoboszlai (Hungary) is easily blocked by the defensive wall. The ball is out of play. Hungary will have a chance to score from a corner.",general,Corner,Szoboszlai,Hungary,181
+scotland_hungary,32,0,32,"Dominik Szoboszlai (Hungary) whips in the corner, but one of the defending players gets a head on it and intercepts.",general,Corner,Szoboszlai,Hungary,126
+scotland_hungary,33,0,33,"Milos Kerkez (Hungary) passes the ball into the box but an opposing player clears.",general,General,Kerkez,Hungary,85
+scotland_hungary,34,0,34,"Roland Sallai (Hungary) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards wide of the right post.",key_event,Shot,Sallai,Hungary,149
+scotland_hungary,35,0,35,"Anthony Ralston (Scotland) makes a reckless foul in order to win the ball from his opponent. Facundo Tello has a clear sight of it and blows his whistle.",general,General,Ralston,Scotland,163
+scotland_hungary,36,0,36,"Hungary enjoy a period of possession as they are exchanging some passes and waiting for an opportunity to strike.",general,General,,Hungary,119
+scotland_hungary,36,0,36,"The linesman raises his flag. Barnabas Varga (Hungary) is adjudged offside.",general,Offside,Varga,Hungary,79
+scotland_hungary,38,0,38,"John McGinn (Scotland) sends a teasing cross into the area, but Peter Gulacsi intercepts the ball.",general,General,"McGinn, Gulacsi",Scotland,107
+scotland_hungary,39,0,39,"Anthony Ralston (Scotland) commits a rough challenge and Facundo Tello blows his whistle for a foul.",general,General,Ralston,Scotland,103
+scotland_hungary,39,0,39,"Che Adams (Scotland) makes a bad challenge and the referee blows his whistle for a foul. Hungary are awarded a free kick from a dangerous position.",general,Free Kick,Adams,Scotland,158
+scotland_hungary,41,0,41,"Willi Orban (Hungary) leaps high to meet a beautiful cross from the free kick into the box and attempts to score with a header. His effort is not accurate enough and bounces away off the bar.",key_event,Shot,Orban,Hungary,192
+scotland_hungary,43,0,43,"A crossfield pass from Che Adams (Scotland) fails to find any of his teammates.",general,General,Adams,Scotland,81
+scotland_hungary,44,0,44,"Facundo Tello shows the yellow card to Andras Schafer (Hungary) for a heavy challenge.",key_event,Yellow Card,Schafer,Hungary,87
+scotland_hungary,45,0,45,"1 min. of stoppage-time to be played.",general,General,,Both,40
+scotland_hungary,45,1,45+1,"Dominik Szoboszlai (Hungary) gets the ball and drives a shot high over the bar from the edge of the area.",key_event,Shot,Szoboszlai,Hungary,112
+scotland_hungary,45,1,45+1,"The match has reached half-time.",general,Half Time,,Both,34
+scotland_hungary,46,0,46,"Referee Facundo Tello blows his whistle to start the second half.",key_event,Kick Off,,Both,66
+scotland_hungary,46,0,46,"The ball has crossed the sideline. Scotland are taking a throw-in.",general,General,,Scotland,68
+scotland_hungary,47,0,47,"Anthony Ralston (Scotland) shows too much aggression while trying to break free from his opponent and the referee blows his whistle for a foul.",general,General,Ralston,Scotland,153
+scotland_hungary,48,0,48,"Dominik Szoboszlai (Hungary) steps up to send the ball in.",general,Free Kick,Szoboszlai,Hungary,60
+scotland_hungary,50,0,50,"Roland Sallai (Hungary) receives a short pass inside a congested penalty area and takes a first-time shot. The effort heads towards the middle of the goal but Angus Gunn blocks the shot with his legs.",key_event,Save,"Sallai, Gunn",Hungary,206
+scotland_hungary,50,0,50,"Scott McTominay (Scotland) violates the rules and gets a yellow card.",key_event,Yellow Card,McTominay,Scotland,70
+scotland_hungary,51,0,51,"Endre Botka (Hungary) is obviously not following the Golden Rule: \"Treat others as you want to be treated.\" He makes a bad challenge and leaves Facundo Tello with no other option than to blow for a foul.",general,General,Botka,Hungary,206
+scotland_hungary,53,0,53,"Billy Gilmour (Scotland) crosses the ball into the box, but one of the defending players averts the threat.",general,General,Gilmour,Scotland,118
+scotland_hungary,53,0,53,"Che Adams (Scotland) shows off his amazing technique to get to the edge of the box by himself. He pulls the trigger but sends the ball into the stands. Nice run, but poor finish!",key_event,Shot,Adams,Scotland,185
+scotland_hungary,54,0,54,"Roland Sallai (Hungary) is flagged for offside.",general,Offside,Sallai,Hungary,51
+scotland_hungary,55,0,55,"Scott McTominay (Scotland) did his best to latch on to a crossfield pass, but it was too long and it goes out of play.",general,General,McTominay,Scotland,131
+scotland_hungary,56,0,56,"Roland Sallai (Hungary) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. The ball is out of play. Hungary win a corner kick.",general,Corner,Sallai,Hungary,239
+scotland_hungary,57,0,57,"The corner kick from Dominik Szoboszlai (Hungary) is headed out of the penalty area by one of the defenders.",general,Corner,Szoboszlai,Hungary,118
+scotland_hungary,58,0,58,"John McGinn (Scotland) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger.",general,General,McGinn,Scotland,168
+scotland_hungary,59,0,59,"The linesman raises his flag for offside before Barnabas Varga (Hungary) heads on.",general,Offside,Varga,Hungary,86
+scotland_hungary,60,0,60,"Anthony Ralston (Scotland) sends a cross into the box, but Peter Gulacsi comes off his line to gather the ball.",general,General,"Ralston, Gulacsi",Scotland,125
+scotland_hungary,61,0,61,"Adam Nagy (Hungary) joins the action as a substitute, replacing Callum Styles.",key_event,Substitution,"Styles, Nagy",Hungary,83
+scotland_hungary,63,0,63,"Flag up against Che Adams (Scotland). He had space to move into behind the defence, but he went too soon.",general,Offside,Adams,Scotland,124
+scotland_hungary,64,0,64,"Milos Kerkez (Hungary) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away. The referee and his assistant both point at the corner flag. Hungary will have an opportunity to threaten the opposition's goal.",general,Corner,Kerkez,Hungary,258
+scotland_hungary,64,0,64,"Dominik Szoboszlai (Hungary) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",general,Corner,Szoboszlai,Hungary,138
+scotland_hungary,64,0,64,"Marton Dardai (Hungary) blows a huge opportunity! He latches on to a perfect cross from the wing into the penalty area, but sends a bullet header narrowly over the crossbar!",key_event,Shot,Dardai,Hungary,178
+scotland_hungary,66,0,66,"Scott McTominay (Scotland) races towards goal but the defender gets back well to make a challenge.",general,General,McTominay,Scotland,100
+scotland_hungary,66,0,66,"Bendeguz Bolla (Hungary) swings in a cross, but the ball is cleared to safety by one of the defending players.",general,General,Bolla,Hungary,121
+scotland_hungary,68,0,68,"Grant Hanley (Scotland) is penalised for holding. Facundo Tello signals a set piece.",general,General,Hanley,Scotland,90
+scotland_hungary,69,0,69,"Dominik Szoboszlai (Hungary) whips in the resulting set piece but it's cleared.",general,Free Kick,Szoboszlai,Hungary,77
+scotland_hungary,70,0,70,"The game is interrupted. Barnabas Varga (Hungary) suffers a horrific injury!",key_event,Injury,Varga,Hungary,79
+scotland_hungary,70,0,70,"It's been a while since that incident in the box, but the ref must have received some information as he makes the VAR signal. He's going to review that earlier penalty shout! What a chance for Hungary.",general,VAR,,Hungary,207
+scotland_hungary,74,0,74,"Referee Facundo Tello signals NO PENALTY for Hungary after a VAR review!",key_event,VAR,,Hungary,74
+scotland_hungary,74,0,74,"Marton Dardai (Hungary) has picked up an injury and is replaced by Attila Szalai.",key_event,Substitution,"Dardai, Szalai",Hungary,79
+scotland_hungary,74,0,74,"Barnabas Varga (Hungary) is unable to continue after that nasty looking head injury. Marco Rossi ushers on Martin Adam to replace him.",key_event,Substitution,"Varga, Adam, Rossi",Hungary,143
+scotland_hungary,75,0,75,"Although Laszlo Kleinheisler (Hungary) is just on the bench, Facundo Tello has awarded him with a yellow card. Unsporting behavior says the referee.",key_event,Yellow Card,Kleinheisler,Hungary,156
+scotland_hungary,76,0,76,"Attila Szalai (Hungary) commits a foul and Facundo Tello immediately signals a free kick.",general,General,Szalai,Hungary,90
+scotland_hungary,76,0,76,"The referee signals that it is time for a substitution and Stuart Armstrong (Scotland) is coming onto the pitch as John McGinn cannot continue after picking up an injury.",key_event,Substitution,"McGinn, Armstrong",Scotland,178
+scotland_hungary,76,0,76,"The referee signals that it is time for a substitution and Lawrence Shankland (Scotland) will replace Che Adams.",key_event,Substitution,"Adams, Shankland",Scotland,123
+scotland_hungary,77,0,77,"Scott McTominay (Scotland) goes over to take a corner kick after one of the defenders makes a good clearance.",general,Corner,McTominay,Scotland,117
+scotland_hungary,79,0,79,"Stuart Armstrong (Scotland) goes down in the box after a challenge from the defender. Possibly unsighted, the referee just waves play on.",general,General,Armstrong,Scotland,152
+scotland_hungary,83,0,83,"Lawrence Shankland (Scotland) times his run too early and the linesman raises his flag for offside.",general,Offside,Shankland,Scotland,103
+scotland_hungary,83,0,83,"Steve Clarke has decided to make a change. Ryan Christie (Scotland) replaces Billy Gilmour.",key_event,Substitution,"Gilmour, Christie, Clarke",Scotland,98
+scotland_hungary,83,0,83,"A substitution has been made. Anthony Ralston is replaced by Kenny McLean (Scotland).",key_event,Substitution,"Ralston, McLean",Scotland,86
+scotland_hungary,86,0,86,"Substitution. Kevin Csoboth (Hungary) has come on for Bendeguz Bolla.",key_event,Substitution,"Bolla, Csoboth",Hungary,76
+scotland_hungary,86,0,86,"Here comes a substitution. Zsolt Nagy (Hungary) is brought on as a substitute for Milos Kerkez.",key_event,Substitution,"Kerkez, Nagy",Hungary,99
+scotland_hungary,89,0,89,"Here is a change. Andrew Robertson is going off and Steve Clarke gives the last tactical orders to Lewis Morgan (Scotland).",key_event,Substitution,"Robertson, Morgan, Clarke",Scotland,133
+scotland_hungary,90,0,90,"Andras Schafer (Hungary) unleashes a decent strike heading to the bottom right corner, but the keeper dives like Superman and keeps it out.",key_event,Save,"Schafer, Gunn",Hungary,149
+scotland_hungary,90,0,90,"Hungary have been awarded a corner kick.",general,Corner,,Hungary,43
+scotland_hungary,90,0,90,"There will be a minimum of 10 min. of added time.",general,General,,Both,55
+scotland_hungary,90,1,90+1,"Andras Schafer (Hungary) unleashes a decent strike heading to the bottom right corner, but the keeper dives like Superman and keeps it out.",key_event,Shot,Schafer,Hungary,149
+scotland_hungary,90,1,90+1,"What a wasted opportunity by Dominik Szoboszlai (Hungary)! He creates some space for himself inside the penalty box and unleashes a decent strike towards the right side of the goal, but Angus Gunn makes an astonishing save to thwart him.",key_event,Save,"Szoboszlai, Gunn",Hungary,246
+scotland_hungary,90,2,90+2,"The linesman raises his flag as one of the players from Hungary was in an offside position.",general,Offside,,Hungary,93
+scotland_hungary,90,3,90+3,"Kevin Csoboth (Hungary) latches onto a good pass inside the box and shoots. The effort beats the keeper, but deflects off the left post to safety.",key_event,Shot,Csoboth,Hungary,155
+scotland_hungary,90,3,90+3,"Facundo Tello blows his whistle for a foul after Attila Szalai (Hungary) hacks down one of his opponents.",general,General,Szalai,Hungary,115
+scotland_hungary,90,4,90+4,"Callum McGregor (Scotland) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders.",key_event,Shot,McGregor,Scotland,167
+scotland_hungary,90,6,90+6,"Dominik Szoboszlai (Hungary) did his best to latch onto a through ball, but it was too strong.",general,General,Szoboszlai,Hungary,99
+scotland_hungary,90,7,90+7,"The game is interrupted as Lewis Morgan (Scotland) is flagged offside.",general,Offside,Morgan,Scotland,73
+scotland_hungary,90,8,90+8,"Lewis Morgan (Scotland) receives a sweet pass inside the box, but his effort on goal is blocked by the defender.",key_event,Shot,Morgan,Scotland,128
+scotland_hungary,90,8,90+8,"He should have scored! Grant Hanley (Scotland) latches onto a pull back in the box right in front of goal, but his shot aimed inside the right post is pretty weak and Peter Gulacsi makes an easy save.",key_event,Save,"Hanley, Gulacsi",Scotland,204
+scotland_hungary,90,9,90+9,"Scott McTominay (Scotland) was too fierce in his attempt to get the ball from his opponent and Facundo Tello blows for a foul.",general,General,McTominay,Scotland,135
+scotland_hungary,90,9,90+9,"Stuart Armstrong (Scotland) is about to take a corner kick.",general,Corner,Armstrong,Scotland,60
+scotland_hungary,90,10,90+10,"GOAL! Superb work from Roland Sallai, who plays a vital role in the build-up. He squares it to Kevin Csoboth (Hungary), who beats Angus Gunn with a brilliant shot into the bottom left corner. 0:1.",key_event,Goal,"Sallai, Csoboth, Gunn",Hungary,213
+scotland_hungary,90,11,90+11,"Kevin Csoboth (Hungary) receives a yellow card from the referee as expected.",key_event,Yellow Card,Csoboth,Hungary,75
+scotland_hungary,90,12,90+12,"The referee blows his whistle for the final time to end this match.",key_event,Full Time,,Both,72
+

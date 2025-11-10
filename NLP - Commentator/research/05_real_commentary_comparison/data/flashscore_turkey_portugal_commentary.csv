@@ -1,0 +1,109 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+turkey_portugal,0,0,0,"The referee of today's match will be Felix Zwayer.",general,General,Zwayer,Both,52
+turkey_portugal,0,0,0,"The players are out and the match is about to start. Portugal will have the kick-off.",general,Kick Off,,Portugal,87
+turkey_portugal,1,0,1,"The first half has started.",key_event,Kick Off,,Both,28
+turkey_portugal,2,0,2,"The ball is crossed into the box and Cristiano Ronaldo (Portugal) reacts quickest to send a shot flying towards the bottom right corner, but Altay Bayindir gets a glove on it to thwart him.",key_event,Save,"Ronaldo, Bayindir",Portugal,202
+turkey_portugal,3,0,3,"Orkun Kokcu (Turkey) is obviously not following the Golden Rule: ""Treat others as you want to be treated."" He makes a bad challenge and leaves Felix Zwayer with no other option than to blow for a foul.",general,General,Kokcu,Turkey,199
+turkey_portugal,4,0,4,"Bruno Fernandes (Portugal) hammers the ball from far out, but his shot is blocked by an opposition player.",key_event,Shot,Fernandes,Portugal,118
+turkey_portugal,7,0,7,"CHANCE! Kerem Akturkoglu (Turkey) connects with a cross but he cannot direct his shot on target.",key_event,Shot,Akturkoglu,Turkey,103
+turkey_portugal,7,0,7,"Hakan Calhanoglu (Turkey) takes the corner with a short pass.",general,Corner,Calhanoglu,Turkey,63
+turkey_portugal,8,0,8,"A promising cross into the box is nearly received by the lurking Cristiano Ronaldo (Portugal), but one of the defending players cuts it out to avert the threat.",general,General,Ronaldo,Portugal,170
+turkey_portugal,8,0,8,"Cristiano Ronaldo (Portugal) misses a promising opportunity! He rises for a cross and unleashes a poor header from near the penalty spot. The ball floats high over the crossbar! The ball goes out of play and Turkey will have a goal kick.",key_event,Shot,Ronaldo,Portugal,229
+turkey_portugal,10,0,10,"One of the defenders reacts at the last minute to brilliantly block a pass from Rafael Leao (Portugal).",general,General,Leao,Portugal,111
+turkey_portugal,11,0,11,"Yunus Akgun (Turkey) plays a through ball but overhits it. The ball is off of the pitch and it's a goal kick for Portugal.",general,General,Akgun,Turkey,130
+turkey_portugal,12,0,12,"Wonderful movement by Portugal. The players are holding possession, mostly exchanging one-touch passes. They control the pace of the game now.",general,General,,Portugal,155
+turkey_portugal,13,0,13,"Ruben Dias (Portugal) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision! There is a free kick near the sideline to Turkey.",general,Free Kick,Dias,Portugal,190
+turkey_portugal,15,0,15,"Cristiano Ronaldo (Portugal) swings it in and Rafael Leao gets on the end of it, but Altay Bayindir shows good awareness and comes off his line to thwart the move.",general,General,"Ronaldo, Leao, Bayindir",Portugal,170
+turkey_portugal,16,0,16,"Baris Alper Yilmaz (Turkey) jumps into a tackle and Felix Zwayer signals a foul. Portugal have a free kick.",general,Free Kick,Yilmaz,Turkey,119
+turkey_portugal,18,0,18,"Rafael Leao (Portugal) slaloms his way past challenges, but an opposing player does well to get the ball away. The ball goes out of play and Turkey will have a goal kick.",general,General,Leao,Portugal,177
+turkey_portugal,19,0,19,"Felix Zwayer blows the whistle, Kaan Ayhan (Turkey) is penalised for a foul. That's a free kick to Portugal.",general,Free Kick,Ayhan,Turkey,116
+turkey_portugal,20,0,20,"Orkun Kokcu (Turkey) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger.",general,General,Kokcu,Turkey,154
+turkey_portugal,21,0,21,"Bernardo Silva (Portugal) connects with a pass inside the box and slams home inside the right post. The goalkeeper was helpless.",key_event,Goal,Silva,Portugal,141
+turkey_portugal,24,0,24,"Nuno Mendes (Portugal) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",general,General,Mendes,Portugal,153
+turkey_portugal,24,0,24,"Bruno Fernandes (Portugal) leans back and sends a volley well wide of the right post from inside the box.",key_event,Shot,Fernandes,Portugal,119
+turkey_portugal,25,0,25,"This yellow card was deserved. The tackle by Abdulkerim Bardakci (Turkey) was quite harsh and Felix Zwayer didn't hesitate to show him a yellow card.",key_event,Yellow Card,Bardakci,Turkey,161
+turkey_portugal,25,0,25,"Abdulkerim Bardakci (Turkey) will miss the next game.",general,General,Bardakci,Turkey,53
+turkey_portugal,28,0,28,"The ratio of the ball possession is 39:61.",general,General,,Both,44
+turkey_portugal,28,0,28,"What bad luck! Samet Akaydin (Turkey) sends the ball into his own net.",key_event,Goal,Akaydin,Turkey,77
+turkey_portugal,28,0,28,"Ref immediately points to the centre circle as goal-line technology confirms it's a goal.",general,General,,Both,94
+turkey_portugal,30,0,30,"Kerem Akturkoglu (Turkey) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",general,General,Akturkoglu,Turkey,168
+turkey_portugal,31,0,31,"Kerem Akturkoglu (Turkey) produced a promising shot towards the bottom left corner after his wonderful solo run, but Diogo Costa thwarted him with a fabulous save and the score remains the same.",key_event,Save,"Akturkoglu, Costa",Turkey,199
+turkey_portugal,31,0,31,"Hakan Calhanoglu (Turkey) takes the corner but it's cleared.",general,Corner,Calhanoglu,Turkey,61
+turkey_portugal,32,0,32,"The resulting corner from Yunus Akgun (Turkey) comes to nothing.",general,Corner,Akgun,Turkey,64
+turkey_portugal,32,0,32,"Orkun Kokcu (Turkey) reacts well to latch onto a rebound inside the box, but his shot is well blocked.",key_event,Shot,Kokcu,Turkey,112
+turkey_portugal,32,0,32,"Hakan Calhanoglu (Turkey) volleys the ball towards goal from the edge of the penalty box, but one of the defenders blocks his shot.",key_event,Shot,Calhanoglu,Turkey,144
+turkey_portugal,34,0,34,"Abdulkerim Bardakci (Turkey) fails to find a teammate across the pitch with a long ball.",general,General,Bardakci,Turkey,91
+turkey_portugal,35,0,35,"Bruno Fernandes (Portugal) latches onto a short pass from Joao Cancelo inside the box, but clips his shot well wide of the right post.",key_event,Shot,"Fernandes, Cancelo",Portugal,150
+turkey_portugal,37,0,37,"Cristiano Ronaldo (Portugal) gets the ball and drives a shot high over the bar from the edge of the area. The ball is off of the pitch and it's a goal kick for Turkey.",key_event,Shot,Ronaldo,Portugal,170
+turkey_portugal,37,0,37,"An opponent rises to his feet after being downed by Hakan Calhanoglu (Turkey). Felix Zwayer saw the sliding tackle and blows for a foul.",general,General,Calhanoglu,Turkey,148
+turkey_portugal,39,0,39,"Rafael Leao (Portugal) earns the yellow card.",key_event,Yellow Card,Leao,Portugal,46
+turkey_portugal,39,0,39,"Rafael Leao (Portugal) will miss the next game because of that yellow card.",general,General,Leao,Portugal,73
+turkey_portugal,40,0,40,"Cristiano Ronaldo (Portugal) is adjudged offside.",general,Offside,Ronaldo,Portugal,49
+turkey_portugal,41,0,41,"Orkun Kokcu (Turkey) has a sight of goal, fires a shot in from distance towards the bottom left corner and forces a good save out of Diogo Costa.",key_event,Save,"Kokcu, Costa",Turkey,160
+turkey_portugal,42,0,42,"Samet Akaydin (Turkey) takes his opponent down and receives a yellow card from the referee.",key_event,Yellow Card,Akaydin,Turkey,95
+turkey_portugal,42,0,42,"Zeki Celik (Turkey) criticises the decision of the referee and immediately receives a yellow card.",key_event,Yellow Card,Celik,Turkey,99
+turkey_portugal,43,0,43,"It seemed like Bernardo Silva (Portugal) was going to take a quick free kick, but instead he is going to send the ball inside the penalty box for his teammates.",general,Free Kick,Silva,Portugal,167
+turkey_portugal,43,0,43,"Pepe (Portugal) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",general,Offside,Pepe,Portugal,144
+turkey_portugal,45,0,45,"Joao Palhinha (Portugal) receives a yellow card for a nasty tackle.",key_event,Yellow Card,Palhinha,Portugal,69
+turkey_portugal,45,0,45,"The fourth official shows 1 min. of added time.",general,General,,Both,54
+turkey_portugal,45,1,45+1,"Felix Zwayer blows his whistle to signal the end of the first-half action.",general,Half Time,,Both,76
+turkey_portugal,46,0,46,"Roberto Martinez makes a half-time substitution. Ruben Neves comes on in place of Joao Palhinha (Portugal).",key_event,Substitution,"Palhinha, Neves, Martinez",Portugal,115
+turkey_portugal,46,0,46,"Roberto Martinez has made a change at the break. Pedro Neto has come on in place of Rafael Leao (Portugal).",key_event,Substitution,"Leao, Neto, Martinez",Portugal,114
+turkey_portugal,46,0,46,"Half-time substitution. Vincenzo Montella decided to make a change. Orkun Kokcu (Turkey) is replaced by Yusuf Yazici.",key_event,Substitution,"Kokcu, Yazici, Montella",Turkey,128
+turkey_portugal,46,0,46,"The players are back out on the pitch following the half-time break and the second half is about to start.",key_event,Kick Off,,Both,114
+turkey_portugal,47,0,47,"Kerem Akturkoglu (Turkey) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Turkey force their opponents to concede a corner.",general,Corner,Akturkoglu,Turkey,212
+turkey_portugal,48,0,48,"A dangerous looking corner kick from Hakan Calhanoglu (Turkey) is cleared to safety by the defence.",general,Corner,Calhanoglu,Turkey,107
+turkey_portugal,49,0,49,"Joao Cancelo (Portugal) looks to break free, but an opposing player clears the ball away.",general,General,Cancelo,Portugal,93
+turkey_portugal,50,0,50,"Portugal are showing great team chemistry. They are passing it around beautifully. Excellent team work.",general,General,,Portugal,114
+turkey_portugal,51,0,51,"Pedro Neto (Portugal) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",general,General,Neto,Portugal,140
+turkey_portugal,52,0,52,"The ball is cleared after Bernardo Silva (Portugal) attempted to dribble past an opposing player. Portugal get a corner.",general,Corner,Silva,Portugal,133
+turkey_portugal,53,0,53,"Nothing comes of the resulting corner from Bruno Fernandes (Portugal). The defence is alert and manages to cut it out.",general,Corner,Fernandes,Portugal,125
+turkey_portugal,53,0,53,"Yusuf Yazici (Turkey) slams the ball towards the middle of the goal, but it fails to surprise Diogo Costa and he's equal to it.",key_event,Shot,"Yazici, Costa",Turkey,139
+turkey_portugal,55,0,55,"Kaan Ayhan (Turkey) robs an opponent of the ball and explodes in anger when Felix Zwayer blows for a foul.",general,General,Ayhan,Turkey,114
+turkey_portugal,56,0,56,"Goal! Cristiano Ronaldo puts the ball across the area and Bruno Fernandes (Portugal) has the easiest task in the world to tuck the ball into an empty net. 0:3.",key_event,Goal,"Ronaldo, Fernandes",Portugal,170
+turkey_portugal,58,0,58,"Nuno Mendes (Portugal) commits an ugly tackle on his opponent, but there is no caution from the referee.",general,General,Mendes,Portugal,109
+turkey_portugal,58,0,58,"Substitution. Kenan Yildiz (Turkey) receives a signal from the referee and is now allowed to enter the pitch as Kerem Akturkoglu walks off.",key_event,Substitution,"Akturkoglu, Yildiz",Turkey,152
+turkey_portugal,58,0,58,"Vincenzo Montella decides to make a substitution. Kaan Ayhan will be replaced by Ismail Yuksek (Turkey).",key_event,Substitution,"Ayhan, Yuksek, Montella",Turkey,108
+turkey_portugal,59,0,59,"Hakan Calhanoglu (Turkey) swings in a cross, but the ball is cleared to safety by one of the defending players.",general,General,Calhanoglu,Turkey,122
+turkey_portugal,59,0,59,"Hakan Calhanoglu (Turkey) looks like he will be the one to take the corner kick.",general,Corner,Calhanoglu,Turkey,81
+turkey_portugal,59,0,59,"Felix Zwayer blows his whistle as Zeki Celik (Turkey) used excessive force in the tackle during an attack.",general,General,Celik,Turkey,121
+turkey_portugal,60,0,60,"Yusuf Yazici (Turkey) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety.",key_event,Shot,Yazici,Turkey,166
+turkey_portugal,61,0,61,"Bruno Fernandes (Portugal) is offside and the linesman raises his flag.",general,Offside,Fernandes,Portugal,70
+turkey_portugal,62,0,62,"Referee Felix Zwayer sees the trip by Hakan Calhanoglu (Turkey) and doesn't hesitate to blow his whistle.",general,General,Calhanoglu,Turkey,115
+turkey_portugal,63,0,63,"The attendance for today's match is 61047.",general,General,,Both,49
+turkey_portugal,63,0,63,"Kenan Yildiz (Turkey) receives a pass and tries his luck with a long-range powerful effort. His poorly placed shot lacks accuracy and flies way over the crossbar. The ball goes out of play and Portugal will have a goal kick.",key_event,Shot,Yildiz,Turkey,226
+turkey_portugal,65,0,65,"Zeki Celik (Turkey) fails to send a pass into the box as his effort is cut out.",general,General,Celik,Turkey,81
+turkey_portugal,67,0,67,"PENALTY APPEAL after Baris Alper Yilmaz (Turkey) goes down under a challenge from the defender. All players chase the referee but he's not interested in the penalty claim. Play continues.",general,General,Yilmaz,Turkey,191
+turkey_portugal,68,0,68,"Felix Zwayer blows his whistle. Ismail Yuksek (Turkey) commits a foul after dangerous play.",general,General,Yuksek,Turkey,96
+turkey_portugal,68,0,68,"It is time for a substitution. Nelson Semedo (Portugal) is on for Joao Cancelo.",key_event,Substitution,"Cancelo, Semedo",Portugal,85
+turkey_portugal,70,0,70,"Here is a change. Yunus Akgun is going off and Vincenzo Montella gives the last tactical orders to Arda Guler (Turkey).",key_event,Substitution,"Akgun, Guler, Montella",Turkey,128
+turkey_portugal,72,0,72,"Yusuf Yazici (Turkey) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement.",general,General,Yazici,Turkey,141
+turkey_portugal,73,0,73,"Pedro Neto (Portugal) delivers a low pass into the box which is intercepted.",general,General,Neto,Portugal,76
+turkey_portugal,73,0,73,"Samet Akaydin (Turkey) is having a really tough time right now. We are about to find out how serious his injury is.",general,Injury,Akaydin,Turkey,130
+turkey_portugal,75,0,75,"Problems for Vincenzo Montella as Samet Akaydin is not able to play anymore. His injury is too serious and Merih Demiral (Turkey) replaces him.",key_event,Substitution,"Akaydin, Demiral, Montella",Turkey,156
+turkey_portugal,77,0,77,"Ruben Neves (Portugal) attempts to slip the ball through the defence, but is unable to find any of his teammates.",general,General,Neves,Portugal,122
+turkey_portugal,78,0,78,"Zeki Celik (Turkey) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is out of play. Portugal will take a throw-in.",general,General,Celik,Turkey,174
+turkey_portugal,79,0,79,"Zeki Celik (Turkey) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The referee points to the corner flag. It's a corner to Turkey.",general,Corner,Celik,Turkey,226
+turkey_portugal,79,0,79,"Hakan Calhanoglu (Turkey) takes the corner but fails to find any of his teammates. The ball goes out of play. Turkey are awarded a corner kick.",general,Corner,Calhanoglu,Turkey,157
+turkey_portugal,79,0,79,"Hakan Calhanoglu (Turkey) whips in the corner, but one of the defending players gets a head on it and intercepts.",general,Corner,Calhanoglu,Turkey,126
+turkey_portugal,80,0,80,"Arda Guler (Turkey) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",general,General,Guler,Turkey,149
+turkey_portugal,81,0,81,"The defence had a hard time blocking out the strike from Arda Guler (Turkey). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate. Turkey will take a corner kick.",general,Corner,Guler,Turkey,217
+turkey_portugal,81,0,81,"Hakan Calhanoglu (Turkey) will take the corner.",general,Corner,Calhanoglu,Turkey,52
+turkey_portugal,82,0,82,"The game is interrupted due to a pitch invader!",general,General,,Both,52
+turkey_portugal,83,0,83,"That will be all from Pepe who is being replaced by the fresh legs of Antonio Silva (Portugal).",key_event,Substitution,"Pepe, Silva",Portugal,103
+turkey_portugal,84,0,84,"Nuno Mendes (Portugal) sends a teasing cross into the area, but Altay Bayindir intercepts the ball.",general,General,"Mendes, Bayindir",Portugal,109
+turkey_portugal,84,0,84,"Yusuf Yazici (Turkey) is picked out by one of his teammates with a great cross, but his poor control allows the defence to clear and avert the threat. The ball is off of the pitch and it's a goal kick for Portugal.",general,General,Yazici,Turkey,210
+turkey_portugal,86,0,86,"Ferdi Kadioglu (Turkey) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle.",general,General,Kadioglu,Turkey,152
+turkey_portugal,87,0,87,"Arda Guler (Turkey) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort.",general,General,Guler,Turkey,184
+turkey_portugal,88,0,88,"A defence splitting pass into the box is almost received by Bernardo Silva (Portugal), but Altay Bayindir is quick enough and comes off his line to intercept the pass.",general,General,"Silva, Bayindir",Portugal,175
+turkey_portugal,88,0,88,"That's the end of the game for Vitinha, who is replaced by Joao Neves (Portugal).",key_event,Substitution,"Vitinha, Neves",Portugal,83
+turkey_portugal,90,0,90,"Pedro Neto (Portugal) races towards goal but the defender gets back well to make a challenge.",general,General,Neto,Portugal,95
+turkey_portugal,90,0,90,"Bernardo Silva (Portugal) received a pass inside the box and sent a dangerous shot in on goal, but keep the champagne on ice as one of the defenders stepped in and blocked the effort. It's hard to say whether the keeper would have stopped it.",key_event,Shot,Silva,Portugal,244
+turkey_portugal,90,0,90,"5 min. of stoppage-time to be played.",general,General,,Both,40
+turkey_portugal,90,1,90+1,"The linesman raises his flag for offside before Bruno Fernandes (Portugal) heads on.",general,Offside,Fernandes,Portugal,85
+turkey_portugal,90,2,90+2,"Bernardo Silva (Portugal) breaks into the box and goes over after a challenge from an opposition player, but the ref signals NO penalty!",general,General,Silva,Portugal,148
+turkey_portugal,90,3,90+3,"Zeki Celik (Turkey) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger. Turkey have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",general,Corner,Celik,Turkey,255
+turkey_portugal,90,4,90+4,"Arda Guler (Turkey) floats the ball in from the corner but it's intercepted.",general,Corner,Guler,Turkey,77
+turkey_portugal,90,5,90+5,"Ruben Neves (Portugal) rushes a shot from long range and subsequently sends it high over the bar.",key_event,Shot,Neves,Portugal,103
+turkey_portugal,90,6,90+6,"That's the end of the match.",key_event,Full Time,,Both,30
+

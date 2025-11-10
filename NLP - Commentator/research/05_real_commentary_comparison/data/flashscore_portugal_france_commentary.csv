@@ -1,0 +1,146 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+portugal_france,0,0,0,"Michael Oliver will supervise the game today.",general,General,Oliver,Both,46
+portugal_france,0,0,0,"France will kick the game off.",general,Kick Off,,France,30
+portugal_france,1,0,1,"The first half of this match is about to start.",key_event,Kick Off,,Both,46
+portugal_france,2,0,2,"An attempted cross from Jules Kounde (France) is cleared.",general,General,Kounde,France,55
+portugal_france,2,0,2,"Randal Kolo Muani (France) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net.",general,General,Kolo Muani,France,213
+portugal_france,3,0,3,"Bruno Fernandes (Portugal) jumps into a tackle and Michael Oliver signals a foul.",general,General,Fernandes,Portugal,84
+portugal_france,6,0,6,"Some great controlled play and passing in the middle of the pitch from Portugal.",general,General,,Portugal,78
+portugal_france,8,0,8,"Nuno Mendes (Portugal) swings in a cross, but the ball is cleared to safety by one of the defending players.",general,General,Mendes,Portugal,115
+portugal_france,9,0,9,"William Saliba (France) makes an unfair challenge by holding his opponent to prevent him from getting the ball. Portugal get a free kick.",general,Free Kick,Saliba,France,137
+portugal_france,10,0,10,"The resulting set piece, sent into the penalty area by Bruno Fernandes (Portugal), was easily dealt with by one of the defenders. The ball goes out of play. Portugal are awarded a corner kick.",general,Corner,Fernandes,Portugal,189
+portugal_france,11,0,11,"The resulting corner from Bruno Fernandes (Portugal) comes to nothing.",general,Corner,Fernandes,Portugal,66
+portugal_france,13,0,13,"A pass by Nuno Mendes (Portugal) ends up in no man's land, and the attacking effort comes to an end.",general,General,Mendes,Portugal,108
+portugal_france,15,0,15,"Mike Maignan leaps to intercept the corner kick from Bruno Fernandes (Portugal).",general,Corner,"Maignan, Fernandes",Portugal,79
+portugal_france,16,0,16,"Bruno Fernandes (Portugal) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender. Good work from Portugal as they win a corner.",key_event,Shot,Fernandes,Portugal,190
+portugal_france,17,0,17,"Bruno Fernandes (Portugal) steps up to send the ball in.",general,Corner,Fernandes,Portugal,53
+portugal_france,17,0,17,"Cristiano Ronaldo (Portugal) commits a foul and Michael Oliver immediately signals a free kick.",general,General,Ronaldo,Portugal,94
+portugal_france,18,0,18,"Rafael Leao (Portugal) sends a lofted cross into the box which is headed clear.",general,General,Leao,Portugal,81
+portugal_france,19,0,19,"Rafael Leao (Portugal) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag. It's a corner to Portugal.",general,Corner,Leao,Portugal,153
+portugal_france,20,0,20,"Bruno Fernandes (Portugal) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",general,Corner,Fernandes,Portugal,126
+portugal_france,20,0,20,"Theo Hernandez (France) wastes an opportunity. He has a lot of space around him and fires in a terrific shot from long range towards the middle of the target, but the goalkeeper makes a brilliant save and stops this one!",key_event,Save,Hernandez,France,216
+portugal_france,22,0,22,"Kylian Mbappe (France) passes the ball into the box but an opposing player clears.",general,General,Mbappe,France,82
+portugal_france,23,0,23,"Eduardo Camavinga (France) is disappointed with himself because he got into a good area but produced a poor cross.",general,General,Camavinga,France,119
+portugal_france,25,0,25,"It looks like Pepe (Portugal) saw red with that tackle. Michael Oliver won't tolerate such behaviour on the pitch and blows for a foul. A free kick has been awarded to France.",general,Free Kick,Pepe,Portugal,174
+portugal_france,25,0,25,"The free kick is taken by Antoine Griezmann (France), but ball is cleared.",general,Free Kick,Griezmann,France,73
+portugal_france,26,0,26,"The linesman raises his flag. Kylian Mbappe (France) is adjudged offside.",general,Offside,Mbappe,France,72
+portugal_france,27,0,27,"Rafael Leao (Portugal) sends a sweet pass into the penalty area, but one of the defenders averts the danger. Portugal will take a corner kick.",general,Corner,Leao,Portugal,138
+portugal_france,28,0,28,"A horde of players are waiting inside the penalty area for a cross from the corner, but Bruno Fernandes (Portugal) takes it short.",general,Corner,Fernandes,Portugal,131
+portugal_france,28,0,28,"Antoine Griezmann (France) fires the ball towards goal from outside the penalty area, but it is blocked by one of his teammates.",key_event,Shot,Griezmann,France,128
+portugal_france,28,0,28,"Bruno Fernandes (Portugal) sends the ball into the box from the side of the pitch, but his cross is blocked.",general,General,Fernandes,Portugal,110
+portugal_france,28,0,28,"The keeper doesn't have to worry about this one. Eduardo Camavinga (France) sacrificed accuracy for power, and thus his attempt went well over the bar.",key_event,Shot,Camavinga,France,149
+portugal_france,30,0,30,"Half-chance! Rafael Leao (Portugal) plays a pass into the box, but Mike Maignan reacts well to snuff out the attack.",general,General,"Leao, Maignan",Portugal,124
+portugal_france,31,0,31,"The ball is cleared after Randal Kolo Muani (France) attempted to dribble past an opposing player.",general,General,Kolo Muani,France,99
+portugal_france,31,0,31,"Eduardo Camavinga (France) pulls the jersey of one of the opposition players and Michael Oliver blows his whistle for a foul.",general,General,Camavinga,France,126
+portugal_france,33,0,33,"Jules Kounde (France) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",general,General,Kounde,France,110
+portugal_france,34,0,34,"Eduardo Camavinga (France) sends a short pass into the box, Antoine Griezmann takes a touch to control the ball, but one of the defenders robs him of it and clears to safety. France force a corner. They send men into the box.",general,Corner,"Camavinga, Griezmann",France,223
+portugal_france,35,0,35,"Antoine Griezmann (France) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",general,Corner,Griezmann,France,118
+portugal_france,36,0,36,"Jules Kounde (France) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Kounde,France,155
+portugal_france,38,0,38,"A long pass, executed by Joao Cancelo (Portugal), missed the precision to reach his teammates.",general,General,Cancelo,Portugal,98
+portugal_france,39,0,39,"Kylian Mbappe (France) attempts to slip the ball through the defence, but is unable to find any of his teammates.",general,General,Mbappe,France,118
+portugal_france,40,0,40,"Bernardo Silva (Portugal) sends over a cross, but he can't find any teammate inside the box. Poor delivery.",general,General,Silva,Portugal,112
+portugal_france,41,0,41,"Vitinha (Portugal) tries to pass the ball into the penalty area but it's blocked.",general,General,Vitinha,Portugal,79
+portugal_france,41,0,41,"Michael Oliver blows his whistle for a foul after Randal Kolo Muani (France) hacks down one of his opponents. Portugal earn a free kick which could lead to a goal-scoring opportunity.",general,Free Kick,Kolo Muani,France,179
+portugal_france,43,0,43,"Bruno Fernandes (Portugal) attempts to score from a mid-range free kick, but he curls his effort a few inches over the crossbar.",key_event,Shot,Fernandes,Portugal,127
+portugal_france,45,0,45,"The cross into the penalty area from Vitinha (Portugal) needed to be more accurate in order to create a goal-scoring opportunity for his team.",general,General,Vitinha,Portugal,145
+portugal_france,45,1,45+1,"The end of the first half.",general,Half Time,,Both,27
+portugal_france,46,0,46,"Referee Michael Oliver blows his whistle to start the second half.",key_event,Kick Off,,Both,64
+portugal_france,47,0,47,"Eduardo Camavinga (France) brings his opponent down with a tackle and Michael Oliver blows his whistle for a foul.",general,General,Camavinga,France,115
+portugal_france,49,0,49,"The attendance for today's match is 47789.",general,General,,Both,47
+portugal_france,50,0,50,"Kylian Mbappe (France) was in a good shooting position just outside the box and unleashed a first-time shot towards the middle of the target, but the goalkeeper made a decent save to thwart his effort.",key_event,Save,Mbappe,France,192
+portugal_france,51,0,51,"Nuno Mendes (Portugal) skips past his man but can't keep the ball in play.",general,General,Mendes,Portugal,76
+portugal_france,51,0,51,"Aurelien Tchouameni (France) tries his luck with and strikes the ball towards goal from long-range, but it is blocked by one of the defenders.",key_event,Shot,Tchouameni,France,142
+portugal_france,52,0,52,"Theo Hernandez (France) sends in a pass which fails to reach any of his teammates.",general,General,Hernandez,France,83
+portugal_france,53,0,53,"Jules Kounde (France) found some space to dink a cross from the side into the box, but it needed to be more precise to threaten the opposition.",general,General,Kounde,France,143
+portugal_france,54,0,54,"Cristiano Ronaldo (Portugal) tries to slide the ball through to a teammate but it's well blocked by a defender. Portugal force their opponents to concede a corner.",general,Corner,Ronaldo,Portugal,154
+portugal_france,54,0,54,"Bruno Fernandes (Portugal) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",general,Corner,Fernandes,Portugal,134
+portugal_france,54,0,54,"Bernardo Silva (Portugal) gets himself onto the end of the corner, but his header is blocked.",key_event,Shot,Silva,Portugal,99
+portugal_france,55,0,55,"Joao Cancelo (Portugal) serves up a nice cross, but Mike Maignan punches the ball away.",general,General,"Cancelo, Maignan",Portugal,93
+portugal_france,56,0,56,"Kylian Mbappe (France) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",general,General,Mbappe,France,128
+portugal_france,57,0,57,"Kylian Mbappe (France) is moving okay again after that injury scare.",general,General,Mbappe,France,68
+portugal_france,58,0,58,"The linesman signals that Randal Kolo Muani (France) is offside and the referee confirms the decision.",general,Offside,Kolo Muani,France,103
+portugal_france,60,0,60,"Rafael Leao (Portugal) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee and one of his assistants signal for a corner kick to Portugal.",general,Corner,Leao,Portugal,177
+portugal_france,60,0,60,"Bruno Fernandes (Portugal) will take a corner kick.",general,Corner,Fernandes,Portugal,50
+portugal_france,61,0,61,"Great save! Bruno Fernandes (Portugal) had time and space inside the box after picking up a neat pass, but his shot towards the bottom left corner was brilliantly saved by Mike Maignan.",key_event,Save,"Fernandes, Maignan",Portugal,186
+portugal_france,62,0,62,"Joao Cancelo (Portugal) drives into the box and hits a tremendous shot that, unluckily for him, flashes just wide of the left post.",key_event,Shot,Cancelo,Portugal,137
+portugal_france,63,0,63,"Aurelien Tchouameni (France) strikes from the edge of the box, but hits it really poorly and sends the ball way wide of the right post.",key_event,Shot,Tchouameni,France,136
+portugal_france,63,0,63,"It's unbelievable, Vitinha (Portugal) blows a huge opportunity! He is totally unmarked and fires a first-time shot towards goal from a few yards out, but Mike Maignan reacts superbly to keep the ball out.",key_event,Save,"Vitinha, Maignan",Portugal,203
+portugal_france,63,0,63,"Cristiano Ronaldo (Portugal) picks up the rebound and shoots. The goalkeeper was ready and denies his effort with a fine save. The linesman points to the corner flag, Portugal are going to take it.",key_event,Save,Ronaldo,Portugal,181
+portugal_france,64,0,64,"Bruno Fernandes (Portugal) floats the ball in from the corner but it's intercepted.",general,Corner,Fernandes,Portugal,85
+portugal_france,66,0,66,"The ball falls for Randal Kolo Muani (France) in the box, and he hits a first-time shot at goal that is inadvertently blocked by a defender. A bit unlucky there! France earn a corner.",key_event,Shot,Kolo Muani,France,182
+portugal_france,67,0,67,"The manager has decided to make a substitution and Antoine Griezmann walks off the pitch to be replaced by Ousmane Dembele (France).",key_event,Substitution,"Griezmann, Dembele",France,135
+portugal_france,67,0,67,"This corner kick is taken with a short pass by Ousmane Dembele (France).",general,Corner,Dembele,France,71
+portugal_france,68,0,68,"Kylian Mbappe (France) unleashes a bullet of a shot that is blocked by a defender.",key_event,Shot,Mbappe,France,83
+portugal_france,70,0,70,"A pass into the penalty area from Rafael Leao (Portugal) is intercepted by the defence.",general,General,Leao,Portugal,87
+portugal_france,70,0,70,"Eduardo Camavinga (France) spurns a great opportunity from inside the 6-yard box. The ball flies narrowly wide of the left post.",key_event,Chance,Camavinga,France,130
+portugal_france,72,0,72,"Ousmane Dembele (France) fails to find any of his teammates inside the box as his pass is blocked.",general,General,Dembele,France,99
+portugal_france,73,0,73,"Ousmane Dembele (France) tries to send a pass but it's blocked.",general,General,Dembele,France,61
+portugal_france,74,0,74,"Ousmane Dembele (France) fails to send a pass into the box as his effort is cut out.",general,General,Dembele,France,84
+portugal_france,74,0,74,"Ousmane Dembele (France) creates a yard of space for himself and tries an effort from the edge of the box, but it goes just wide of the left post.",key_event,Shot,Dembele,France,148
+portugal_france,74,0,74,"The referee signals a substitution. Nelson Semedo (Portugal) is brought on as a substitute for Joao Cancelo.",key_event,Substitution,"Cancelo, Semedo",Portugal,110
+portugal_france,74,0,74,"Roberto Martinez decides to make a substitution. Bruno Fernandes will be replaced by Francisco Conceicao (Portugal).",key_event,Substitution,"Fernandes, Conceicao, Martinez",Portugal,116
+portugal_france,78,0,78,"Randal Kolo Muani (France) is penalised for holding. Michael Oliver signals a set piece.",general,General,Kolo Muani,France,87
+portugal_france,79,0,79,"Bernardo Silva (Portugal) swings in the corner, but the goalkeeper does a brilliant job to intercept the effort.",general,Corner,Silva,Portugal,116
+portugal_france,79,0,79,"Joao Palhinha (Portugal) receives a yellow card from the referee for a foul that he committed a little earlier.",key_event,Yellow Card,Palhinha,Portugal,110
+portugal_france,80,0,80,"Joao Palhinha (Portugal) will miss the next game.",general,General,Palhinha,Portugal,47
+portugal_france,81,0,81,"N'Golo Kante (France) swings a cross into the box, but it's far too close to Diogo Costa, who smothers the ball.",general,General,"Kante, Costa",France,117
+portugal_france,84,0,84,"Michael Oliver shows a yellow card to William Saliba (France) for a tough tackle.",key_event,Yellow Card,Saliba,France,78
+portugal_france,85,0,85,"Francisco Conceicao (Portugal) is down injured and the referee stops play so that he can receive medical treatment.",general,General,Conceicao,Portugal,118
+portugal_france,85,0,85,"Portugal have been awarded a free kick just outside the penalty area, in a dangerous position.",general,Free Kick,,Portugal,96
+portugal_france,86,0,86,"The free kick from the edge of the box is taken by Cristiano Ronaldo (Portugal), but he hits it straight in the defensive wall.",general,Free Kick,Ronaldo,Portugal,128
+portugal_france,86,0,86,"Vitinha (Portugal) pulls the trigger and strikes the ball towards goal from long-range, but his effort is blocked by one of the defenders. The ball goes out for a corner. Portugal can continue in their attacking effort.",general,Corner,Vitinha,Portugal,199
+portugal_france,86,0,86,"The referee stops play so that a substitution can be made and Marcus Thuram (France) comes onto the pitch for Randal Kolo Muani.",key_event,Substitution,"Kolo Muani, Thuram",France,137
+portugal_france,87,0,87,"Vitinha (Portugal) takes the corner which is cleared.",general,Corner,Vitinha,Portugal,53
+portugal_france,88,0,88,"Rafael Leao (Portugal) sends a pass into the box, but his attempt is thwarted and cleared.",general,General,Leao,Portugal,91
+portugal_france,88,0,88,"N'Golo Kante (France) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Diogo Costa.",key_event,Shot,"Kante, Costa",France,140
+portugal_france,89,0,89,"Francisco Conceicao (Portugal) sends a cross into the box, but the opposition's defence clears the ball to safety.",general,General,Conceicao,Portugal,116
+portugal_france,89,0,89,"Cristiano Ronaldo (Portugal) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",general,Offside,Ronaldo,Portugal,144
+portugal_france,89,0,89,"Diogo Costa blocks N'Golo Kante (France)'s effort from the edge of the box.",key_event,Save,"Costa, Kante",France,77
+portugal_france,90,0,90,"We will have 3 min. of added time.",general,General,,Both,38
+portugal_france,90,1,90+1,"Bernardo Silva (Portugal) fires the ball at goal from inside the area, but it's well blocked.",key_event,Shot,Silva,Portugal,94
+portugal_france,90,1,90+1,"Marcus Thuram (France) slaloms his way past challenges, but an opposing player does well to get the ball away. France win a corner.",general,Corner,Thuram,France,136
+portugal_france,90,1,90+1,"Corner kick. Ousmane Dembele (France) is ready to send the ball into the box.",general,Corner,Dembele,France,78
+portugal_france,90,2,90+2,"Kylian Mbappe (France) produces an effort from the edge of the box, but doesn't hit the ball properly and sends it yards over the bar.",key_event,Shot,Mbappe,France,137
+portugal_france,90,2,90+2,"Here comes a substitution. Ruben Neves (Portugal) is brought on as a substitute for Joao Palhinha.",key_event,Substitution,"Palhinha, Neves",Portugal,105
+portugal_france,90,4,90+4,"Kylian Mbappe (France) shakes off the attention of a defender and from mid-range lets fly towards the right side of the goal, but Diogo Costa is well positioned to make a comfortable save.",key_event,Save,"Mbappe, Costa",France,181
+portugal_france,90,4,90+4,"The end of the second half.",general,Full Time,,Both,27
+portugal_france,91,0,91,"Youssouf Fofana (France) joins the action as a substitute, replacing Eduardo Camavinga.",key_event,Substitution,"Camavinga, Fofana",France,92
+portugal_france,91,0,91,"The first period of extra-time has just begun.",key_event,Extra Time Start,,Both,49
+portugal_france,93,0,93,"Cristiano Ronaldo (Portugal) cushions the ball on his chest then hits a first-time volley high over the bar from inside the box.",key_event,Shot,Ronaldo,Portugal,130
+portugal_france,95,0,95,"Aurelien Tchouameni (France) sends a cross into the box, but Diogo Costa comes off his line to gather the ball.",general,General,"Tchouameni, Costa",France,117
+portugal_france,97,0,97,"Kylian Mbappe (France) expertly controls the pass inside the penalty area and shoots, but it's inadvertently blocked a defender.",key_event,Shot,Mbappe,France,134
+portugal_france,98,0,98,"Marcus Thuram (France) smashes the ball from the edge of the box and misses well wide of the left post.",key_event,Shot,Thuram,France,104
+portugal_france,101,0,101,"The Portugal players are exchanging some short passes.",general,General,,Portugal,54
+portugal_france,102,0,102,"Rafael Leao (Portugal) shoots inside the box, but is denied by a timely block.",key_event,Shot,Leao,Portugal,79
+portugal_france,105,0,105,"Francisco Conceicao (Portugal) unleashes a shot towards the goal, but his effort isn't precise at all and it flies high over the bar.",key_event,Shot,Conceicao,Portugal,137
+portugal_france,105,0,105,"That's the end of the first period of extra-time.",general,Half Time Extra,,Both,51
+portugal_france,106,0,106,"Everything is set for the start of the second period of extra-time.",key_event,Extra Time Start,,Both,68
+portugal_france,106,0,106,"Didier Deschamps has decided to make a change. Bradley Barcola (France) replaces Kylian Mbappe.",key_event,Substitution,"Mbappe, Barcola, Deschamps",France,103
+portugal_france,106,0,106,"The substitution has been made. Joao Felix (Portugal) has replaced Rafael Leao.",key_event,Substitution,"Leao, Felix",Portugal,84
+portugal_france,108,0,108,"Joao Felix (Portugal) latches onto a lofted pass from Francisco Conceicao on the edge of the six-yard box, but misdirects his header and sends it just wide of the left post.",key_event,Shot,"Felix, Conceicao",Portugal,180
+portugal_france,110,0,110,"The game is interrupted as Cristiano Ronaldo (Portugal) is flagged offside.",general,Offside,Ronaldo,Portugal,74
+portugal_france,112,0,112,"Ousmane Dembele (France) fancies his chances and unleashes a powerful shot from the edge of the box, but the keeper just watches it go high over the bar.",key_event,Shot,Dembele,France,157
+portugal_france,113,0,113,"One of the France players commits a holding foul and the referee reaches for his whistle.",general,General,,France,91
+portugal_france,115,0,115,"Bradley Barcola (France) wins the ball in the box, but curls his effort high over the bar.",key_event,Shot,Barcola,France,93
+portugal_france,116,0,116,"Francisco Conceicao (Portugal) looks to break free, but an opposing player clears the ball away. The referee blows his whistle, Portugal are awarded a corner kick.",general,Corner,Conceicao,Portugal,161
+portugal_france,117,0,117,"Vitinha (Portugal) is about to take a corner kick.",general,Corner,Vitinha,Portugal,48
+portugal_france,117,0,117,"The foul by Cristiano Ronaldo (Portugal) was seen by Michael Oliver who didn't hesitate to blow the whistle.",general,General,Ronaldo,Portugal,108
+portugal_france,118,0,118,"One of the defenders reacts at the last minute to brilliantly block a pass from Ousmane Dembele (France). The ball is out of play. A goal-scoring opportunity from a corner for France.",general,Corner,Dembele,France,177
+portugal_france,118,0,118,"Ousmane Dembele (France) prepares to take a corner kick.",general,Corner,Dembele,France,54
+portugal_france,118,0,118,"Michael Oliver blows his whistle as Aurelien Tchouameni (France) used excessive force in the tackle during an attack.",general,General,Tchouameni,France,113
+portugal_france,119,0,119,"It will be a substitution. Matheus Nunes (Portugal) is ready to enter the pitch as Vitinha walks off.",key_event,Substitution,"Vitinha, Nunes",Portugal,103
+portugal_france,120,0,120,"That didn't go as planned! Nuno Mendes (Portugal) tried his luck from the edge of the box, but his effort low towards the middle of the goal was too weak to get past Mike Maignan, who easily kept it out.",key_event,Save,"Mendes, Maignan",Portugal,200
+portugal_france,120,0,120,"Marcus Thuram (France) races towards goal but the defender gets back well to make a challenge.",general,General,Thuram,France,94
+portugal_france,120,1,120+1,"Extra-time has not determined the winner of this match, so it will be decided by a penalty shootout.",general,Penalty Shootout,,Both,106
+portugal_france,121,0,121,"The match will be decided by a penalty shootout. Who will be the winner and who will be the loser?",general,Penalty Shootout,,Both,102
+portugal_france,121,0,121,"Goal! Ousmane Dembele (France) lashes the penalty into the bottom right corner, giving the keeper no chance.",key_event,Penalty Goal,Dembele,France,110
+portugal_france,121,0,121,"GOAL! That's a great strike from the spot by Cristiano Ronaldo (Portugal) low into the left of the net, giving goalkeeper Mike Maignan no chance!",key_event,Penalty Goal,"Ronaldo, Maignan",Portugal,145
+portugal_france,121,0,121,"Goal! Youssouf Fofana (France) wins the battle of wills and sends an unstoppable penalty low past Diogo Costa into the middle of the goal.",key_event,Penalty Goal,"Fofana, Costa",France,141
+portugal_france,121,0,121,"Goal! Bernardo Silva (Portugal) calmly steps up and places the ball into the roof of the net.",key_event,Penalty Goal,Silva,Portugal,91
+portugal_france,121,0,121,"Goal! Jules Kounde (France) puts the ball into the top left corner past the outstretched arm of Diogo Costa.",key_event,Penalty Goal,"Kounde, Costa",France,113
+portugal_france,121,0,121,"Joao Felix (Portugal) fails to score from the penalty spot! His effort crashes against the left post.",key_event,Penalty Miss,Felix,Portugal,107
+portugal_france,121,0,121,"GOAL! Bradley Barcola (France) sends the penalty kick into the left of the net.",key_event,Penalty Goal,Barcola,France,77
+portugal_france,121,0,121,"Goal! Nuno Mendes (Portugal) puts the ball into the roof of the net past the outstretched arm of Mike Maignan.",key_event,Penalty Goal,"Mendes, Maignan",Portugal,113
+portugal_france,121,0,121,"Theo Hernandez (France) steps up to take the penalty and brilliantly fires the ball into the top left corner.",key_event,Penalty Goal,Hernandez,France,113
+portugal_france,121,0,121,"The nerve-wracking penalty shoot-out has just ended, with a clear winner finally emerging.",key_event,Full Time,,Both,97
+

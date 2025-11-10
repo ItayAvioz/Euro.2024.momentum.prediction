@@ -1,0 +1,96 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+denmark_serbia,0,0,0,"Francois Letexier was nominated as the referee for this game.",general,General,Letexier,Both,64
+denmark_serbia,0,0,0,"Denmark will kick-off.",general,Kick Off,,Denmark,22
+denmark_serbia,1,0,1,"Here we go, today's match is starting right now.",key_event,Kick Off,,Both,51
+denmark_serbia,2,0,2,"The Denmark players are exchanging some short passes to try and open up the opposition's defence and hit them swiftly on the break.",general,General,,Denmark,138
+denmark_serbia,3,0,3,"The referee blows his whistle as Rasmus Hojlund (Denmark) was too aggressive in his challenge.",general,General,Hojlund,Denmark,101
+denmark_serbia,4,0,4,"This yellow card was deserved. The tackle by Nikola Milenkovic (Serbia) was quite harsh and Francois Letexier didn't hesitate to show him a yellow card.",key_event,Yellow Card,Milenkovic,Serbia,161
+denmark_serbia,5,0,5,"Jannik Vestergaard (Denmark) makes a reckless foul in order to win the ball from his opponent. Francois Letexier has a clear sight of it and blows his whistle.",general,General,Vestergaard,Denmark,164
+denmark_serbia,8,0,8,"81:19 - the latest ball possession ratio.",general,General,,Both,43
+denmark_serbia,11,0,11,"Sasa Lukic (Serbia) tries to create a chance, but puts too much weight on his pass. The ball is off of the pitch and it's a goal kick for Denmark.",general,General,Lukic,Serbia,149
+denmark_serbia,12,0,12,"Rasmus Hojlund (Denmark) is penalised for a foul. Francois Letexier had a clear view and blows his whistle.",general,General,Hojlund,Denmark,113
+denmark_serbia,14,0,14,"Milos Veljkovic (Serbia) slides a pass forward, but one of the defenders cuts it out.",general,General,Veljkovic,Serbia,91
+denmark_serbia,16,0,16,"Aleksandar Mitrovic (Serbia) slaloms his way past challenges, but an opposing player does well to get the ball away.",general,General,Mitrovic,Serbia,124
+denmark_serbia,16,0,16,"Alexander Bah (Denmark) receives a lofted pass in the goal area and unleashes a dangerous header which sails narrowly wide of the right post!",key_event,Shot,Bah,Denmark,153
+denmark_serbia,18,0,18,"Joakim Maehle (Denmark) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety. The ball goes out of play. Denmark are awarded a corner kick.",general,Corner,Maehle,Denmark,211
+denmark_serbia,19,0,19,"The linesman points to the corner flag, Denmark are going to take it. Christian Eriksen (Denmark) takes the corner which is cleared by the opposition's defence.",general,Corner,Eriksen,Denmark,168
+denmark_serbia,19,0,19,"Christian Eriksen (Denmark) sends in a poor cross from the corner and Predrag Rajkovic has no trouble gathering it.",general,Corner,"Eriksen, Rajkovic",Denmark,124
+denmark_serbia,21,0,21,"Rasmus Hojlund (Denmark) makes a rough challenge and Francois Letexier blows his whistle for a foul.",general,General,Hojlund,Denmark,107
+denmark_serbia,21,0,21,"Christian Eriksen (Denmark) had a good opportunity from long range. His shot was directed towards the bottom left corner, but Predrag Rajkovic was alert and made a comfortable save. Good work from Denmark as they win a corner.",key_event,Save,"Eriksen, Rajkovic",Denmark,232
+denmark_serbia,22,0,22,"Christian Eriksen (Denmark) whips in the corner, but one of the defending players gets a head on it and intercepts.",general,Corner,Eriksen,Denmark,119
+denmark_serbia,23,0,23,"Christian Eriksen (Denmark) has a shot blocked from inside the box.",key_event,Shot,Eriksen,Denmark,67
+denmark_serbia,23,0,23,"Christian Eriksen (Denmark) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. The referee signals a corner kick to Denmark.",general,Corner,Eriksen,Denmark,211
+denmark_serbia,23,0,23,"Christian Eriksen (Denmark) will deliver the ball into the penalty box from a corner kick.",general,Corner,Eriksen,Denmark,91
+denmark_serbia,24,0,24,"Jonas Wind (Denmark) makes a strong challenge and Francois Letexier blows for a foul.",general,General,Wind,Denmark,92
+denmark_serbia,27,0,27,"Jonas Wind (Denmark) is booked after bringing down an opponent. Francois Letexier had an easy-decision to make.",key_event,Yellow Card,Wind,Denmark,115
+denmark_serbia,29,0,29,"A fine lofted pass into the box, sent by Srdjan Mijailovic (Serbia), is intercepted by the opposition's defence.",general,General,Mijailovic,Serbia,121
+denmark_serbia,30,0,30,"It must be a yellow card. It is. Morten Hjulmand (Denmark) receives the caution after an awful tackle. Morten Hjulmand (Denmark) will miss the next game because of that yellow card.",key_event,Yellow Card,Hjulmand,Denmark,185
+denmark_serbia,32,0,32,"Christian Eriksen (Denmark) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",general,Corner,Eriksen,Denmark,123
+denmark_serbia,32,0,32,"Rasmus Hojlund (Denmark) places a shot from the edge of the box towards the bottom right corner, but Predrag Rajkovic makes a terrific save to deny him. Nice play all round!",key_event,Save,"Hojlund, Rajkovic",Denmark,183
+denmark_serbia,34,0,34,"Jannik Vestergaard (Denmark) gives away a foul for a clumsy challenge. Referee Francois Letexier saw the whole situation.",general,General,Vestergaard,Denmark,123
+denmark_serbia,38,0,38,"Aleksandar Mitrovic (Serbia) was standing in a clear offside position, making it an easy call for the linesman.",general,Offside,Mitrovic,Serbia,119
+denmark_serbia,39,0,39,"Jonas Wind (Denmark) leans back and sends a volley soaring over the bar from inside the box.",key_event,Shot,Wind,Denmark,95
+denmark_serbia,40,0,40,"Great teamplay by Denmark as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score.",general,General,,Denmark,154
+denmark_serbia,42,0,42,"Joachim Andersen (Denmark) sends a cross into the box, but Predrag Rajkovic comes off his line to gather the ball.",general,General,"Andersen, Rajkovic",Denmark,121
+denmark_serbia,43,0,43,"Srdjan Mijailovic (Serbia) sends the ball into the box from the side of the pitch, but his cross is blocked.",general,General,Mijailovic,Serbia,112
+denmark_serbia,44,0,44,"Strahinja Pavlovic (Serbia) delivers a promising cross into the box, but it's cleared.",general,General,Pavlovic,Serbia,90
+denmark_serbia,45,0,45,"Andrija Zivkovic (Serbia) finds himself in an offside position and the referee stops play after the linesman raises his flag.",general,Offside,Zivkovic,Serbia,139
+denmark_serbia,45,0,45,"We will have 1 min. of added time.",general,General,,Both,37
+denmark_serbia,45,1,45+1,"Francois Letexier has ended the first half by blowing the whistle.",general,Half Time,,Both,69
+denmark_serbia,46,0,46,"The second half has just started.",key_event,Kick Off,,Both,35
+denmark_serbia,46,0,46,"Half-time substitution. Nemanja Gudelj is replaced by Luka Jovic (Serbia).",key_event,Substitution,"Gudelj, Jovic",Serbia,76
+denmark_serbia,46,0,46,"The game is over for Lazar Samardzic. Dusan Tadic (Serbia) comes on for the second half.",key_event,Substitution,"Samardzic, Tadic",Serbia,92
+denmark_serbia,46,0,46,"There will be a change on the pitch for the second half. Kasper Hjulmand probably wasn't satisfied with the performance of Jonas Wind. He is replaced by Andreas Skov Olsen (Denmark).",key_event,Substitution,"Wind, Skov Olsen, Hjulmand",Denmark,186
+denmark_serbia,46,0,46,"Aleksandar Mitrovic (Serbia) escapes without any punishment from the referee after using excessive force to foul his opponent.",general,General,Mitrovic,Serbia,130
+denmark_serbia,48,0,48,"Alexander Bah (Denmark) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders.",general,General,Bah,Denmark,148
+denmark_serbia,49,0,49,"An attempted cross from Strahinja Pavlovic (Serbia) is cleared. Serbia earn a corner.",general,Corner,Pavlovic,Serbia,90
+denmark_serbia,49,0,49,"The corner kick from Dusan Tadic (Serbia) is headed out of the penalty area by one of the defenders.",general,Corner,Tadic,Serbia,110
+denmark_serbia,50,0,50,"Sasa Lukic (Serbia) was too forceful with his tackle and Francois Letexier interrupted the game to signal a free kick.",general,General,Lukic,Serbia,122
+denmark_serbia,51,0,51,"Andreas Skov Olsen (Denmark) collects a brilliant pass inside the box and finds himself in a goal scoring opportunity. He takes a shot, but the effort is well blocked by one of the defending players. Denmark force their opponents to concede a corner.",general,Corner,Skov Olsen,Denmark,249
+denmark_serbia,51,0,51,"Christian Eriksen (Denmark) quickly takes the corner kick with a short pass.",general,Corner,Eriksen,Denmark,73
+denmark_serbia,51,0,51,"Morten Hjulmand (Denmark) tries to slide the ball through to a teammate but it's well blocked by a defender.",general,General,Hjulmand,Denmark,113
+denmark_serbia,54,0,54,"The referee stops play as the linesman flags Luka Jovic (Serbia) offside.",general,Offside,Jovic,Serbia,80
+denmark_serbia,56,0,56,"Luka Jovic (Serbia) commits a rough challenge and Francois Letexier blows his whistle for a foul. Denmark have a free kick.",general,Free Kick,Jovic,Serbia,127
+denmark_serbia,56,0,56,"The free kick is taken by Christian Eriksen (Denmark), but ball is cleared.",general,Free Kick,Eriksen,Denmark,76
+denmark_serbia,57,0,57,"Rasmus Hojlund (Denmark) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging.",general,General,Hojlund,Denmark,171
+denmark_serbia,58,0,58,"Andreas Skov Olsen (Denmark) tries to latch onto a through ball, but it's too long. The ball goes out of play and Serbia will have a goal kick.",general,General,Skov Olsen,Denmark,147
+denmark_serbia,59,0,59,"The manager makes a subsitution with Kasper Dolberg (Denmark) coming on for Rasmus Hojlund.",key_event,Substitution,"Hojlund, Dolberg",Denmark,99
+denmark_serbia,60,0,60,"Andreas Skov Olsen (Denmark) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",general,General,Skov Olsen,Denmark,149
+denmark_serbia,60,0,60,"Andreas Christensen (Denmark) attempts to put the ball in from a rebound with his long-range shot, but it isn't accurate enough, and the ball goes high over the crossbar.",key_event,Shot,Christensen,Denmark,168
+denmark_serbia,62,0,62,"Wasted opportunity! Morten Hjulmand (Denmark) picked up a pass and had lots of options, but instead decided to shoot from distance and it went high over the bar.",key_event,Shot,Hjulmand,Denmark,169
+denmark_serbia,63,0,63,"Srdjan Mijailovic (Serbia) fails to find any of his teammates inside the box as his pass is blocked.",general,General,Mijailovic,Serbia,107
+denmark_serbia,64,0,64,"Alexander Bah (Denmark) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. The linesman makes the right call and Denmark will have a corner.",general,Corner,Bah,Denmark,235
+denmark_serbia,64,0,64,"Christian Eriksen (Denmark) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",general,Corner,Eriksen,Denmark,138
+denmark_serbia,65,0,65,"Jannik Vestergaard (Denmark) peeled away from his marker and got on the end of the resulting corner, but he sends his header straight at the goalkeeper.",key_event,Save,Vestergaard,Denmark,160
+denmark_serbia,67,0,67,"Morten Hjulmand (Denmark) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar.",key_event,Shot,Hjulmand,Denmark,142
+denmark_serbia,67,0,67,"That's the end of the game for Ivan Ilic, who is replaced by Dusan Vlahovic (Serbia).",key_event,Substitution,"Ilic, Vlahovic",Serbia,88
+denmark_serbia,69,0,69,"Strahinja Pavlovic (Serbia) sends a lofted cross into the box which is headed clear.",general,General,Pavlovic,Serbia,90
+denmark_serbia,71,0,71,"Srdjan Mijailovic (Serbia) sends a cross into the box, but the opposition's defence quickly intercepts the ball. Serbia have been awarded a corner kick.",general,Corner,Mijailovic,Serbia,151
+denmark_serbia,71,0,71,"Dusan Tadic (Serbia) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",general,Corner,Tadic,Serbia,142
+denmark_serbia,72,0,72,"Joakim Maehle (Denmark) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. The ball is off of the pitch and it's a goal kick for Serbia.",general,General,Maehle,Denmark,225
+denmark_serbia,73,0,73,"The substitution has been made. Filip Mladenovic (Serbia) has replaced Srdjan Mijailovic.",key_event,Substitution,"Mijailovic, Mladenovic",Serbia,94
+denmark_serbia,75,0,75,"Francois Letexier has a clear sight and sees a foul from Christian Eriksen (Denmark).",general,General,Eriksen,Denmark,88
+denmark_serbia,76,0,76,"Denmark players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence.",general,General,,Denmark,132
+denmark_serbia,76,0,76,"Francois Letexier blows for a foul after Pierre-Emile Hojbjerg (Denmark) was too aggressive in the battle for the ball.",general,General,Hojbjerg,Denmark,124
+denmark_serbia,77,0,77,"Pierre-Emile Hojbjerg (Denmark) sends a cross into the box, but the opposition's defence clears the ball to safety.",general,General,Hojbjerg,Denmark,126
+denmark_serbia,77,0,77,"The referee signals that it is time for a substitution and Thomas Delaney (Denmark) comes onto the pitch so that Morten Hjulmand can be given a rest.",key_event,Substitution,"Hjulmand, Delaney",Denmark,157
+denmark_serbia,77,0,77,"Kasper Hjulmand prepares a substitution. Alexander Bah is replaced by Victor Kristiansen (Denmark).",key_event,Substitution,"Bah, Kristiansen, Hjulmand",Denmark,105
+denmark_serbia,78,0,78,"Aleksandar Mitrovic (Serbia) goes down under a challenge in the box, but the ref immediately waves away the appeals from all players.",general,VAR,Mitrovic,Serbia,141
+denmark_serbia,79,0,79,"There's a break in play and referee Francois Letexier must have got a signal in his ear as he indicates he will check that earlier penalty claim by Serbia using VAR. This could be interesting!",general,VAR,Letexier,Serbia,192
+denmark_serbia,80,0,80,"Here's the VAR verdict on that penalty incident - NO PENALTY for Serbia! Play can continue.",key_event,VAR,,Serbia,95
+denmark_serbia,80,0,80,"Dusan Tadic (Serbia) produces a dangerous lofted cross into the box which is intercepted.",general,General,Tadic,Serbia,93
+denmark_serbia,81,0,81,"Aleksandar Mitrovic (Serbia) latches onto a rebound in the box and fires a shot a whisker wide of the right post. That was a promising chance and maybe he should have done better!",key_event,Shot,Mitrovic,Serbia,178
+denmark_serbia,82,0,82,"Thomas Delaney (Denmark) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",general,General,Delaney,Denmark,123
+denmark_serbia,83,0,83,"Dusan Tadic (Serbia) fizzes over a cross which doesn't cause any problems. The ball is off of the pitch and it's a goal kick for Denmark.",general,General,Tadic,Serbia,134
+denmark_serbia,83,0,83,"Aleksandar Mitrovic (Serbia) is rightly booked by the referee because it could not have been anything other than a yellow card.",key_event,Yellow Card,Mitrovic,Serbia,130
+denmark_serbia,86,0,86,"A cross into the box from Joakim Maehle (Denmark) is cleared. The ball is out of play. Denmark will have a chance to score from a corner.",general,Corner,Maehle,Denmark,141
+denmark_serbia,87,0,87,"It's time for a substitution. Sergej Milinkovic-Savic (Serbia) comes on in place of Sasa Lukic.",key_event,Substitution,"Lukic, Milinkovic-Savic",Serbia,98
+denmark_serbia,87,0,87,"Christian Eriksen (Denmark) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",general,Corner,Eriksen,Denmark,123
+denmark_serbia,88,0,88,"Joachim Andersen (Denmark) was too fierce in his attempt to get the ball from his opponent and Francois Letexier blows for a foul.",general,General,Andersen,Denmark,136
+denmark_serbia,88,0,88,"Kasper Hjulmand has decided to introduce fresh legs, with Yussuf Poulsen (Denmark) replacing Christian Eriksen.",key_event,Substitution,"Eriksen, Poulsen, Hjulmand",Denmark,115
+denmark_serbia,89,0,89,"A cross is slung in towards the penalty spot and Dusan Vlahovic (Serbia) creates space for himself but sends his header inches over the bar.",key_event,Shot,Vlahovic,Serbia,150
+denmark_serbia,90,0,90,"The fourth official shows 5 min. of added time.",general,General,,Both,54
+denmark_serbia,90,2,90+2,"Sergej Milinkovic-Savic (Serbia) picks up a pass and hits the ball towards the bottom right corner, but he can't generate enough power to trouble Kasper Schmeichel.",key_event,Shot,Milinkovic-Savic,Serbia,173
+denmark_serbia,90,4,90+4,"Dusan Tadic (Serbia) sends a teasing cross into the area, but Kasper Schmeichel intercepts the ball.",general,General,"Tadic, Schmeichel",Serbia,107
+denmark_serbia,90,5,90+5,"Nothing more will happen in this game as the referee blows for full time.",key_event,Full Time,,Both,79
+

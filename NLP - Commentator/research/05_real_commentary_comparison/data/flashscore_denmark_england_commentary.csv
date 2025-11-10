@@ -1,0 +1,84 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+denmark_england,0,0,0,"Artur Soares Dias will referee today's match.",general,General,Soares Dias,Both,49
+denmark_england,0,0,0,"England will kick-off.",general,Kick Off,,England,23
+denmark_england,1,0,1,"The first half has just begun.",key_event,Kick Off,,Both,32
+denmark_england,1,0,1,"Pierre-Emile Hojbjerg (Denmark) produces a ferocious strike from the edge of the box. His dangerous effort towards the middle of the goal is blocked by Jordan Pickford, who pulls off a superb save to keep the ball out of the net.",key_event,Save,"Hojbjerg, Pickford",Denmark,239
+denmark_england,2,0,2,"Kyle Walker (England) tries to send a pass but it's blocked.",general,General,Walker,England,60
+denmark_england,4,0,4,"Some great controlled play and passing in the middle of the pitch from England.",general,General,,England,77
+denmark_england,6,0,6,"Kasper Schmeichel is alert and has a clear sight of a long through ball from Trent Alexander-Arnold (England). Easy save! The ball is off of the pitch and it's a goal kick for Denmark.",general,General,"Schmeichel, Alexander-Arnold",England,183
+denmark_england,8,0,8,"Joakim Maehle (Denmark) brings his opponent down. Artur Soares Dias has a clear sight of it and blows his whistle for a foul. England are awarded a free kick. Let's see what they create from this.",general,Free Kick,Maehle,Denmark,196
+denmark_england,9,0,9,"Kyle Walker (England) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",general,Injury,Walker,England,138
+denmark_england,10,0,10,"Kyle Walker (England) is able to continue to play.",general,Injury,Walker,England,50
+denmark_england,11,0,11,"Jude Bellingham (England) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Bellingham,England,135
+denmark_england,12,0,12,"Rasmus Hojlund (Denmark) is clearly in an offside position after the ball is played through to him and the linesman raises his flag.",general,Offside,Hojlund,Denmark,149
+denmark_england,13,0,13,"Wonderful movement by England. The players are holding possession, mostly exchanging one-touch passes. They control the pace of the game now.",general,General,,England,156
+denmark_england,13,0,13,"Phil Foden (England) makes a good run with the ball into the box, but mishits his shot as it goes high over the bar. The ball goes out of play and Denmark will have a goal kick. The ball goes out of play and Denmark will have a goal kick.",key_event,Shot,Foden,England,226
+denmark_england,17,0,17,"Harry Kane (England) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety.",key_event,Shot,Kane,England,168
+denmark_england,18,0,18,"Kyle Walker (England) passes the ball into the box but an opposing player clears.",general,General,Walker,England,82
+denmark_england,18,0,18,"Goal! Harry Kane (England) fires the rebound into the bottom left corner after the ball breaks to him in the box. The score is 0:1.",key_event,Goal,Kane,England,142
+denmark_england,22,0,22,"The linesman raises his flag as one of the players from Denmark was in an offside position.",general,Offside,,Denmark,94
+denmark_england,23,0,23,"Victor Kristiansen (Denmark) sends a lofted cross into the box which is headed clear. The ball has crossed the sideline. Denmark are taking a throw-in.",general,General,Kristiansen,Denmark,157
+denmark_england,25,0,25,"Jonas Wind (Denmark) rises high to head a nice lofted cross towards the middle of the goal. Unfortunately for him, his close-range effort lacks pace and Jordan Pickford makes a comfortable save.",key_event,Save,"Wind, Pickford",Denmark,201
+denmark_england,27,0,27,"Artur Soares Dias shows a yellow card to Jannik Vestergaard (Denmark) for his blatant foul.",key_event,Yellow Card,Vestergaard,Denmark,94
+denmark_england,28,0,28,"England restart play with a quick free kick.",general,Free Kick,,England,47
+denmark_england,28,0,28,"Marc Guehi (England) latches onto a cross inside the box but fires a poor effort well wide of the right post. The ball goes out of play and Denmark will have a goal kick.",key_event,Shot,Guehi,England,177
+denmark_england,30,0,30,"Joakim Maehle (Denmark) serves up a nice cross, but Jordan Pickford punches the ball away.",general,General,"Maehle, Pickford",Denmark,100
+denmark_england,32,0,32,"Jonas Wind (Denmark) misses a good chance to score. An inch-perfect cross into the box finds Jonas Wind (Denmark) who rises for a header, but sends the ball well over the bar. Denmark will have a chance to score from a corner kick.",key_event,Shot,Wind,Denmark,235
+denmark_england,33,0,33,"Christian Eriksen (Denmark) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",general,Corner,Eriksen,Denmark,134
+denmark_england,34,0,34,"Artur Soares Dias blows his whistle and it's Jannik Vestergaard (Denmark) who is penalised for an offensive foul. Good decision by the referee. England are awarded a free kick.",general,Free Kick,Vestergaard,Denmark,174
+denmark_england,34,0,34,"Victor Kristiansen slides a pass towards Morten Hjulmand (Denmark) who unleashes a fabulous shot from long range. The ball deflects into the bottom left corner off the post. The score is now 1:1.",key_event,Goal,"Kristiansen, Hjulmand",Denmark,209
+denmark_england,37,0,37,"Jude Bellingham (England) is penalised after knocking an opponent down. Denmark are awarded the free kick.",general,Free Kick,Bellingham,England,115
+denmark_england,38,0,38,"Morten Hjulmand (Denmark) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players. Denmark force a corner. Their opponents will face another attacking threat.",general,Corner,Hjulmand,Denmark,216
+denmark_england,38,0,38,"Christian Eriksen (Denmark) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",general,Corner,Eriksen,Denmark,129
+denmark_england,39,0,39,"The corner is sent into the box by Christian Eriksen, but Joachim Andersen (Denmark) flashes the ball just over the bar. The ball is off of the pitch and it's a goal kick for England.",key_event,Shot,"Eriksen, Andersen",Denmark,189
+denmark_england,40,0,40,"Joakim Maehle (Denmark) is disappointed with himself because he got into a good area but produced a poor cross. The ball is off of the pitch and it's a goal kick for England.",general,General,Maehle,Denmark,180
+denmark_england,41,0,41,"Kasper Schmeichel makes a brilliant save! Phil Foden (England) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the middle of the goal but is saved by the keeper!",key_event,Save,"Schmeichel, Foden",England,223
+denmark_england,42,0,42,"Phil Foden (England) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat. The ball goes out of play and Denmark will have a goal kick.",general,General,Foden,England,214
+denmark_england,44,0,44,"Pierre-Emile Hojbjerg (Denmark) receives a precise pass and finds some space for a shot. The keeper is alert and denies his long-range effort towards the top right corner. Decent save!",key_event,Save,"Hojbjerg, Pickford",Denmark,199
+denmark_england,45,0,45,"1 additional min. will be played.",general,General,,Both,38
+denmark_england,45,1,45+1,"Phil Foden (England) latches on to a precise pass on the edge of the box, but miskicks his shot and the ball goes high over the bar. Poor effort!",key_event,Shot,Foden,England,159
+denmark_england,45,2,45+2,"The match has reached half-time.",general,Half Time,,Both,34
+denmark_england,46,0,46,"Referee Artur Soares Dias blows his whistle to start the second half.",key_event,Kick Off,,Both,71
+denmark_england,46,0,46,"The game is interrupted as Rasmus Hojlund (Denmark) is flagged offside.",general,Offside,Hojlund,Denmark,75
+denmark_england,47,0,47,"Pierre-Emile Hojbjerg (Denmark) should know this behaviour is beyond the rules. He was too careless with his challenge and left Artur Soares Dias no option but to blow his whistle. A free kick has been awarded to England.",general,Free Kick,Hojbjerg,Denmark,211
+denmark_england,50,0,50,"Denmark are showing great team chemistry. They are passing it around beautifully. Excellent team work.",general,General,,Denmark,112
+denmark_england,51,0,51,"Declan Rice (England) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Kasper Schmeichel.",key_event,Shot,Rice,England,154
+denmark_england,53,0,53,"Bukayo Saka (England) latched on to a lofted pass inside the box, but his header misses to the right of the target. The ball goes out of play and Denmark will have a goal kick.",key_event,Shot,Saka,England,174
+denmark_england,54,0,54,"We are about to witness a substitution. Conor Gallagher (England) is replacing Trent Alexander-Arnold.",key_event,Substitution,"Alexander-Arnold, Gallagher",England,116
+denmark_england,56,0,56,"OFF THE POST! Phil Foden (England) runs towards the goal to give his teammate support. He receives a fantastic pass and shoots from the edge of the box, but it crashes against the right post. It could have been a brilliant goal, unlucky.",key_event,Shot,Foden,England,242
+denmark_england,57,0,57,"The manager makes a subsitution with Alexander Bah (Denmark) coming on for Victor Kristiansen.",key_event,Substitution,"Kristiansen, Bah",Denmark,102
+denmark_england,57,0,57,"Kasper Hjulmand decides to make a substitution. Jonas Wind will be replaced by Mikkel Damsgaard (Denmark).",key_event,Substitution,"Wind, Damsgaard, Hjulmand",Denmark,113
+denmark_england,59,0,59,"Harry Kane is the provider with a good cross and Bukayo Saka (England) shows great determination to get to the ball on the edge of the box, but he fires a shot well wide of the left post. The ball goes out of play and Denmark will have a goal kick.",key_event,Shot,"Kane, Saka",England,246
+denmark_england,60,0,60,"Bukayo Saka (England) delivers a low pass into the box which is intercepted.",general,General,Saka,England,76
+denmark_england,60,0,60,"Artur Soares Dias blows his whistle for a foul after Kyle Walker (England) hacks down one of his opponents. A free kick to Denmark.",general,Free Kick,Walker,England,145
+denmark_england,61,0,61,"Christian Eriksen (Denmark) puts a cross into the box from the free kick but it's cleared.",general,Free Kick,Eriksen,Denmark,91
+denmark_england,62,0,62,"Conor Gallagher (England) has tested the patience of referee Artur Soares Dias and goes into the book for a previous late challenge.",key_event,Yellow Card,Gallagher,England,141
+denmark_england,64,0,64,"A short pass finds Christian Eriksen (Denmark). He spots the keeper off his line and shoots from mid-range, but the ball sails high over the bar. The ball is off of the pitch and it's a goal kick for England.",general,General,Eriksen,Denmark,206
+denmark_england,65,0,65,"Bukayo Saka (England) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. The ball is off of the pitch and it's a goal kick for Denmark.",general,General,Saka,England,220
+denmark_england,67,0,67,"Substitution. Yussuf Poulsen (Denmark) has come on for Rasmus Hojlund.",key_event,Substitution,"Hojlund, Poulsen",Denmark,75
+denmark_england,67,0,67,"Christian Eriksen (Denmark) overhits the corner kick and none of his teammates can their head on it.",general,Corner,Eriksen,Denmark,104
+denmark_england,69,0,69,"Gareth Southgate prepares a substitution. Phil Foden is replaced by Jarrod Bowen (England).",key_event,Substitution,"Foden, Bowen, Southgate",England,99
+denmark_england,69,0,69,"A substitution has been made. Harry Kane goes off and Ollie Watkins (England) comes on.",key_event,Substitution,"Kane, Watkins",England,89
+denmark_england,70,0,70,"The substitution has been made. Eberechi Eze (England) has replaced Bukayo Saka.",key_event,Substitution,"Saka, Eze",England,87
+denmark_england,71,0,71,"Great save! Ollie Watkins (England) had time and space inside the box after picking up a neat pass, but his shot towards the bottom right corner was brilliantly saved by Kasper Schmeichel. It will be a corner kick for England.",general,Corner,"Watkins, Schmeichel",England,240
+denmark_england,72,0,72,"The resulting corner from Jarrod Bowen (England) only finds one of the defenders, who heads it out of danger.",general,Corner,Bowen,England,121
+denmark_england,73,0,73,"Pierre-Emile Hojbjerg (Denmark) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the bottom left corner. Jordan Pickford has a clear sight of it makes a comfortable save.",key_event,Save,"Hojbjerg, Pickford",Denmark,226
+denmark_england,73,0,73,"Joakim Maehle (Denmark) is booked after bringing down an opponent. Artur Soares Dias had an easy-decision to make.",key_event,Yellow Card,Maehle,Denmark,125
+denmark_england,75,0,75,"England can't profit from the corner as the defence clear the ball upfield.",general,Corner,,England,76
+denmark_england,76,0,76,"Jarrod Bowen (England) commits a foul after unfairly battling his opponent for the ball. It's a free kick to Denmark in a dangerous position.",general,Free Kick,Bowen,England,154
+denmark_england,77,0,77,"Pierre-Emile Hojbjerg (Denmark) picks up a sweet pass and fires one in from distance low towards the middle of the goal, but Jordan Pickford is alert and makes a decent save.",key_event,Save,"Hojbjerg, Pickford",Denmark,185
+denmark_england,80,0,80,"Artur Soares Dias couldn't ignore the rough tackle by Pierre-Emile Hojbjerg (Denmark) and blew his whistle. It's a free kick to England, but they probably won't attempt a direct shot on goal from here.",general,Free Kick,Hojbjerg,Denmark,201
+denmark_england,82,0,82,"It is time for a substitution. Andreas Skov Olsen (Denmark) is on for Christian Eriksen.",key_event,Substitution,"Eriksen, Olsen",Denmark,93
+denmark_england,82,0,82,"Kasper Hjulmand has decided to make a change. Christian Norgaard (Denmark) replaces Morten Hjulmand.",key_event,Substitution,"Hjulmand, Norgaard, Hjulmand",Denmark,109
+denmark_england,83,0,83,"Alexander Bah (Denmark) fails to send a pass into the box as his effort is cut out. Now Denmark have a corner.",general,Corner,Bah,Denmark,122
+denmark_england,84,0,84,"Andreas Skov Olsen (Denmark) is about to take a corner kick.",general,Corner,Olsen,Denmark,62
+denmark_england,84,0,84,"Andreas Christensen (Denmark) wins the ball from the resulting corner but blazes it well over the bar. The ball goes out of play and England will have a goal kick.",key_event,Shot,Christensen,Denmark,169
+denmark_england,85,0,85,"Pierre-Emile Hojbjerg (Denmark) takes a short pass in his stride and attempts to beat the keeper from mid-range, but the shot screeches just wide of the right post. The ball goes out of play and England will have a goal kick.",key_event,Shot,Hojbjerg,Denmark,224
+denmark_england,87,0,87,"Christian Norgaard (Denmark) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",key_event,Yellow Card,Norgaard,Denmark,162
+denmark_england,89,0,89,"Kyle Walker (England) fails to find a teammate across the pitch with a long ball. The ball is off of the pitch and it's a goal kick for Denmark.",general,General,Walker,England,148
+denmark_england,90,0,90,"We will have 3 min. of added time.",general,General,,Both,38
+denmark_england,90,1,90+1,"Joachim Andersen (Denmark) holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul. That's a free kick to England.",general,Free Kick,Andersen,Denmark,164
+denmark_england,90,1,90+1,"Artur Soares Dias has a clear sight and sees a foul from Yussuf Poulsen (Denmark). A free kick is awarded to England.",general,Free Kick,Poulsen,Denmark,127
+denmark_england,90,2,90+2,"The free kick into the penalty area from Jordan Pickford (England) is cleared.",general,Free Kick,Pickford,England,81
+denmark_england,90,4,90+4,"The referee checks his watch and blows his whistle to signal the end of this match.",key_event,Full Time,,Both,89
+

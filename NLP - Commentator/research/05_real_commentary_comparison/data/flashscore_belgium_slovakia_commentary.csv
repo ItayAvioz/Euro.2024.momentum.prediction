@@ -1,0 +1,111 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+belgium_slovakia,0,0,0,"Let us introduce today's referee to you, and it's Halil Umut Meler.",general,General,Meler,Both,70
+belgium_slovakia,0,0,0,"The players are out and the match is about to start. Slovakia will have the kick-off.",general,Kick Off,,Slovakia,84
+belgium_slovakia,1,0,1,"The first half has started.",key_event,Kick Off,,Both,29
+belgium_slovakia,3,0,3,"Romelu Lukaku (Belgium) receives a precise pass and is given time inside the box to send a promising strike towards the middle of the goal. Martin Dubravka guesses his intention and denies him with a fine save.",key_event,Save,"Lukaku, Dubravka",Belgium,227
+belgium_slovakia,6,0,6,"Martin Dubravka displays his ability to read the game and clears the danger after Romelu Lukaku (Belgium) threatened to latch onto a through ball from just outside the box.",general,General,"Dubravka, Lukaku",Belgium,174
+belgium_slovakia,7,0,7,"Koen Casteels was forced into action to thwart Juraj Kucka (Slovakia). He found himself some space after picking up a pass and unleashed a shot towards the roof of the net but couldn't beat the keeper.",key_event,Save,"Casteels, Kucka",Slovakia,218
+belgium_slovakia,7,0,7,"Goal! Ivan Schranz (Slovakia) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the right post. It's 0:1.",key_event,Goal,Schranz,Slovakia,188
+belgium_slovakia,8,0,8,"The Slovakia players halt their celebrations as referee Halil Umut Meler makes the VAR signal to review the goal, most likely to ascertain if there was an offside in the build-up play.",general,VAR,Meler,Slovakia,189
+belgium_slovakia,8,0,8,"Here comes the VAR verdict: Referee Halil Umut Meler signals that there was no offside and the goal stands! The Slovakia players celebrate.",key_event,VAR,Meler,Slovakia,142
+belgium_slovakia,10,0,10,"Jeremy Doku (Belgium) commits a foul and Halil Umut Meler immediately signals a free kick.",general,General,Doku,Belgium,93
+belgium_slovakia,11,0,11,"The game is interrupted as Denis Vavro (Slovakia) is flagged offside.",general,Offside,Vavro,Slovakia,71
+belgium_slovakia,13,0,13,"Halil Umut Meler blows his whistle after Peter Pekarik (Slovakia) brings one of his opponents down with a strong tackle. Belgium win a free kick and will be able to apply some pressure on the opposition goal.",general,Free Kick,Pekarik,Slovakia,208
+belgium_slovakia,13,0,13,"Kevin De Bruyne (Belgium) attempts to find one of his teammates with a cross from the resultant free kick, but he fails to hit the ball properly and sends it off the pitch.",general,Free Kick,De Bruyne,Belgium,173
+belgium_slovakia,14,0,14,"The referee blows his whistle as Wout Faes (Belgium) was too aggressive in his challenge.",general,General,Faes,Belgium,98
+belgium_slovakia,16,0,16,"A great run by Jeremy Doku (Belgium) gets him into the box, but his powerful shot is bravely blocked by a defender.",general,General,Doku,Belgium,128
+belgium_slovakia,16,0,16,"Leandro Trossard nearly gets in a one-on-one with the goalkeeper after a defence-splitting pass from Kevin De Bruyne (Belgium), but one of the defenders makes a clearance to snuff out the chance.",general,General,"Trossard, De Bruyne",Belgium,202
+belgium_slovakia,18,0,18,"It looks like Timothy Castagne (Belgium) saw red with that tackle. Halil Umut Meler won't tolerate such behaviour on the pitch and blows for a foul.",general,General,Castagne,Belgium,159
+belgium_slovakia,19,0,19,"Robert Bozenik receives a sweet cross inside the box from Ivan Schranz (Slovakia), but one of the defenders rushes in bravely to intercept the ball. Now Slovakia have a corner.",general,Corner,"Bozenik, Schranz",Slovakia,187
+belgium_slovakia,19,0,19,"Lukas Haraslin (Slovakia) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",general,Corner,Haraslin,Slovakia,135
+belgium_slovakia,21,0,21,"Unlucky! A great strike from Leandro Trossard (Belgium) near the edge of the box had the keeper scrambling but flew just over the bar.",key_event,Shot,Trossard,Belgium,147
+belgium_slovakia,22,0,22,"Kevin De Bruyne (Belgium) is penalised for a foul. Halil Umut Meler had a clear view and blows his whistle.",general,General,De Bruyne,Belgium,113
+belgium_slovakia,23,0,23,"He should have scored! Robert Bozenik (Slovakia) gathered a short pass deep inside the box but took too long to shoot, allowing the defender to make the block.",general,General,Bozenik,Slovakia,171
+belgium_slovakia,26,0,26,"The ball is cleared after Jeremy Doku (Belgium) attempted to dribble past an opposing player.",general,General,Doku,Belgium,99
+belgium_slovakia,28,0,28,"Halil Umut Meler blows the whistle, Peter Pekarik (Slovakia) is penalised for a foul.",general,General,Pekarik,Slovakia,92
+belgium_slovakia,30,0,30,"Orel Mangala (Belgium) picks up a yellow card for a foul.",key_event,Yellow Card,Mangala,Belgium,57
+belgium_slovakia,31,0,31,"David Hancko (Slovakia) tries to send a pass but it's blocked.",general,General,Hancko,Slovakia,62
+belgium_slovakia,31,0,31,"Robert Bozenik (Slovakia) picks up a pass and tries his luck from mid-range low towards the middle of the goal, but Koen Casteels is equal to it and makes an easy save.",key_event,Save,"Bozenik, Casteels",Slovakia,179
+belgium_slovakia,32,0,32,"An attempted cross from Yannick Carrasco (Belgium) is cleared.",general,General,Carrasco,Belgium,62
+belgium_slovakia,33,0,33,"Leandro Trossard (Belgium) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",general,General,Trossard,Belgium,158
+belgium_slovakia,33,0,33,"Ivan Schranz (Slovakia) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",general,General,Schranz,Slovakia,149
+belgium_slovakia,34,0,34,"The defence is alert as they clear a dangerous cross from Jeremy Doku (Belgium). The ball goes out of play. Belgium are awarded a corner kick.",general,Corner,Doku,Belgium,152
+belgium_slovakia,35,0,35,"David Hancko (Slovakia) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch.",general,Injury,Hancko,Slovakia,159
+belgium_slovakia,36,0,36,"Kevin De Bruyne (Belgium) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",general,Corner,De Bruyne,Belgium,127
+belgium_slovakia,36,0,36,"Amadou Onana (Belgium) peeled away from his marker and got on the end of the resulting corner, but he sends his header straight at the goalkeeper.",key_event,Save,Onana,Belgium,160
+belgium_slovakia,36,0,36,"David Hancko (Slovakia) is moving okay again after that injury scare.",general,Injury,Hancko,Slovakia,72
+belgium_slovakia,36,0,36,"A clumsy foul by Orel Mangala (Belgium) and Halil Umut Meler blows his whistle.",general,General,Mangala,Belgium,86
+belgium_slovakia,37,0,37,"David Hancko (Slovakia) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it. Corner kick. Slovakia will have an opportunity.",general,Corner,Hancko,Slovakia,215
+belgium_slovakia,37,0,37,"Ondrej Duda (Slovakia) puts a dangerous cross into the box, but the corner is cleared by the first man.",general,Corner,Duda,Slovakia,109
+belgium_slovakia,40,0,40,"Lukas Haraslin (Slovakia) meets the lofted pass inside the box with a well placed shot towards the right side of the goal, but Koen Casteels pulls off a fantastic save to deny him. Slovakia get a corner.",general,Corner,"Haraslin, Casteels",Slovakia,212
+belgium_slovakia,40,0,40,"Lukas Haraslin (Slovakia) takes the corner but it's cleared.",general,Corner,Haraslin,Slovakia,59
+belgium_slovakia,41,0,41,"Halil Umut Meler shows a yellow card to Ivan Schranz (Slovakia) for a tough tackle.",key_event,Yellow Card,Schranz,Slovakia,87
+belgium_slovakia,43,0,43,"Romelu Lukaku (Belgium) is picked out by one of his teammates with a great cross, but his poor control allows the defence to clear and avert the threat.",general,General,Lukaku,Belgium,164
+belgium_slovakia,44,0,44,"Rough tackle by Timothy Castagne (Belgium). The referee blows his whistle for a foul.",general,General,Castagne,Belgium,88
+belgium_slovakia,45,0,45,"There will be a minimum of 2 min. of added time.",general,General,,Both,55
+belgium_slovakia,45,1,45+1,"Romelu Lukaku (Belgium) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",general,Offside,Lukaku,Belgium,155
+belgium_slovakia,45,2,45+2,"Lukas Haraslin (Slovakia) passes the ball into the box but an opposing player clears. The referee blows his whistle, Slovakia are awarded a corner kick.",general,Corner,Haraslin,Slovakia,160
+belgium_slovakia,45,2,45+2,"Lukas Haraslin (Slovakia) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance. Slovakia have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",general,Corner,Haraslin,Slovakia,240
+belgium_slovakia,45,3,45+3,"Lukas Haraslin (Slovakia) decides to speed play up with a short corner kick.",general,Corner,Haraslin,Slovakia,79
+belgium_slovakia,45,3,45+3,"Juraj Kucka (Slovakia) receives a lofted pass in the goal area and unleashes a dangerous header which sails narrowly wide of the right post!",key_event,Shot,Kucka,Slovakia,155
+belgium_slovakia,45,3,45+3,"The match has reached half-time.",general,Half Time,,Both,35
+belgium_slovakia,46,0,46,"The players are back out on the pitch following the half-time break and the second half is about to start.",key_event,Kick Off,,Both,110
+belgium_slovakia,47,0,47,"Jeremy Doku (Belgium) races towards goal but the defender gets back well to make a challenge.",general,General,Doku,Belgium,96
+belgium_slovakia,47,0,47,"What a chance that is! Lukas Haraslin (Slovakia) finds himself unmarked in a promising position after receiving a cross on the edge of the box and his attempt sails a whisker wide of the right post.",key_event,Shot,Haraslin,Slovakia,207
+belgium_slovakia,48,0,48,"Yannick Carrasco (Belgium) looks to break free, but an opposing player clears the ball away.",general,General,Carrasco,Belgium,94
+belgium_slovakia,50,0,50,"Halil Umut Meler blows his whistle as Romelu Lukaku (Belgium) used excessive force in the tackle during an attack.",general,General,Lukaku,Belgium,121
+belgium_slovakia,52,0,52,"Denis Vavro (Slovakia) makes a yard for himself and attempts to endanger the goalkeeper with a long-range shot. His great effort, however, goes a whisker wide of the left post.",key_event,Shot,Vavro,Slovakia,187
+belgium_slovakia,55,0,55,"Leandro Trossard loses the ball after receiving a sweet pass from Kevin De Bruyne (Belgium).",general,General,"Trossard, De Bruyne",Belgium,99
+belgium_slovakia,56,0,56,"Romelu Lukaku (Belgium) runs onto a loose pass inside the box and releases a tremendous shot towards the top right corner. However, Martin Dubravka anticipates the shot and makes a brilliant save. Belgium force their opponents to concede a corner.",general,Corner,"Lukaku, Dubravka",Belgium,248
+belgium_slovakia,56,0,56,"Kevin De Bruyne (Belgium) takes the corner with a short pass.",general,Corner,De Bruyne,Belgium,63
+belgium_slovakia,56,0,56,"Goal! The resulting corner is whipped into the box and Romelu Lukaku (Belgium) buries the ball into the back of the net from a Amadou Onana knock down. 1:1.",key_event,Disallowed Goal,"Lukaku, Onana",Belgium,177
+belgium_slovakia,57,0,57,"Wait! Referee Halil Umut Meler has indicated he is going to review the Belgium goal using VAR. It's probably to see if there was an offside in the build-up.",general,VAR,Meler,Belgium,165
+belgium_slovakia,57,0,57,"Celebrations are cut short for Belgium as the referee indicates NO GOAL after the VAR review shows it was offside!",key_event,VAR,,Belgium,123
+belgium_slovakia,58,0,58,"Domenico Tedesco has decided to substitute Orel Mangala and he is replaced by Johan Bakayoko (Belgium).",key_event,Substitution,"Mangala, Bakayoko, Tedesco",Belgium,113
+belgium_slovakia,59,0,59,"Leandro Trossard (Belgium) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the bottom right corner. Martin Dubravka has a clear sight of it and makes a comfortable save.",key_event,Save,"Trossard, Dubravka",Belgium,224
+belgium_slovakia,61,0,61,"Jeremy Doku (Belgium) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The referee and his assistant both point at the corner flag. Belgium will have an opportunity to threaten the opposition's goal.",general,Corner,Doku,Belgium,271
+belgium_slovakia,61,0,61,"Kevin De Bruyne (Belgium) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",general,Corner,De Bruyne,Belgium,127
+belgium_slovakia,62,0,62,"Yannick Carrasco (Belgium) announces himself with a close-range shot after a cross, but one of the defenders gets in the way of the ball to thwart him.",general,General,Carrasco,Belgium,162
+belgium_slovakia,62,0,62,"Romelu Lukaku (Belgium) peels away from his marker to receive a lofted pass, but sends his rocket of a shot just wide of the right post from inside the box.",key_event,Shot,Lukaku,Belgium,172
+belgium_slovakia,63,0,63,"Johan Bakayoko (Belgium) is the first to arrive to a rebound inside the penalty area and unleashes a quick low strike towards the middle of the goal that beats the keeper. One of the defenders, however, makes a superb goal-line clearance.",general,General,Bakayoko,Belgium,241
+belgium_slovakia,64,0,64,"David Hancko (Slovakia) is having a really tough time right now. We are about to find out how serious his injury is.",general,Injury,Hancko,Slovakia,126
+belgium_slovakia,64,0,64,"David Hancko (Slovakia) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",general,Injury,Hancko,Slovakia,130
+belgium_slovakia,66,0,66,"Robert Bozenik (Slovakia) carelessly slides into the feet of his opponent and he'll be lucky to avoid punishment. Halil Umut Meler blows for the foul but keeps his cards in his pocket on this occasion.",general,General,Bozenik,Slovakia,197
+belgium_slovakia,67,0,67,"Kevin De Bruyne (Belgium) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety.",general,General,De Bruyne,Belgium,172
+belgium_slovakia,68,0,68,"Ondrej Duda (Slovakia) jumps into a tackle and Halil Umut Meler signals a foul. A free kick has been awarded to Belgium.",general,Free Kick,Duda,Slovakia,124
+belgium_slovakia,68,0,68,"Kevin De Bruyne (Belgium) puts a cross into the box from the free kick, but the defender gets there first.",general,Free Kick,De Bruyne,Belgium,114
+belgium_slovakia,70,0,70,"The referee signals that it is time for a substitution and David Strelec (Slovakia) will replace Robert Bozenik.",key_event,Substitution,"Bozenik, Strelec",Slovakia,129
+belgium_slovakia,70,0,70,"Francesco Calzona has decided to introduce fresh legs, with Tomas Suslov (Slovakia) replacing Lukas Haraslin.",key_event,Substitution,"Haraslin, Suslov, Calzona",Slovakia,120
+belgium_slovakia,73,0,73,"Kevin De Bruyne (Belgium) tries to find Leandro Trossard, but he puts too much power on the through ball.",general,General,"De Bruyne, Trossard",Belgium,111
+belgium_slovakia,74,0,74,"Zeno Debast (Belgium) should know this behaviour is beyond the rules. He was too careless with his challenge and left Halil Umut Meler no option but to blow his whistle.",general,General,Debast,Belgium,175
+belgium_slovakia,74,0,74,"Here comes a substitution. Youri Tielemans (Belgium) is brought on as a substitute for Leandro Trossard.",key_event,Substitution,"Trossard, Tielemans",Belgium,113
+belgium_slovakia,76,0,76,"Youri Tielemans (Belgium) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Halil Umut Meler ignores the protests.",key_event,Yellow Card,Tielemans,Belgium,168
+belgium_slovakia,77,0,77,"A defender unwittingly blocks the ball on the line after a snap shot from David Strelec (Slovakia) inside the box following a slide rule pass. The ball goes out of play and Slovakia have been awarded a corner kick.",general,Corner,Strelec,Slovakia,219
+belgium_slovakia,77,0,77,"Tomas Suslov (Slovakia) whips in the corner, but one of the defending players gets a head on it and intercepts.",general,Corner,Suslov,Slovakia,121
+belgium_slovakia,78,0,78,"Denis Vavro (Slovakia) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",general,General,Vavro,Slovakia,179
+belgium_slovakia,79,0,79,"Juraj Kucka (Slovakia) takes a neat pass, dummies a defender and slams the ball well wide of the left post from the edge of the box.",key_event,Shot,Kucka,Slovakia,150
+belgium_slovakia,79,0,79,"Timothy Castagne (Belgium) sends a cross into the box, but the opposition's defence clears the ball to safety.",general,General,Castagne,Belgium,123
+belgium_slovakia,80,0,80,"Kevin De Bruyne (Belgium) fails to find any of his teammates inside the box as his pass is blocked.",general,General,De Bruyne,Belgium,107
+belgium_slovakia,80,0,80,"Yannick Carrasco (Belgium) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders. Belgium earn a corner.",general,Corner,Carrasco,Belgium,187
+belgium_slovakia,81,0,81,"Kevin De Bruyne (Belgium) steps up to send the ball in.",general,Corner,De Bruyne,Belgium,55
+belgium_slovakia,81,0,81,"Amadou Onana (Belgium) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went well wide of the right post.",key_event,Shot,Onana,Belgium,198
+belgium_slovakia,81,0,81,"Substitution. Ivan Schranz walks off the pitch and David Duris (Slovakia) comes on as a substitute.",key_event,Substitution,"Schranz, Duris",Slovakia,105
+belgium_slovakia,83,0,83,"Ondrej Duda (Slovakia) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball goes out of play. Slovakia are awarded a corner kick.",general,Corner,Duda,Slovakia,184
+belgium_slovakia,83,0,83,"Tomas Suslov (Slovakia) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",general,Corner,Suslov,Slovakia,155
+belgium_slovakia,84,0,84,"We are about to witness a substitution. Lois Openda (Belgium) is replacing Jeremy Doku.",key_event,Substitution,"Doku, Openda",Belgium,99
+belgium_slovakia,84,0,84,"Domenico Tedesco has decided to make a change. Dodi Lukebakio (Belgium) replaces Yannick Carrasco.",key_event,Substitution,"Carrasco, Lukebakio, Tedesco",Belgium,109
+belgium_slovakia,85,0,85,"A yellow-coloured card is received by Dodi Lukebakio (Belgium).",key_event,Yellow Card,Lukebakio,Belgium,60
+belgium_slovakia,86,0,86,"Goal - 1:1! Lois Openda tees up Romelu Lukaku (Belgium) inside the box and he curls the ball into the left side of the net and past Martin Dubravka.",key_event,Disallowed Goal,"Openda, Lukaku, Dubravka",Belgium,169
+belgium_slovakia,88,0,88,"The Belgium players halt their celebrations as referee Halil Umut Meler makes the VAR signal to review the goal, most likely to ascertain if there was a handball in the build-up play.",general,VAR,Meler,Belgium,183
+belgium_slovakia,89,0,89,"Here comes the VAR verdict. NO GOAL for Belgium due to a handball in the build-up play.",key_event,VAR,,Belgium,91
+belgium_slovakia,90,0,90,"7 min. of stoppage-time to be played.",general,General,,Both,45
+belgium_slovakia,90,1,90+1,"Dodi Lukebakio (Belgium) swings in a cross from the corner, but Martin Dubravka reads it well and gathers the ball.",general,Corner,"Lukebakio, Dubravka",Belgium,127
+belgium_slovakia,90,1,90+1,"Johan Bakayoko (Belgium) dummies a defender then lets fly from the edge of the box, but the ball misses the left post by a mile.",key_event,Shot,Bakayoko,Belgium,143
+belgium_slovakia,90,2,90+2,"Romelu Lukaku (Belgium) plays a lovely through ball to Lois Openda, but he can't beat Martin Dubravka and loses the ball.",general,General,"Lukaku, Openda, Dubravka",Belgium,137
+belgium_slovakia,90,3,90+3,"Kevin De Bruyne (Belgium) controls a reverse pass deep inside the box and smacks the ball low towards the middle of the goal, but the Martin Dubravka anticipates well and smothers the ball.",key_event,Save,"De Bruyne, Dubravka",Belgium,207
+belgium_slovakia,90,4,90+4,"Ondrej Duda (Slovakia) is asking for medical treatment after picking up an injury.",general,Injury,Duda,Slovakia,83
+belgium_slovakia,90,4,90+4,"Francesco Calzona decides to make a substitution. Ondrej Duda will be replaced by Adam Obert (Slovakia).",key_event,Substitution,"Duda, Obert, Calzona",Slovakia,113
+belgium_slovakia,90,5,90+5,"Halil Umut Meler blows for a foul after David Strelec (Slovakia) was too aggressive in the battle for the ball.",general,General,Strelec,Slovakia,119
+belgium_slovakia,90,6,90+6,"The attendance for today's match is 46425.",general,General,,Both,49
+belgium_slovakia,90,9,90+9,"That's the end of the match.",key_event,Full Time,,Both,28
+

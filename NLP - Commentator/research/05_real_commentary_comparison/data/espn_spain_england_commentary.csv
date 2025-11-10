@@ -1,0 +1,94 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+spain_england,0,0,0,"First Half begins.",key_event,Kick Off,,Both,19
+spain_england,5,0,5,"Corner, Spain. Conceded by John Stones.",general,Corner,Stones,Spain,42
+spain_england,10,0,10,"Foul by Rodri (Spain).",general,Foul,Rodri,Spain,23
+spain_england,10,0,10,"Jude Bellingham (England) wins a free kick on the left wing.",general,Free Kick,Bellingham,England,62
+spain_england,11,0,11,"Aymeric Laporte (Spain) wins a free kick in the defensive half.",general,Free Kick,Laporte,Spain,63
+spain_england,11,0,11,"Foul by Marc Guéhi (England).",general,Foul,Guéhi,England,29
+spain_england,12,0,12,"Attempt blocked. Nico Williams (Spain) left footed shot from a difficult angle on the left is blocked.",general,General,Williams,Spain,104
+spain_england,12,0,12,"Corner, Spain. Conceded by John Stones.",general,Corner,Stones,Spain,42
+spain_england,13,0,13,"Attempt missed. Robin Le Normand (Spain) right footed shot from the centre of the box misses to the left. Assisted by Rodri with a headed pass following a corner.",general,Corner,"Le Normand, Rodri",Spain,148
+spain_england,15,0,15,"Corner, England. Conceded by Aymeric Laporte.",general,Corner,Laporte,England,48
+spain_england,17,0,17,"Attempt blocked. Declan Rice (England) right footed shot from outside the box is blocked. Assisted by Bukayo Saka.",general,General,"Rice, Saka",England,126
+spain_england,22,0,22,"Foul by Marc Cucurella (Spain).",general,Foul,Cucurella,Spain,33
+spain_england,22,0,22,"Phil Foden (England) wins a free kick in the defensive half.",general,Free Kick,Foden,England,61
+spain_england,23,0,23,"Corner, Spain. Conceded by Marc Guéhi.",general,Corner,Guéhi,Spain,42
+spain_england,24,0,24,"Bukayo Saka (England) wins a free kick in the defensive half.",general,Free Kick,Saka,England,61
+spain_england,24,0,24,"Foul by Dani Carvajal (Spain).",general,Foul,Carvajal,Spain,31
+spain_england,25,0,25,"Fabián Ruiz (Spain) wins a free kick in the defensive half.",general,Free Kick,Ruiz,Spain,60
+spain_england,25,0,25,"Foul by Harry Kane (England).",general,Foul,Kane,England,29
+spain_england,25,0,25,"Harry Kane (England) is shown the yellow card for a bad foul.",key_event,Yellow Card,Kane,England,63
+spain_england,26,0,26,"Delay in match because of an injury Fabián Ruiz (Spain).",general,Injury,Ruiz,Spain,58
+spain_england,27,0,27,"Delay over. They are ready to continue.",general,General,,Both,42
+spain_england,28,0,28,"Attempt saved. Fabián Ruiz (Spain) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Dani Carvajal.",general,General,"Ruiz, Carvajal",Spain,142
+spain_england,30,0,30,"Declan Rice (England) wins a free kick in the defensive half.",general,Free Kick,Rice,England,61
+spain_england,30,0,30,"Foul by Dani Olmo (Spain).",general,Foul,Olmo,Spain,27
+spain_england,31,0,31,"Dani Olmo (Spain) is shown the yellow card for a bad foul.",key_event,Yellow Card,Olmo,Spain,58
+spain_england,31,0,31,"Delay in match because of an injury Declan Rice (England).",general,Injury,Rice,England,59
+spain_england,32,0,32,"Delay over. They are ready to continue.",general,General,,Both,42
+spain_england,32,0,32,"Foul by Rodri (Spain).",general,Foul,Rodri,Spain,23
+spain_england,32,0,32,"Jude Bellingham (England) wins a free kick in the defensive half.",general,Free Kick,Bellingham,England,65
+spain_england,33,0,33,"Delay in match because of an injury Phil Foden (England).",general,Injury,Foden,England,58
+spain_england,33,0,33,"Delay over. They are ready to continue.",general,General,,Both,42
+spain_england,34,0,34,"Corner, Spain. Conceded by Luke Shaw.",general,Corner,Shaw,Spain,41
+spain_england,35,0,35,"Corner, Spain. Conceded by Marc Guéhi.",general,Corner,Guéhi,Spain,42
+spain_england,35,0,35,"Attempt blocked. Dani Olmo (Spain) right footed shot from outside the box is blocked. Assisted by Lamine Yamal.",general,General,"Olmo, Yamal",Spain,120
+spain_england,43,0,43,"Attempt blocked. Álvaro Morata (Spain) right footed shot from the centre of the box is blocked.",general,General,Morata,Spain,95
+spain_england,43,0,43,"Corner, Spain. Conceded by John Stones.",general,Corner,Stones,Spain,42
+spain_england,45,0,45,"Foul by Nico Williams (Spain).",general,Foul,Williams,Spain,31
+spain_england,45,0,45,"Kyle Walker (England) wins a free kick on the right wing.",general,Free Kick,Walker,England,58
+spain_england,45,0,45,"Attempt blocked. Harry Kane (England) right footed shot from the centre of the box is blocked. Assisted by Jude Bellingham.",general,General,"Kane, Bellingham",England,127
+spain_england,45,1,45+1,"Attempt saved. Phil Foden (England) left footed shot from a difficult angle on the left is saved in the bottom left corner.",general,General,Foden,England,123
+spain_england,45,2,45+2,"First Half ends, Spain 0, England 0.",general,Half Time,,Both,40
+spain_england,45,0,45,"Substitution, Spain. Martín Zubimendi replaces Rodri because of an injury.",key_event,Substitution,"Rodri, Zubimendi",Spain,75
+spain_england,45,0,45,"Second Half begins Spain 0, England 0.",key_event,Kick Off,,Both,40
+spain_england,47,0,47,"Goal! Spain 1, England 0. Nico Williams (Spain) left footed shot from the left side of the box to the bottom right corner. Assisted by Lamine Yamal.",key_event,Goal,"Williams, Yamal",Spain,149
+spain_england,49,0,49,"Attempt missed. Dani Olmo (Spain) left footed shot from the centre of the box misses to the right. Assisted by Nico Williams.",general,General,"Olmo, Williams",Spain,127
+spain_england,53,0,53,"Foul by John Stones (England).",general,Foul,Stones,England,31
+spain_england,53,0,53,"Martín Zubimendi (Spain) wins a free kick in the attacking half.",general,Free Kick,Zubimendi,Spain,63
+spain_england,53,0,53,"John Stones (England) is shown the yellow card for a bad foul.",key_event,Yellow Card,Stones,England,63
+spain_england,55,0,55,"Attempt blocked. Álvaro Morata (Spain) left footed shot from outside the box is blocked. Assisted by Dani Carvajal.",general,General,"Morata, Carvajal",Spain,122
+spain_england,55,0,55,"Attempt missed. Álvaro Morata (Spain) right footed shot from the right side of the box misses to the left. Assisted by Lamine Yamal with a through ball.",general,General,"Morata, Yamal",Spain,147
+spain_england,56,0,56,"Attempt missed. Nico Williams (Spain) right footed shot from outside the box is close, but misses to the left. Assisted by Fabián Ruiz.",general,General,"Williams, Ruiz",Spain,138
+spain_england,56,0,56,"Bukayo Saka (England) wins a free kick in the defensive half.",general,Free Kick,Saka,England,61
+spain_england,56,0,56,"Foul by Marc Cucurella (Spain).",general,Foul,Cucurella,Spain,33
+spain_england,61,0,61,"Substitution, England. Ollie Watkins replaces Harry Kane.",key_event,Substitution,"Kane, Watkins",England,56
+spain_england,62,0,62,"Bukayo Saka (England) wins a free kick on the right wing.",general,Free Kick,Saka,England,57
+spain_england,62,0,62,"Foul by Nico Williams (Spain).",general,Foul,Williams,Spain,31
+spain_england,64,0,64,"Attempt missed. Jude Bellingham (England) left footed shot from outside the box is close, but misses to the left. Assisted by Bukayo Saka.",general,General,"Bellingham, Saka",England,141
+spain_england,66,0,66,"Attempt saved. Lamine Yamal (Spain) left footed shot from the centre of the box is saved in the bottom left corner. Assisted by Dani Olmo.",general,General,"Yamal, Olmo",Spain,141
+spain_england,66,0,66,"Corner, Spain. Conceded by Jordan Pickford.",general,Corner,Pickford,Spain,47
+spain_england,67,0,67,"Attempt blocked. Aymeric Laporte (Spain) header from the centre of the box is blocked. Assisted by Nico Williams with a cross.",general,Corner,"Laporte, Williams",Spain,129
+spain_england,68,0,68,"Substitution, Spain. Mikel Oyarzabal replaces Álvaro Morata.",key_event,Substitution,"Morata, Oyarzabal",Spain,60
+spain_england,69,0,69,"Corner, Spain. Conceded by John Stones.",general,Corner,Stones,Spain,42
+spain_england,70,0,70,"Attempt missed. Fabián Ruiz (Spain) left footed shot from outside the box is too high. Assisted by Dani Olmo following a corner.",general,Corner,"Ruiz, Olmo",Spain,127
+spain_england,70,0,70,"Substitution, England. Cole Palmer replaces Kobbie Mainoo.",key_event,Substitution,"Mainoo, Palmer",England,58
+spain_england,70,0,70,"Attempt blocked. Ollie Watkins (England) right footed shot from outside the box is blocked.",general,General,Watkins,England,90
+spain_england,72,0,72,"Offside, Spain. Lamine Yamal is caught offside.",general,Offside,Yamal,Spain,49
+spain_england,72,0,72,"Attempt saved. Mikel Oyarzabal (Spain) left footed shot from the left side of the box is saved in the bottom left corner. Assisted by Martín Zubimendi.",general,General,"Oyarzabal, Zubimendi",Spain,149
+spain_england,73,0,73,"Goal! Spain 1, England 1. Cole Palmer (England) left footed shot from outside the box to the bottom left corner. Assisted by Jude Bellingham.",key_event,Goal,"Palmer, Bellingham",England,140
+spain_england,78,0,78,"Corner, Spain. Conceded by John Stones.",general,Corner,Stones,Spain,42
+spain_england,82,0,82,"Attempt saved. Lamine Yamal (Spain) left footed shot from the centre of the box is saved in the centre of the goal. Assisted by Nico Williams.",general,General,"Yamal, Williams",Spain,141
+spain_england,83,0,83,"Substitution, Spain. Nacho replaces Robin Le Normand.",key_event,Substitution,"Le Normand, Nacho",Spain,55
+spain_england,85,0,85,"Corner, Spain. Conceded by Declan Rice.",general,Corner,Rice,Spain,43
+spain_england,86,0,86,"Goal! Spain 2, England 1. Mikel Oyarzabal (Spain) right footed shot from the centre of the box to the centre of the goal. Assisted by Marc Cucurella with a cross.",key_event,Goal,"Oyarzabal, Cucurella",Spain,151
+spain_england,88,0,88,"Corner, England. Conceded by Nacho.",general,Corner,Nacho,England,39
+spain_england,89,0,89,"Substitution, England. Ivan Toney replaces Phil Foden.",key_event,Substitution,"Foden, Toney",England,53
+spain_england,89,0,89,"Substitution, Spain. Mikel Merino replaces Lamine Yamal.",key_event,Substitution,"Yamal, Merino",Spain,56
+spain_england,90,0,90,"Attempt saved. Declan Rice (England) header from the centre of the box is saved in the centre of the goal. Assisted by Cole Palmer with a cross.",general,Corner,"Rice, Palmer",England,142
+spain_england,90,0,90,"Attempt blocked. Marc Guéhi (England) header from very close range is blocked.",general,Corner,Guéhi,England,72
+spain_england,90,0,90,"Attempt missed. Declan Rice (England) header from the centre of the box is close, but misses to the left following a corner.",general,Corner,Rice,England,126
+spain_england,90,1,90+1,"Foul by Ollie Watkins (England).",general,Foul,Watkins,England,33
+spain_england,90,1,90+1,"Nacho (Spain) wins a free kick in the defensive half.",general,Free Kick,Nacho,Spain,52
+spain_england,90,2,90+2,"Ollie Watkins (England) is shown the yellow card for a bad foul.",key_event,Yellow Card,Watkins,England,63
+spain_england,90,3,90+3,"Cole Palmer (England) wins a free kick in the defensive half.",general,Free Kick,Palmer,England,62
+spain_england,90,3,90+3,"Foul by Nico Williams (Spain).",general,Foul,Williams,Spain,31
+spain_england,90,3,90+3,"Foul by Mikel Merino (Spain).",general,Foul,Merino,Spain,30
+spain_england,90,3,90+3,"Marc Guéhi (England) wins a free kick in the defensive half.",general,Free Kick,Guéhi,England,61
+spain_england,90,3,90+3,"Foul by Bukayo Saka (England).",general,Foul,Saka,England,30
+spain_england,90,3,90+3,"Marc Cucurella (Spain) wins a free kick in the defensive half.",general,Free Kick,Cucurella,Spain,63
+spain_england,90,4,90+4,"Foul by Mikel Merino (Spain).",general,Foul,Merino,Spain,30
+spain_england,90,4,90+4,"Marc Guéhi (England) wins a free kick in the defensive half.",general,Free Kick,Guéhi,England,61
+spain_england,90,5,90+5,"Second Half ends, Spain 2, England 1.",general,Full Time,,Both,40
+spain_england,90,5,90+5,"Match ends, Spain 2, England 1.",key_event,Full Time,,Both,34
+

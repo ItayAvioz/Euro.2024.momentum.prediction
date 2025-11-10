@@ -1,0 +1,89 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+serbia_england,0,0,0,"Daniele Orsato will officiate today.",general,General,Orsato,Both,38
+serbia_england,0,0,0,"England will kick the game off.",general,Kick Off,,England,30
+serbia_england,1,0,1,"Today's match has just started, enjoy the game!",key_event,Kick Off,,Both,50
+serbia_england,3,0,3,"England have been awarded a free kick. A clumsy foul by Sergej Milinkovic-Savic (Serbia) and Daniele Orsato blows his whistle.",general,Free Kick,Milinkovic-Savic,Serbia,145
+serbia_england,4,0,4,"The free kick is delivered by Trent Alexander-Arnold (England) but it's not one of his best and is easily cleared.",general,Free Kick,Alexander-Arnold,England,131
+serbia_england,6,0,6,"Kieran Trippier (England) was standing in a clear offside position, making it an easy call for the linesman.",general,Offside,Trippier,England,116
+serbia_england,6,0,6,"Filip Kostic (Serbia) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it.",general,General,Kostic,Serbia,160
+serbia_england,8,0,8,"Bukayo Saka (England) races towards goal but the defender gets back well to make a challenge.",general,General,Saka,England,97
+serbia_england,9,0,9,"Nemanja Gudelj (Serbia) gives away a foul for a fierce tackle on an opponent.",general,General,Gudelj,Serbia,81
+serbia_england,10,0,10,"Daniele Orsato blows for a foul after Sasa Lukic (Serbia) was too aggressive in the battle for the ball. England have a free kick.",general,Free Kick,Lukic,Serbia,139
+serbia_england,10,0,10,"Kieran Trippier (England) takes the free kick and immediately restarts play with a short pass.",general,Free Kick,Trippier,England,98
+serbia_england,11,0,11,"John Stones (England) commits a foul and Daniele Orsato immediately signals a free kick.",general,General,Stones,England,96
+serbia_england,13,0,13,"Bukayo Saka displays his great technique and produces a beautiful lofted cross deep into the box. Jude Bellingham (England) gets onto the scoresheet by superbly heading it into the roof of the net – 0:1.",key_event,Goal,"Saka, Bellingham",England,228
+serbia_england,16,0,16,"The ball possession at the moment is 20:80.",general,General,,Both,45
+serbia_england,18,0,18,"Andrija Zivkovic (Serbia) makes a bad challenge and the referee blows his whistle for a foul.",general,General,Zivkovic,Serbia,103
+serbia_england,19,0,19,"Phil Foden races towards the box before laying off to Trent Alexander-Arnold (England), who picks it up but drags a shot well wide of the left post from the edge of the box.",key_event,Shot,"Foden, Alexander-Arnold",England,187
+serbia_england,20,0,20,"Good chance! Aleksandar Mitrovic (Serbia) nicely turned his man inside the box but placed his effort just wide of the right post. He should have scored!",key_event,Shot,Mitrovic,Serbia,165
+serbia_england,21,0,21,"Daniele Orsato couldn't ignore the rough tackle by Strahinja Pavlovic (Serbia) and blew his whistle. It's a free kick to England in a dangerous position.",general,Free Kick,Pavlovic,Serbia,162
+serbia_england,23,0,23,"Dusan Vlahovic (Serbia) shoots from outside the box, but his effort is blocked.",general,General,Vlahovic,Serbia,84
+serbia_england,26,0,26,"Kyle Walker (England) breaks past challenges inside the box, but puts too much pace on his pass to Harry Kane. The ball goes out of play and Serbia will have a goal kick.",general,General,"Walker, Kane",England,179
+serbia_england,27,0,27,"The foul by Harry Kane (England) was seen by Daniele Orsato who didn't hesitate to blow the whistle.",general,General,Kane,England,111
+serbia_england,29,0,29,"Nemanja Gudelj (Serbia) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. England have a free kick.",general,Free Kick,Gudelj,Serbia,178
+serbia_england,30,0,30,"Trent Alexander-Arnold (England) elects to shoot from distance instead of sending the free kick into the box, but the defensive wall manages to block the shot. Wasted opportunity!",general,Free Kick,Alexander-Arnold,England,197
+serbia_england,31,0,31,"The defence is alert as they clear a dangerous cross from Bukayo Saka (England).",general,General,Saka,England,86
+serbia_england,32,0,32,"The game is interrupted, a clear handball by Bukayo Saka (England).",general,General,Saka,England,70
+serbia_england,33,0,33,"Andrija Zivkovic (Serbia) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",general,General,Zivkovic,Serbia,182
+serbia_england,34,0,34,"An attempted cross from Filip Kostic (Serbia) is cleared.",general,General,Kostic,Serbia,58
+serbia_england,35,0,35,"Another attempt to send the ball beyond the defence by Sergej Milinkovic-Savic (Serbia) is thwarted and cleared to safety.",general,General,Milinkovic-Savic,Serbia,140
+serbia_england,37,0,37,"A pass by Bukayo Saka (England) ends up in no man's land, and the attacking effort comes to an end.",general,General,Saka,England,107
+serbia_england,38,0,38,"Filip Kostic (Serbia) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",general,General,Kostic,Serbia,163
+serbia_england,38,0,38,"Andrija Zivkovic (Serbia) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",general,General,Zivkovic,Serbia,179
+serbia_england,39,0,39,"Nemanja Gudelj (Serbia) is booked after bringing down an opponent. Daniele Orsato had an easy-decision to make.",key_event,Yellow Card,Gudelj,Serbia,123
+serbia_england,41,0,41,"The game is interrupted now, Filip Kostic (Serbia) picks up a knock and the physio has to come on.",general,Injury,Kostic,Serbia,109
+serbia_england,43,0,43,"Dragan Stojkovic is forced to make a change. Filip Kostic (Serbia) is not able to carry on due to injury. He is replaced by Filip Mladenovic.",key_event,Substitution,"Kostic, Mladenovic, Stojkovic",Serbia,151
+serbia_england,45,0,45,"We will have 2 min. of added time.",general,General,,Both,40
+serbia_england,45,1,45+1,"Sasa Lukic (Serbia) attempts to slip the ball through the defence, but is unable to find any of his teammates. The ball is off of the pitch and it's a goal kick for England.",general,General,Lukic,Serbia,179
+serbia_england,45,2,45+2,"Daniele Orsato has a clear sight and sees a foul from Trent Alexander-Arnold (England).",general,General,Alexander-Arnold,England,92
+serbia_england,45,2,45+2,"Sasa Lukic (Serbia) sends the ball into the box from the side of the pitch, but his cross is blocked. Serbia have a corner.",general,Corner,Lukic,Serbia,133
+serbia_england,45,2,45+2,"A dangerous looking corner kick from Filip Mladenovic (Serbia) is cleared to safety by the defence.",general,Corner,Mladenovic,Serbia,104
+serbia_england,45,3,45+3,"The match has reached half-time.",general,Half Time,,Both,35
+serbia_england,46,0,46,"Daniele Orsato blows his whistle and the second half starts.",key_event,Kick Off,Orsato,Both,59
+serbia_england,46,0,46,"Dragan Stojkovic has decided to make a substitution during the half-time break. Ivan Ilic comes on the pitch for Nemanja Gudelj (Serbia).",key_event,Substitution,"Gudelj, Ilic, Stojkovic",Serbia,154
+serbia_england,49,0,49,"Andrija Zivkovic (Serbia) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",general,General,Zivkovic,Serbia,139
+serbia_england,51,0,51,"Sasa Lukic (Serbia) looks to break free, but an opposing player clears the ball away.",general,General,Lukic,Serbia,92
+serbia_england,53,0,53,"Dusan Vlahovic (Serbia) tries to slide the ball through to a teammate but it's well blocked by a defender.",general,General,Vlahovic,Serbia,115
+serbia_england,54,0,54,"Sergej Milinkovic-Savic (Serbia) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for England.",general,General,Milinkovic-Savic,Serbia,192
+serbia_england,55,0,55,"Aleksandar Mitrovic (Serbia) escapes without any punishment from the referee after using excessive force to foul his opponent.",general,General,Mitrovic,Serbia,133
+serbia_england,56,0,56,"Trent Alexander-Arnold (England) slams the ball towards the middle of the goal, but it fails to surprise Predrag Rajkovic and he's equal to it.",key_event,Save,"Alexander-Arnold, Rajkovic",England,157
+serbia_england,58,0,58,"Trent Alexander-Arnold (England) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",general,General,Alexander-Arnold,England,140
+serbia_england,59,0,59,"Half-chance! Filip Mladenovic (Serbia) plays a pass into the box, but Jordan Pickford reacts well to snuff out the attack.",general,General,"Mladenovic, Pickford",Serbia,141
+serbia_england,61,0,61,"It is time for a substitution. Dusan Tadic (Serbia) is on for Aleksandar Mitrovic.",key_event,Substitution,"Mitrovic, Tadic",Serbia,90
+serbia_england,61,0,61,"Dragan Stojkovic has decided to introduce fresh legs, with Luka Jovic (Serbia) replacing Sasa Lukic.",key_event,Substitution,"Lukic, Jovic, Stojkovic",Serbia,111
+serbia_england,62,0,62,"Daniele Orsato blows his whistle. Sergej Milinkovic-Savic (Serbia) commits a foul after dangerous play.",general,General,Milinkovic-Savic,Serbia,106
+serbia_england,63,0,63,"Bukayo Saka (England) commits an ugly challenge. The referee sees it and immediately blows his whistle.",general,General,Saka,England,107
+serbia_england,64,0,64,"Filip Mladenovic (Serbia) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",general,General,Mladenovic,Serbia,128
+serbia_england,65,0,65,"Dusan Tadic (Serbia) tries to find Luka Jovic, but he puts too much power on the through ball.",general,General,"Tadic, Jovic",Serbia,103
+serbia_england,66,0,66,"Dangerous play by Nikola Milenkovic (Serbia). Daniele Orsato blows his whistle for a foul. A free kick has been awarded to England.",general,Free Kick,Milenkovic,Serbia,144
+serbia_england,66,0,66,"Declan Rice (England) tries to take the opposition by surprise with a quick free kick into the box.",general,Free Kick,Rice,England,102
+serbia_england,66,0,66,"Trent Alexander-Arnold (England) sends a pass into the box, but his attempt is thwarted and cleared. The ball goes out for a corner. England can continue in their attacking effort.",general,Corner,Alexander-Arnold,England,183
+serbia_england,67,0,67,"Trent Alexander-Arnold (England) whips in a cross from the corner, but Predrag Rajkovic is well positioned and punches the ball away.",general,Corner,"Alexander-Arnold, Rajkovic",England,147
+serbia_england,68,0,68,"Jude Bellingham (England) sends a teasing cross into the area, but Predrag Rajkovic intercepts the ball.",general,General,"Bellingham, Rajkovic",England,124
+serbia_england,69,0,69,"The referee allows time for a substitution. Trent Alexander-Arnold will be replaced by Conor Gallagher (England).",key_event,Substitution,"Alexander-Arnold, Gallagher",England,130
+serbia_england,71,0,71,"Ivan Ilic (Serbia) gives away a foul for a clumsy challenge. Referee Daniele Orsato saw the whole situation. That's a free kick to England.",general,Free Kick,Ilic,Serbia,145
+serbia_england,72,0,72,"Phil Foden (England) puts a cross into the box from the free kick but it's cleared.",general,Free Kick,Foden,England,85
+serbia_england,74,0,74,"Jude Bellingham (England) was too fierce in his attempt to get the ball from his opponent and Daniele Orsato blows for a foul.",general,General,Bellingham,England,137
+serbia_england,74,0,74,"A substitution has been made. Andrija Zivkovic goes off and Veljko Birmancevic (Serbia) comes on.",key_event,Substitution,"Zivkovic, Birmancevic",Serbia,105
+serbia_england,75,0,75,"The game has begun to heat up. Dusan Tadic (Serbia) challenges an opponent and receives a deserved yellow card for his ugly tackle.",key_event,Yellow Card,Tadic,Serbia,147
+serbia_england,76,0,76,"Gareth Southgate has decided to substitute Bukayo Saka and he is replaced by Jarrod Bowen (England).",key_event,Substitution,"Saka, Bowen, Southgate",England,115
+serbia_england,77,0,77,"What a chance! Harry Kane (England) jumps and powers a precise header towards the roof of the net. The goalkeeper makes a spectacular reflex save and the ball deflects off his gloves onto the crossbar.",key_event,Save,"Kane, Rajkovic",England,215
+serbia_england,78,0,78,"Sergej Milinkovic-Savic (Serbia) slides a pass forward, but one of the defenders cuts it out.",general,General,Milinkovic-Savic,Serbia,101
+serbia_england,79,0,79,"Kieran Trippier (England) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",general,Injury,Trippier,England,159
+serbia_england,81,0,81,"Kieran Trippier (England) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",general,Injury,Trippier,England,130
+serbia_england,82,0,82,"Veljko Birmancevic (Serbia) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",general,General,Birmancevic,Serbia,157
+serbia_england,82,0,82,"Dusan Vlahovic (Serbia) gets to the rebound on the edge of the penalty area and fires a shot towards the roof of the net, but Jordan Pickford gets a hand to it and keeps it out. The ball is out of play. A goal-scoring opportunity from a corner for Serbia.",general,Corner,"Vlahovic, Pickford",Serbia,258
+serbia_england,83,0,83,"Dusan Tadic (Serbia) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety.",general,Corner,Tadic,Serbia,174
+serbia_england,83,0,83,"Veljko Birmancevic (Serbia) strikes a powerful volley towards goal, but one of the defenders blocks his attempt.",general,General,Birmancevic,Serbia,126
+serbia_england,83,0,83,"Dragan Stojkovic is stunned as referee Daniele Orsato shows him a yellow card. What was that for?",key_event,Yellow Card,Stojkovic,Serbia,109
+serbia_england,86,0,86,"Gareth Southgate prepares a substitution. Jude Bellingham is replaced by Kobbie Mainoo (England).",key_event,Substitution,"Bellingham, Mainoo, Southgate",England,102
+serbia_england,88,0,88,"Milos Veljkovic (Serbia) should know this behaviour is beyond the rules. He was too careless with his challenge and left Daniele Orsato no option but to blow his whistle.",general,General,Veljkovic,Serbia,177
+serbia_england,88,0,88,"A cross into the box from Filip Mladenovic (Serbia) is cleared.",general,General,Mladenovic,Serbia,61
+serbia_england,89,0,89,"Good touch by Sergej Milinkovic-Savic (Serbia) as he receives a great pass and attempts to threaten the goalkeeper with his long-range strike. Unfortunately for him, the effort misses the net and flies well wide to the right.",key_event,Shot,Milinkovic-Savic,Serbia,229
+serbia_england,90,0,90,"4 additional min. will be played.",general,General,,Both,40
+serbia_england,90,1,90+1,"The attendance is 48953.",general,General,,Both,28
+serbia_england,90,2,90+2,"Ivan Ilic (Serbia) makes a strong challenge and Daniele Orsato blows for a foul.",general,General,Ilic,Serbia,86
+serbia_england,90,3,90+3,"Ivan Ilic (Serbia) unleashes a missile of a shot towards goal, but his good effort is blocked by one of the defenders.",general,General,Ilic,Serbia,130
+serbia_england,90,4,90+4,"Nikola Milenkovic (Serbia) commits a rough challenge and Daniele Orsato blows his whistle for a foul.",general,General,Milenkovic,Serbia,112
+serbia_england,90,4,90+4,"That's it for today, Daniele Orsato has blown his whistle and the game is over.",key_event,Full Time,Orsato,Both,82
+

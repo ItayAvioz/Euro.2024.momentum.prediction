@@ -1,0 +1,106 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+germany_denmark,0,0,0,"The referee of today's match will be Michael Oliver.",general,General,Oliver,Both,54
+germany_denmark,0,0,0,"Germany will kick-off.",general,Kick Off,,Germany,23
+germany_denmark,1,0,1,"The match has just started.",key_event,Kick Off,,Both,28
+germany_denmark,2,0,2,"Joachim Andersen (Denmark) commits an ugly challenge. The referee sees it and immediately blows his whistle. Germany win a free kick and will be able to apply some pressure on the opposition goal.",general,General,Andersen,Denmark,196
+germany_denmark,3,0,3,"David Raum (Germany) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger.",general,General,Raum,Germany,166
+germany_denmark,4,0,4,"Corner kick. Toni Kroos (Germany) is ready to send the ball into the box.",general,Corner,Kroos,Germany,77
+germany_denmark,4,0,4,"Nico Schlotterbeck (Germany) meets the corner and displays his eye for goal as he coolly plants a header from close range into the bottom left corner. The score is 1:0.",key_event,Disallowed Goal,Schlotterbeck,Germany,171
+germany_denmark,4,0,4,"Wait! Referee Michael Oliver has indicated he is going to review the Germany goal using VAR. It's probably to see if there was a foul in the build-up.",general,VAR,,Germany,154
+germany_denmark,4,0,4,"The goal by Germany is DISALLOWED on the advice of the video assistant referee due to a foul.",key_event,VAR,,Germany,92
+germany_denmark,7,0,7,"Joshua Kimmich (Germany) wastes an opportunity. He finds himself in acres of space and fires in a terrific shot from long range straight towards the top right corner, but the goalkeeper makes a brilliant save and stops this one!",key_event,Save,Kimmich,Germany,220
+germany_denmark,7,0,7,"Toni Kroos (Germany) steps up to send the ball in.",general,Corner,Kroos,Germany,49
+germany_denmark,7,0,7,"Nico Schlotterbeck (Germany) outjumps the defence to meet the resulting corner and heads the ball towards the top right corner. His long-range header is not powerful enough, and the keeper comfortably makes a save.",key_event,Save,Schlotterbeck,Germany,202
+germany_denmark,8,0,8,"Toni Kroos (Germany) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",general,Corner,Kroos,Germany,139
+germany_denmark,10,0,10,"Kai Havertz (Germany) had a golden opportunity. He volleyed from point blank range low towards the middle of the net, but Kasper Schmeichel was alert and made an amazing save!",key_event,Save,"Havertz, Schmeichel",Germany,179
+germany_denmark,11,0,11,"Toni Kroos (Germany) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",general,Corner,Kroos,Germany,119
+germany_denmark,11,0,11,"Robert Andrich (Germany) peeled away from his marker and got on the end of the resulting corner, but he sends his header straight at the goalkeeper.",key_event,Save,Andrich,Germany,159
+germany_denmark,12,0,12,"Joshua Kimmich (Germany) sends a cross into the box, but Kasper Schmeichel comes off his line to gather the ball.",general,General,"Kimmich, Schmeichel",Germany,121
+germany_denmark,13,0,13,"Fine play by Jamal Musiala (Germany) opens up space on the edge of the box for the shot, but his effort lacks accuracy and flies miles past the left post.",key_event,Shot,Musiala,Germany,162
+germany_denmark,14,0,14,"Ilkay Gundogan (Germany) brings his opponent down. Michael Oliver has a clear sight of it and blows his whistle for a foul. Denmark are awarded the free kick.",general,General,Gundogan,Germany,158
+germany_denmark,15,0,15,"Christian Eriksen (Denmark) takes the free kick from a long way out but the defender manages to get it clear.",general,Free Kick,Eriksen,Denmark,114
+germany_denmark,15,0,15,"Rough tackle by Andreas Christensen (Denmark). The referee blows his whistle for a foul. Germany earn a free kick which could lead to a goal-scoring opportunity.",general,Free Kick,Christensen,Denmark,163
+germany_denmark,16,0,16,"A poor mid-range free-kick by Toni Kroos (Germany) is easily blocked by the defensive wall.",general,Free Kick,Kroos,Germany,95
+germany_denmark,18,0,18,"An attempted cross from Joshua Kimmich (Germany) is cleared.",general,General,Kimmich,Germany,59
+germany_denmark,18,0,18,"Antonio Rudiger (Germany) swings a cross into the box, but it's far too close to Kasper Schmeichel, who smothers the ball.",general,General,"Rudiger, Schmeichel",Germany,129
+germany_denmark,21,0,21,"Christian Eriksen (Denmark) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",key_event,Shot,Eriksen,Denmark,133
+germany_denmark,22,0,22,"Christian Eriksen (Denmark) works the corner short instead of sending the ball into the penalty area.",general,Corner,Eriksen,Denmark,103
+germany_denmark,22,0,22,"A lofted cross from Andreas Skov Olsen (Denmark) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",general,General,Skov Olsen,Denmark,148
+germany_denmark,22,0,22,"Pierre-Emile Hojbjerg (Denmark) should know this behaviour is beyond the rules. He was too careless with his challenge and left Michael Oliver no option but to blow his whistle.",general,General,Hojbjerg,Denmark,176
+germany_denmark,24,0,24,"Joakim Maehle (Denmark) receives a precise pass inside the box and takes a shot that flies just wide of the left post. The ball is off of the pitch and it's a goal kick for Germany.",key_event,Shot,Maehle,Denmark,178
+germany_denmark,25,0,25,"Andreas Christensen (Denmark) is asking for medical treatment after picking up an injury.",general,General,Christensen,Denmark,87
+germany_denmark,26,0,26,"Andreas Christensen (Denmark) is moving okay again after that injury scare.",general,General,Christensen,Denmark,76
+germany_denmark,27,0,27,"Jamal Musiala (Germany) races towards goal but the defender gets back well to make a challenge.",general,General,Musiala,Germany,97
+germany_denmark,30,0,30,"Robert Andrich (Germany) was too fierce in his attempt to get the ball from his opponent and Michael Oliver blows for a foul. Denmark have a free kick from a promising distance.",general,Free Kick,Andrich,Germany,180
+germany_denmark,31,0,31,"Christian Eriksen (Denmark) takes the free kick from the edge of the box, but the goalkeeper perfectly sets up the defensive wall and his effort is thwarted.",general,Free Kick,Eriksen,Denmark,158
+germany_denmark,34,0,34,"4:0 - the latest stats for both teams in respect of shots on target.",general,General,,Both,72
+germany_denmark,35,0,35,"Kai Havertz (Germany) latches on to a through ball inside the box, but one of the defenders steps in with a timely interception. It could have been a great chance otherwise.",general,General,Havertz,Germany,178
+germany_denmark,36,0,36,"The weather is too bad and the match has to be interrupted right now.",general,Weather Delay,,Both,72
+germany_denmark,36,0,36,"The match can continue after the interruption.",general,General,,Both,47
+germany_denmark,37,0,37,"Rasmus Hojlund (Denmark) commits an ugly tackle on his opponent, but there is no caution from the referee.",general,General,Hojlund,Denmark,111
+germany_denmark,37,0,37,"What a save from Kasper Schmeichel! Kai Havertz (Germany) jumps high to meet a cross and glances a promising header from close range, but the goalkeeper pulls off a brilliant stop to keep it out.",key_event,Save,"Schmeichel, Havertz",Germany,202
+germany_denmark,38,0,38,"Nico Schlotterbeck (Germany) pings a header narrowly wide of the left post from around the penalty spot following a decent cross.",key_event,Shot,Schlotterbeck,Germany,136
+germany_denmark,40,0,40,"Toni Kroos (Germany) takes the corner, but he overhits it and none of his teammates are able to reach the ball.",general,Corner,Kroos,Germany,117
+germany_denmark,40,0,40,"Thomas Delaney (Denmark) gives away a foul for a clumsy challenge. Referee Michael Oliver saw the whole situation. It's a free kick to Germany in a dangerous position.",general,Free Kick,Delaney,Denmark,168
+germany_denmark,41,0,41,"Toni Kroos (Germany) takes the free kick but it is cleared by the first defender.",general,Free Kick,Kroos,Germany,81
+germany_denmark,41,0,41,"Referee Michael Oliver halts the game and wanders over to the touchline to talk to Kasper Hjulmand, then shows him a yellow.",key_event,Yellow Card,Hjulmand,Denmark,136
+germany_denmark,42,0,42,"Rasmus Hojlund (Denmark) has to stretch for the ball in the box and sends it just wide of the right post. The ball goes out of play and Germany will have a goal kick.",key_event,Shot,Hojlund,Denmark,167
+germany_denmark,44,0,44,"Alexander Bah (Denmark) trips an opposition player and Michael Oliver signals a foul.",general,General,Bah,Denmark,88
+germany_denmark,45,0,45,"Rasmus Hojlund (Denmark) receives a great pass inside the box and misses a golden chance. The goalkeeper pulls off a stunning save.",key_event,Save,Hojlund,Denmark,143
+germany_denmark,45,0,45,"There will be a minimum of 1 min. of added time.",general,General,,Both,54
+germany_denmark,45,2,45+2,"Michael Oliver has ended the first half by blowing the whistle.",general,Half Time,,Both,63
+germany_denmark,46,0,46,"The second half has just started.",key_event,Kick Off,,Both,33
+germany_denmark,48,0,48,"The referee blows his whistle as Robert Andrich (Germany) was too aggressive in his challenge.",general,General,Andrich,Germany,97
+germany_denmark,48,0,48,"Goal! Joachim Andersen (Denmark) was in the right place at the right time to get to the rebound inside the box and gleefully rifles the ball low inside the left post. It's 0:1.",key_event,Disallowed Goal,Andersen,Denmark,181
+germany_denmark,49,0,49,"Wait! Referee Michael Oliver has indicated he is going to review the Denmark goal using VAR. It's probably to see if there was an offside in the build-up.",general,VAR,,Denmark,160
+germany_denmark,50,0,50,"Celebrations are cut short for Denmark as the referee indicates NO GOAL after the VAR review shows it was offside!",key_event,VAR,,Denmark,119
+germany_denmark,51,0,51,"Leroy Sane (Germany) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Sane,Germany,158
+germany_denmark,51,0,51,"Joachim Andersen (Denmark) appears to handle the ball in the box, but the ref turns down the penalty appeals and waves play on!",general,Penalty,Andersen,Denmark,132
+germany_denmark,51,0,51,"Wait! The referee makes the VAR signal and he's going to review that incident in the box from earlier. This could be a penalty for Germany! Let's see what he decides.",general,VAR,,Germany,169
+germany_denmark,53,0,53,"Here comes the VAR decision: PENALTY to Germany!",key_event,VAR,,Germany,51
+germany_denmark,53,0,53,"Kai Havertz (Germany) is going to take the penalty!",general,Penalty,Havertz,Germany,51
+germany_denmark,53,0,53,"Goal! Kai Havertz (Germany) wins the battle of wills and sends an unstoppable penalty past Kasper Schmeichel into the bottom right corner.",key_event,Goal,"Havertz, Schmeichel",Germany,148
+germany_denmark,57,0,57,"Joachim Andersen (Denmark) is cautioned by the referee for a foul that he committed a little earlier.",key_event,Yellow Card,Andersen,Denmark,102
+germany_denmark,57,0,57,"Looks like Robert Andrich (Germany) is struggling after picking up a knock. Hopefully he can run it off.",general,General,Andrich,Germany,105
+germany_denmark,59,0,59,"Referee Michael Oliver has finally had enough of Julian Nagelsmann and brandishes a yellow card at him!",key_event,Yellow Card,Nagelsmann,Germany,106
+germany_denmark,59,0,59,"Good chance! Kai Havertz (Germany) nicely turned his man inside the box but placed his effort just wide of the right post. He should have scored!",key_event,Shot,Havertz,Germany,152
+germany_denmark,60,0,60,"Joakim Maehle (Denmark) receives a yellow card for talking out of turn to the referee.",key_event,Yellow Card,Maehle,Denmark,85
+germany_denmark,60,0,60,"Joakim Maehle (Denmark) will miss the next game.",general,General,Maehle,Denmark,48
+germany_denmark,64,0,64,"The linesman raises his flag. Kai Havertz (Germany) is adjudged offside.",general,Offside,Havertz,Germany,73
+germany_denmark,64,0,64,"It is time for a substitution. Emre Can (Germany) is on for Robert Andrich.",key_event,Substitution,"Andrich, Can",Germany,79
+germany_denmark,64,0,64,"Julian Nagelsmann has decided to substitute Ilkay Gundogan and he is replaced by Niclas Fullkrug (Germany).",key_event,Substitution,"Gundogan, Fullkrug, Nagelsmann",Germany,108
+germany_denmark,66,0,66,"Manuel Neuer pulls off a great save to deny Rasmus Hojlund (Denmark), who makes himself some space inside the box and unleashes a quick shot towards the middle of the goal.",key_event,Save,"Neuer, Hojlund",Denmark,183
+germany_denmark,68,0,68,"Wonderful movement by Germany. The players are holding possession, mostly exchanging one-touch passes. They control the pace of the game now.",general,General,,Germany,151
+germany_denmark,68,0,68,"It's in the back of the net! Nico Schlotterbeck slips the ball through to Jamal Musiala (Germany), and he darts into the box to unleash a magnificent shot into the bottom right corner. He makes it 2:0.",key_event,Goal,"Schlotterbeck, Musiala",Germany,207
+germany_denmark,69,0,69,"Thomas Delaney will be replaced by Christian Norgaard (Denmark).",key_event,Substitution,"Delaney, Norgaard",Denmark,63
+germany_denmark,69,0,69,"Kasper Hjulmand prepares a substitution. Andreas Skov Olsen is replaced by Yussuf Poulsen (Denmark).",key_event,Substitution,"Skov Olsen, Poulsen, Hjulmand",Denmark,101
+germany_denmark,71,0,71,"Christian Eriksen (Denmark) attempted to pick out a free teammate inside the box, but Manuel Neuer comes off the line to clear the ball away.",general,General,"Eriksen, Neuer",Denmark,148
+germany_denmark,73,0,73,"The attendance for today's match is 61612.",general,General,,Both,47
+germany_denmark,73,0,73,"Kai Havertz (Germany) fails to time his run beyond the last defender and the linesman makes a good call by signalling for offside after seeing the whole situation unfold.",general,Offside,Havertz,Germany,179
+germany_denmark,76,0,76,"Christian Eriksen (Denmark) takes a short corner kick.",general,Corner,Eriksen,Denmark,54
+germany_denmark,76,0,76,"Yussuf Poulsen (Denmark) whips the ball into the penalty area, but one of the defenders is alert and spanks it away. The linesman points to the corner flag, Denmark are going to take it.",general,Corner,Poulsen,Denmark,183
+germany_denmark,77,0,77,"Christian Eriksen (Denmark) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger. Denmark have a corner.",general,Corner,Eriksen,Denmark,156
+germany_denmark,77,0,77,"Christian Eriksen (Denmark) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",general,Corner,Eriksen,Denmark,176
+germany_denmark,81,0,81,"It will be a substitution. Benjamin Henrichs (Germany) is ready to enter the pitch as David Raum walks off.",key_event,Substitution,"Raum, Henrichs",Germany,111
+germany_denmark,81,0,81,"Julian Nagelsmann decides to make a substitution. Jamal Musiala will be replaced by Florian Wirtz (Germany).",key_event,Substitution,"Musiala, Wirtz, Nagelsmann",Germany,108
+germany_denmark,81,0,81,"The referee stops play so that a substitution can be made and Rasmus Hojlund leaves the pitch and Jonas Wind (Denmark) comes on.",key_event,Substitution,"Hojlund, Wind",Denmark,131
+germany_denmark,81,0,81,"Kasper Hjulmand has decided to make a change. Jacob Bruun Larsen (Denmark) replaces Andreas Christensen.",key_event,Substitution,"Christensen, Bruun Larsen, Hjulmand",Denmark,107
+germany_denmark,81,0,81,"Substitution. Victor Kristiansen (Denmark) receives a signal from the referee and is now allowed to enter the pitch as Alexander Bah walks off.",key_event,Substitution,"Bah, Kristiansen",Denmark,141
+germany_denmark,83,0,83,"Niclas Fullkrug (Germany) is clearly in an offside position after the ball is played through to him and the linesman raises his flag.",general,Offside,Fullkrug,Germany,139
+germany_denmark,86,0,86,"Jacob Bruun Larsen (Denmark) serves up a nice cross, but the defence clears the danger.",general,General,Bruun Larsen,Denmark,93
+germany_denmark,87,0,87,"The linesman raises his flag for offside before Victor Kristiansen (Denmark) heads on.",general,Offside,Kristiansen,Denmark,83
+germany_denmark,88,0,88,"Here comes a substitution. Waldemar Anton (Germany) is brought on as a substitute for Leroy Sane.",key_event,Substitution,"Sane, Anton",Germany,103
+germany_denmark,89,0,89,"What a poor attempt! Benjamin Henrichs (Germany) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes into the stands. The ball goes out of play and Denmark will have a goal kick.",key_event,Shot,Henrichs,Germany,258
+germany_denmark,90,0,90,"Florian Wirtz (Germany) shoots from the edge of the penalty area. The ball travels towards the crossbar, but Kasper Schmeichel easily deals with the threat.",key_event,Save,"Wirtz, Schmeichel",Germany,164
+germany_denmark,90,0,90,"5 additional min. will be played.",general,General,,Both,38
+germany_denmark,90,2,90+2,"Gooal! No wait, it's been ruled out for offside. Florian Wirtz (Germany) disagrees, but the linesman is sure about his call.",key_event,Disallowed Goal,Wirtz,Germany,137
+germany_denmark,90,2,90+2,"Attention! Referee Michael Oliver straight away wants to review previous situation with VAR, presumably for a possible offside in the build-up.",general,VAR,,Germany,146
+germany_denmark,90,3,90+3,"The Germany players' celebrations are quickly cut short after referee Michael Oliver signals NO GOAL following the VAR review due to an offside.",key_event,VAR,,Germany,146
+germany_denmark,90,3,90+3,"A fine lofted pass into the box, sent by Joakim Maehle (Denmark), is intercepted by the opposition's defence. The referee points to the corner flag and Denmark will take a corner.",general,Corner,Maehle,Denmark,187
+germany_denmark,90,3,90+3,"Christian Eriksen (Denmark) takes the corner which is cleared by the opposition's defence.",general,Corner,Eriksen,Denmark,92
+germany_denmark,90,4,90+4,"Jannik Vestergaard (Denmark) fires the ball at goal from inside the area, but it's well blocked. Denmark win a corner.",key_event,Shot,Vestergaard,Denmark,126
+germany_denmark,90,4,90+4,"Denmark have a chance to score from a corner kick, but the ball is cleared by a defender.",general,Corner,,Denmark,93
+germany_denmark,90,5,90+5,"Kai Havertz (Germany) runs with the ball towards the keeper and pulls the trigger from close range, but Kasper Schmeichel anticipates his intention and makes an amazing save to stop the shot going into the bottom right corner.",key_event,Save,"Havertz, Schmeichel",Germany,221
+germany_denmark,90,5,90+5,"Toni Kroos (Germany) quickly takes the corner kick with a short pass.",general,Corner,Kroos,Germany,69
+germany_denmark,90,5,90+5,"The referee blows for the end of today's match.",key_event,Full Time,,Both,51
+

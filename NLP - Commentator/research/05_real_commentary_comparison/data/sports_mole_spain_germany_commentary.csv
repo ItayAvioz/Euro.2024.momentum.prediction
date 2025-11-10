@@ -1,0 +1,118 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+spain_germany,1,0,1,"KICKOFF:  And we're off! Germany get us started. Strap in folks, this will be special.",key_event,Kick Off,,Germany,94
+spain_germany,2,0,2,"SHOT!  Spain on the front foot immediately! Williams and Morata link up nicely, but Pedri's strike on the edge of the box is straight at Manuel Neuer. Now Cucurella is down...",key_event,Shot,"Williams, Morata, Pedri, Neuer, Cucurella",Spain,190
+spain_germany,3,0,3,"The Chelsea man looks to have come off worse in a collision with Can, but he is OK to continue.",general,General,"Cucurella, Can",Spain,106
+spain_germany,4,0,4,"First bit of defending for Robin Le Normand but he deals with Sane well. Now Kroos scythes down Pedri as the Barcelona man tries to break.",general,General,"Le Normand, Sane, Kroos, Pedri",Both,145
+spain_germany,5,0,5,"Referee Anthony Taylor laying down the law early, demanding that all non-wearing armband players step away from him. Kroos remonstrated heavily there... not sure why. Fortunate not to be booked.",general,General,Kroos,Both,188
+spain_germany,6,0,6,Now Gundogan brings down his former teammate Rodri. A bit feisty early on this one!,general,General,"Gundogan, Rodri",Germany,95
+spain_germany,7,0,7,"Pedri might not have recovered from that clattering by Kroos - he's down again. The last thing either manager needs is an early enforced change...",general,General,"Pedri, Kroos",Spain,153
+spain_germany,8,0,8,"Pedri has already had awful luck with injuries in his career, and he does not look comfortable here. Dani Olmo getting ready as a distraught Pedri gingerly walks off. Have to feel for him.",general,Substitution,"Pedri, Olmo",Spain,188
+spain_germany,9,0,9,SPAIN SUB Confirmation of that change - Pedri is off and Olmo comes into the number 10 role.,key_event,Substitution,"Pedri, Olmo",Spain,99
+spain_germany,11,0,11,"Havertz holds the ball up well in the final third and finds Raum on the overlap, but his cross is straight into Unai Simon's arms.",general,General,"Havertz, Raum, Simon",Germany,136
+spain_germany,12,0,12,SHOT!  Williams tries his luck from distance, but not his finest. It trickles harmlessly wide.,key_event,Shot,Williams,Spain,100
+spain_germany,13,0,13,"This was the tackle that forced a disconsolate Pedri off. Looking back, how Kroos did not get a booking is astounding. There's no room for sentimentality in a Euros quarter-final Anthony Taylor!",general,General,"Pedri, Kroos",Spain,194
+spain_germany,14,0,14,"YELLOW CARD!  Talk about timing! Rudiger sticks a leg out to stop Olmo in his tracks and is cautioned. That's him out of the semis (if Germany get there).",key_event,Yellow Card,"Rudiger, Olmo",Germany,157
+spain_germany,15,0,15,Or so I initially thought, goal kick given.,general,General,,Both,45
+spain_germany,15,0,15,"Olmo and Yamal over the free kick... It is Lamal, and it is deflected behind.",general,Free Kick,"Olmo, Yamal",Spain,85
+spain_germany,16,0,16,"End-to-end stuff now! This is what we came for. A promising Germany move breaks down before Spain steam down the other end of the pitch, but an ambitious Morata strike hits a white shirt.",general,Shot,Morata,Both,179
+spain_germany,17,0,17,SHOT!  Yamal finds Fabian Ruiz in acres of space inside the D, but he just delays his strike and sends it over the top.,key_event,Shot,"Yamal, Fabian Ruiz",Spain,124
+spain_germany,19,0,19,"Germany enjoy a bit of possession in the Spain half, but Laporte is well-positioned to cut out a Sane cross and also prevent a corner.",general,General,"Laporte, Sane",Germany,137
+spain_germany,21,0,21,"SHOT!  Germany work the ball out to Kimmich on the right, and his cross is on the money for Kai Havertz, who sends his header straight at Simon. A chance.",key_event,Shot,"Kimmich, Havertz, Simon",Germany,156
+spain_germany,23,0,23,"The hosts just showing a bit more attacking impetus now after Spain shaded a scrappy start. Just as I type that, Yamal makes a nice sliding interception and Spain have the ball back.",general,General,Yamal,Germany,177
+spain_germany,23,0,23,SHOT!  Spain refuse to close down a charging Laporte, who takes the invitation to shoot, but Neuer gathers at the second attempt.,key_event,Shot,"Laporte, Neuer",Spain,129
+spain_germany,25,0,25,"Kimmich getting some joy down the right now and draws a foul from Morata. Germany free kick in a promising area...",general,Free Kick,"Kimmich, Morata",Germany,121
+spain_germany,26,0,26,"Kroos whips it in, and Tah rises highest, but he cannot leap high enough to get a decent connection and the ball rolls through to Simon.",general,Free Kick,"Kroos, Tah, Simon",Germany,139
+spain_germany,27,0,27,"Germany corner as Laporte gets a vital flick to prevent a diagonal ball from reaching Rudiger... A few bodies hit the floor and Simon eventually claims.",general,Corner,"Laporte, Rudiger, Simon",Germany,148
+spain_germany,28,0,28,YELLOW CARD!  David Raum now into the book for tripping Carvajal. Spain's turn to whip it into the mixer.,key_event,Yellow Card,"Raum, Carvajal",Germany,113
+spain_germany,29,0,29,Germany do not exactly deal with Williams's delivery, but Olmo kicks Gundogan as he goes for a volley and the hosts win a free kick.,general,Free Kick,"Williams, Olmo, Gundogan",Germany,140
+spain_germany,30,0,30,"YELLOW CARD!  Speaking of any means necessary, Le Normand is now booked for fouling Gundogan, and he is another one to miss any potential semi-final.",key_event,Yellow Card,"Le Normand, Gundogan",Spain,153
+spain_germany,32,0,32,"To stop Yamal, you have to kick Yamal. At least that's what Emre Can thinks. He avoids further punishment, though.",general,General,"Yamal, Can",Germany,122
+spain_germany,34,0,34,"Spain almost catch Germany unawares, but Tah does just enough to prevent Olmo from going one-on-one with Neuer.",general,General,"Tah, Olmo, Neuer",Spain,116
+spain_germany,34,0,34,"CHANCE!  A slick slide-rule pass from Havertz finds Kimmich, whose low cross is poor and straight into Simon's body, but he was well offside anyway.",key_event,Chance,"Havertz, Kimmich, Simon",Germany,157
+spain_germany,35,0,35,"SHOT!  Havertz at the heart of it again! The Arsenal man chests down a fantastic Rudiger ball over the top and fires a volley at goal, but Simon gets down to his right and saves.",key_event,Shot,"Havertz, Rudiger, Simon",Germany,177
+spain_germany,36,0,36,SAVE!  Williams just runs offside before turning Rudiger and forcing Neuer into a reaction save at his near post.,key_event,Save,"Williams, Rudiger, Neuer",Spain,120
+spain_germany,38,0,38,"De la Fuente engaged in conversation with one of his lieutenants down on the sidelines. This one is still on a knife-edge.",general,General,De la Fuente,Both,130
+spain_germany,40,0,40,"SHOT!  Kimmich puts in a perfectly-timed tackle to stop Williams, but Spain win the ball back right away and Olmo has a crack from distance, which Neuer can only parry out. Rudiger then does enough to put Morata off.",key_event,Shot,"Kimmich, Williams, Olmo, Neuer, Rudiger, Morata",Spain,215
+spain_germany,42,0,42,"Is it fair to say Neuer's handling is a little off today? That's a couple of times now he's not caught the ball cleanly at the first attempt. Kroos gives away another foul for shoving Olmo over. Still no booking.",general,General,"Neuer, Kroos, Olmo",Germany,202
+spain_germany,44,0,44,"Williams is still seeing plenty of the ball and whips a cross in from the left, but it is far too high for a frustrated Olmo, and Yamal cannot keep it in.",general,General,"Williams, Olmo, Yamal",Spain,157
+spain_germany,45,0,45,"SHOT!  Yamal turns Tah with ease and also has a pop from range, but it is too central to trouble Neuer. Two minutes added on.",key_event,Shot,"Yamal, Tah, Neuer",Spain,133
+spain_germany,45,0,45,HALF TIME:  SPAIN 0-0 GERMANY,key_event,Half Time,,Both,32
+spain_germany,46,0,46,KICKOFF:  Spain get us started again.,key_event,Kick Off,,Spain,42
+spain_germany,46,0,46,Wirtz wants a slice of the aggression and fouls Laporte after just 18 seconds.,general,General,"Wirtz, Laporte",Germany,83
+spain_germany,47,0,47,"SHOT!  Morata goes agonisingly close! Williams picks out Yamal with a lovely cross to the back post, and the Barcelona man finds Morata with his back to goal. He's under pressure from Tah but manages to turn and shoot, albeit over the bar.",key_event,Shot,"Morata, Williams, Yamal, Tah",Spain,235
+spain_germany,48,0,48,SHOT!  Andrich now tries a first-time spectacular - not sure if it was a cross or a shot, but it went behind for a goal kick anyway.,key_event,Shot,Andrich,Germany,133
+spain_germany,50,0,50,A tangle of legs between Musiala and Carvajal and the decision goes Germany's way.,general,General,"Musiala, Carvajal",Germany,84
+spain_germany,52,0,52,"GOAL!  Spain strike first, and it's that man Olmo again! Morata drops deep to send Yamal away down the right, and the 16-year-old finds the run of Olmo, who sweeps a first-time finish into the far corner past Neuer. Lift-off at last!",key_event,Goal,"Olmo, Morata, Yamal, Neuer",Spain,235
+spain_germany,52,0,52,GOAL!  SPAIN 1-0 GERMANY (OLMO),key_event,Goal,Olmo,Spain,34
+spain_germany,54,0,54,"CHANCE!  Germany nearly hit back right away as Olmo's deflected cross drops into the corridor of uncertainty, but Nacho is well-positioned to momentarily clear the danger.",key_event,Chance,"Olmo, Nacho",Germany,169
+spain_germany,55,0,55,"Hard to keep up now! Germany come again, but Rodri puts a foot in before the ball can drop for Gundogan to get a volley away.",general,General,"Rodri, Gundogan",Germany,131
+spain_germany,57,0,57,"It has been like a basketball match since that Olmo opener. Great for the neutrals, not so much for the live bloggers... No complaining, though. Gripping stuff.",general,General,Olmo,Both,159
+spain_germany,57,0,57,YELLOW CARD!  And that's another one out of the semi-finals. Andrich booked.,key_event,Yellow Card,Andrich,Germany,77
+spain_germany,57,0,57,GERMANY SUBS Gundogan and Raum come off for Mittelstadt and Niclas Fullkrug. Germany going for it.,key_event,Substitution,"Gundogan, Raum, Mittelstadt, Fullkrug",Germany,103
+spain_germany,60,0,60,"In fact, Yamal is now the first male teenager on record to set up three goals at a single World Cup or the Euros. How he would love a goal, though.",general,General,Yamal,Spain,154
+spain_germany,61,0,61,"Germany have a corner after a Wirtz shot hits Cucurella's back and goes behind, but it comes to nothing; the Bayer Leverkusen man's cross misses everyone.",general,Corner,"Wirtz, Cucurella",Germany,157
+spain_germany,63,0,63,"SPAIN SUB Nations League hat-trick hero Torres is on for Yamal, who is far from happy about coming off.",key_event,Substitution,"Torres, Yamal",Spain,113
+spain_germany,64,0,64,"SHOT!  The latest Kroos corner finds a leaping Fullkrug, but his backwards header sails harmlessly behind. Germany upping the ante though.",key_event,Shot,"Kroos, Fullkrug",Germany,145
+spain_germany,65,0,65,Another Germany attack breaks down as Musiala is crowded out and clips Morata on his way down.,general,General,"Musiala, Morata",Germany,97
+spain_germany,67,0,67,"Carvajal, take a bow. Havertz and Fullkrug are two-on-two and the former sets away his Borussia Dortmund colleague, but Carvajal gets back to nip in and see the ball back to Simon.",general,General,"Carvajal, Havertz, Fullkrug, Simon",Germany,178
+spain_germany,68,0,68,"YELLOW CARD!  It's happened! Kroos is finally in the book for bringing down Torres. As things stand, that will be the final yellow card of his career.",key_event,Yellow Card,"Kroos, Torres",Germany,149
+spain_germany,70,0,70,"SHOT!  Germany are patient in their build-up and work the ball through to Andrich, whose low first-time strike is beaten out to his left by Simon, before Germany appeals for a handball fall on deaf ears.",key_event,Shot,"Andrich, Simon",Germany,202
+spain_germany,72,0,72,SHOT!  The hosts keep on coming and Havertz tries his luck from inside the box, but a Spain body gets in the way.,key_event,Shot,Havertz,Germany,115
+spain_germany,73,0,73,It was Carvajal who got his body in the way there. He's been solid tonight.,general,General,Carvajal,Spain,76
+spain_germany,73,0,73,"YELLOW CARD!  The suspensions are racking up! Mittelstadt fouls Torres, goes into the book and cannot believe his misfortune. That's all three Germans who could have been banned for the semis banned for the semis.",key_event,Yellow Card,"Mittelstadt, Torres",Germany,209
+spain_germany,74,0,74,"YELLOW CARD!  Torres's delivery to the back post is an awkward one, but Spain survive. The Barcelona man is then booked for stopping Musiala bursting away.",key_event,Yellow Card,"Torres, Musiala",Spain,160
+spain_germany,77,0,77,"OFF THE POST!  INCHES AWAY FOR THE GERMANS! Wirtz's delivery finds Fullkrug, who is on the way down but still hooks his right foot around the ball, which strikes Simon's near post.",key_event,Hit Post,"Wirtz, Fullkrug, Simon",Germany,186
+spain_germany,78,0,78,"Fullkrug was engaged in a titanic tussle with Nacho, and the ex-Real Madrid man just about came out on top. Simon was completely beaten, though.",general,General,"Fullkrug, Nacho, Simon",Germany,145
+spain_germany,80,0,80,"SPAIN SUBS Fresh legs time. Morata and Williams off, Real Sociedad teammates Mikel Merino and Mikel Oyarzabal on.",key_event,Substitution,"Morata, Williams, Merino, Oyarzabal",Spain,119
+spain_germany,80,0,80,"GERMANY SUB Oh here we go! Jonathan Tah is off for Germany, and Thomas Muller is brought on to a terrific reception.",key_event,Substitution,"Tah, Muller",Germany,124
+spain_germany,81,0,81,"Fabian Ruiz's exquisite piece of skill sets him away, but the newly-introduced Oyarzabal is crowded out before he can pull the trigger.",general,General,"Fabian Ruiz, Oyarzabal",Spain,137
+spain_germany,82,0,82,YELLOW CARD!  The gamesmanship begins; Spain goalkeeper Simon is cautioned for time-wasting.,key_event,Yellow Card,Simon,Spain,96
+spain_germany,83,0,83,"CLOSE!  OH KAI HAVERTZ! Simon's goal kick - after all that malarkey - is extremely poor, and Havertz nips in. The Arsenal man goes for the lob with Simon off his line, but his effort loops just over the top. Spanish sighs of relief all around.",key_event,Close Call,"Havertz, Simon",Germany,235
+spain_germany,84,0,84,SHOT!  The space opens up for Fabian Ruiz to hit one from 20 yards but his effort is wild.,key_event,Shot,Fabian Ruiz,Spain,94
+spain_germany,85,0,85,Germany free kick about 35 yards from goal as Nacho shoves Fullkrug over...,general,Free Kick,"Nacho, Fullkrug",Germany,80
+spain_germany,86,0,86,"SAVE!  Kroos's delivery is perfectly-placed for Havertz, whose header into the ground is brilliantly saved by Simon, but the Arsenal attacker had fouled Laporte anyway.",key_event,Save,"Kroos, Havertz, Simon, Laporte",Germany,167
+spain_germany,87,0,87,Another Germany corner as Carvajal heads a Havertz delivery behind...,general,Corner,"Carvajal, Havertz",Germany,68
+spain_germany,88,0,88,"Kroos plays it short to Kimmich and the ball is eventually worked out to Mittelstadt, whose 25-yarder hits Merino. Waste.",general,General,"Kroos, Kimmich, Mittelstadt, Merino",Germany,125
+spain_germany,89,0,89,"GOAL!  Never count the Germans out! A Mittelstadt cross to the back post is nodded back into the danger area by Kimmich, and Wirtz sends a crisp half-volley into the ground, off the post and into the net. Nagelsmann's men are still alive!",key_event,Goal,"Mittelstadt, Kimmich, Wirtz",Germany,237
+spain_germany,89,0,89,GOAL!  SPAIN 1-1 GERMANY (WIRTZ),key_event,Goal,Wirtz,Germany,35
+spain_germany,90,0,90,Four minutes for either side to find a winner.,general,General,,Both,50
+spain_germany,90,2,90+2,"Spain are huffing and puffing right at the death, but surely extra time is looming.",general,General,,Spain,88
+spain_germany,90,4,90+4,YELLOW CARD!  Apparently Germany sub Nico Schlotterbeck has just been booked.,key_event,Yellow Card,Schlotterbeck,Germany,74
+spain_germany,90,4,90+4,FULL TIME:  SPAIN 1-1 GERMANY Extra time it is!,key_event,Full Time,,Both,54
+spain_germany,91,0,ET 1,"KICKOFF:  Here we go again! Spain restart. Change for Germany by the way, Havertz makes way for centre-back Waldemar Anton.",key_event,Kick Off + Substitution,"Havertz, Anton",Spain,133
+spain_germany,92,0,ET 2,Nacho has to get across to prevent Wirtz's cross from reaching Muller. Germany corner.,general,Corner,"Nacho, Wirtz, Muller",Germany,87
+spain_germany,93,0,ET 3,Kroos's delivery is claimed confidently by Simon.,general,Corner,"Kroos, Simon",Germany,50
+spain_germany,94,0,ET 4,YELLOW CARD!  Wirtz and Cucurella tangle off the ball and the Germany man is booked for his part in the incident.,key_event,Yellow Card,"Wirtz, Cucurella",Germany,113
+spain_germany,95,0,ET 5,"Olmo's low ball into the box is intended for Oyarzabal, but it misses everyone and goes behind for a goal kick.",general,General,"Olmo, Oyarzabal",Spain,114
+spain_germany,97,0,ET 7,"SHOT!  Spain back on top now as Olmo tries his luck, but Rudiger and Kimmich get in the way.",key_event,Shot,"Olmo, Rudiger, Kimmich",Spain,97
+spain_germany,98,0,ET 8,Play is stopped as both Ruiz and Kroos feel the effects of a collision.,general,General,"Ruiz, Kroos",Both,75
+spain_germany,99,0,ET 9,Both are fine but probably grateful for the slight delay.,general,General,,Both,57
+spain_germany,100,0,ET 10,YELLOW CARD!  Anthony Taylor's pen might be running out of ink. Carvajal pulls back Musiala and - despite his protestations - is the next into the book.,key_event,Yellow Card,"Carvajal, Musiala",Spain,150
+spain_germany,101,0,ET 11,"CHANCE!  From the resulting free kick, Germany work the ball down the left, but Simon's fists cut out Musiala's delivery. The hosts keep the ball alive, but Andrich's volley is wild.",key_event,Chance,"Simon, Musiala, Andrich",Germany,176
+spain_germany,102,0,ET 12,SPAIN SUB Fabian Ruiz's race is run. Joselu - born in Stuttgart - comes on.,key_event,Substitution,"Fabian Ruiz, Joselu",Spain,79
+spain_germany,104,0,ET 14,"CLOSE!  Not too far away from Oyarzabal! The Sociedad man has Neuer beaten with a brilliant left-footed drive from range, but it flies just wide of the far post.",key_event,Close Call,"Oyarzabal, Neuer",Spain,165
+spain_germany,105,0,ET 15,One more minute to be played.,general,General,,Both,30
+spain_germany,105,1,ET 15+1,"CLOSE!  Wirtz so nearly repeats his trick as he goes firs time from Muller's cutback, and it may have just grazed the post on its way behind.",key_event,Close Call,"Wirtz, Muller",Germany,141
+spain_germany,105,1,ET 15+1,HALF TIME IN EXTRA TIME:  SPAIN 1-1 GERMANY,key_event,Half Time Extra Time,,Both,46
+spain_germany,106,0,ET 16,"KICKOFF:  Or 23 if you count Anthony Taylor. Anyway, we've started again.",key_event,Kick Off,,Both,82
+spain_germany,106,0,ET 16,"Germany are up in arms as Musiala's strike is blocked by the hand of Cucurella, but his arm was down by his side. No penalty.",general,Penalty Appeal,"Musiala, Cucurella",Germany,129
+spain_germany,108,0,ET 18,"Olmo skips away from Andrich and feeds Merino, whose cross is turned behind by the rock Rudiger for a Spain corner.",general,Corner,"Olmo, Andrich, Merino, Rudiger",Spain,121
+spain_germany,109,0,ET 19,"SHOT!  It comes to nothing and Germany charge down the other end through Wirtz, who lays off Fullkrug, but he's off balance and skews his effort wide.",key_event,Shot,"Wirtz, Fullkrug",Germany,155
+spain_germany,110,0,ET 20,"YELLOW CARD!  Rodri now in the book for trying to rip Muller's shirt from his body. Maybe a bit exaggerated, but you get the idea.",key_event,Yellow Card,"Rodri, Muller",Spain,133
+spain_germany,111,0,ET 21,Cucurella writhing in apparent agony after a Kimmich barge. The German man is totally unfazed.,general,General,"Cucurella, Kimmich",Spain,100
+spain_germany,112,0,ET 22,"SHOT!  Oyarzabal curls a delicate 20-yard shot wide but Kroos had already gone down for a free kick.",key_event,Shot,"Oyarzabal, Kroos",Spain,100
+spain_germany,114,0,ET 24,Kroos is still down receiving treatment - might Germany have to see this one out with 10 men?,general,General,Kroos,Germany,94
+spain_germany,114,0,ET 24,"YELLOW CARD!  Kroos is back on and Deniz Undav has been booked on the bench, presumably for dissent.",key_event,Yellow Card,"Kroos, Undav",Germany,102
+spain_germany,116,0,ET 26,"This has been a forgettable extra-time period. Nacho now rolling around on the turf - not sure why.",general,General,Nacho,Spain,104
+spain_germany,117,0,ET 27,"Oh dear. A very innocuous nudge from Wirtz sparked that reaction from Nacho. Surprise surprise, he's fine.",general,General,"Wirtz, Nacho",Spain,109
+spain_germany,117,0,ET 27,"SAVE!  Terrific save from Simon! Fullkrug bravely dives across Nacho's body for a diving header, but Simon springs to his right to deny the Dortmund man what would surely have been the winner.",key_event,Save,"Simon, Fullkrug, Nacho",Germany,192
+spain_germany,119,0,ET 29,Counting down to the lottery of penalties now.,general,General,,Both,49
+spain_germany,119,0,ET 29,GOAL!  SPAIN 2-1 GERMANY (MERINO) WHAT WAS THAT ABOUT PENALTIES?!,key_event,Goal,Merino,Spain,70
+spain_germany,119,0,ET 29,"GOAL!  Mikel Merino - the most unlikely hero - has surely just scored the goal that will send Germany out of the European Championships! The Sociedad midfielder is free to meet Olmo's cross, which he does with a majestic leap, and his header leaves Neuer rooted to the spot.",key_event,Goal,"Merino, Olmo, Neuer",Spain,265
+spain_germany,120,2,ET 30+2,"Germany have been given three minutes of injury time in extra time to conjure up another magic moment. Two have already been played. Spain defending for their lives.",general,General,,Germany,158
+spain_germany,120,2,ET 30+2,SHOT!  Torres is through but goes for the delicate dink over Neuer, which is horribly executed.,key_event,Shot,"Torres, Neuer",Spain,102
+spain_germany,120,3,ET 30+3,"CLOSE!  And that might be that! Germany are patient, and a cross finds the head of Fullkrug - the man you want in that situation - but he heads wide!",key_event,Close Call,Fullkrug,Germany,154
+spain_germany,120,6,ET 30+6,One last free kick for a depleted Spain to defend...,general,Free Kick,,Spain,55
+spain_germany,120,6,ET 30+6,"RED CARD!  Spain will finish with 10 as Carvajal is sent off for a second bookable offence, taking one for the team by hauling down Musiala.",key_event,Red Card,"Carvajal, Musiala",Spain,141
+spain_germany,120,6,ET 30+6,FULL TIME:  SPAIN 2-1 GERMANY (A.E.T),key_event,Full Time,,Spain,40
+

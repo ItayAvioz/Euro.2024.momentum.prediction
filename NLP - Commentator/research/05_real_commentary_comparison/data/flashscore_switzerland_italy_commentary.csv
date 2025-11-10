@@ -1,0 +1,111 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+switzerland_italy,0,0,0,"Szymon Marciniak will referee today's match.",general,General,Marciniak,Both,48
+switzerland_italy,0,0,0,"Switzerland will kick the game off.",general,Kick Off,,Switzerland,36
+switzerland_italy,1,0,1,"Here we go, today's match is starting right now.",key_event,Kick Off,,Both,48
+switzerland_italy,1,0,1,"The defender bravely blocks the shot from Breel Embolo (Switzerland) inside the box.",key_event,Shot,Embolo,Switzerland,85
+switzerland_italy,2,0,2,"Michel Aebischer (Switzerland) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. Switzerland will have a chance to score from a corner kick.",general,Corner,Aebischer,Switzerland,212
+switzerland_italy,2,0,2,"Michel Aebischer (Switzerland) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",general,Corner,Aebischer,Switzerland,150
+switzerland_italy,3,0,3,"Nicolo Barella (Italy) makes a rough challenge and Szymon Marciniak blows his whistle for a foul. Free kick. Switzerland will probably just try to cross the ball in from here.",general,General,Barella,Italy,170
+switzerland_italy,3,0,3,"Ricardo Rodriguez (Switzerland) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",general,General,Rodriguez,Switzerland,132
+switzerland_italy,4,0,4,"Bryan Cristante (Italy) gives away a foul for a fierce tackle on an opponent. A free kick has been awarded to Switzerland.",general,General,Cristante,Italy,124
+switzerland_italy,4,0,4,"Ruben Vargas (Switzerland) sends the ball into the box from the side of the pitch, but his cross is blocked.",general,General,Vargas,Switzerland,109
+switzerland_italy,6,0,6,"Stephan El Shaarawy (Italy) is picked out by one of his teammates with a great cross, but his poor control allows the defence to clear and avert the threat.",general,General,El Shaarawy,Italy,165
+switzerland_italy,8,0,8,"Ricardo Rodriguez (Switzerland) looks to break free, but an opposing player clears the ball away.",general,General,Rodriguez,Switzerland,95
+switzerland_italy,9,0,9,"Bryan Cristante (Italy) makes an overly-aggressive challenge and Szymon Marciniak blows his whistle for a foul.",general,General,Cristante,Italy,114
+switzerland_italy,9,0,9,"Nicolo Barella (Italy) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",general,General,Barella,Italy,148
+switzerland_italy,11,0,11,"Nicolo Barella (Italy) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",general,General,Barella,Italy,117
+switzerland_italy,12,0,12,"Dan Ndoye (Switzerland) latches onto a cross inside the box but fires a poor effort well wide of the left post.",key_event,Shot,Ndoye,Switzerland,122
+switzerland_italy,13,0,13,"Giovanni Di Lorenzo (Italy) commits a rough challenge and Szymon Marciniak blows his whistle for an infringement. Switzerland will take a free kick near the side line.",general,Free Kick,Di Lorenzo,Italy,169
+switzerland_italy,13,0,13,"Ruben Vargas (Switzerland) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",general,General,Vargas,Switzerland,138
+switzerland_italy,14,0,14,"Michel Aebischer (Switzerland) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball.",general,Free Kick,Aebischer,Switzerland,225
+switzerland_italy,14,0,14,"Ruben Vargas (Switzerland) is able to continue to play.",general,General,Vargas,Switzerland,55
+switzerland_italy,16,0,16,"Bryan Cristante (Italy) tries to send a low pass into the box, but it's blocked and cleared. It will be a corner kick for Italy.",general,Corner,Cristante,Italy,135
+switzerland_italy,17,0,17,"Nicolo Fagioli (Italy) takes the ball to the corner flag and sends it into the box.",general,Corner,Fagioli,Italy,81
+switzerland_italy,17,0,17,"Stephan El Shaarawy (Italy) gets to the ball from the resulting corner and tries his luck with a shot, but one of the defenders steps in to block the effort.",key_event,Shot,El Shaarawy,Italy,164
+switzerland_italy,18,0,18,"Breel Embolo (Switzerland) sends a cross into the box, but Gianluigi Donnarumma comes off his line to gather the ball.",general,General,"Embolo, Donnarumma",Switzerland,127
+switzerland_italy,18,0,18,"Granit Xhaka (Switzerland) makes a reckless foul in order to win the ball from his opponent. Szymon Marciniak has a clear sight of it and blows his whistle. Italy earn a free kick which could lead to a goal-scoring opportunity.",general,Free Kick,Xhaka,Switzerland,216
+switzerland_italy,19,0,19,"Nicolo Barella (Italy) sets the ball up and is ready to take the free kick from a promising distance. Many goals have been scored from this distance. Let's see what happens.",general,Free Kick,Barella,Italy,178
+switzerland_italy,20,0,20,"Giovanni Di Lorenzo (Italy) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",general,Offside,Di Lorenzo,Italy,150
+switzerland_italy,21,0,21,"Breel Embolo (Switzerland) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Embolo,Switzerland,122
+switzerland_italy,23,0,23,"Fabian Rieder (Switzerland) plays a through ball but overhits it.",general,General,Rieder,Switzerland,64
+switzerland_italy,23,0,23,"Remo Freuler (Switzerland) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",general,General,Freuler,Switzerland,119
+switzerland_italy,24,0,24,"Breel Embolo (Switzerland) receives a precise pass and is given time inside the box to send a promising strike towards the middle of the goal. Gianluigi Donnarumma guesses his intention and denies him with a fine save.",key_event,Save,"Embolo, Donnarumma",Switzerland,216
+switzerland_italy,24,0,24,"Dan Ndoye (Switzerland) gets to the rebound and shoots, but the effort is blocked.",key_event,Shot,Ndoye,Switzerland,78
+switzerland_italy,26,0,26,"Breel Embolo (Switzerland) unleashes a missile of a shot towards goal, but his good effort is blocked by one of the defenders.",key_event,Shot,Embolo,Switzerland,135
+switzerland_italy,26,0,26,"Federico Chiesa (Italy) goes on a weaving run through the defence and gets within shooting range but his effort is blocked. The ball goes out of play. Italy are awarded a corner kick.",general,Corner,Chiesa,Italy,186
+switzerland_italy,27,0,27,"Nicolo Fagioli (Italy) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear. The ball is out of play. Italy will have a chance to score from a corner.",general,Corner,Fagioli,Italy,204
+switzerland_italy,27,0,27,"Nicolo Fagioli (Italy) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",general,Corner,Fagioli,Italy,133
+switzerland_italy,29,0,29,"A defender unwittingly blocks the ball on the line after a snap shot from Dan Ndoye (Switzerland) inside the box following a slide rule pass.",key_event,Shot,Ndoye,Switzerland,150
+switzerland_italy,29,0,29,"Another attempt to send the ball beyond the defence by Breel Embolo (Switzerland) is thwarted and cleared to safety.",general,General,Embolo,Switzerland,125
+switzerland_italy,31,0,31,"Michel Aebischer (Switzerland) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention.",general,General,Aebischer,Switzerland,152
+switzerland_italy,32,0,32,"Fabian Schar (Switzerland) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender.",key_event,Shot,Schar,Switzerland,130
+switzerland_italy,32,0,32,"What a poor attempt! Ricardo Rodriguez (Switzerland) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes into the stands.",key_event,Shot,Rodriguez,Switzerland,210
+switzerland_italy,33,0,33,"Breel Embolo (Switzerland) finds himself in a promising position after receiving an excellent pass into the box, but one of the defenders produces a timely intervention to avert the threat.",general,General,Embolo,Switzerland,186
+switzerland_italy,35,0,35,"Nicolo Barella (Italy) sees a yellow card from Szymon Marciniak after he sent one of the opposing players to the ground.",key_event,Yellow Card,Barella,Italy,121
+switzerland_italy,37,0,37,"Remo Freuler (Switzerland) has acres of space after latching on to a precise pass into the box. He doesn't hesitate to unleash a great effort which ends up in the bottom left corner.",key_event,Goal,Freuler,Switzerland,184
+switzerland_italy,40,0,40,"Szymon Marciniak blows for a foul after Remo Freuler (Switzerland) was too aggressive in the battle for the ball. Italy have a free kick.",general,General,Freuler,Switzerland,139
+switzerland_italy,42,0,42,"Giovanni Di Lorenzo (Italy) is down injured and the referee stops play so that he can receive medical treatment.",general,General,Di Lorenzo,Italy,111
+switzerland_italy,44,0,44,"Giovanni Di Lorenzo (Italy) is moving okay again after that injury scare.",general,General,Di Lorenzo,Italy,72
+switzerland_italy,45,0,45,"Stephan El Shaarawy (Italy) lunges into his opponent and is relieved when the referee only shows him a yellow card.",key_event,Yellow Card,El Shaarawy,Italy,122
+switzerland_italy,45,0,45,"There will be a minimum of 3 min. of added time.",general,General,,Both,54
+switzerland_italy,45,1,45+1,"The sound of the whistle has almost been drowned out in the deafening atmosphere of this match. Fabian Rieder (Switzerland) is setting the ball up for a free kick from mid-range.",general,Free Kick,Rieder,Switzerland,181
+switzerland_italy,45,1,45+1,"Fabian Rieder (Switzerland) takes the set piece from outside the box. His shot heads towards the right side of the target, but Gianluigi Donnarumma dives and saves the effort, punching it onto the post.",key_event,Hit Post,"Rieder, Donnarumma",Switzerland,203
+switzerland_italy,45,2,45+2,"The resulting corner from Fabian Rieder (Switzerland) only finds one of the defenders, who heads it out of danger.",general,Corner,Rieder,Switzerland,119
+switzerland_italy,45,3,45+3,"Fabian Rieder (Switzerland) will try to find the head of one of his teammates from a corner kick.",general,Corner,Rieder,Switzerland,100
+switzerland_italy,45,3,45+3,"Dan Ndoye (Switzerland) commits a foul and Szymon Marciniak immediately signals a free kick.",general,General,Ndoye,Switzerland,92
+switzerland_italy,45,3,45+3,"That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",general,Half Time,,Both,126
+switzerland_italy,46,0,46,"Referee Szymon Marciniak blows his whistle to start the second half.",key_event,Kick Off,,Both,69
+switzerland_italy,46,0,46,"Luciano Spalletti makes a switch. Mattia Zaccagni (Italy) is coming on in place of Stephan El Shaarawy at the start of the second period.",key_event,Substitution,"El Shaarawy, Zaccagni, Spalletti",Italy,134
+switzerland_italy,46,0,46,"An excellent first touch by Ruben Vargas (Switzerland), who collects a splendid pass and from the edge of the box slams the ball into the top right corner!",key_event,Goal,Vargas,Switzerland,161
+switzerland_italy,48,0,48,"Szymon Marciniak blows his whistle. Remo Freuler (Switzerland) commits a foul after dangerous play. It's a free kick to Italy, but it's in no position for a direct shot on goal.",general,General,Freuler,Switzerland,175
+switzerland_italy,49,0,49,"Federico Chiesa (Italy) attempts to find one of his teammates with a cross from the resultant free kick, but he fails to hit the ball properly and sends it off the pitch.",general,Free Kick,Chiesa,Italy,171
+switzerland_italy,50,0,50,"Matteo Darmian (Italy) makes a rough challenge and the referee blows for a foul.",general,General,Darmian,Italy,81
+switzerland_italy,52,0,52,"Mattia Zaccagni (Italy) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",general,Corner,Zaccagni,Italy,127
+switzerland_italy,54,0,54,"Alessandro Bastoni (Italy) should know this behaviour is beyond the rules. He was too careless with his challenge and left Szymon Marciniak no option but to blow his whistle. That's a free kick to Switzerland.",general,General,Bastoni,Italy,196
+switzerland_italy,55,0,55,"Ruben Vargas (Switzerland) races towards goal but the defender gets back well to make a challenge.",general,General,Vargas,Switzerland,97
+switzerland_italy,55,0,55,"Ricardo Rodriguez (Switzerland) collects an inch-perfect pass and strikes the ball from far out, but his shot is blocked.",key_event,Shot,Rodriguez,Switzerland,128
+switzerland_italy,56,0,56,"Mattia Zaccagni (Italy) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",general,General,Zaccagni,Italy,174
+switzerland_italy,56,0,56,"Bryan Cristante (Italy) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",key_event,Shot,Cristante,Italy,148
+switzerland_italy,57,0,57,"The attendance for today's match is 68172.",general,General,,Both,47
+switzerland_italy,57,0,57,"Szymon Marciniak shows a yellow card to Gianluca Mancini (Italy) for a tough tackle.",key_event,Yellow Card,Mancini,Italy,83
+switzerland_italy,59,0,59,"Dan Ndoye (Switzerland) runs into space on the edge of the box and tries a curler that drifts well wide of the left post.",key_event,Shot,Ndoye,Switzerland,125
+switzerland_italy,60,0,60,"Gianluca Scamacca (Italy) latches on to a pin-point through ball, but one of the defending players dispossess him. Brilliant defending.",general,General,Scamacca,Italy,138
+switzerland_italy,62,0,62,"Federico Chiesa (Italy) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",general,General,Chiesa,Italy,141
+switzerland_italy,63,0,63,"Federico Chiesa (Italy) attempted to pick out a free teammate inside the box, but Yann Sommer comes off the line to clear the ball away.",general,General,"Chiesa, Sommer",Italy,143
+switzerland_italy,64,0,64,"The substitution has been made. Mateo Retegui (Italy) has replaced Nicolo Barella.",key_event,Substitution,"Barella, Retegui",Italy,87
+switzerland_italy,65,0,65,"Granit Xhaka (Switzerland) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",key_event,Shot,Xhaka,Switzerland,143
+switzerland_italy,65,0,65,"A cross from Ricardo Rodriguez (Switzerland) fails to reach the box as the defence clears the ball away to safety.",general,General,Rodriguez,Switzerland,122
+switzerland_italy,66,0,66,"Nicolo Fagioli (Italy) makes a strong challenge and Szymon Marciniak blows for a foul. Switzerland earn a free kick.",general,Free Kick,Fagioli,Italy,119
+switzerland_italy,66,0,66,"Fabian Rieder (Switzerland) sends in a lofted cross from a mid-range free kick, but his poor effort goes out of play.",general,Free Kick,Rieder,Switzerland,121
+switzerland_italy,68,0,68,"Bryan Cristante (Italy) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",general,General,Cristante,Italy,116
+switzerland_italy,69,0,69,"Federico Chiesa (Italy) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat. Italy will take a corner kick.",general,Corner,Chiesa,Italy,167
+switzerland_italy,69,0,69,"Federico Chiesa (Italy) takes the corner but fails to find any of his teammates as he overhits the effort.",general,Corner,Chiesa,Italy,110
+switzerland_italy,70,0,70,"Federico Chiesa (Italy) fires the ball at goal from inside the area, but it's well blocked. The referee points to the corner flag and Italy will take a corner.",general,Corner,Chiesa,Italy,153
+switzerland_italy,70,0,70,"Federico Chiesa (Italy) whips in the corner, but one of the defending players gets a head on it and intercepts.",general,Corner,Chiesa,Italy,119
+switzerland_italy,71,0,71,"Today's match ends for Ruben Vargas who will be replaced by Steven Zuber (Switzerland).",key_event,Substitution,"Vargas, Zuber",Switzerland,89
+switzerland_italy,72,0,72,"Murat Yakin has decided to make a change. Leonidas Stergiou (Switzerland) replaces Fabian Rieder.",key_event,Substitution,"Rieder, Stergiou, Yakin",Switzerland,104
+switzerland_italy,73,0,73,"Mateo Retegui (Italy) shoots from the edge of the penalty area. The ball travels low towards the middle of the target, but Yann Sommer easily deals with the threat.",key_event,Save,"Retegui, Sommer",Italy,171
+switzerland_italy,74,0,74,"The substitution is prepared. Andrea Cambiaso (Italy) joins the action as a substitute, replacing Matteo Darmian.",key_event,Substitution,"Darmian, Cambiaso",Italy,116
+switzerland_italy,75,0,75,"Gianluca Scamacca (Italy) fires a shot from close range, but he is somehow only able to hit the left post!",key_event,Hit Post,Scamacca,Italy,111
+switzerland_italy,75,0,75,"Nicolo Fagioli (Italy) unleashes a shot, but his effort is poor and floats high over the bar.",key_event,Shot,Fagioli,Italy,95
+switzerland_italy,75,0,75,"Luciano Spalletti decides to make a substitution. Bryan Cristante will be replaced by Lorenzo Pellegrini (Italy).",key_event,Substitution,"Cristante, Pellegrini, Spalletti",Italy,112
+switzerland_italy,76,0,76,"Gianluca Scamacca (Italy) lacks options so fires a shot at goal from the edge of box, but it's a wasted effort and goes high over the bar.",key_event,Shot,Scamacca,Italy,145
+switzerland_italy,77,0,77,"Here comes a substitution. Kwadwo Duah (Switzerland) is brought on as a substitute for Breel Embolo.",key_event,Substitution,"Embolo, Duah",Switzerland,104
+switzerland_italy,77,0,77,"The manager makes a subsitution with Vincent Sierro (Switzerland) coming on for Dan Ndoye.",key_event,Substitution,"Ndoye, Sierro",Switzerland,95
+switzerland_italy,78,0,78,"Vincent Sierro (Switzerland) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety. Switzerland force their opponents to concede a corner.",general,Corner,Sierro,Switzerland,231
+switzerland_italy,79,0,79,"Vincent Sierro (Switzerland) steps up to take the corner, but the ball just sails in among the defenders.",general,Corner,Sierro,Switzerland,106
+switzerland_italy,79,0,79,"Remo Freuler (Switzerland) strikes from the edge of the box, but hits it really poorly and sends the ball way over the bar.",key_event,Shot,Freuler,Switzerland,130
+switzerland_italy,80,0,80,"The ball is cleared after Kwadwo Duah (Switzerland) attempted to dribble past an opposing player.",general,General,Duah,Switzerland,96
+switzerland_italy,81,0,81,"A fine lofted pass into the box, sent by Mattia Zaccagni (Italy), is intercepted by the opposition's defence.",general,General,Zaccagni,Italy,114
+switzerland_italy,81,0,81,"Mattia Zaccagni (Italy) slaloms his way past challenges, but an opposing player does well to get the ball away.",general,General,Zaccagni,Italy,117
+switzerland_italy,83,0,83,"Federico Chiesa (Italy) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",general,General,Chiesa,Italy,146
+switzerland_italy,83,0,83,"Steven Zuber (Switzerland) finds space inside the box to shoot after collecting a short pass, but it's a wasted effort as it flies well wide of the right post.",key_event,Shot,Zuber,Switzerland,165
+switzerland_italy,85,0,85,"Lorenzo Pellegrini (Italy) fancies his chances and unleashes a powerful shot from the edge of the box, but the keeper just watches it go high over the bar.",key_event,Shot,Pellegrini,Italy,163
+switzerland_italy,86,0,86,"Here's the change. Nicolo Fagioli leaves the pitch and Davide Frattesi (Italy) comes on as a substitute.",key_event,Substitution,"Fagioli, Frattesi",Italy,111
+switzerland_italy,87,0,87,"Surely that's handball by one of the Switzerland players in the box, but the referee just waves play on!",general,General,,Switzerland,110
+switzerland_italy,89,0,89,"Szymon Marciniak has a clear sight and sees a foul from Lorenzo Pellegrini (Italy).",general,General,Pellegrini,Italy,81
+switzerland_italy,90,0,90,"2 min. of stoppage-time to be played.",general,General,,Both,40
+switzerland_italy,90,1,90+1,"Federico Chiesa (Italy) unleashes a shot, but it's well wide of the left-hand post.",key_event,Shot,Chiesa,Italy,83
+switzerland_italy,90,2,90+2,"The manager has decided to make a substitution and Michel Aebischer walks off the pitch to be replaced by Renato Steffen (Switzerland).",key_event,Substitution,"Aebischer, Steffen",Switzerland,135
+switzerland_italy,90,3,90+3,"That's all for today as the game is over.",key_event,Full Time,,Both,47
+

@@ -1,0 +1,111 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+spain_italy,0,0,0,"Slavko Vincic was nominated as the referee for this game.",general,General,Vincic,Both,59
+spain_italy,0,0,0,"The players are out and the match is about to start. Italy will have the kick-off.",general,Kick Off,,Italy,84
+spain_italy,1,0,1,"The first half of this match is about to start.",key_event,Kick Off,,Both,48
+spain_italy,2,0,2,"Pedri (Spain) attempts to convert a lofted cross as he jumps high and heads the ball towards the roof of the net. Gianluigi Donnarumma shows his brilliant reflexes and pulls off a glorious save to stop the ball from hitting the net.",key_event,Save,"Pedri, Donnarumma",Spain,234
+spain_italy,2,0,2,"Nico Williams (Spain) works the corner short instead of sending the ball into the penalty area.",general,Corner,Williams,Spain,103
+spain_italy,3,0,3,"Nico Williams (Spain) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",general,General,Williams,Spain,144
+spain_italy,3,0,3,"Slavko Vincic has a clear sight and sees a foul from Lorenzo Pellegrini (Italy).",general,General,Pellegrini,Italy,83
+spain_italy,4,0,4,"Lamine Yamal (Spain) tries to send a pass but it's blocked.",general,General,Yamal,Spain,58
+spain_italy,5,0,5,"Aymeric Laporte (Spain) escapes without any punishment from the referee after using excessive force to foul his opponent.",general,General,Laporte,Spain,132
+spain_italy,6,0,6,"Pedri (Spain) jumps into a tackle and Slavko Vincic signals a foul.",general,General,Pedri,Spain,72
+spain_italy,7,0,7,"Lorenzo Pellegrini (Italy) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",general,Injury,Pellegrini,Italy,146
+spain_italy,9,0,9,"Slavko Vincic blows for a foul after Marc Cucurella (Spain) was too aggressive in the battle for the ball.",general,General,Cucurella,Spain,116
+spain_italy,9,0,9,"Lorenzo Pellegrini (Italy) is moving okay again after that injury scare.",general,Injury,Pellegrini,Italy,75
+spain_italy,9,0,9,"Rough tackle by Aymeric Laporte (Spain). The referee blows his whistle for a foul.",general,General,Laporte,Spain,90
+spain_italy,10,0,10,"Federico Chiesa (Italy) makes a reckless foul in order to win the ball from his opponent. Slavko Vincic has a clear sight of it and blows his whistle.",general,General,Chiesa,Italy,158
+spain_italy,10,0,10,"Alvaro Morata delivers a perfect cross for Nico Williams (Spain), who has simple job scoring from close range but somehow contrives to send the ball just wide of the right post.",key_event,Shot,"Morata, Williams",Spain,190
+spain_italy,12,0,12,"Dangerous play by Gianluca Scamacca (Italy). Slavko Vincic blows his whistle for a foul.",general,General,Scamacca,Italy,94
+spain_italy,13,0,13,"Federico Dimarco (Italy) tries to slide the ball through to a teammate but it's well blocked by a defender.",general,General,Dimarco,Italy,115
+spain_italy,15,0,15,"Alvaro Morata (Spain) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players.",key_event,Shot,Morata,Spain,151
+spain_italy,15,0,15,"The referee shows a yellow card to Gianluigi Donnarumma (Italy). No wonder. A clear yellow for bad language.",key_event,Yellow Card,Donnarumma,Italy,121
+spain_italy,18,0,18,"Some great controlled play and passing from Spain. They are increasing their possession of the ball and trying to open up the opposition's defence to hit them swiftly on the break.",general,General,,Spain,189
+spain_italy,18,0,18,"Riccardo Calafiori (Italy) is penalised for holding. Slavko Vincic signals a set piece.",general,General,Calafiori,Italy,95
+spain_italy,20,0,20,"Nico Williams (Spain) races towards goal but the defender gets back well to make a challenge.",general,General,Williams,Spain,97
+spain_italy,20,0,20,"Marc Cucurella (Spain) fails to send a pass into the box as his effort is cut out.",general,General,Cucurella,Spain,87
+spain_italy,21,0,21,"Federico Dimarco (Italy) fails to find any of his teammates inside the box as his pass is blocked.",general,General,Dimarco,Italy,105
+spain_italy,24,0,24,"Gianluigi Donnarumma was forced into action to thwart Alvaro Morata (Spain). He found himself some space after latching on to a pass and unleashed a shot to the bottom right corner but couldn't beat the keeper.",key_event,Save,"Donnarumma, Morata",Spain,216
+spain_italy,25,0,25,"Fabian Ruiz (Spain) wastes an opportunity. He finds himself in acres of space and fires in a terrific shot from long range straight towards the roof of the net, but the goalkeeper makes a brilliant save and stops this one!",key_event,Save,"Ruiz, Donnarumma",Spain,226
+spain_italy,26,0,26,"This corner kick is taken with a short pass by Lamine Yamal (Spain).",general,Corner,Yamal,Spain,71
+spain_italy,26,0,26,"Nicolo Barella (Italy) found some space to dink a cross from the side into the box, but it needed to be more precise to threaten the opposition.",general,General,Barella,Italy,155
+spain_italy,27,0,27,"Rodri (Spain) collects a great pass, spins and releases a rocket of a shot from distance. Unluckily for him, it ends well wide of the left post.",key_event,Shot,Rodri,Spain,158
+spain_italy,28,0,28,"Nico Williams (Spain) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",general,General,Williams,Spain,148
+spain_italy,28,0,28,"Rodri (Spain) gets on the end of a pass on the edge of the box but his shot is blocked.",key_event,Shot,Rodri,Spain,93
+spain_italy,29,0,29,"Pedri (Spain) robs an opponent of the ball and explodes in anger when Slavko Vincic blows for a foul.",general,General,Pedri,Spain,110
+spain_italy,30,0,30,"Slavko Vincic blows his whistle. Nico Williams (Spain) commits a foul after dangerous play.",general,General,Williams,Spain,97
+spain_italy,31,0,31,"Alvaro Morata (Spain) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul.",general,General,Morata,Spain,130
+spain_italy,33,0,33,"Davide Frattesi (Italy) commits a foul during an attacking move.",general,General,Frattesi,Italy,67
+spain_italy,34,0,34,"Nico Williams (Spain) was too forceful with his tackle and Slavko Vincic interrupted the game to signal a free kick.",general,Free Kick,Williams,Spain,125
+spain_italy,36,0,36,"Pedri (Spain) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",general,General,Pedri,Spain,174
+spain_italy,36,0,36,"The referee blows his whistle as Giovanni Di Lorenzo (Italy) was too aggressive in his challenge.",general,General,Di Lorenzo,Italy,105
+spain_italy,37,0,37,"Fabian Ruiz (Spain) wasted a huge opportunity as he received a fine cross from the free kick and fired a shot in from just outside of the box, but it sailed high over the crossbar.",key_event,Shot,Ruiz,Spain,189
+spain_italy,39,0,39,"Marc Cucurella (Spain) gives away a foul for a clumsy challenge. Referee Slavko Vincic saw the whole situation.",general,General,Cucurella,Spain,120
+spain_italy,41,0,41,"Spain are seeing far more of the ball now.",general,General,,Spain,46
+spain_italy,41,0,41,"Fabian Ruiz (Spain) collects a pass on the edge of the box and unleashes a low drive to the middle, but Gianluigi Donnarumma makes a save.",key_event,Save,"Ruiz, Donnarumma",Spain,149
+spain_italy,43,0,43,"The game is interrupted. Riccardo Calafiori (Italy) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",general,General,Calafiori,Italy,186
+spain_italy,44,0,44,"Slavko Vincic blows the whistle, Davide Frattesi (Italy) is penalised for a foul.",general,General,Frattesi,Italy,83
+spain_italy,45,0,45,"Nico Williams (Spain) tries to pass the ball into the penalty area but it's blocked.",general,General,Williams,Spain,86
+spain_italy,45,0,45,"There will be a minimum of 2 min. of added time.",general,General,,Both,54
+spain_italy,45,1,45+1,"Federico Chiesa (Italy) races onto a pass and smashes in a shot at goal. Unfortunately for him, it's a poor effort and flies high over the bar.",key_event,Shot,Chiesa,Italy,158
+spain_italy,45,1,45+1,"Federico Chiesa (Italy) should know this behaviour is beyond the rules. He was too careless with his challenge and left Slavko Vincic no option but to blow his whistle.",general,General,Chiesa,Italy,175
+spain_italy,45,1,45+1,"Rodri (Spain) is shown a deserved yellow card for saying too much to the referee.",key_event,Yellow Card,Rodri,Spain,85
+spain_italy,45,1,45+1,"Rodri (Spain) will miss the next game because of that yellow card.",general,General,Rodri,Spain,66
+spain_italy,45,2,45+2,"Slavko Vincic has ended the first half by blowing the whistle.",general,Half Time,,Both,63
+spain_italy,46,0,46,"The players are back out on the pitch following the half-time break and the second half is about to start.",key_event,Kick Off,,Both,114
+spain_italy,46,0,46,"Here is a change after the half-time break. Jorginho (Italy) is replaced by Bryan Cristante.",key_event,Substitution,"Jorginho, Cristante",Italy,97
+spain_italy,46,0,46,"Half-time substitution. Luciano Spalletti decided to make a change. Davide Frattesi (Italy) is replaced by Andrea Cambiaso.",key_event,Substitution,"Frattesi, Cambiaso, Spalletti",Italy,130
+spain_italy,46,0,46,"This yellow card was deserved. The tackle by Bryan Cristante (Italy) was quite harsh and Slavko Vincic didn't hesitate to show him a yellow card.",key_event,Yellow Card,Cristante,Italy,164
+spain_italy,47,0,47,"Rodri (Spain) is down injured and the referee stops play so that he can receive medical treatment.",general,Injury,Rodri,Spain,108
+spain_italy,48,0,48,"Lamine Yamal (Spain) sends over a free kick from long range but the defence is alert.",general,Free Kick,Yamal,Spain,92
+spain_italy,48,0,48,"Rodri (Spain) is able to continue to play.",general,Injury,Rodri,Spain,43
+spain_italy,49,0,49,"Daniel Carvajal (Spain) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",general,General,Carvajal,Spain,148
+spain_italy,49,0,49,"Lamine Yamal (Spain) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",general,Corner,Yamal,Spain,173
+spain_italy,50,0,50,"Fabian Ruiz (Spain) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",general,General,Ruiz,Spain,172
+spain_italy,51,0,51,"Gianluca Scamacca (Italy) attempted to pick out a free teammate inside the box, but Unai Simon comes off the line to clear the ball away.",general,General,"Scamacca, Simon",Italy,154
+spain_italy,52,0,52,"Pedri (Spain) homes in on a magnificent reverse pass from Marc Cucurella and strikes a crisp shot goalwards that just misses the left post.",key_event,Shot,"Pedri, Cucurella",Spain,159
+spain_italy,54,0,54,"Pedri (Spain) collects a simple pass and decides to shoot from distance. It's a swerving effort aimed towards the middle of the goal, but Gianluigi Donnarumma reads it well and makes a comfortable save.",key_event,Save,"Pedri, Donnarumma",Spain,210
+spain_italy,55,0,55,"Alvaro Morata (Spain) latched on to a precise cross, but his bullet header missed the target. He should have done much better.",key_event,Shot,Morata,Spain,143
+spain_italy,55,0,55,"Riccardo Calafiori (Italy) scores an unlucky own goal! He deflects a shot into his own net.",key_event,Goal,Calafiori,Italy,98
+spain_italy,58,0,58,"Alvaro Morata (Spain) receives a precise pass and finds some space for a shot. The keeper is alert and denies his long-range effort towards the roof of the net. Decent save!",key_event,Save,"Morata, Donnarumma",Spain,185
+spain_italy,58,0,58,"Nico Williams (Spain) will try to find the head of one of his teammates from a corner kick.",general,Corner,Williams,Spain,99
+spain_italy,59,0,59,"Andrea Cambiaso (Italy) makes a weak connection with the corner kick, and his close-range header is easily blocked.",general,Corner,Cambiaso,Italy,127
+spain_italy,60,0,60,"What an opportunity! Lamine Yamal (Spain) picked the ball up and fired a projectile of a shot from long range which threatened the goalkeeper. The shot went painfully close to the left post!",key_event,Shot,Yamal,Spain,203
+spain_italy,63,0,63,"Slavko Vincic couldn't ignore the rough tackle by Gianluca Scamacca (Italy) and blew his whistle.",general,General,Scamacca,Italy,102
+spain_italy,64,0,64,"Here's the change. Federico Chiesa leaves the pitch and Mattia Zaccagni (Italy) comes on as a substitute.",key_event,Substitution,"Chiesa, Zaccagni",Italy,117
+spain_italy,64,0,64,"Luciano Spalletti has decided to introduce fresh legs, with Mateo Retegui (Italy) replacing Gianluca Scamacca.",key_event,Substitution,"Scamacca, Retegui, Spalletti",Italy,117
+spain_italy,66,0,66,"A pass by Bryan Cristante (Italy) ends up in no man's land, and the attacking effort comes to an end.",general,General,Cristante,Italy,108
+spain_italy,67,0,67,"Lorenzo Pellegrini (Italy) creates a yard of space for himself and tries an effort from distance, but it's blocked.",general,General,Pellegrini,Italy,124
+spain_italy,69,0,69,"Robin Le Normand (Spain) is booked after bringing down an opponent. Slavko Vincic had an easy-decision to make.",key_event,Yellow Card,Le Normand,Spain,125
+spain_italy,70,0,70,"Federico Dimarco (Italy) sends a pass into the penalty area, but the opponent manages to cut it out.",general,General,Dimarco,Italy,107
+spain_italy,71,0,71,"Nico Williams (Spain) shows off his amazing technique to get to the edge of the box by himself. He pulls the trigger but sends the ball onto the bar. Nice run, but unlucky finish!",key_event,Shot,Williams,Spain,189
+spain_italy,71,0,71,"It's time for a substitution. That's the last involvement from Pedri as he is replaced by Alex Baena (Spain).",key_event,Substitution,"Pedri, Baena",Spain,121
+spain_italy,71,0,71,"Luis de la Fuente prepares a substitution. Lamine Yamal is replaced by Ferran Torres (Spain).",key_event,Substitution,"Yamal, Torres, de la Fuente",Spain,104
+spain_italy,73,0,73,"Robin Le Normand (Spain) commits a rough foul. Slavko Vincic stops the game and makes a call.",general,General,Le Normand,Spain,101
+spain_italy,74,0,74,"Lorenzo Pellegrini (Italy) takes a mid-range free kick, but his miskick only goes into the stands. Poor shot!",general,Free Kick,Pellegrini,Italy,121
+spain_italy,77,0,77,"The attendance is 49528.",general,General,,Both,27
+spain_italy,77,0,77,"Alvaro Morata (Spain) gives away a foul during an attacking move and the referee blows his whistle.",general,General,Morata,Spain,109
+spain_italy,78,0,78,"Substitution. Nico Williams walks off the pitch and Ayoze Perez (Spain) comes on as a substitute.",key_event,Substitution,"Williams, Perez",Spain,102
+spain_italy,78,0,78,"Luis de la Fuente decides to make a substitution. Alvaro Morata will be replaced by Mikel Oyarzabal (Spain).",key_event,Substitution,"Morata, Oyarzabal, de la Fuente",Spain,111
+spain_italy,79,0,79,"Rodri (Spain) makes an overly-aggressive challenge and Slavko Vincic blows his whistle for a foul.",general,General,Rodri,Spain,108
+spain_italy,81,0,81,"Ayoze Perez (Spain) collects a pass inside the box and unleashes a shot which is brilliantly blocked by a defender.",general,General,Perez,Spain,128
+spain_italy,81,0,81,"A horde of players are waiting inside the penalty area for a cross from the corner, but Alex Baena (Spain) takes it short.",general,Corner,Baena,Spain,142
+spain_italy,81,0,81,"Aymeric Laporte (Spain) leaps high to meet a lofted pass inside the six-yard box, but his header flies yards over the crossbar.",key_event,Shot,Laporte,Spain,142
+spain_italy,82,0,82,"That's the end of the game for Lorenzo Pellegrini, who is replaced by Giacomo Raspadori (Italy).",key_event,Substitution,"Pellegrini, Raspadori",Italy,99
+spain_italy,82,0,82,"Handball by Fabian Ruiz (Spain).",general,General,Ruiz,Spain,35
+spain_italy,84,0,84,"Alex Baena (Spain) makes a rough challenge and Slavko Vincic blows his whistle for a foul.",general,General,Baena,Spain,95
+spain_italy,85,0,85,"Giacomo Raspadori (Italy) looks like he will be the one to take the corner kick.",general,Corner,Raspadori,Italy,82
+spain_italy,87,0,87,"Bryan Cristante (Italy) wins himself enough space to meet the resulting corner and fires the ball at goal, but the keeper does well to stop his effort.",key_event,Shot,"Cristante, Simon",Italy,166
+spain_italy,88,0,88,"Bryan Cristante (Italy) was too fierce in his attempt to get the ball from his opponent and Slavko Vincic blows for a foul.",general,General,Cristante,Italy,134
+spain_italy,90,0,90,"Robin Le Normand (Spain) makes a rough challenge and the referee blows for a foul.",general,General,Le Normand,Spain,89
+spain_italy,90,0,90,"We will have 4 min. of added time.",general,General,,Both,40
+spain_italy,90,1,90+1,"Ferran Torres (Spain) sends a pass into the box, but his attempt is thwarted and cleared.",general,General,Torres,Spain,95
+spain_italy,90,1,90+1,"Ayoze Perez (Spain) zig-zags his way into the box and drills a low shot towards the left post, but the goalkeeper pulls off a superb stop.",key_event,Save,"Perez, Donnarumma",Spain,157
+spain_italy,90,2,90+2,"Andrea Cambiaso (Italy) commits a rough challenge and Slavko Vincic blows his whistle for a foul.",general,General,Cambiaso,Italy,105
+spain_italy,90,2,90+2,"A defence-splitting pass is taken in his stride by Ayoze Perez (Spain) in the box. Without even looking up he drills a shot towards the right side of the goal, but Gianluigi Donnarumma pulls off a brilliant save.",key_event,Save,"Perez, Donnarumma",Spain,224
+spain_italy,90,4,90+4,"The referee signals a substitution. Mikel Merino (Spain) is brought on as a substitute for Fabian Ruiz.",key_event,Substitution,"Ruiz, Merino",Spain,111
+spain_italy,90,5,90+5,"Andrea Cambiaso (Italy) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Cambiaso,Italy,168
+spain_italy,90,6,90+6,"Slavko Vincic shows a yellow card to Daniel Carvajal (Spain) for his blatant foul.",key_event,Yellow Card,Carvajal,Spain,84
+spain_italy,90,6,90+6,"Andrea Cambiaso (Italy) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",general,Corner,Cambiaso,Italy,140
+spain_italy,90,6,90+6,"Riccardo Calafiori (Italy) goes for goal but he directs his effort just wide of the left post.",key_event,Shot,Calafiori,Italy,100
+spain_italy,90,7,90+7,"The referee checks his watch and blows his whistle to signal the end of this match.",key_event,Full Time,,Both,89
+

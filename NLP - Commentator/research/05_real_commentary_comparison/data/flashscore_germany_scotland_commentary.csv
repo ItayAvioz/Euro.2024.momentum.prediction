@@ -1,0 +1,100 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+germany_scotland,0,0,0,"The referee of today's match will be Clement Turpin.",general,General,Turpin,Both,54
+germany_scotland,0,0,0,"Germany will kick-off.",general,Kick Off,,Germany,23
+germany_scotland,1,0,1,"The first half of this match is about to start.",key_event,Kick Off,,Both,49
+germany_scotland,1,0,1,"Flag goes up against Florian Wirtz (Germany) and the referee blows his whistle for offside.",general,Offside,Wirtz,Germany,104
+germany_scotland,3,0,3,"Clement Turpin has a clear sight and sees a foul from John McGinn (Scotland).",general,General,McGinn,Scotland,87
+germany_scotland,4,0,4,"Jamal Musiala (Germany) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Musiala,Germany,128
+germany_scotland,5,0,5,"The ball is cleared after Andrew Robertson (Scotland) attempted to dribble past an opposing player.",general,General,Robertson,Scotland,110
+germany_scotland,8,0,8,"Some patient build-up play from Germany as they look to unlock the defence.",general,General,,Germany,82
+germany_scotland,10,0,10,"Joshua Kimmich produces a killer pass to release Florian Wirtz (Germany), who then unleashes a low drive from the edge of the box and scores! The ball goes in off the left post, leaving the goalkeeper stranded. 1:0!",key_event,Goal,"Kimmich, Wirtz",Germany,228
+germany_scotland,13,0,13,"Total attempts – 1:0.",general,General,,Both,24
+germany_scotland,14,0,14,"Robert Andrich (Germany) commits a rough foul. Clement Turpin stops the game and makes a call.",general,General,Andrich,Germany,103
+germany_scotland,17,0,17,"The Scotland players are exchanging short passes in an attempt to create a shooting opportunity.",general,General,,Scotland,103
+germany_scotland,19,0,19,"Robert Andrich (Germany) threads a pass through the eye of a needle into the box for Florian Wirtz, but Angus Gunn displays great awareness to stop him.",general,General,"Andrich, Wirtz, Gunn",Germany,168
+germany_scotland,19,0,19,"It's 2:0! Kai Havertz feeds Jamal Musiala (Germany) inside the box, who is unmarked and buries the ball in the top of the net.",key_event,Goal,"Havertz, Musiala",Germany,146
+germany_scotland,21,0,21,"Germany are seeing far more of the ball now.",general,General,,Germany,47
+germany_scotland,23,0,23,"Robert Andrich (Germany) makes an overly-aggressive challenge and Clement Turpin blows his whistle for a foul.",general,General,Andrich,Germany,120
+germany_scotland,24,0,24,"Callum McGregor (Scotland) commits a foul after making a slide tackle on his opponent.",general,General,McGregor,Scotland,95
+germany_scotland,25,0,25,"Ryan Christie (Scotland) jumps into a tackle and Clement Turpin signals a foul. Germany are awarded a penalty kick!",key_event,VAR,Christie,Germany,126
+germany_scotland,25,0,25,"Celebrations by Germany are cut short as the referee signals that the penalty decision will be checked using the VAR. Hopefully it won't take too long.",key_event,VAR,,Germany,161
+germany_scotland,26,0,26,"The Germany players' joy was short-lived as the original decision is reversed after a VAR review by referee Clement Turpin. NO PENALTY!",key_event,VAR,Turpin,Germany,154
+germany_scotland,27,0,27,"A free kick on the edge of the box for Germany. Let's see if they'll manage to convert it into a goal.",general,Free Kick,,Germany,106
+germany_scotland,28,0,28,"Germany restart play with a quick free kick.",general,Free Kick,,Germany,46
+germany_scotland,28,0,28,"Kai Havertz (Germany) shoots from the edge of the penalty area. The ball travels towards the bottom left corner, but Angus Gunn easily deals with the threat.",general,General,"Havertz, Gunn",Germany,168
+germany_scotland,29,0,29,"Poor challenge! Callum McGregor (Scotland) is penalised for tripping and Clement Turpin blows his whistle.",general,General,McGregor,Scotland,120
+germany_scotland,31,0,31,"Robert Andrich (Germany) takes his opponent down and receives a yellow card from the referee.",key_event,Yellow Card,Andrich,Germany,100
+germany_scotland,32,0,32,"Handball by Kai Havertz (Germany).",general,General,Havertz,Germany,38
+germany_scotland,34,0,34,"Clement Turpin blows his whistle after Ryan Christie (Scotland) kicks an opponent's legs instead of the ball.",general,General,Christie,Scotland,118
+germany_scotland,38,0,38,"Jonathan Tah (Germany) escapes without any punishment from the referee after using excessive force to foul his opponent.",general,General,Tah,Germany,133
+germany_scotland,40,0,40,"Antonio Rudiger (Germany) finds himself in space on the edge of the box and fires in a shot that heads towards the middle of the goal, but Angus Gunn makes a comfortable save.",general,General,"Rudiger, Gunn",Germany,183
+germany_scotland,42,0,42,"> peeled away from his marker and got on the end of a cross inside the box. He attempted to head the ball towards the middle of the goal, but the keeper made a block.",general,General,,Germany,179
+germany_scotland,42,0,42,"Ilkay Gundogan (Germany) breaks into the box and goes over after a challenge from an opposition player, but the ref signals NO penalty!",general,General,Gundogan,Germany,142
+germany_scotland,42,0,42,"Toni Kroos (Germany) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",general,General,Kroos,Germany,153
+germany_scotland,43,0,43,"Wait! The referee makes the VAR signal and he's going to review that incident in the box from earlier. This could be a penalty for Germany! Let's see what he decides.",key_event,VAR,,Germany,177
+germany_scotland,43,0,43,"Ilkay Gundogan (Germany) is down injured and the referee stops play so that he can receive medical treatment.",general,Injury,Gundogan,Germany,122
+germany_scotland,44,0,44,"The Germany players are happy as the referee awards a PENALTY after the VAR review!",key_event,Penalty,,Germany,92
+germany_scotland,44,0,44,"Ryan Porteous (Scotland) makes a horrible challenge on his opponent and receives a red card from the referee!",key_event,Red Card,Porteous,Scotland,122
+germany_scotland,45,0,45,"Ilkay Gundogan (Germany) seems to be alright and is okay to carry on.",general,Injury,Gundogan,Germany,68
+germany_scotland,45,0,45,"Kai Havertz (Germany) is going to take the penalty!",key_event,Penalty,Havertz,Germany,53
+germany_scotland,45,0,45,"The fourth official shows 3 min. of added time.",general,General,,Both,54
+germany_scotland,45,1,45+1,"Goal! Kai Havertz (Germany) runs up to the ball, stops and waits for Angus Gunn to commit before slotting the penalty into the middle of the goal.",key_event,Goal,"Havertz, Gunn",Germany,163
+germany_scotland,45,3,45+3,"Robert Andrich (Germany) makes a rough challenge and Clement Turpin blows his whistle for a foul.",general,General,Andrich,Germany,109
+germany_scotland,45,4,45+4,"The first half of today's match has just finished.",general,Half Time,,Both,54
+germany_scotland,46,0,46,"The whistle blows and Clement Turpin starts the second half.",key_event,Kick Off,Turpin,Both,61
+germany_scotland,46,0,46,"Half-time substitution. Julian Nagelsmann decided to make a change. Robert Andrich is replaced by Pascal Gross (Germany).",key_event,Substitution,"Andrich, Gross, Nagelsmann",Germany,138
+germany_scotland,46,0,46,"Steve Clarke has made a change at the break. Grant Hanley has come on in place of Che Adams (Scotland).",key_event,Substitution,"Adams, Hanley, Clarke",Scotland,123
+germany_scotland,47,0,47,"Scott McTominay (Scotland) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders.",general,General,McTominay,Scotland,150
+germany_scotland,48,0,48,"Anthony Ralston (Scotland) commits a foul and is shown a yellow card without any hesitation from the referee.",key_event,Yellow Card,Ralston,Scotland,119
+germany_scotland,51,0,51,"Antonio Rudiger (Germany) has a sight of goal, fires a shot in from distance towards the left post and forces a good save out of Angus Gunn.",general,General,"Rudiger, Gunn",Germany,160
+germany_scotland,51,0,51,"Toni Kroos (Germany) prepares to take a corner kick.",general,Corner,Kroos,Germany,53
+germany_scotland,52,0,52,"Ilkay Gundogan (Germany) tries to create a chance, but puts too much weight on his pass.",general,General,Gundogan,Germany,98
+germany_scotland,55,0,55,"The up-to-date shots on target statistics – 7:0.",general,General,,Both,56
+germany_scotland,56,0,56,"Ryan Christie (Scotland) is penalised for a foul. Clement Turpin had a clear view and blows his whistle.",general,General,Christie,Scotland,112
+germany_scotland,56,0,56,"Maximilian Mittelstadt (Germany) sends a pass into the box, but his attempt is thwarted and cleared.",general,General,Mittelstadt,Germany,107
+germany_scotland,57,0,57,"Germany take a short corner instead of sending the ball into the penalty area.",general,Corner,,Germany,78
+germany_scotland,57,0,57,"Pascal Gross (Germany) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender.",general,General,Gross,Germany,129
+germany_scotland,57,0,57,"Joshua Kimmich (Germany) shoots from outside the box, but his effort is blocked.",general,General,Kimmich,Germany,83
+germany_scotland,58,0,58,"Florian Wirtz (Germany) latches on to a lofted pass and strikes the ball! His attempt flies narrowly over the bar. The goalkeeper was lucky!",general,General,Wirtz,Germany,154
+germany_scotland,59,0,59,"The defender bravely blocks the shot from Ilkay Gundogan (Germany) inside the box.",general,General,Gundogan,Germany,88
+germany_scotland,60,0,60,"Maximilian Mittelstadt (Germany) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players.",general,General,Mittelstadt,Germany,165
+germany_scotland,60,0,60,"Florian Wirtz (Germany) takes a mid-range shot, but it lacks accuracy and it goes way over the bar.",general,General,Wirtz,Germany,113
+germany_scotland,62,0,62,"Jonathan Tah (Germany) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",key_event,Yellow Card,Tah,Germany,165
+germany_scotland,63,0,63,"Here is a change. Kai Havertz is going off and Julian Nagelsmann gives the last tactical orders to Niclas Fullkrug (Germany).",key_event,Substitution,"Havertz, Fullkrug, Nagelsmann",Germany,141
+germany_scotland,63,0,63,"We are about to witness a subsitution. Leroy Sane (Germany) for Florian Wirtz.",key_event,Substitution,"Wirtz, Sane",Germany,87
+germany_scotland,63,0,63,"Leroy Sane (Germany) gets inside the box and tries to beat Angus Gunn with a measured shot into the bottom right corner, but the keeper is equal to the effort and makes a fine save.",key_event,Save,"Sane, Gunn",Germany,191
+germany_scotland,66,0,66,"Toni Kroos (Germany) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",general,Corner,Kroos,Germany,145
+germany_scotland,66,0,66,"A rebound falls kindly for Maximilian Mittelstadt (Germany), but his shot from the edge of the box flies high over bar. None too pretty!",general,General,Mittelstadt,Germany,149
+germany_scotland,67,0,67,"The referee stops play so that a substitution can be made and Billy Gilmour (Scotland) comes onto the pitch for Callum McGregor.",key_event,Substitution,"McGregor, Gilmour, Clarke",Scotland,151
+germany_scotland,67,0,67,"Steve Clarke has decided to make a change. Kenny McLean (Scotland) replaces John McGinn.",key_event,Substitution,"McGinn, McLean, Clarke",Scotland,100
+germany_scotland,68,0,68,"Goal! Niclas Fullkrug (Germany) pounced on a loose ball inside the box and beats the goalkeeper with a shot into the top right corner. He makes it 4:0.",key_event,Goal,Fullkrug,Germany,168
+germany_scotland,72,0,72,"Germany are showcasing great team work and neat passing moves.",general,General,,Germany,64
+germany_scotland,73,0,73,"Leroy Sane (Germany) looks to break free, but an opposing player clears the ball away.",general,General,Sane,Germany,92
+germany_scotland,73,0,73,"Joshua Kimmich (Germany) sends a cross into the box, but the opposition's defence clears the ball to safety.",general,General,Kimmich,Germany,117
+germany_scotland,74,0,74,"Substitution. Jamal Musiala will be replaced by Thomas Muller (Germany).",key_event,Substitution,"Musiala, Muller",Germany,75
+germany_scotland,74,0,74,"A quickly taken corner by Germany.",general,Corner,,Germany,35
+germany_scotland,74,0,74,"The linesman raises his flag. Jonathan Tah (Germany) is adjudged offside.",general,Offside,Tah,Germany,75
+germany_scotland,76,0,76,"Goal! Niclas Fullkrug (Germany) has the simplest of tasks to roll the ball into an empty net from close range after a rebound left the keeper stranded. 5:0.",key_event,VAR,Fullkrug,Germany,170
+germany_scotland,76,0,76,"Wait! Referee Clement Turpin has indicated he is going to review the Germany goal using VAR. It's probably to see if there was an offside in the build-up.",key_event,VAR,Turpin,Germany,164
+germany_scotland,77,0,77,"Here comes the VAR verdict. NO GOAL for Germany due to an offside in the build-up play.",key_event,VAR,,Germany,96
+germany_scotland,77,0,77,"Substitution. Kieran Tierney is replaced by Scott McKenna (Scotland).",key_event,Substitution,"Tierney, McKenna",Scotland,72
+germany_scotland,79,0,79,"Scott McTominay (Scotland) is penalised after knocking an opponent down.",general,General,McTominay,Scotland,71
+germany_scotland,79,0,79,"One of the defenders is in the right place at the right time and makes a vital stop to deny a close-range header from Thomas Muller (Germany).",general,General,Muller,Germany,154
+germany_scotland,80,0,80,"The resulting corner from Toni Kroos (Germany) is cleared.",general,Corner,Kroos,Germany,59
+germany_scotland,80,0,80,"Maximilian Mittelstadt (Germany) takes a snap shot from the edge of the box after a rebound, but his effort is a waste as it goes high over the bar.",general,General,Mittelstadt,Germany,156
+germany_scotland,80,0,80,"Here's the change. Toni Kroos leaves the pitch and Emre Can (Germany) comes on as a substitute.",key_event,Substitution,"Kroos, Can",Germany,106
+germany_scotland,82,0,82,"Steve Clarke has decided to introduce fresh legs, with Lawrence Shankland (Scotland) replacing Ryan Christie.",key_event,Substitution,"Christie, Shankland, Clarke",Scotland,124
+germany_scotland,83,0,83,"Leroy Sane (Germany) races towards goal but the defender gets back well to make a challenge.",general,General,Sane,Germany,99
+germany_scotland,83,0,83,"Leroy Sane (Germany) shoots from the edge of the penalty area. The ball travels towards the middle of the target, but Angus Gunn easily deals with the threat.",general,General,"Sane, Gunn",Germany,169
+germany_scotland,84,0,84,"The current number of shots on goal is 10:0.",general,General,,Both,50
+germany_scotland,85,0,85,"Clement Turpin blows his whistle after Emre Can (Germany) brings one of his opponents down with a strong tackle.",general,General,Can,Germany,120
+germany_scotland,86,0,86,"Leroy Sane (Germany) creates a good chance for himself and goes for goal from mid-range, but the effort is well over the bar.",general,General,Sane,Germany,141
+germany_scotland,87,0,87,"Antonio Rudiger (Germany) is totally disorientated and accidentally puts the ball into his own goal!",key_event,Goal,Rudiger,Scotland,108
+germany_scotland,88,0,88,"The Scotland players celebrate the goal but the referee immediately signals a VAR review. Let's see what happens. Big moment in the game.",key_event,VAR,,Scotland,148
+germany_scotland,88,0,88,"Referee Clement Turpin signals that the goal stands after the VAR review and the Scotland players have a reason to celebrate!",key_event,VAR,Turpin,Scotland,132
+germany_scotland,90,0,90,"Niclas Fullkrug (Germany) is adjudged to have been offside when making his run.",general,Offside,Fullkrug,Germany,86
+germany_scotland,90,0,90,"There will be a minimum of 3 min. of added time.",general,General,,Both,57
+germany_scotland,90,2,90+2,"A cross from Pascal Gross (Germany) fails to reach the box as the defence clears the ball away to safety.",general,General,Gross,Germany,119
+germany_scotland,90,3,90+3,"Brilliant finish! Emre Can (Germany) perfectly collected a pass on the edge of the penalty area from Thomas Muller, then produced a nice strike into the right side of the goal. The score is 5:1.",key_event,Goal,"Can, Muller",Germany,212
+germany_scotland,90,4,90+4,"The match has just finished.",key_event,Full Time,,Both,30
+

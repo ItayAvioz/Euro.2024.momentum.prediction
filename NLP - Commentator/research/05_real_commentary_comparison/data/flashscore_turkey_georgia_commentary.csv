@@ -1,0 +1,119 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+turkey_georgia,0,0,0,"Facundo Tello is introduced as the referee for today's match.",general,General,Tello,Both,64
+turkey_georgia,0,0,0,"The players are out and the match is about to start. Georgia will have the kick-off.",general,Kick Off,,Georgia,84
+turkey_georgia,1,0,1,"The first half of this match is about to start.",key_event,Kick Off,,Both,48
+turkey_georgia,1,0,1,"The Turkey players are exchanging some short passes to try and open up the opposition's defence and hit them swiftly on the break.",general,General,,Turkey,145
+turkey_georgia,2,0,2,"A long pass, executed by Samet Akaydin (Turkey), missed the precision to reach his teammates.",general,General,Akaydin,Turkey,105
+turkey_georgia,4,0,4,"Arda Guler (Turkey) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it.",general,General,Guler,Turkey,161
+turkey_georgia,5,0,5,"Giorgi Chakvetadze (Georgia) produces a dangerous lofted cross into the box which is intercepted.",general,General,Chakvetadze,Georgia,103
+turkey_georgia,6,0,6,"Kaan Ayhan (Turkey) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The referee blows his whistle, Turkey are awarded a corner kick.",general,Corner,Ayhan,Turkey,213
+turkey_georgia,6,0,6,"Hakan Calhanoglu (Turkey) is heading toward the corner flag to take the set piece.",general,Corner,Calhanoglu,Turkey,84
+turkey_georgia,6,0,6,"Kaan Ayhan (Turkey) gets his head on the corner, but he can't find the target as his header flies high over the crossbar.",key_event,Shot,Ayhan,Turkey,139
+turkey_georgia,7,0,7,"Hakan Calhanoglu (Turkey) brings down the pass, looks up and shoots from distance, but it's straight at a defender who unwittingly blocks it.",general,General,Calhanoglu,Turkey,151
+turkey_georgia,8,0,8,"Arda Guler (Turkey) trips an opposition player and Facundo Tello signals a foul.",general,General,Guler,Turkey,90
+turkey_georgia,9,0,9,"Kaan Ayhan (Turkey) serves up a nice cross, but the defence clears the danger.",general,General,Ayhan,Turkey,88
+turkey_georgia,10,0,10,"Arda Guler (Turkey) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",general,Corner,Guler,Turkey,137
+turkey_georgia,10,0,10,"Abdulkerim Bardakci (Turkey) outbattles the defender to win the ball from the corner, but he can't quite control his header and sends it just wide of the left post.",key_event,Shot,Bardakci,Turkey,181
+turkey_georgia,10,0,10,"Kaan Ayhan (Turkey) blows a good opportunity to score. Without hesitation he fires in a shot from mid range, but the ball crashes against the left post!",key_event,Shot,Ayhan,Turkey,163
+turkey_georgia,12,0,12,"Anzor Mekvabishvili (Georgia) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the left-hand post, but Mert Gunok was alert and the score remains the same.",key_event,Save,"Mekvabishvili, Gunok",Georgia,209
+turkey_georgia,12,0,12,"The corner is swung in but Georgia can't take advantage as a defender sweeps the ball away.",general,Corner,,Georgia,98
+turkey_georgia,13,0,13,"Arda Guler (Turkey) tries to find the head of a teammate in the box but overhits the cross.",general,General,Guler,Turkey,99
+turkey_georgia,14,0,14,"A neat pass is well received by Kenan Yildiz (Turkey), who is lurking on the edge of the box and strikes the ball towards the roof of the net, but the goalkeeper makes an incredible save to block his shot.",key_event,Save,"Yildiz, Mamardashvili",Turkey,218
+turkey_georgia,17,0,17,"The ball is cleared after Orkun Kokcu (Turkey) attempted to dribble past an opposing player.",general,General,Kokcu,Turkey,98
+turkey_georgia,17,0,17,"Giorgi Mamardashvili steps in and intercepts a long pass from Hakan Calhanoglu (Turkey).",general,General,"Mamardashvili, Calhanoglu",Turkey,94
+turkey_georgia,18,0,18,"Khvicha Kvaratskhelia (Georgia) fizzes over a cross which doesn't cause any problems.",general,General,Kvaratskhelia,Georgia,89
+turkey_georgia,19,0,19,"One of the players from Turkey times his run too early and the referee blows his whistle for offside.",general,Offside,,Turkey,112
+turkey_georgia,20,0,20,"Georgiy Tsitaishvili (Georgia) whips a promising cross into the box, but the opposition's defence intercepts the ball.",general,General,Tsitaishvili,Georgia,132
+turkey_georgia,21,0,21,"Hakan Calhanoglu (Turkey) receives a precise pass on the edge of the box and shoots. His poorly placed shot flies well wide of the left post.",key_event,Shot,Calhanoglu,Turkey,156
+turkey_georgia,22,0,22,"A clumsy foul by Otar Kakabadze (Georgia) and Facundo Tello blows his whistle.",general,General,Kakabadze,Georgia,85
+turkey_georgia,23,0,23,"The fouls committed statistics – 1:1.",general,General,,Both,41
+turkey_georgia,23,0,23,"Orkun Kokcu (Turkey) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",general,General,Kokcu,Turkey,144
+turkey_georgia,25,0,25,"A long pass, executed by Solomon Kvirkvelia (Georgia), missed the precision to reach his teammates.",general,General,Kvirkvelia,Georgia,109
+turkey_georgia,25,0,25,"Mert Muldur (Turkey) gets to the ball on the edge of the box and fires in a first-time shot without any hesitation. The strike is excellent and goes straight into the top right corner. He couldn't have done it any better. 1:0.",key_event,Goal,Muldur,Turkey,243
+turkey_georgia,27,0,27,"Kenan Yildiz (Turkey) receives a delightful pass inside the box and smashes a low shot into the bottom left corner. What a clinical finish!",key_event,Disallowed Goal,Yildiz,Turkey,160
+turkey_georgia,28,0,28,"Houston, we have a problem! The referee has indicated that there will be a VAR review of the goal to look at a possible offside. The Turkey players aren't happy.",general,VAR,,Turkey,174
+turkey_georgia,28,0,28,"The referee looks satisfied after his VAR review and duly disallows the goal for offside. The Turkey players look gutted.",key_event,VAR,,Turkey,130
+turkey_georgia,30,0,30,"Georgiy Tsitaishvili (Georgia) fashions a shot from the edge of the box after receiving an accurate pass. Mert Gunok makes a stunning save to stop the effort from flying into the left side of the goal. The ball goes out of play. Georgia are awarded a corner kick.",general,Corner,"Tsitaishvili, Gunok",Georgia,259
+turkey_georgia,30,0,30,"Giorgi Chakvetadze (Georgia) takes the corner, but the opposition's defence is ready and clears the ball to safety.",general,Corner,Chakvetadze,Georgia,122
+turkey_georgia,31,0,31,"Georgia are dominating the game at the moment by exchanging a combination of one or two touch passes. Great harmony between the players.",general,General,,Georgia,152
+turkey_georgia,32,0,32,"Goal! Georges Mikautadze (Georgia) unleashes a first-time shot from inside the box and beats the goalkeeper into the bottom right corner. 1:1.",key_event,Goal,Mikautadze,Georgia,160
+turkey_georgia,35,0,35,"Abdulkerim Bardakci (Turkey) receives a yellow card from the referee for a foul that he committed a little earlier.",key_event,Yellow Card,Bardakci,Turkey,127
+turkey_georgia,36,0,36,"Georges Mikautadze (Georgia) volleys the ball on the edge of the box after a rebound. It's a great effort and has Mert Gunok scrambling, but it flies just wide of the left post.",key_event,Shot,Mikautadze,Georgia,186
+turkey_georgia,37,0,37,"Giorgi Kochorashvili (Georgia) volleys the ball towards goal from the edge of the penalty box, but one of the defenders blocks his shot.",general,General,Kochorashvili,Georgia,141
+turkey_georgia,38,0,38,"Giorgi Chakvetadze (Georgia) sends in a pass which fails to reach any of his teammates.",general,General,Chakvetadze,Georgia,91
+turkey_georgia,39,0,39,"Lasha Dvali (Georgia) was trying to get to the ball but clattered into the legs of the opponent as well. Facundo Tello blows his whistle for an infringement.",general,General,Dvali,Georgia,170
+turkey_georgia,40,0,40,"Hakan Calhanoglu (Turkey) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger.",general,Free Kick,Calhanoglu,Turkey,146
+turkey_georgia,40,0,40,"Giorgi Chakvetadze (Georgia) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",general,General,Chakvetadze,Georgia,151
+turkey_georgia,41,0,41,"A cross from the free kick is whipped in by Hakan Calhanoglu (Turkey), but one of the defenders steps in and averts the threat.",general,Free Kick,Calhanoglu,Turkey,138
+turkey_georgia,41,0,41,"What a miskick by Ferdi Kadioglu (Turkey). He smashes a volley from long distance that goes into the stands.",general,General,Kadioglu,Turkey,117
+turkey_georgia,42,0,42,"Facundo Tello blows his whistle. Giorgi Kochorashvili (Georgia) commits a foul after dangerous play.",general,General,Kochorashvili,Georgia,105
+turkey_georgia,43,0,43,"Khvicha Kvaratskhelia (Georgia) races towards goal but the defender gets back well to make a challenge.",general,General,Kvaratskhelia,Georgia,109
+turkey_georgia,44,0,44,"Turkey take a short corner kick.",general,Corner,,Turkey,32
+turkey_georgia,45,0,45,"1 additional min. will be played.",general,General,,Both,38
+turkey_georgia,45,1,45+1,"Samet Akaydin (Turkey) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle.",general,General,Akaydin,Turkey,157
+turkey_georgia,45,1,45+1,"Hakan Calhanoglu (Turkey) whips a long ball in from the free kick which is intercepted by Giorgi Mamardashvili.",general,Free Kick,"Calhanoglu, Mamardashvili",Turkey,122
+turkey_georgia,45,2,45+2,"Facundo Tello blows his whistle to signal the end of the first-half action.",general,Half Time,Tello,Both,78
+turkey_georgia,46,0,46,"The half-time break is over and the second half is about to start.",key_event,Kick Off,,Both,70
+turkey_georgia,46,0,46,"Baris Alper Yilmaz (Turkey) receives a quality pass inside the box and fires a first-time shot. His effort towards the middle of the goal is saved by the goalkeeper.",key_event,Save,"Yilmaz, Mamardashvili",Turkey,181
+turkey_georgia,48,0,48,"Turkey are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball.",general,General,,Turkey,203
+turkey_georgia,48,0,48,"Baris Alper Yilmaz (Turkey) gets on the end of a good pass and from mid-range he unleashes a decent strike, but the shot is blocked by the defender.",general,General,Yilmaz,Turkey,166
+turkey_georgia,49,0,49,"Georgiy Tsitaishvili (Georgia) receives a clever pass and shoots from mid-range. His shot looks like it's going in the middle of the goal, but Mert Gunok has other ideas and makes a brilliant save.",key_event,Save,"Tsitaishvili, Gunok",Georgia,206
+turkey_georgia,50,0,50,"Mert Muldur (Turkey) trips an opponent with a slide tackle. Facundo Tello stops the game and he could give him a card, but eventually decides on just a warning.",general,General,Muldur,Turkey,165
+turkey_georgia,51,0,51,"Ferdi Kadioglu (Turkey) crosses the ball into the box, but one of the defending players averts the threat.",general,General,Kadioglu,Turkey,114
+turkey_georgia,52,0,52,"This shall not pass! Georges Mikautadze (Georgia) lines up a shot from the edge of the box and goes for goal, but the effort is well blocked by a defender.",general,General,Mikautadze,Georgia,163
+turkey_georgia,53,0,53,"Abdulkerim Bardakci (Turkey) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates.",general,General,Bardakci,Turkey,140
+turkey_georgia,55,0,55,"An attempted cross from Baris Alper Yilmaz (Turkey) is cleared.",general,General,Yilmaz,Turkey,65
+turkey_georgia,55,0,55,"Solomon Kvirkvelia (Georgia) receives a yellow card for a nasty tackle.",key_event,Yellow Card,Kvirkvelia,Georgia,71
+turkey_georgia,57,0,57,"Hakan Calhanoglu (Turkey) stands over the free kick and opts to take it himself, but it is straight at Giorgi Mamardashvili.",key_event,Save,"Calhanoglu, Mamardashvili",Turkey,138
+turkey_georgia,58,0,58,"Georges Mikautadze (Georgia) looks to break free, but an opposing player clears the ball away.",general,General,Mikautadze,Georgia,97
+turkey_georgia,58,0,58,"Giorgi Chakvetadze (Georgia) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",general,Corner,Chakvetadze,Georgia,147
+turkey_georgia,59,0,59,"Georgiy Tsitaishvili (Georgia) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",general,General,Tsitaishvili,Georgia,180
+turkey_georgia,60,0,60,"Kenan Yildiz (Turkey) collects a pass on the edge of the box and unleashes a shot which is brilliantly blocked by a defender.",general,General,Yildiz,Turkey,133
+turkey_georgia,60,0,60,"Abdulkerim Bardakci (Turkey) fails to find any of his teammates inside the box as his pass is blocked.",general,General,Bardakci,Turkey,114
+turkey_georgia,61,0,61,"Mert Muldur (Turkey) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away.",general,General,Muldur,Turkey,250
+turkey_georgia,61,0,61,"Hakan Calhanoglu (Turkey) takes a first-time shot from the edge of the box, but his effort is well blocked by the defender. Turkey win a corner.",general,Corner,Calhanoglu,Turkey,152
+turkey_georgia,61,0,61,"Turkey have a chance to score from a corner kick, but the ball is cleared by a defender.",general,Corner,,Turkey,94
+turkey_georgia,61,0,61,"Arda Guler (Turkey) swings a cross into the box, but it's far too close to Giorgi Mamardashvili, who smothers the ball.",general,General,"Guler, Mamardashvili",Turkey,130
+turkey_georgia,62,0,62,"Georges Mikautadze (Georgia) delivers a promising cross into the box, but it's cleared.",general,General,Mikautadze,Georgia,90
+turkey_georgia,63,0,63,"The up-to-date shots on target statistics – 4:4.",general,General,,Both,54
+turkey_georgia,64,0,64,"A long pass, executed by Samet Akaydin (Turkey), missed the precision to reach his teammates.",general,General,Akaydin,Turkey,105
+turkey_georgia,65,0,65,"Arda Guler (Turkey) controls the ball with an excellent first touch on the edge of the penalty box after receiving a splendid pass and smashes the ball into the top right corner!",key_event,Goal,Guler,Turkey,196
+turkey_georgia,68,0,68,"Samet Akaydin (Turkey) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",general,General,Akaydin,Turkey,136
+turkey_georgia,68,0,68,"Facundo Tello blows his whistle and signals a foul after Baris Alper Yilmaz (Turkey) brought his opponent down.",general,General,Yilmaz,Turkey,121
+turkey_georgia,69,0,69,"Orkun Kokcu (Turkey) had a golden opportunity. He volleyed from point blank range towards the middle of the goal, but Giorgi Mamardashvili was alert and made an amazing save!",key_event,Save,"Kokcu, Mamardashvili",Turkey,191
+turkey_georgia,70,0,70,"Giorgi Kochorashvili (Georgia) shows off his amazing technique to get in front of goal by himself. He pulls the trigger but sends the ball onto the crossbar. Nice run, but unlucky finish!",key_event,Shot,Kochorashvili,Georgia,202
+turkey_georgia,71,0,71,"Turkey keep possession of the ball by producing short passes and one-two passes from player to player.",general,General,,Turkey,114
+turkey_georgia,72,0,72,"Khvicha Kvaratskhelia (Georgia) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Kvaratskhelia,Georgia,131
+turkey_georgia,74,0,74,"Willy Sagnol has decided to substitute Georgiy Tsitaishvili and he is replaced by Luka Lochoshvili (Georgia).",key_event,Substitution,"Tsitaishvili, Lochoshvili, Sagnol",Georgia,117
+turkey_georgia,74,0,74,"A substitution has been made. Giorgi Chakvetadze goes off and Zuriko Davitashvili (Georgia) comes on.",key_event,Substitution,"Chakvetadze, Davitashvili",Georgia,105
+turkey_georgia,75,0,75,"Khvicha Kvaratskhelia (Georgia) slaloms his way past challenges, but an opposing player does well to get the ball away.",general,General,Kvaratskhelia,Georgia,135
+turkey_georgia,76,0,76,"The game is interrupted now, Mert Muldur (Turkey) picks up a knock and the physio has to come on.",general,Injury,Muldur,Turkey,109
+turkey_georgia,76,0,76,"Mert Muldur (Turkey) has picked up a minor injury, but it looks like he will be able to continue.",general,Injury,Muldur,Turkey,107
+turkey_georgia,78,0,78,"Georgia control the tempo of the game by exchanging some accurate short passes.",general,General,,Georgia,87
+turkey_georgia,79,0,79,"We are about to witness a subsitution. Yusuf Yazici (Turkey) for Arda Guler.",key_event,Substitution,"Guler, Yazici",Turkey,83
+turkey_georgia,79,0,79,"Vincenzo Montella prepares a substitution. Kaan Ayhan is replaced by Merih Demiral (Turkey).",key_event,Substitution,"Ayhan, Demiral, Montella",Turkey,98
+turkey_georgia,80,0,80,"Georgia are ruled offside.",general,Offside,,Georgia,28
+turkey_georgia,83,0,83,"Khvicha Kvaratskhelia (Georgia) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",general,Injury,Kvaratskhelia,Georgia,159
+turkey_georgia,85,0,85,"That will be all from Solomon Kvirkvelia who is being replaced by the fresh legs of Budu Zivzivadze (Georgia).",key_event,Substitution,"Kvirkvelia, Zivzivadze",Georgia,117
+turkey_georgia,85,0,85,"Here is a change. Mert Muldur is going off and Vincenzo Montella gives the last tactical orders to Zeki Celik (Turkey).",key_event,Substitution,"Muldur, Celik, Montella",Turkey,133
+turkey_georgia,85,0,85,"It's time for a substitution. That's the last involvement from Kenan Yildiz as he is replaced by Kerem Akturkoglu (Turkey).",key_event,Substitution,"Yildiz, Akturkoglu",Turkey,133
+turkey_georgia,86,0,86,"Khvicha Kvaratskhelia (Georgia) is able to continue to play.",general,Injury,Kvaratskhelia,Georgia,60
+turkey_georgia,86,0,86,"Georgia slow the tempo of the game down by exchanging a combination of one or two touch passes. The opposition's players are finding it very difficult at the moment, very physically demanding to run without the ball.",general,General,,Georgia,227
+turkey_georgia,87,0,87,"What a save from Giorgi Mamardashvili! Yusuf Yazici (Turkey) jumps high to meet a cross and glances a promising header from close range, but the goalkeeper pulls off a brilliant stop to keep it out.",key_event,Save,"Mamardashvili, Yazici",Turkey,215
+turkey_georgia,88,0,88,"Turkey work the corner short. The ball is passed to a nearby teammate.",general,Corner,,Turkey,73
+turkey_georgia,88,0,88,"The attendance for today's match is 59127.",general,General,,Both,49
+turkey_georgia,89,0,89,"Hakan Calhanoglu (Turkey) takes his opponent down and receives a yellow card from the referee.",key_event,Yellow Card,Calhanoglu,Turkey,97
+turkey_georgia,89,0,89,"Anzor Mekvabishvili goes off the pitch and Sandro Altunashvili (Georgia) comes on.",key_event,Substitution,"Mekvabishvili, Altunashvili",Georgia,83
+turkey_georgia,90,0,90,"6 min. of stoppage-time to be played.",general,General,,Both,45
+turkey_georgia,90,1,90+1,"Sandro Altunashvili (Georgia) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",general,General,Altunashvili,Georgia,137
+turkey_georgia,90,2,90+2,"Vincenzo Montella decides to make a substitution. Hakan Calhanoglu will be replaced by Salih Ozcan (Turkey).",key_event,Substitution,"Calhanoglu, Ozcan, Montella",Turkey,119
+turkey_georgia,90,2,90+2,"The defence is alert as they clear a dangerous cross from Giorgi Kochorashvili (Georgia).",general,General,Kochorashvili,Georgia,94
+turkey_georgia,90,3,90+3,"Golden chance! Georges Mikautadze (Georgia) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the left post.",key_event,Shot,Mikautadze,Georgia,178
+turkey_georgia,90,6,90+6,"Referee Facundo Tello sees the trip by Salih Ozcan (Turkey) and doesn't hesitate to blow his whistle.",general,General,Ozcan,Turkey,112
+turkey_georgia,90,6,90+6,"Zuriko Davitashvili (Georgia) connects with a cross from out wide in the six-yard box, but only plants his header onto the right post.",key_event,Shot,Davitashvili,Georgia,145
+turkey_georgia,90,6,90+6,"Zuriko Davitashvili (Georgia) strikes a powerful volley towards goal, but one of the defenders blocks his attempt.",general,General,Davitashvili,Georgia,127
+turkey_georgia,90,7,90+7,"Georgia take the corner, but their hopes of scoring a goal end with a nice clearance by the defence.",general,Corner,,Georgia,110
+turkey_georgia,90,7,90+7,"The resulting set piece from Georgia is comfortably intercepted by one of the defending players.",general,General,,Georgia,101
+turkey_georgia,90,7,90+7,"The keeper is struggling to get back after going up for that corner. Kerem Akturkoglu (Turkey) takes full advantage and simply floats the ball from long range into the back of the net to make the score 3:1.",key_event,Goal,Akturkoglu,Turkey,228
+turkey_georgia,90,9,90+9,"The referee blows his whistle for the final time to end this match.",key_event,Full Time,,Both,72
+

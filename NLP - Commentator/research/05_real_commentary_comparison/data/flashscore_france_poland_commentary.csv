@@ -1,0 +1,117 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+france_poland,0,0,0,"Today's referee will be Marco Guida.",general,General,Guida,Both,40
+france_poland,0,0,0,"Poland will kick-off.",general,Kick Off,,Poland,21
+france_poland,1,0,1,"The first half has just begun.",key_event,Kick Off,,Both,31
+france_poland,3,0,3,"Nicola Zalewski (Poland) makes a reckless foul in order to win the ball from his opponent. Marco Guida has a clear sight of it and blows his whistle.",general,General,Zalewski,Poland,158
+france_poland,4,0,4,"The ball is cleared after Bradley Barcola (France) attempted to dribble past an opposing player.",general,General,Barcola,France,98
+france_poland,5,0,5,"Bradley Barcola (France) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety.",general,General,Barcola,France,160
+france_poland,5,0,5,"Ousmane Dembele (France) swings the ball into the box from the corner kick but it's a bit too strong and it goes out of play.",general,Corner,Dembele,France,132
+france_poland,6,0,6,"Piotr Zielinski (Poland) gets to the rebound outside the penalty box and unleashes a long-range shot towards the bottom right corner, but Mike Maignan makes a decent save to stop the effort.",key_event,Save,"Zielinski, Maignan",Poland,195
+france_poland,8,0,8,"Ousmane Dembele (France) tries to send a pass but it's blocked.",general,General,Dembele,France,63
+france_poland,9,0,9,"Kacper Urbanski (Poland) commits a rough foul. Marco Guida stops the game and makes a call.",general,General,Urbanski,Poland,93
+france_poland,10,0,10,"A pass from Ousmane Dembele (France) is intercepted by Lukasz Skorupski and the move breaks down.",general,General,"Dembele, Skorupski",France,107
+france_poland,11,0,11,"Theo Hernandez (France) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. Lukasz Skorupski is alert and denies him with a nice save.",key_event,Save,"Hernandez, Skorupski",France,201
+france_poland,12,0,12,"France take a short corner instead of sending the ball into the penalty area.",general,Corner,,France,79
+france_poland,14,0,14,"A pass lands at the feet of Sebastian Szymanski (Poland) in the middle of the box, he looks up and shoots but the effort is superbly blocked by a defender.",key_event,Shot,Szymanski,Poland,162
+france_poland,15,0,15,"There's an opportunity for Sebastian Szymanski (Poland) to deliver the ball into the box from a corner.",general,Corner,Szymanski,Poland,108
+france_poland,15,0,15,"Kacper Urbanski (Poland) gets to the rebound inside the box and shoots to the middle of the goal, but his sidefooter is blocked by an alert Mike Maignan. What a save!",key_event,Save,"Urbanski, Maignan",Poland,175
+france_poland,15,0,15,"Robert Lewandowski (Poland) is penalised for a foul. Marco Guida had a clear view and blows his whistle.",general,General,Lewandowski,Poland,112
+france_poland,17,0,17,"Jakub Moder (Poland) gathers the pass and without hesitation smashes a shot in from long range, but it goes high over the bar.",key_event,Shot,Moder,Poland,137
+france_poland,19,0,19,"Ousmane Dembele (France) receives a precise pass in the box and takes the shot early. The ball heads towards the middle of the goal, but Lukasz Skorupski shows off his skills and makes a brilliant save to deny him.",key_event,Save,"Dembele, Skorupski",France,211
+france_poland,20,0,20,"Przemyslaw Frankowski (Poland) was too forceful with his tackle and Marco Guida interrupted the game to signal a free kick.",general,General,Frankowski,Poland,129
+france_poland,22,0,22,"N'Golo Kante (France) gets on the ball and beats an opponent, but his run is stopped by the referee Marco Guida who sees an offensive foul.",general,General,Kante,France,149
+france_poland,23,0,23,"Rough tackle by Ousmane Dembele (France). The referee blows his whistle for a foul.",general,General,Dembele,France,90
+france_poland,23,0,23,"Nicola Zalewski (Poland) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",general,General,Zalewski,Poland,178
+france_poland,24,0,24,"Sebastian Szymanski (Poland) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",general,Corner,Szymanski,Poland,121
+france_poland,24,0,24,"The corner kick from Sebastian Szymanski (Poland) is headed out of the penalty area by one of the defenders.",general,Corner,Szymanski,Poland,118
+france_poland,24,0,24,"Marco Guida shows a yellow card to Nicola Zalewski (Poland) for his blatant foul.",key_event,Yellow Card,Zalewski,Poland,82
+france_poland,26,0,26,"Bradley Barcola (France) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety.",general,General,Barcola,France,163
+france_poland,26,0,26,"Lukasz Skorupski comes off his line to intercept the corner from Ousmane Dembele (France).",general,Corner,"Skorupski, Dembele",France,93
+france_poland,28,0,28,"The referee blows his whistle and players are going to refresh themselves.",general,General,,Both,75
+france_poland,31,0,31,"Poland keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break.",general,General,,Poland,131
+france_poland,32,0,32,"Robert Lewandowski (Poland) picks up a long through ball, but Mike Maignan deserves praise for a brilliant reaction and interception.",general,General,"Lewandowski, Maignan",Poland,147
+france_poland,33,0,33,"Jules Kounde (France) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Kounde,France,165
+france_poland,34,0,34,"What a wasted chance that was! A precise cross into the box finds Robert Lewandowski (Poland), whose header flies narrowly wide of the left post. The ball goes out of play and France will have a goal kick.",key_event,Shot,Lewandowski,Poland,207
+france_poland,36,0,36,"3:2 - the corner kicks stats.",general,General,,Both,32
+france_poland,37,0,37,"Aurelien Tchouameni (France) collects an inch-perfect pass and strikes the ball from far out, but his shot is blocked.",key_event,Shot,Tchouameni,France,122
+france_poland,37,0,37,"Dayot Upamecano (France) robs an opponent of the ball and explodes in anger when Marco Guida blows for a foul.",general,General,Upamecano,France,118
+france_poland,38,0,38,"Aurelien Tchouameni (France) unleashed a monstrous piledriver. He controlled a pass, glanced up at goal and shot from the edge of the box. It could have been a difficult one for the keeper, but the ball fortunately hit one of the defenders and ball bounced away.",key_event,Shot,Tchouameni,France,250
+france_poland,38,0,38,"This corner kick is taken with a short pass by Ousmane Dembele (France).",general,Corner,Dembele,France,74
+france_poland,38,0,38,"A clever short pass gives William Saliba (France) a clear goal scoring opportunity, but he fluffs his lines and rifles the ball high over the bar.",key_event,Shot,Saliba,France,151
+france_poland,39,0,39,"A long-range effort by Robert Lewandowski (Poland) after he received a good pass was well wide of the right post. The ball is off of the pitch and it's a goal kick for France.",key_event,Shot,Lewandowski,Poland,175
+france_poland,39,0,39,"Jan Bednarek (Poland) gives away a foul for a fierce tackle on an opponent.",general,General,Bednarek,Poland,73
+france_poland,42,0,42,"Lukasz Skorupski was forced into action to thwart Kylian Mbappe (France). He found himself some space after latching on to a pass and unleashed a shot to the bottom right corner but couldn't beat the keeper.",key_event,Save,"Mbappe, Skorupski",France,206
+france_poland,42,0,42,"The referee blows his whistle, France are awarded a corner kick.",general,Corner,,France,69
+france_poland,43,0,43,"Dayot Upamecano (France) wins the ball from the corner and heads at goal from near the penalty spot, but it's a soft effort and drifts well past the left post.",key_event,Shot,Upamecano,France,165
+france_poland,43,0,43,"This yellow card was deserved. The tackle by Adrien Rabiot (France) was quite harsh and Marco Guida didn't hesitate to show him a yellow card.",key_event,Yellow Card,Rabiot,France,155
+france_poland,44,0,44,"Nicola Zalewski (Poland) clips an inviting cross into the box, but there's no one in a position to get on the end of it.",general,General,Zalewski,Poland,126
+france_poland,44,0,44,"Theo Hernandez (France) sends a pass into the penalty area, but the opponent manages to cut it out.",general,General,Hernandez,France,105
+france_poland,45,0,45,"A defence-splitting pass is taken in his stride by Kylian Mbappe (France) in the box. Without even looking up he drills a shot low towards the middle of the goal, but Lukasz Skorupski pulls off a comfortable save.",key_event,Save,"Mbappe, Skorupski",France,216
+france_poland,45,0,45,"Ousmane Dembele (France) quickly takes the corner kick with a short pass.",general,Corner,Dembele,France,71
+france_poland,45,0,45,"Theo Hernandez (France) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",general,General,Hernandez,France,148
+france_poland,45,0,45,"2 additional min. will be played.",general,General,,Both,38
+france_poland,45,2,45+2,"Przemyslaw Frankowski (Poland) makes a slide tackle, but referee Marco Guida blows for a foul.",general,General,Frankowski,Poland,100
+france_poland,45,2,45+2,"Ousmane Dembele (France) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity.",general,Free Kick,Dembele,France,215
+france_poland,45,3,45+3,"The first half of today's match has just finished.",general,Half Time,,Both,56
+france_poland,46,0,46,"The game restarts for the second half.",key_event,Kick Off,,Both,40
+france_poland,46,0,46,"Marco Guida has a clear sight and sees a foul from Robert Lewandowski (Poland).",general,General,Lewandowski,Poland,80
+france_poland,47,0,47,"Flag goes up against Ousmane Dembele (France) and the referee blows his whistle for offside.",general,Offside,Dembele,France,97
+france_poland,48,0,48,"N'Golo Kante (France) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety.",key_event,Shot,Kante,France,164
+france_poland,49,0,49,"Ousmane Dembele (France) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",general,Corner,Dembele,France,175
+france_poland,49,0,49,"A sweet pass finds Kylian Mbappe (France) on the edge of the box, and he drills the ball towards the right side of the goal. Lukasz Skorupski is almost caught out but pulls off a brilliant save at the last second.",key_event,Save,"Mbappe, Skorupski",France,210
+france_poland,50,0,50,"An accurate pass to the edge of the box is well taken by Kylian Mbappe (France), whose instinctive shot towards goal flashes inches wide of the right post. The ball goes out of play and Poland will have a goal kick.",key_event,Shot,Mbappe,France,208
+france_poland,51,0,51,"The ball spins up and hits the hand of Piotr Zielinski (Poland) after he fails to control it and the referee blows his whistle for a foul.",general,General,Zielinski,Poland,150
+france_poland,52,0,52,"Marco Guida blows his whistle and it's Bradley Barcola (France) who is penalised for an offensive foul. Good decision by the referee.",general,General,Barcola,France,141
+france_poland,53,0,53,"Theo Hernandez (France) makes a strong challenge and Marco Guida blows for a foul.",general,General,Hernandez,France,85
+france_poland,53,0,53,"The attendance is 59728.",general,General,,Both,27
+france_poland,53,0,53,"William Saliba (France) makes a rough challenge and the referee blows for a foul.",general,General,Saliba,France,84
+france_poland,53,0,53,"Referee Marco Guida halts the game and wanders over to the touchline to talk to Michal Probierz, then shows him a yellow.",key_event,Yellow Card,Probierz,Poland,125
+france_poland,54,0,54,"Marco Guida couldn't ignore the rough tackle by Adrien Rabiot (France) and blew his whistle.",general,General,Rabiot,France,94
+france_poland,55,0,55,"Jakub Kiwior (Poland) performs a sliding tackle but catches his opponent's legs. The referee blows his whistle for an infringement. The referee gives a penalty to France!",key_event,Penalty,,Poland,168
+france_poland,56,0,56,"Kylian Mbappe (France) will take the responsibility and he is already preparing the ball.",general,Penalty,Mbappe,France,91
+france_poland,56,0,56,"GOAL! That's a great strike from the spot by Kylian Mbappe (France) into the right of the net, giving goalkeeper Lukasz Skorupski no chance!",key_event,Goal,"Mbappe, Skorupski",France,149
+france_poland,59,0,59,"Bradley Barcola (France) goes on a mazy run, skips past two defenders and pulls the trigger in front of the keeper. Lukasz Skorupski makes a great save to stop the effort going into the middle of the goal.",key_event,Save,"Barcola, Skorupski",France,198
+france_poland,60,0,60,"Ousmane Dembele (France) makes a driving run into the box but he cannot work any space for a shot.",general,General,Dembele,France,106
+france_poland,61,0,61,"The referee signals that it is time for a substitution and Eduardo Camavinga (France) is coming onto the pitch as Adrien Rabiot cannot continue after picking up an injury.",key_event,Substitution,"Rabiot, Camavinga",France,178
+france_poland,61,0,61,"Didier Deschamps has decided to introduce fresh legs, with Olivier Giroud (France) replacing Bradley Barcola.",key_event,Substitution,"Barcola, Giroud, Deschamps",France,113
+france_poland,61,0,61,"Here comes a substitution. Antoine Griezmann (France) is brought on as a substitute for N'Golo Kante.",key_event,Substitution,"Kante, Griezmann",France,104
+france_poland,64,0,64,"Ousmane Dembele (France) is unable to feed an accurate cross into the box.",general,General,Dembele,France,77
+france_poland,66,0,66,"Antoine Griezmann (France) connects with a pass but sees his shot from the edge of the box blocked.",key_event,Shot,Griezmann,France,103
+france_poland,66,0,66,"The resulting corner from Antoine Griezmann (France) is cleared by the opposition's defence.",general,Corner,Griezmann,France,99
+france_poland,67,0,67,"It looks like Sebastian Szymanski (Poland) saw red with that tackle. Marco Guida won't tolerate such behaviour on the pitch and blows for a foul.",general,General,Szymanski,Poland,156
+france_poland,68,0,68,"Here's the change. Sebastian Szymanski leaves the pitch and Karol Swiderski (Poland) comes on as a substitute.",key_event,Substitution,"Szymanski, Swiderski",Poland,119
+france_poland,68,0,68,"Here is a change. Nicola Zalewski is going off and Michal Probierz gives the last tactical orders to Michal Skoras (Poland).",key_event,Substitution,"Zalewski, Skoras, Probierz",Poland,129
+france_poland,69,0,69,"The referee blows his whistle as Robert Lewandowski (Poland) was too aggressive in his challenge.",general,General,Lewandowski,Poland,102
+france_poland,70,0,70,"One of the defenders reacts at the last minute to brilliantly block a pass from Theo Hernandez (France).",general,General,Hernandez,France,111
+france_poland,71,0,71,"Aurelien Tchouameni (France) fouls an opponent. At least that's what referee Marco Guida signals.",general,General,Tchouameni,France,99
+france_poland,72,0,72,"Robert Lewandowski (Poland) was close to scoring after he unleashed a powerful shot which went a whisker wide of the left post.",key_event,Shot,Lewandowski,Poland,135
+france_poland,73,0,73,"Kacper Urbanski (Poland) makes an overly-aggressive challenge and Marco Guida blows his whistle for a foul.",general,General,Urbanski,Poland,111
+france_poland,74,0,74,"Karol Swiderski (Poland) goes down in the box after a challenge from the defender. Possibly unsighted, the referee just waves play on.",general,VAR,Swiderski,Poland,143
+france_poland,75,0,75,"A pass travels right across the box to Kylian Mbappe (France) and gives him a sight of goal. He tries to beat the keeper low in the middle of the goal, but Lukasz Skorupski denies him with a decent save.",key_event,Save,"Mbappe, Skorupski",France,207
+france_poland,75,0,75,"There's a break in play and referee Marco Guida must have got a signal in his ear as he indicates he will check that earlier penalty claim by Poland using VAR. This could be interesting!",general,VAR,Guida,Poland,188
+france_poland,76,0,76,"The Poland players are happy as the referee awards a PENALTY after the VAR review!",key_event,VAR,,Poland,87
+france_poland,77,0,77,"Robert Lewandowski (Poland) is going to take the penalty!",general,Penalty,Lewandowski,Poland,58
+france_poland,77,0,77,"Penalty saved! Robert Lewandowski (Poland) sends the penalty towards the bottom left corner, but Mike Maignan pulls off a wonderful save to deny him.",key_event,Penalty Save,"Lewandowski, Maignan",Poland,161
+france_poland,78,0,78,"Robert Lewandowski (Poland) is heading towards the penalty spot to take it.",general,Penalty,Lewandowski,Poland,72
+france_poland,78,0,78,"Wait! The referee has seen an infringement and Poland will have to take the penalty again!",key_event,Penalty Retake,,Poland,93
+france_poland,79,0,79,"Robert Lewandowski (Poland) brilliantly executes a penalty kick as he sends the ball straight into the bottom left corner, bouncing in off the post. No chance for Mike Maignan to stop this shot.",key_event,Goal,"Lewandowski, Maignan",Poland,192
+france_poland,81,0,81,"The referee signals that it is time for a substitution and Youssouf Fofana (France) comes onto the pitch so that Aurelien Tchouameni can be given a rest.",key_event,Substitution,"Tchouameni, Fofana",France,166
+france_poland,82,0,82,"Robert Lewandowski (Poland) latched on to an accurate pass deep into the box and attempted to fire the ball past the keeper, but the shot is way off target. What a miskick! The ball is off of the pitch and it's a goal kick for France.",key_event,Shot,Lewandowski,Poland,227
+france_poland,84,0,84,"Nothing comes of the resulting corner from Piotr Zielinski (Poland). The defence is alert and manages to cut it out.",general,Corner,Zielinski,Poland,122
+france_poland,85,0,85,"A big rebound finds it way to Kacper Urbanski (Poland), whose attempted long-range shot is almost immediately blocked by one of the opposition players.",key_event,Shot,Urbanski,Poland,153
+france_poland,85,0,85,"Olivier Giroud (France) receives a sweet pass inside the box, but his effort on goal is blocked by the defender.",key_event,Shot,Giroud,France,120
+france_poland,86,0,86,"Substitution. Randal Kolo Muani (France) on for Ousmane Dembele.",key_event,Substitution,"Dembele, Kolo Muani",France,66
+france_poland,86,0,86,"The resulting corner from Antoine Griezmann (France) is cleared by the defence.",general,Corner,Griezmann,France,80
+france_poland,87,0,87,"Kylian Mbappe (France) will deliver the corner kick.",general,Corner,Mbappe,France,55
+france_poland,88,0,88,"Youssouf Fofana (France) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",key_event,Shot,Fofana,France,161
+france_poland,89,0,89,"Dangerous play by Eduardo Camavinga (France). Marco Guida blows his whistle for a foul.",general,General,Camavinga,France,89
+france_poland,89,0,89,"Pawel Dawidowicz (Poland) makes a bad challenge and receives a yellow card. The referee had no doubt.",key_event,Yellow Card,Dawidowicz,Poland,103
+france_poland,90,0,90,"Marco Guida blows his whistle. Eduardo Camavinga (France) commits a foul after dangerous play.",general,General,Camavinga,France,97
+france_poland,90,0,90,"There will be a minimum of 5 min. of added time.",general,General,,Both,54
+france_poland,90,1,90+1,"Kylian Mbappe (France) passes the ball into the box but an opposing player clears.",general,General,Mbappe,France,80
+france_poland,90,1,90+1,"Kylian Mbappe (France) will deliver the ball into the penalty box from a corner kick.",general,Corner,Mbappe,France,86
+france_poland,90,2,90+2,"Kylian Mbappe (France) is unlucky with a goal-bound effort from the edge of the box. A fortuitous save from Lukasz Skorupski stops the ball from going into the middle of the goal.",key_event,Save,"Mbappe, Skorupski",France,186
+france_poland,90,2,90+2,"Karol Swiderski (Poland) is booked after bringing down an opponent. Marco Guida had an easy-decision to make.",key_event,Yellow Card,Swiderski,Poland,115
+france_poland,90,6,90+6,"Eduardo Camavinga (France) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",general,General,Camavinga,France,149
+france_poland,90,6,90+6,"Marco Guida is looking at his watch and immediately ends this match.",key_event,Full Time,,Both,70
+

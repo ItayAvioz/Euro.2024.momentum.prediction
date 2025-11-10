@@ -1,0 +1,100 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+germany_hungary,0,0,0,"Danny Makkelie is introduced as the referee for today's match.",general,General,Makkelie,Both,65
+germany_hungary,0,0,0,"The players are on the pitch and Germany will have the kick-off.",general,Kick Off,,Germany,65
+germany_hungary,1,0,1,"The first half has just begun.",key_event,Kick Off,,Both,31
+germany_hungary,2,0,2,"Germany keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break.",general,General,,Germany,138
+germany_hungary,3,0,3,"Antonio Rudiger (Germany) whips the ball into the box and Kai Havertz takes a perfect touch to control it, but one of the defenders does well to intercept.",general,General,"Rudiger, Havertz",Germany,167
+germany_hungary,4,0,4,"Andras Schafer (Hungary) tries to slide the ball through to a teammate but it's well blocked by a defender.",general,General,Schafer,Hungary,119
+germany_hungary,5,0,5,"Kai Havertz (Germany) hits a shot towards the bottom right corner from the edge of the box, but it's a weak attempt and is easily saved by Peter Gulacsi.",key_event,Save,"Havertz, Gulacsi",Germany,172
+germany_hungary,6,0,6,"Dominik Szoboszlai (Hungary) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",general,Corner,Szoboszlai,Hungary,149
+germany_hungary,7,0,7,"The ball breaks to Bendeguz Bolla (Hungary) after a scramble in the box, but his first-time effort is immediately blocked. Good work from Hungary as they win a corner.",general,Corner,Bolla,Hungary,179
+germany_hungary,7,0,7,"Dominik Szoboszlai (Hungary) takes the corner, but the opposition's defence is ready and clears the ball to safety.",general,Corner,Szoboszlai,Hungary,131
+germany_hungary,9,0,9,"Toni Kroos (Germany) clips a neat ball into the box in the direction of Ilkay Gundogan, but he can't get on the end of the pass. The ball is off of the pitch and it's a goal kick for Hungary.",general,General,"Kroos, Gundogan",Germany,193
+germany_hungary,11,0,11,"CHANCE! Kai Havertz (Germany) goes very close! He gathers a cross inside the box and fires a sublime shot to the left side of the goal, but Peter Gulacsi produces an excellent save. The referee and his assistant both point at the corner flag. Germany will have an opportunity to threaten the opposition's goal.",key_event,Save,"Havertz, Gulacsi",Germany,302
+germany_hungary,12,0,12,"Toni Kroos (Germany) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",general,Corner,Kroos,Germany,120
+germany_hungary,12,0,12,"Robert Andrich (Germany) finds some space inside the box to connect with the resulting corner kick. He wallops the ball close to the left post, but it's finally blocked by one of the defenders. Maybe next time. Germany force a corner. They send men into the box.",general,Corner,Andrich,Germany,251
+germany_hungary,12,0,12,"Toni Kroos (Germany) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",general,Corner,Kroos,Germany,144
+germany_hungary,13,0,13,"The defence had a hard time blocking out the strike from Roland Sallai (Hungary). He didn't hesitate and finished from outside the box right after he had received a pass from his teammate.",general,General,Sallai,Hungary,196
+germany_hungary,15,0,15,"Jamal Musiala (Germany) passes the ball into the box but an opposing player clears. The ball is out of play and the linesman points at the corner flag. Corner to Germany.",general,Corner,Musiala,Germany,174
+germany_hungary,17,0,17,"Toni Kroos (Germany) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",general,Corner,Kroos,Germany,141
+germany_hungary,17,0,17,"Kai Havertz (Germany) tries to find Ilkay Gundogan, but he puts too much power on the through ball. The ball goes out of play and Hungary will have a goal kick.",general,General,"Havertz, Gundogan",Germany,164
+germany_hungary,19,0,19,"Ilkay Gundogan (Germany) attempts to scoop the ball into the box over the defence, but one of the defending players makes a timely intervention.",general,General,Gundogan,Germany,152
+germany_hungary,21,0,21,"Ilkay Gundogan plays a neat ball into the path of Jamal Musiala (Germany), who makes room for a shot and fires in off the crossbar! 1:0.",key_event,Goal,"Gundogan, Musiala",Germany,158
+germany_hungary,22,0,22,"Barnabas Varga (Hungary) goes into the book for bad language. His vulgar comments could have made it worse. Luckily for him, it's a yellow card.",key_event,Yellow Card,Varga,Hungary,159
+germany_hungary,23,0,23,"The Germany players halt their celebrations as referee Danny Makkelie makes the VAR signal to review the goal, most likely to ascertain if there was a foul in the build-up play.",general,VAR,Makkelie,Germany,189
+germany_hungary,23,0,23,"Here comes the VAR verdict: Referee Danny Makkelie signals that there was no infringement and the goal stands! The Germany players celebrate.",key_event,VAR,Makkelie,Germany,145
+germany_hungary,26,0,26,"Dominik Szoboszlai (Hungary) releases a promising shot from the free kick on the edge of the box. His effort towards the top left corner is comfortably saved by Manuel Neuer.",key_event,Save,"Szoboszlai, Neuer",Hungary,184
+germany_hungary,27,0,27,"Antonio Rudiger (Germany) receives a yellow card from the referee, but it seems like a very harsh decision.",key_event,Yellow Card,Rudiger,Germany,113
+germany_hungary,27,0,27,"Ilkay Gundogan (Germany) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender.",general,General,Gundogan,Germany,132
+germany_hungary,29,0,29,"Dominik Szoboszlai (Hungary) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. Hungary have been awarded a corner kick.",general,Corner,Szoboszlai,Hungary,168
+germany_hungary,29,0,29,"The ball is whipped in from the corner by Dominik Szoboszlai (Hungary), but one of the defenders gets it clear.",general,Corner,Szoboszlai,Hungary,121
+germany_hungary,30,0,30,"Bendeguz Bolla (Hungary) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players.",general,General,Bolla,Hungary,162
+germany_hungary,32,0,32,"A cross into the box from Maximilian Mittelstadt (Germany) is cleared.",general,General,Mittelstadt,Germany,73
+germany_hungary,33,0,33,"Robert Andrich (Germany) breaks past challenges inside the box, but puts too much pace on his pass to Ilkay Gundogan. The ball is off of the pitch and it's a goal kick for Hungary.",general,General,"Andrich, Gundogan",Germany,187
+germany_hungary,36,0,36,"5:7 – this is the total number of shots produced by both teams. The shots on goal statistics – 3:2.",general,General,,Both,106
+germany_hungary,36,0,36,"A fine lofted pass into the box, sent by Maximilian Mittelstadt (Germany), is intercepted by the opposition's defence. Germany will take a corner kick.",general,Corner,Mittelstadt,Germany,161
+germany_hungary,37,0,37,"The resulting corner from Toni Kroos (Germany) comes to nothing.",general,Corner,Kroos,Germany,65
+germany_hungary,37,0,37,"Maximilian Mittelstadt (Germany) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players.",general,General,Mittelstadt,Germany,170
+germany_hungary,38,0,38,"Toni Kroos (Germany) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",general,Corner,Kroos,Germany,137
+germany_hungary,38,0,38,"Jamal Musiala (Germany) slaloms his way past challenges, but an opposing player does well to get the ball away.",general,General,Musiala,Germany,126
+germany_hungary,41,0,41,"Toni Kroos (Germany) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence. Germany earn a corner.",general,Corner,Kroos,Germany,167
+germany_hungary,41,0,41,"Toni Kroos (Germany) whips in the corner, but one of the defending players gets a head on it and intercepts.",general,Corner,Kroos,Germany,120
+germany_hungary,42,0,42,"Florian Wirtz (Germany) makes a yard for himself on the edge of the box after picking up a pass, but produces a poor effort that sails high over the bar.",key_event,Shot,Wirtz,Germany,168
+germany_hungary,44,0,44,"Jamal Musiala (Germany) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the right post.",key_event,Shot,Musiala,Germany,143
+germany_hungary,45,0,45,"Toni Kroos (Germany) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",general,Corner,Kroos,Germany,136
+germany_hungary,45,0,45,"2 additional min. will be played.",general,General,,Both,38
+germany_hungary,45,2,45+2,"The assistant referee raises his flag and the referee blows his whistle. Roland Sallai (Hungary) puts the ball into the net, but he is flagged for offside.",key_event,Disallowed Goal,Sallai,Hungary,168
+germany_hungary,45,2,45+2,"The Hungary players joy may have been justified, because referee Danny Makkelie is going use VAR to determine whether it was offside.",general,VAR,Makkelie,Hungary,144
+germany_hungary,45,2,45+2,"The referee looks satisfied after his VAR review and duly disallows the goal for offside. The Hungary players look gutted.",key_event,VAR,,Hungary,133
+germany_hungary,45,3,45+3,"The match has reached half-time.",general,Half Time,,Both,35
+germany_hungary,46,0,46,"Danny Makkelie blows his whistle and the second half starts.",key_event,Kick Off,Makkelie,Both,60
+germany_hungary,46,0,46,"Antonio Rudiger (Germany) collects a pass and has an effort from distance which is blocked. The ball goes out for a corner. Germany can continue in their attacking effort.",general,Corner,Rudiger,Germany,175
+germany_hungary,47,0,47,"Toni Kroos (Germany) swings in the corner, but it's comfortably cleared away.",general,Corner,Kroos,Germany,77
+germany_hungary,48,0,48,"The foul by Kai Havertz (Germany) was seen by Danny Makkelie who didn't hesitate to blow the whistle.",general,General,Havertz,Germany,112
+germany_hungary,48,0,48,"Milos Kerkez (Hungary) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The ball is out of play. Hungary will have a chance to score from a corner.",general,Corner,Kerkez,Hungary,215
+germany_hungary,49,0,49,"Dominik Szoboszlai (Hungary) floats the ball in from the corner but it's intercepted.",general,Corner,Szoboszlai,Hungary,88
+germany_hungary,50,0,50,"Andras Schafer (Hungary) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Andras Schafer (Hungary) is penalised for a foul. Danny Makkelie had a clear view and blows his whistle.",general,General,Schafer,Hungary,211
+germany_hungary,52,0,52,"A lofted cross from Antonio Rudiger (Germany) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",general,General,Rudiger,Germany,144
+germany_hungary,55,0,55,"Ilkay Gundogan (Germany) sends a cross into the box, but Peter Gulacsi comes off his line to gather the ball. Toni Kroos (Germany) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",general,General,"Gundogan, Gulacsi, Kroos",Germany,282
+germany_hungary,58,0,58,"Here comes a substitution. Niclas Fullkrug (Germany) is brought on as a substitute for Kai Havertz.",key_event,Substitution,"Havertz, Fullkrug",Germany,107
+germany_hungary,58,0,58,"Julian Nagelsmann has decided to substitute Florian Wirtz and he is replaced by Leroy Sane (Germany).",key_event,Substitution,"Wirtz, Sane, Nagelsmann",Germany,113
+germany_hungary,59,0,59,"Jamal Musiala (Germany) creates a yard of space for himself and tries an effort from distance, but it's blocked.",general,General,Musiala,Germany,122
+germany_hungary,60,0,60,"Roland Sallai pings in a cross towards the edge of the six-yard box. Barnabas Varga (Hungary) jumps highest but sends his header just over the bar.",key_event,Shot,"Sallai, Varga",Hungary,157
+germany_hungary,62,0,62,"Jamal Musiala (Germany) does well to evade a couple of challenges then let's fly from distance towards goal, but the effort flies just over the bar. That would have been a great goal!",key_event,Shot,Musiala,Germany,193
+germany_hungary,63,0,63,"Milos Kerkez (Hungary) produces a dangerous lofted cross into the box which is intercepted. The referee signals a corner kick to Hungary.",general,Corner,Kerkez,Hungary,143
+germany_hungary,64,0,64,"Here's the change. Adam Nagy leaves the pitch and Laszlo Kleinheisler (Hungary) comes on as a substitute.",key_event,Substitution,"Nagy, Kleinheisler",Hungary,118
+germany_hungary,64,0,64,"The resulting corner from Dominik Szoboszlai (Hungary) is cleared.",general,Corner,Szoboszlai,Hungary,67
+germany_hungary,65,0,65,"Toni Kroos (Germany) sends a long cross over to Leroy Sane, but Peter Gulacsi comes forward to gather the ball.",general,General,"Kroos, Sane, Gulacsi",Germany,131
+germany_hungary,67,0,67,"Goal! Maximilian Mittelstadt tees up Ilkay Gundogan (Germany) inside the box, and he keeps his cool to find the bottom right corner. 2:0.",key_event,Goal,"Mittelstadt, Gundogan",Germany,159
+germany_hungary,69,0,69,"A short pass from Leroy Sane puts Joshua Kimmich (Germany) in the clear inside the box with just the keeper to beat, but his shot sails well wide of the left post.",key_event,Shot,"Sane, Kimmich",Germany,178
+germany_hungary,71,0,71,"Danny Makkelie blows his whistle after Dominik Szoboszlai (Hungary) kicks an opponent's legs instead of the ball. Another situation results in a direct free kick for Germany.",general,Free Kick,Szoboszlai,Hungary,177
+germany_hungary,72,0,72,"That's the end of the game for Robert Andrich, who is replaced by Emre Can (Germany).",key_event,Substitution,"Andrich, Can",Germany,86
+germany_hungary,72,0,72,"Julian Nagelsmann prepares a substitution. Jamal Musiala is replaced by Chris Fuhrich (Germany).",key_event,Substitution,"Musiala, Fuhrich, Nagelsmann",Germany,101
+germany_hungary,72,0,72,"Joshua Kimmich (Germany) sends a teasing cross into the area, but Peter Gulacsi intercepts the ball.",general,General,"Kimmich, Gulacsi",Germany,109
+germany_hungary,73,0,73,"Bendeguz Bolla (Hungary) looks to break free, but an opposing player clears the ball away.",general,General,Bolla,Hungary,96
+germany_hungary,74,0,74,"Joshua Kimmich (Germany) picks up a pass and unleashes a strong shot from inside the box directed towards the right post, but the goalkeeper is equal to it!",key_event,Save,Kimmich,Germany,170
+germany_hungary,75,0,75,"A snap shot by Leroy Sane (Germany) from the edge of the area flies towards the bottom left corner, but Peter Gulacsi produces a good save to thwart him. Germany have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",general,Corner,"Sane, Gulacsi",Germany,254
+germany_hungary,75,0,75,"We are about to witness a subsitution. Zsolt Nagy (Hungary) for Milos Kerkez.",key_event,Substitution,"Kerkez, Nagy",Hungary,83
+germany_hungary,75,0,75,"Marco Rossi has decided to introduce fresh legs, with Martin Adam (Hungary) replacing Bendeguz Bolla.",key_event,Substitution,"Bolla, Adam, Rossi",Hungary,114
+germany_hungary,76,0,76,"Toni Kroos (Germany) whips in a cross from the corner, but Peter Gulacsi is well positioned and punches the ball away.",general,Corner,"Kroos, Gulacsi",Germany,128
+germany_hungary,76,0,76,"Martin Adam (Hungary) commits an ugly challenge. The referee sees it and immediately blows his whistle. Germany have a free kick from a promising distance.",general,Free Kick,Adam,Hungary,164
+germany_hungary,77,0,77,"Leroy Sane (Germany) lines up the resulting free kick from the edge of the box, but he produces a poor shot that goes high over the bar. The ball could have snow on it when it returns!",key_event,Shot,Sane,Germany,190
+germany_hungary,80,0,80,"The attendance for today's match is 54000.",general,General,,Both,49
+germany_hungary,81,0,81,"Chris Fuhrich (Germany) has a great chance to score from deep inside the box! He creates some space for the shot, but blazes it high over the crossbar. Very bad attempt.",key_event,Shot,Fuhrich,Germany,180
+germany_hungary,83,0,83,"Dominik Szoboszlai (Hungary) takes the corner kick and sends a lovely ball into the penalty area, but the opposition's defence is ready and knocks the ball to safety. The ball goes out of play. Hungary are awarded a corner kick.",general,Corner,Szoboszlai,Hungary,228
+germany_hungary,83,0,83,"Dominik Szoboszlai (Hungary) quickly takes the corner kick with a short pass.",general,Corner,Szoboszlai,Hungary,77
+germany_hungary,84,0,84,"The referee stops play so that a substitution can be made and Ilkay Gundogan departs the field of play to be replaced by Deniz Undav (Germany).",key_event,Substitution,"Gundogan, Undav",Germany,157
+germany_hungary,85,0,85,"Maximilian Mittelstadt (Germany) sends a cross into the box, but the opposition's defence clears the ball to safety.",general,General,Mittelstadt,Germany,127
+germany_hungary,87,0,87,"Niclas Fullkrug (Germany) reacts quickest to a cross from Joshua Kimmich, but slams his header well wide of the left post from around the penalty spot.",key_event,Shot,"Fullkrug, Kimmich",Germany,168
+germany_hungary,87,0,87,"Marco Rossi has decided to make a change. Daniel Gazdag (Hungary) replaces Barnabas Varga.",key_event,Substitution,"Varga, Gazdag, Rossi",Hungary,105
+germany_hungary,87,0,87,"Substitution. Kevin Csoboth (Hungary) on for Roland Sallai.",key_event,Substitution,"Sallai, Csoboth",Hungary,61
+germany_hungary,88,0,88,"What a goal-scoring opportunity! Leroy Sane (Germany) finds some space inside the box and gets in a strike, but the shot is brilliantly blocked by one of the defending players sliding in. Germany have a corner.",general,Corner,Sane,Germany,211
+germany_hungary,89,0,89,"Toni Kroos (Germany) works the corner short instead of sending the ball into the penalty area.",general,Corner,Kroos,Germany,97
+germany_hungary,89,0,89,"Maximilian Mittelstadt (Germany) gives the referee no choice but to show him a yellow card.",key_event,Yellow Card,Mittelstadt,Germany,92
+germany_hungary,90,0,90,"Willi Orban (Hungary) is the first to arrive to a rebound inside the penalty area and unleashes a quick strike towards the middle of the target that beats the keeper. One of the defenders, however, makes a goal-line clearance.",general,General,Orban,Hungary,233
+germany_hungary,90,0,90,"That looked a certain handball by Emre Can (Germany) inside the box, but the ref wasn't having it and just played on. NO penalty!",general,General,Can,Germany,143
+germany_hungary,90,0,90,"There will be a minimum of 3 min. of added time.",general,General,,Both,55
+germany_hungary,90,3,90+3,"The referee blows his whistle for unsporting behaviour, with Dominik Szoboszlai (Hungary) the culprit. The referee is firm and issues Dominik Szoboszlai (Hungary) a deserved yellow card.",key_event,Yellow Card,Szoboszlai,Hungary,201
+germany_hungary,90,3,90+3,"Referee Danny Makkelie has finally had enough of Marco Rossi and brandishes a yellow card at him!",key_event,Yellow Card,Rossi,Hungary,105
+germany_hungary,90,4,90+4,"That's it for today, Danny Makkelie has blown his whistle and the game is over.",key_event,Full Time,Makkelie,Both,82
+

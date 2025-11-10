@@ -1,0 +1,105 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+austria_france,0,0,0,"Let us introduce today's referee to you, and it's Jesus Gil Manzano.",general,General,Manzano,Both,71
+austria_france,0,0,0,"Austria will kick-off.",general,Kick Off,,Austria,21
+austria_france,1,0,1,"The first half has just begun.",key_event,Kick Off,,Both,31
+austria_france,1,0,1,"Phillipp Mwene (Austria) swings a cross into the box, but it's far too close to Mike Maignan, who smothers the ball.",general,General,"Mwene, Maignan",Austria,135
+austria_france,2,0,2,"Konrad Laimer (Austria) makes an overly-aggressive challenge and Jesus Gil Manzano blows his whistle for a foul.",general,General,Laimer,Austria,117
+austria_france,2,0,2,"France are awarded a free kick near the side line and the players make their way into the box for the inevitable cross.",general,Free Kick,,France,130
+austria_france,3,0,3,"Antoine Griezmann (France) puts a cross into the box from the free kick, but the defender gets there first.",general,Free Kick,Griezmann,France,119
+austria_france,4,0,4,"A player from Austria commits a rough challenge. Jesus Gil Manzano blows for a foul and keeps the game under control.",general,General,,Austria,127
+austria_france,5,0,5,"Kevin Danso (Austria) brings his opponent down. Jesus Gil Manzano has a clear sight of it and blows his whistle for a foul.",general,General,Danso,Austria,133
+austria_france,6,0,6,"Antoine Griezmann (France) sets the ball up and is ready to take the free kick from a promising distance. Many goals have been scored from this distance. Let's see what happens.",general,Free Kick,Griezmann,France,186
+austria_france,6,0,6,"Antoine Griezmann (France) sends a lofted cross into the box which is headed clear.",general,General,Griezmann,France,89
+austria_france,7,0,7,"The game is interrupted. Marcus Thuram (France) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",general,General,Thuram,France,180
+austria_france,9,0,9,"Patrick Pentz was forced into action to thwart Kylian Mbappe (France). He found himself some space after latching on to a pass and unleashed a shot to the bottom left corner but couldn't beat the keeper.",key_event,Save,"Pentz, Mbappe",France,221
+austria_france,9,0,9,"France take a short corner instead of sending the ball into the penalty area.",general,Corner,,France,79
+austria_france,11,0,11,"Jesus Gil Manzano blows the whistle, Michael Gregoritsch (Austria) is penalised for a foul.",general,General,Gregoritsch,Austria,97
+austria_france,11,0,11,"N'Golo Kante (France) makes a bad challenge and the referee blows his whistle for a foul.",general,General,Kante,France,97
+austria_france,12,0,12,"Phillipp Mwene (Austria) delivers a promising cross into the box, but it's cleared.",general,General,Mwene,Austria,88
+austria_france,13,0,13,"Stefan Posch (Austria) makes a reckless foul in order to win the ball from his opponent. Jesus Gil Manzano has a clear sight of it and blows his whistle.",general,General,Posch,Austria,154
+austria_france,15,0,15,"Kevin Danso (Austria) escapes without any punishment from the referee after using excessive force to foul his opponent.",general,General,Danso,Austria,131
+austria_france,16,0,16,"This yellow card was deserved. The tackle by Maximilian Wober (Austria) was quite harsh and Jesus Gil Manzano didn't hesitate to show him a yellow card.",key_event,Yellow Card,Wober,Austria,162
+austria_france,17,0,17,"Antoine Griezmann (France) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball.",general,Free Kick,Griezmann,France,219
+austria_france,18,0,18,"Austria have an opportunity from a mid-range free kick.",general,Free Kick,,Austria,56
+austria_france,19,0,19,"A nice individual effort by Antoine Griezmann (France) comes to nothing as his shot is blocked on the edge of the box by a defender.",general,General,Griezmann,France,144
+austria_france,19,0,19,"Antoine Griezmann (France) will try to find the head of one of his teammates from a corner kick.",general,Corner,Griezmann,France,104
+austria_france,20,0,20,"Kylian Mbappe (France) makes a driving run into the box but he cannot work any space for a shot.",general,General,Mbappe,France,105
+austria_france,20,0,20,"Florian Grillitsch (Austria) is asking for medical treatment after picking up an injury.",general,Injury,Grillitsch,Austria,88
+austria_france,22,0,22,"Florian Grillitsch (Austria) has picked up a minor injury, but it looks like he will be able to continue.",general,Injury,Grillitsch,Austria,116
+austria_france,23,0,23,"Phillipp Mwene (Austria) whips a promising cross into the box, but the opposition's defence intercepts the ball.",general,General,Mwene,Austria,126
+austria_france,23,0,23,"Marcel Sabitzer (Austria) takes the corner kick, but Mike Maignan reads it well and stops the effort.",general,Corner,"Sabitzer, Maignan",Austria,109
+austria_france,24,0,24,"Theo Hernandez (France) skips past his man but can't keep the ball in play.",general,General,Hernandez,France,78
+austria_france,25,0,25,"Christoph Baumgartner (Austria) looks to break free, but his touch lets him down and he loses the ball.",general,General,Baumgartner,Austria,113
+austria_france,26,0,26,"Phillipp Mwene (Austria) commits a rough challenge and Jesus Gil Manzano blows his whistle for a foul.",general,General,Mwene,Austria,108
+austria_france,29,0,29,"We can have a look at the statistics now, particularly the total attempts – 0:4.",general,General,,Both,87
+austria_france,33,0,33,"Konrad Laimer (Austria) receives a neat pass inside the box and instantly thumps the ball goalward, but a defender makes a last ditch block to deny him.",general,General,Laimer,Austria,165
+austria_france,33,0,33,"Adrien Rabiot (France) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",general,General,Rabiot,France,149
+austria_france,33,0,33,"Kylian Mbappe (France) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender.",general,General,Mbappe,France,161
+austria_france,34,0,34,"Phillipp Mwene (Austria) is booked after bringing down an opponent. Jesus Gil Manzano had an easy-decision to make.",key_event,Yellow Card,Mwene,Austria,127
+austria_france,34,0,34,"The resulting set piece, sent into the penalty area by Antoine Griezmann (France), was easily dealt with by one of the defenders.",general,General,Griezmann,France,139
+austria_france,36,0,36,"Christoph Baumgartner (Austria) receives a short pass inside a congested penalty area and takes a first-time shot. The effort heads towards the middle of the goal but Mike Maignan blocks the shot with his legs.",key_event,Save,"Baumgartner, Maignan",Austria,224
+austria_france,38,0,38,"Ousmane Dembele (France) looks to break free, but an opposing player clears the ball away.",general,General,Dembele,France,94
+austria_france,38,0,38,"It's an own goal! An unlucky moment for Maximilian Wober (Austria), who tries to clear a cross into the six-yard box but heads the ball behind his own keeper. The score is 0:1.",key_event,Own Goal,Wober,Austria,193
+austria_france,42,0,42,"Konrad Laimer (Austria) tries to slide the ball through to a teammate but it's well blocked by a defender.",general,General,Laimer,Austria,113
+austria_france,42,0,42,"The referee awards a corner and Marcel Sabitzer (Austria) goes over to take it.",general,Corner,Sabitzer,Austria,85
+austria_france,42,0,42,"Kevin Danso (Austria) wins the battle with the defender and plants a header goalwards from the corner, but his effort from around the penalty spot sails harmlessly past the right post.",key_event,Shot,Danso,Austria,191
+austria_france,45,0,45,"The fourth official shows 1 min. of added time.",general,General,,Both,54
+austria_france,45,1,45+1,"Antoine Griezmann (France) threads a pass through the eye of a needle into the box for Kylian Mbappe, but Patrick Pentz displays great awareness to stop him.",general,General,"Griezmann, Mbappe, Pentz",France,170
+austria_france,45,2,45+2,"The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",general,Half Time,,Both,110
+austria_france,46,0,46,"The game restarts for the second half.",key_event,Kick Off,,Both,42
+austria_france,46,0,46,"Antoine Griezmann (France) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch.",general,Injury,Griezmann,France,159
+austria_france,48,0,48,"Stefan Posch (Austria) bursts pass a defender and attempts to score from the edge of the area, but the shot goes high over the bar.",key_event,Shot,Posch,Austria,146
+austria_france,49,0,49,"Antoine Griezmann (France) is able to continue to play.",general,Injury,Griezmann,France,56
+austria_france,49,0,49,"Theo Hernandez (France) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger.",general,General,Hernandez,France,151
+austria_france,50,0,50,"Jesus Gil Manzano interrupts the game. One of the players from France won the ball, but his effort is adjudged unfair.",general,General,,France,124
+austria_france,51,0,51,"Christoph Baumgartner (Austria) robs an opponent of the ball and explodes in anger when Jesus Gil Manzano blows for a foul.",general,General,Baumgartner,Austria,134
+austria_france,51,0,51,"Marcel Sabitzer (Austria) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",general,General,Sabitzer,Austria,143
+austria_france,54,0,54,"The total number of attempts is 3:5.",general,General,,Both,43
+austria_france,55,0,55,"Christoph Baumgartner (Austria) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",general,General,Baumgartner,Austria,179
+austria_france,55,0,55,"CLOSE! Kylian Mbappe (France) shows off his amazing skills with a solo run to the edge of the box before fashioning a shot that goes inches wide of the right post!",key_event,Shot,Mbappe,France,174
+austria_france,56,0,56,"Jesus Gil Manzano shows a yellow card to Ousmane Dembele (France) for his blatant foul.",key_event,Yellow Card,Dembele,France,91
+austria_france,56,0,56,"It seems like Marcel Sabitzer (Austria) is about to take a free kick. The goalkeeper has to be alert and careful how to position the defensive wall. This is the perfect distance for a direct shot. Marcel Sabitzer (Austria) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders.",general,Free Kick,Sabitzer,Austria,322
+austria_france,57,0,57,"The resulting set piece from Austria is comfortably intercepted by one of the defending players.",general,General,,Austria,101
+austria_france,57,0,57,"Marcel Sabitzer (Austria) takes the corner, but he overhits it and none of his teammates are able to reach the ball.",general,Corner,Sabitzer,Austria,127
+austria_france,59,0,59,"It's time for a substitution. That's the last involvement from Maximilian Wober as he is replaced by Gernot Trauner (Austria).",key_event,Substitution,"Wober, Trauner",Austria,137
+austria_france,59,0,59,"Ralf Rangnick prepares a substitution. Michael Gregoritsch is replaced by Marko Arnautovic (Austria).",key_event,Substitution,"Gregoritsch, Arnautovic, Rangnick",Austria,108
+austria_france,59,0,59,"Substitution. Patrick Wimmer (Austria) replaces Florian Grillitsch.",key_event,Substitution,"Grillitsch, Wimmer",Austria,69
+austria_france,62,0,62,"Ousmane Dembele (France) plays a through ball but overhits it.",general,General,Dembele,France,64
+austria_france,62,0,62,"Marcel Sabitzer (Austria) goes down under a challenge in the box, but the ref immediately waves away the appeals from all players.",general,General,Sabitzer,Austria,142
+austria_france,64,0,64,"Ousmane Dembele (France) creates a good chance for himself and goes for goal from mid-range, but the effort is well wide of the left post.",key_event,Shot,Dembele,France,150
+austria_france,65,0,65,"Christoph Baumgartner (Austria) races towards goal but the defender gets back well to make a challenge. The ball is out of play. Austria win a corner kick.",general,Corner,Baumgartner,Austria,163
+austria_france,65,0,65,"Patrick Wimmer (Austria) takes the corner, but the opposition's defence is ready and clears the ball to safety.",general,Corner,Wimmer,Austria,122
+austria_france,66,0,66,"Theo Hernandez (France) breaks past challenges inside the box, but puts too much pace on his pass to Antoine Griezmann.",general,General,"Hernandez, Griezmann",France,140
+austria_france,67,0,67,"Wow, what an escape. Jules Kounde (France) has an effort from inside the box but it's brilliantly blocked.",general,General,Kounde,France,116
+austria_france,68,0,68,"Marcus Thuram (France) receives a precise pass and is given time inside the box to send a low strike towards the middle of the goal. Patrick Pentz guesses his intention and denies him with a fine save.",key_event,Save,"Thuram, Pentz",France,210
+austria_france,69,0,69,"The ball is cleared after Christoph Baumgartner (Austria) attempted to dribble past an opposing player.",general,General,Baumgartner,Austria,111
+austria_france,71,0,71,"The substitution has been made. Randal Kolo Muani (France) has replaced Ousmane Dembele.",key_event,Substitution,"Dembele, Kolo Muani",France,98
+austria_france,71,0,71,"Didier Deschamps has decided to substitute Adrien Rabiot and he is replaced by Eduardo Camavinga (France).",key_event,Substitution,"Rabiot, Camavinga, Deschamps",France,115
+austria_france,73,0,73,"Marcus Thuram (France) skips past the defender inside the box and blasts the ball at goal, but sends the effort well wide of the right post.",key_event,Shot,Thuram,France,156
+austria_france,75,0,75,"Antoine Griezmann (France) picks up an injury.",general,Injury,Griezmann,France,48
+austria_france,75,0,75,"The attendance for today's match is 46425.",general,General,,Both,49
+austria_france,76,0,76,"Antoine Griezmann (France) seems to be alright and is okay to carry on.",general,Injury,Griezmann,France,71
+austria_france,76,0,76,"Patrick Wimmer (Austria) takes the resultant free kick from the edge of the box and tries to find one of his teammates with a cross, but the keeper climbs high and gets to it first, collecting the ball with ease.",general,Free Kick,Wimmer,Austria,218
+austria_france,77,0,77,"The foul by Randal Kolo Muani (France) was seen by Jesus Gil Manzano who didn't hesitate to blow the whistle.",general,General,Kolo Muani,France,118
+austria_france,79,0,79,"Mike Maignan (France) is lying on the ground after being tackled and the physio comes onto the pitch to give him medical treatment.",general,Injury,Maignan,France,140
+austria_france,79,0,79,"Christoph Baumgartner (Austria) is having a really tough time right now. We are about to find out how serious his injury is.",general,Injury,Baumgartner,Austria,136
+austria_france,79,0,79,"Christoph Baumgartner (Austria) has tested the patience of referee Jesus Gil Manzano and goes into the book for a previous late challenge.",key_event,Yellow Card,Baumgartner,Austria,152
+austria_france,80,0,80,"Christoph Baumgartner (Austria) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",general,Injury,Baumgartner,Austria,137
+austria_france,80,0,80,"Mike Maignan (France) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",general,Injury,Maignan,France,130
+austria_france,83,0,83,"He should have scored! Marcus Thuram (France) latches onto a pull back in the box right in front of goal, but his shot low towards the middle of the goal is pretty weak and Patrick Pentz makes an easy save.",key_event,Save,"Thuram, Pentz",France,221
+austria_france,84,0,84,"This yellow card was deserved. The tackle by Konrad Laimer (Austria) was quite harsh and Jesus Gil Manzano didn't hesitate to show him a yellow card.",key_event,Yellow Card,Laimer,Austria,162
+austria_france,85,0,85,"Patrick Wimmer (Austria) makes a driving run into the box but he cannot work any space for a shot.",general,General,Wimmer,Austria,106
+austria_france,86,0,86,"Looks like Kylian Mbappe (France) is struggling after picking up a knock. Hopefully he can run it off.",general,Injury,Mbappe,France,109
+austria_france,88,0,88,"Substitution. Alexander Prass (Austria) on for Phillipp Mwene.",key_event,Substitution,"Mwene, Prass",Austria,64
+austria_france,90,0,90,"We will have 9 min. of added time.",general,General,,Both,39
+austria_france,90,0,90,"Didier Deschamps has decided to introduce fresh legs, with Youssouf Fofana (France) replacing Antoine Griezmann.",key_event,Substitution,"Griezmann, Fofana, Deschamps",France,125
+austria_france,90,0,90,"Kylian Mbappe (France) is being substituted because of an injury. Didier Deschamps sends Olivier Giroud on the pitch.",key_event,Substitution,"Mbappe, Giroud, Deschamps",France,127
+austria_france,90,0,90,"Kylian Mbappe (France) is cautioned and receives a yellow card.",key_event,Yellow Card,Mbappe,France,64
+austria_france,90,1,90+1,"Here comes a substitution. Konrad Laimer is given a rest as he is replaced by Romano Schmid (Austria).",key_event,Substitution,"Laimer, Schmid",Austria,113
+austria_france,90,3,90+3,"Jesus Gil Manzano shows a yellow card to Kevin Danso (Austria) for his blatant foul.",key_event,Yellow Card,Danso,Austria,87
+austria_france,90,5,90+5,"Marcus Thuram (France) blasts the ball from just outside the box, but his attempt is blocked by the defender.",general,General,Thuram,France,121
+austria_france,90,8,90+8,"Stefan Posch (Austria) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",general,General,Posch,Austria,133
+austria_france,90,8,90+8,"Alexander Prass (Austria) wins some space for himself around the penalty spot and manages to produce a promising header. One of the defenders stops his effort before it gets to the goalkeeper, making him redundant. The ball is out of play and Austria manage to earn a corner.",general,Corner,Prass,Austria,265
+austria_france,90,8,90+8,"Patrick Wimmer (Austria) launches a cross from the corner, but Mike Maignan is alert to thwart the effort.",general,Corner,"Wimmer, Maignan",Austria,112
+austria_france,90,10,90+10,"Jesus Gil Manzano is looking at his watch and immediately ends this match.",key_event,Full Time,Manzano,Both,74
+

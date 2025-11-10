@@ -1,0 +1,91 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+italy_albania,0,0,0,"The referee of today's match will be Felix Zwayer.",general,General,Zwayer,Both,52
+italy_albania,0,0,0,"The players are on the pitch and Albania will have the kick-off.",general,Kick Off,,Albania,67
+italy_albania,1,0,1,"Here we go, today's match is starting right now.",key_event,Kick Off,,Both,50
+italy_albania,1,0,1,"Goal! It's a catastrophic error from the opponent which has gifted a chance to Nedim Bajrami (Albania), who rolls the ball into the back of the net from close range. 0:1.",key_event,Goal,Bajrami,Albania,190
+italy_albania,2,0,2,"Federico Chiesa plays a lovely pass into Lorenzo Pellegrini (Italy), but he can't find the target. His strike from inside the box goes narrowly wide of the right post. The ball is off of the pitch and it's a goal kick for Albania.",general,General,"Chiesa, Pellegrini",Italy,237
+italy_albania,4,0,4,"Riccardo Calafiori (Italy) fails to find any of his teammates inside the box as his pass is blocked.",general,General,Calafiori,Italy,108
+italy_albania,5,0,5,"Taulant Seferi (Albania) launches into a thunderous tackle on his opponent and the referee blows his whistle for a foul.",general,General,Seferi,Albania,132
+italy_albania,6,0,6,"Federico Chiesa (Italy) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender.",general,General,Chiesa,Italy,137
+italy_albania,8,0,8,"Jasir Asani (Albania) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender. The ball is out of play and the linesman points at the corner flag. Corner to Albania.",general,Corner,Asani,Albania,215
+italy_albania,9,0,9,"Kristjan Asllani (Albania) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence. Albania have been awarded a corner kick.",general,Corner,Asllani,Albania,189
+italy_albania,9,0,9,"Kristjan Asllani (Albania) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",general,Corner,Asllani,Albania,135
+italy_albania,10,0,10,"The game is interrupted as Kristjan Asllani (Albania) is flagged offside.",general,Offside,Asllani,Albania,75
+italy_albania,10,0,10,"Federico Dimarco (Italy) whips a promising cross into the box, but the opposition's defence intercepts the ball. The ball goes out of play. Italy are awarded a corner kick.",general,Corner,Dimarco,Italy,180
+italy_albania,11,0,11,"Lorenzo Pellegrini (Italy) decides to take a short corner instead of crossing into the box.",general,Corner,Pellegrini,Italy,94
+italy_albania,11,0,11,"Goal! Alessandro Bastoni (Italy) ran onto a clever lofted pass from Lorenzo Pellegrini and easily beat the keeper with a header into the roof of the net from close range. 1:1.",key_event,Goal,"Bastoni, Pellegrini",Italy,195
+italy_albania,13,0,13,"Federico Chiesa (Italy) gets in a good position inside the box and is only inches away from getting on the end of a through ball from the edge of the area. The linesman signals a throw-in for Albania.",general,General,Chiesa,Italy,199
+italy_albania,15,0,15,"Giovanni Di Lorenzo (Italy) sends a long ball across the pitch, but it misses its target. The ball goes out of play and Albania will have a goal kick.",general,General,Di Lorenzo,Italy,155
+italy_albania,16,0,16,"Good defending. Federico Dimarco (Italy) tries to find Gianluca Scamacca inside the box, but the pass is cut out.",general,General,"Dimarco, Scamacca",Italy,128
+italy_albania,16,0,16,"Gianluca Scamacca (Italy) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players.",general,General,Scamacca,Italy,162
+italy_albania,16,0,16,"Nicolo Barella (Italy) gets to the ball on the edge of the box and fires in a first-time shot without any hesitation. The strike is excellent and goes inside the left post. He couldn't have done it any better. 2:1.",key_event,Goal,Barella,Italy,229
+italy_albania,18,0,18,"Wait! Referee Felix Zwayer has indicated he is going to review the Italy goal using VAR. It's probably to see if there was an offside in the build-up.",key_event,VAR,Zwayer,Italy,167
+italy_albania,18,0,18,"Here comes the VAR verdict: Referee Felix Zwayer signals that there was no offside and the goal stands! The Italy players celebrate.",key_event,VAR,Zwayer,Italy,142
+italy_albania,20,0,20,"Federico Chiesa (Italy) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat. The referee and one of his assistants signal for a corner kick to Italy.",general,Corner,Chiesa,Italy,239
+italy_albania,21,0,21,"Federico Dimarco (Italy) launches a cross from the corner, but Thomas Strakosha is alert to thwart the effort.",general,Corner,"Dimarco, Strakosha",Italy,118
+italy_albania,21,0,21,"Felix Zwayer shows a yellow card to Lorenzo Pellegrini (Italy) for a tough tackle.",key_event,Yellow Card,Pellegrini,Italy,86
+italy_albania,24,0,24,"A pass by Jorginho (Italy) ends up in no man's land, and the attacking effort comes to an end.",general,General,Jorginho,Italy,100
+italy_albania,26,0,26,"Giovanni Di Lorenzo (Italy) sends a pass into the box, but his attempt is thwarted and cleared.",general,General,Di Lorenzo,Italy,99
+italy_albania,28,0,28,"The Italy players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",general,General,,Italy,138
+italy_albania,30,0,30,"Federico Chiesa (Italy) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",general,General,Chiesa,Italy,175
+italy_albania,31,0,31,"Lorenzo Pellegrini (Italy) receives a cross in the box and attempts to shoot, but mishits the ball and misses the goal.",general,General,Pellegrini,Italy,131
+italy_albania,32,0,32,"Flag goes up against Nicolo Barella (Italy) and the referee blows his whistle for offside.",general,Offside,Barella,Italy,99
+italy_albania,33,0,33,"Great first touch by Davide Frattesi (Italy) after collecting a pass deep into the box. He smashes the ball to the middle of the net, but the keeper makes a fantastic reflex save and pushes it onto the post. Brilliant goalkeeping!",key_event,Save,"Frattesi, Strakosha",Italy,243
+italy_albania,36,0,36,"The ball possession is 71:29.",general,General,,Both,31
+italy_albania,39,0,39,"One of the defenders reacts at the last minute to brilliantly block a pass from Federico Dimarco (Italy). The referee and the linesman both signal a throw-in for Italy.",general,General,Dimarco,Italy,176
+italy_albania,40,0,40,"Thomas Strakosha pulls off a great save to deny Gianluca Scamacca (Italy) who, makes himself some space inside the box and unleashes a quick low drive towards the middle of the goal. The referee points to the corner flag. It's a corner to Italy.",key_event,Save,"Scamacca, Strakosha",Italy,261
+italy_albania,41,0,41,"Lorenzo Pellegrini (Italy) takes the corner which is cleared.",general,Corner,Pellegrini,Italy,61
+italy_albania,43,0,43,"Riccardo Calafiori (Italy) sends a long ball forward to Federico Chiesa, but he put too much power and the chance is gone. The ball is out of play. Albania will have a throw-in.",general,General,"Calafiori, Chiesa",Italy,190
+italy_albania,44,0,44,"Alessandro Bastoni (Italy) is penalised for holding. Felix Zwayer signals a set piece. Albania are awarded the free kick.",general,Free Kick,Bastoni,Italy,129
+italy_albania,44,0,44,"Jasir Asani (Albania) connects with the resulting free kick on the edge of the box, but can't find the target as his effort goes high over the bar. The ball is off of the pitch and it's a goal kick for Italy.",general,Free Kick,Asani,Albania,208
+italy_albania,45,0,45,"3 min. of stoppage-time to be played.",general,General,,Both,42
+italy_albania,45,2,45+2,"Thomas Strakosha doesn't have to worry about that one. Federico Chiesa puts a cross in towards Lorenzo Pellegrini (Italy), who is unable to keep his header on target from the centre of the box. He sends the ball well wide of the left post. The ball goes out of play and Albania will have a goal kick.",general,General,"Chiesa, Pellegrini, Strakosha",Italy,303
+italy_albania,45,4,45+4,"The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",general,Half Time,,Both,124
+italy_albania,46,0,46,"The whistle blows and Felix Zwayer starts the second half.",key_event,Kick Off,Zwayer,Both,61
+italy_albania,48,0,48,"Gianluca Scamacca (Italy) takes a first-time shot from the edge of the box, but his own player gets in the way and blocks it.",general,General,Scamacca,Italy,133
+italy_albania,50,0,50,"Federico Dimarco (Italy) latches on to a cross and produces a snap shot from outside of the box. His shot flies just wide of the goal.",general,General,Dimarco,Italy,143
+italy_albania,51,0,51,"Riccardo Calafiori (Italy) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Felix Zwayer ignores the protests.",key_event,Yellow Card,Calafiori,Italy,165
+italy_albania,51,0,51,"A yellow card for a tackle by Armando Broja (Albania). Felix Zwayer doesn't hesitate at all to make this decision.",key_event,Yellow Card,Broja,Albania,123
+italy_albania,52,0,52,"Another situation results in a direct free kick for Albania.",general,Free Kick,,Albania,60
+italy_albania,53,0,53,"Kristjan Asllani (Albania) poorly executes the free kick and the ball only hits the wall.",general,Free Kick,Asllani,Albania,92
+italy_albania,55,0,55,"A crossfield pass from Nedim Bajrami (Albania) fails to find any of his teammates.",general,General,Bajrami,Albania,87
+italy_albania,57,0,57,"The linesman raises his flag for offside before Davide Frattesi (Italy) heads on.",general,Offside,Frattesi,Italy,83
+italy_albania,59,0,59,"Great interplay ends with Gianluca Scamacca playing a simple pass to Federico Chiesa (Italy), who steadies himself and curls a shot from mid-range agonisingly wide of the left post. The ball is off of the pitch and it's a goal kick for Albania.",general,General,"Scamacca, Chiesa",Italy,249
+italy_albania,61,0,61,"Federico Chiesa (Italy) looks to break free, but an opposing player clears the ball away.",general,General,Chiesa,Italy,93
+italy_albania,63,0,63,"Davide Frattesi (Italy) tries to send a pass but it's blocked.",general,General,Frattesi,Italy,63
+italy_albania,64,0,64,"Davide Frattesi (Italy) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging. The ball is off of the pitch and it's a goal kick for Albania.",general,General,Frattesi,Italy,228
+italy_albania,66,0,66,"The attendance is 60512.",general,General,,Both,30
+italy_albania,66,0,66,"Federico Chiesa (Italy) tries to slide the ball through to a teammate but it's well blocked by a defender. Italy will have a chance to score from a corner kick.",general,Corner,Chiesa,Italy,161
+italy_albania,67,0,67,"Federico Dimarco (Italy) quickly takes the corner kick with a short pass.",general,Corner,Dimarco,Italy,73
+italy_albania,68,0,68,"Giovanni Di Lorenzo (Italy) connects with a cross from the side and steers a header from around the penalty spot towards the goal. The ball goes in the right direction, but it's stopped by one of the defenders. The ball goes out of play. Italy are awarded a corner kick.",general,Corner,Di Lorenzo,Italy,256
+italy_albania,68,0,68,"Federico Dimarco (Italy) takes the corner, but it's intercepted by the defender.",general,Corner,Dimarco,Italy,84
+italy_albania,68,0,68,"Sylvinho prepares a substitution. Jasir Asani is replaced by Arber Hoxha (Albania).",key_event,Substitution,"Asani, Hoxha, Sylvinho",Albania,96
+italy_albania,68,0,68,"The referee signals a substitution. Qazim Laci (Albania) is brought on as a substitute for Taulant Seferi.",key_event,Substitution,"Seferi, Laci",Albania,113
+italy_albania,69,0,69,"Kristjan Asllani (Albania) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",general,Free Kick,Asllani,Albania,127
+italy_albania,69,0,69,"Arber Hoxha (Albania) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. Albania have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",general,Corner,Hoxha,Albania,253
+italy_albania,70,0,70,"Nedim Bajrami (Albania) swings in the corner, but the goalkeeper does a brilliant job to intercept the effort.",general,Corner,Bajrami,Albania,117
+italy_albania,70,0,70,"Kristjan Asllani (Albania) fails to find the target. The goalkeeper, rooted to the spot, watches on helplessly as the volley goes well wide of the right post. The goalkeeper rode his luck there. The ball is off of the pitch and it's a goal kick for Italy.",general,General,Asllani,Albania,247
+italy_albania,72,0,72,"Davide Frattesi (Italy) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Frattesi,Italy,163
+italy_albania,73,0,73,"Davide Frattesi (Italy) is penalised for a foul. Felix Zwayer had a clear view and blows his whistle.",general,General,Frattesi,Italy,110
+italy_albania,74,0,74,"Felix Zwayer shows the yellow card to Arber Hoxha (Albania) for a heavy challenge.",key_event,Yellow Card,Hoxha,Albania,84
+italy_albania,75,0,75,"Federico Chiesa (Italy) serves up a nice cross, but the defence clears the danger.",general,General,Chiesa,Italy,87
+italy_albania,76,0,76,"The game is interrupted. Alessandro Bastoni (Italy) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",general,General,Bastoni,Italy,181
+italy_albania,77,0,77,"Substitution. Rey Manaj (Albania) in, Armando Broja out.",key_event,Substitution,"Broja, Manaj",Albania,61
+italy_albania,77,0,77,"Here's the change. Lorenzo Pellegrini leaves the pitch and Bryan Cristante (Italy) comes on as a substitute.",key_event,Substitution,"Pellegrini, Cristante",Italy,123
+italy_albania,77,0,77,"Luciano Spalletti decides to make a substitution. Federico Chiesa will be replaced by Andrea Cambiaso (Italy).",key_event,Substitution,"Chiesa, Cambiaso, Spalletti",Italy,121
+italy_albania,78,0,78,"Elseid Hysaj (Albania) delivers a promising cross into the box, but it's cleared.",general,General,Hysaj,Albania,84
+italy_albania,80,0,80,"Federico Dimarco (Italy) dribbles his way to the edge of the box and drills a shot towards the top of the net, but Thomas Strakosha is equal to the effort and makes a good save.",key_event,Save,"Dimarco, Strakosha",Italy,194
+italy_albania,81,0,81,"A long cross from the side is directed to the well-positioned Rey Manaj (Albania), but the defence gets it clear.",general,General,Manaj,Albania,123
+italy_albania,83,0,83,"It will be a substitution. Mateo Retegui (Italy) is ready to enter the pitch as Gianluca Scamacca walks off.",key_event,Substitution,"Scamacca, Retegui",Italy,125
+italy_albania,83,0,83,"Here is a change. Federico Dimarco is going off and Luciano Spalletti gives the last tactical orders to Matteo Darmian (Italy).",key_event,Substitution,"Dimarco, Darmian, Spalletti",Italy,137
+italy_albania,84,0,84,"Davide Frattesi (Italy) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",general,General,Frattesi,Italy,138
+italy_albania,85,0,85,"Rey Manaj (Albania) makes a bad challenge and the referee blows his whistle for a foul.",general,General,Manaj,Albania,96
+italy_albania,87,0,87,"Today's match ends for Nedim Bajrami who will be replaced by Ernest Muci (Albania).",key_event,Substitution,"Bajrami, Muci",Albania,88
+italy_albania,90,0,90,"We will have 4 min. of added time.",general,General,,Both,41
+italy_albania,90,1,90+1,"The cross fools the defence and leaves Rey Manaj (Albania) with an easy chance inside the box, but he mistimes his shot and sends it just wide of the left post.",general,General,Manaj,Albania,174
+italy_albania,90,2,90+2,"A fan invades the pitch and the game has to be interrupted!",key_event,General,,Both,60
+italy_albania,90,2,90+2,"Luciano Spalletti has decided to substitute Nicolo Barella and he is replaced by Michael Folorunsho (Italy).",key_event,Substitution,"Barella, Folorunsho, Spalletti",Italy,118
+italy_albania,90,3,90+3,"Referee Felix Zwayer sees the trip by Ylber Ramadani (Albania) and doesn't hesitate to blow his whistle.",general,General,Ramadani,Albania,112
+italy_albania,90,5,90+5,"Mario Mitaj (Albania) smashes the ball towards goal from the edge of the penalty box, but his effort flies just a few inches wide of the right post. The ball is off of the pitch and it's a goal kick for Italy.",general,General,Mitaj,Albania,210
+italy_albania,90,6,90+6,"The referee blows his whistle for the final time to end this match.",key_event,Full Time,,Both,69
+

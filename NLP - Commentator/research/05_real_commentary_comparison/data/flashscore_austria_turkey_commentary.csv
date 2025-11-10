@@ -1,0 +1,106 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+austria_turkey,0,0,0,"Artur Soares Dias will officiate today.",general,General,Dias,Both,40
+austria_turkey,0,0,0,"Austria will kick-off.",general,Kick Off,,Austria,22
+austria_turkey,1,0,1,"The match has just started.",key_event,Kick Off,,Both,28
+austria_turkey,1,0,1,"Arda Guler (Turkey) slides a pass forward, but one of the defenders cuts it out. Turkey force a corner. They send men into the box.",general,Corner,Guler,Turkey,138
+austria_turkey,1,0,1,"Arda Guler (Turkey) floats the ball in from the corner but it's intercepted.",general,Corner,Guler,Turkey,75
+austria_turkey,1,0,1,"Goal! Merih Demiral (Turkey) fires the rebound into the roof of the net after the ball breaks to him in the box. The score is 0:1.",key_event,Goal,Demiral,Turkey,139
+austria_turkey,3,0,3,"Christoph Baumgartner (Austria) unleashes a decent effort from just outside the box which goes narrowly wide of the left post.",key_event,Shot,Baumgartner,Austria,130
+austria_turkey,5,0,5,"Marcel Sabitzer (Austria) sends a pass into the box, but his attempt is thwarted and cleared. Austria force their opponents to concede a corner.",general,Corner,Sabitzer,Austria,146
+austria_turkey,6,0,6,"The corner from Romano Schmid (Austria) is hurriedly cleared.",general,Corner,Schmid,Austria,59
+austria_turkey,6,0,6,"Austria force a corner. Their opponents will face another attacking threat.",general,Corner,,Austria,78
+austria_turkey,7,0,7,"What a miss! The corner finds Philipp Lienhart (Austria) unmarked in the box with the goal at his mercy, but somehow he mistimes his header and sends it just over the bar. The ball is off of the pitch and it's a goal kick for Turkey.",key_event,Chance,Lienhart,Austria,235
+austria_turkey,10,0,10,"Marcel Sabitzer (Austria) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",general,General,Sabitzer,Austria,129
+austria_turkey,11,0,11,"Artur Soares Dias shows a yellow card to Orkun Kokcu (Turkey), who isn't surprised as the tackle was really hard and late.",key_event,Yellow Card,Kokcu,Turkey,130
+austria_turkey,11,0,11,"Orkun Kokcu (Turkey) will miss the next game because of that yellow card.",general,General,Kokcu,Turkey,70
+austria_turkey,12,0,12,"Marcel Sabitzer (Austria) takes the free-kick from mid-range but it's blocked by the defensive wall. The ball is out of play. Austria win a corner kick.",general,Corner,Sabitzer,Austria,150
+austria_turkey,13,0,13,"Romano Schmid (Austria) takes the corner which is cleared by the opposition's defence.",general,Corner,Schmid,Austria,87
+austria_turkey,13,0,13,"Philipp Lienhart (Austria) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders.",key_event,Shot,Lienhart,Austria,173
+austria_turkey,14,0,14,"Arda Guler (Turkey) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Guler,Turkey,164
+austria_turkey,15,0,15,"Marko Arnautovic (Austria) makes a reckless foul in order to win the ball from his opponent. Artur Soares Dias has a clear sight of it and blows his whistle.",general,General,Arnautovic,Austria,154
+austria_turkey,17,0,17,"Romano Schmid (Austria) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",general,General,Schmid,Austria,122
+austria_turkey,19,0,19,"Arda Guler (Turkey) fails to trouble the keeper from distance as his shot goes well wide of the right post.",key_event,Shot,Guler,Turkey,111
+austria_turkey,21,0,21,"Artur Soares Dias blows his whistle after Konrad Laimer (Austria) kicks an opponent's legs instead of the ball.",general,General,Laimer,Austria,113
+austria_turkey,23,0,23,"Artur Soares Dias blows for a foul after Stefan Posch (Austria) was too aggressive in the battle for the ball.",general,General,Posch,Austria,109
+austria_turkey,24,0,24,"A cross from a mid-range free kick, taken by Turkey, is intercepted by one of the defenders.",general,Free Kick,,Turkey,94
+austria_turkey,24,0,24,"Mert Muldur (Turkey) fails to send a pass into the box as his effort is cut out. It will be a corner kick for Turkey.",general,Corner,Muldur,Turkey,122
+austria_turkey,24,0,24,"Arda Guler (Turkey) takes the corner which is cleared. The ball is out of play and Turkey manage to earn a corner.",general,Corner,Guler,Turkey,119
+austria_turkey,25,0,25,"Arda Guler (Turkey) is heading toward the corner flag to take the set piece.",general,Corner,Guler,Turkey,75
+austria_turkey,25,0,25,"Merih Demiral (Turkey) tries his luck with a shot, but his effort goes wide of the target.",key_event,Shot,Demiral,Turkey,95
+austria_turkey,27,0,27,"A cross by Baris Alper Yilmaz (Turkey) from the side of the pitch flies into the box, but fails to find its intended target as the aim was poor.",general,General,Yilmaz,Turkey,151
+austria_turkey,31,0,31,"Turkey seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities.",general,General,,Turkey,147
+austria_turkey,33,0,33,"Marcel Sabitzer (Austria) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender.",key_event,Shot,Sabitzer,Austria,151
+austria_turkey,35,0,35,"Phillipp Mwene (Austria) fails to find any of his teammates inside the box as his pass is blocked.",general,General,Mwene,Austria,101
+austria_turkey,36,0,36,"A cross from Marcel Sabitzer (Austria) fails to reach the box as the defence clears the ball away to safety.",general,General,Sabitzer,Austria,113
+austria_turkey,37,0,37,"Romano Schmid (Austria) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",general,General,Schmid,Austria,177
+austria_turkey,38,0,38,"Stefan Posch (Austria) has the ability to send the ball deep into the penalty area from throw-ins and it can lead to very promising situations for his team.",general,General,Posch,Austria,162
+austria_turkey,38,0,38,"Romano Schmid (Austria) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",key_event,Yellow Card,Schmid,Austria,159
+austria_turkey,40,0,40,"Orkun Kokcu (Turkey) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",general,General,Kokcu,Turkey,116
+austria_turkey,41,0,41,"The foul by Kenan Yildiz (Turkey) was seen by Artur Soares Dias who didn't hesitate to blow the whistle.",general,General,Yildiz,Turkey,108
+austria_turkey,42,0,42,"Today's referee Artur Soares Dias rightly decides to book Ismail Yuksek (Turkey) for his harsh tackle.",key_event,Yellow Card,Yuksek,Turkey,109
+austria_turkey,42,0,42,"Ismail Yuksek (Turkey) will miss the next game.",general,General,Yuksek,Turkey,46
+austria_turkey,43,0,43,"Romano Schmid (Austria) takes the free kick from a long way out but the defender manages to get it clear.",general,Free Kick,Schmid,Austria,109
+austria_turkey,44,0,44,"1 min. of stoppage-time to be played.",general,General,,Both,38
+austria_turkey,45,0,45,"Artur Soares Dias blows his whistle after Phillipp Mwene (Austria) brings one of his opponents down with a strong tackle. Free kick. Turkey will probably just try to cross the ball in from here.",general,Free Kick,Mwene,Austria,184
+austria_turkey,45,1,45+1,"The free kick is taken by Orkun Kokcu (Turkey), but ball is cleared.",general,Free Kick,Kokcu,Turkey,68
+austria_turkey,45,2,45+2,"What a chance! The ball is inside the box and Christoph Baumgartner (Austria) takes a first-time shot on goal, but his volley goes narrowly wide of the right post.",key_event,Shot,Baumgartner,Austria,170
+austria_turkey,45,2,45+2,"Artur Soares Dias blows his whistle to signal the end of the first-half action.",general,Half Time,,Both,79
+austria_turkey,46,0,46,"The players are back out on the pitch following the half-time break and the second half is about to start.",key_event,Kick Off,,Both,110
+austria_turkey,46,0,46,"Half-time substitution. Ralf Rangnick decided to make a change. Romano Schmid (Austria) is replaced by Michael Gregoritsch.",key_event,Substitution,"Schmid, Gregoritsch, Rangnick",Austria,126
+austria_turkey,46,0,46,"Half-time substitution. Phillipp Mwene (Austria) will not participate anymore and Alexander Prass is coming on.",key_event,Substitution,"Mwene, Prass",Austria,116
+austria_turkey,47,0,47,"Christoph Baumgartner (Austria) tries to latch onto a through ball, but it's too long. The ball goes out of play and Turkey will have a goal kick.",general,General,Baumgartner,Austria,147
+austria_turkey,48,0,48,"Flag up against Marcel Sabitzer (Austria). He had space to move into behind the defence, but he went too soon.",general,Offside,Sabitzer,Austria,124
+austria_turkey,49,0,49,"Marcel Sabitzer (Austria) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",general,General,Sabitzer,Austria,116
+austria_turkey,50,0,50,"Michael Gregoritsch (Austria) latches onto a lofted pass near the penalty spot only to head the ball yards wide of the left post.",key_event,Shot,Gregoritsch,Austria,137
+austria_turkey,51,0,51,"Unbelievable! Marko Arnautovic (Austria) wastes a huge scoring opportunity! He finds himself unmarked right in front of goal and fires in a first-time shot. Mert Gunok pulls off one of the best saves of his career and stops the effort from hitting the net.",key_event,Save,"Arnautovic, Gunok",Austria,252
+austria_turkey,52,0,52,"The attendance is 38305.",general,General,,Both,27
+austria_turkey,52,0,52,"Artur Soares Dias rightly pulls out a yellow card and shows it to Philipp Lienhart (Austria).",key_event,Yellow Card,Lienhart,Austria,92
+austria_turkey,53,0,53,"Konrad Laimer (Austria) makes a good run with the ball into the box, but mishits his shot as it goes way wide of the left post.",key_event,Shot,Laimer,Austria,133
+austria_turkey,54,0,54,"Stefan Posch (Austria) fires the ball at goal from inside the area, but it's well blocked. The ball is out of play. Austria will have a chance to score from a corner.",key_event,Shot,Posch,Austria,162
+austria_turkey,55,0,55,"Marcel Sabitzer (Austria) swings the ball into the box from the corner kick but it's a bit too strong and it goes out of play.",general,Corner,Sabitzer,Austria,124
+austria_turkey,56,0,56,"Flag goes up against Marko Arnautovic (Austria) and the referee blows his whistle for offside.",general,Offside,Arnautovic,Austria,98
+austria_turkey,57,0,57,"Ferdi Kadioglu (Turkey) has a shot blocked from inside the box.",key_event,Shot,Kadioglu,Turkey,64
+austria_turkey,58,0,58,"Vincenzo Montella has decided to substitute Ismail Yuksek and he is replaced by Salih Ozcan (Turkey).",key_event,Substitution,"Yuksek, Ozcan, Montella",Turkey,103
+austria_turkey,59,0,59,"Arda Guler (Turkey) will take a corner kick.",general,Corner,Guler,Turkey,45
+austria_turkey,59,0,59,"Arda Guler takes over corner duties and expertly finds Merih Demiral (Turkey), who jumps highest and coolly plants a bullet header into the middle of the goal. The score is now 0:2.",key_event,Goal,"Guler, Demiral",Turkey,185
+austria_turkey,63,0,63,"Christoph Baumgartner (Austria) attempted to pick out a free teammate inside the box, but Mert Gunok comes off the line to clear the ball away.",general,General,"Baumgartner, Gunok",Austria,148
+austria_turkey,63,0,63,"Philipp Lienhart (Austria) was too fierce in his attempt to get the ball from his opponent and Artur Soares Dias blows for a foul. Turkey earn a free kick.",general,Free Kick,Lienhart,Austria,159
+austria_turkey,63,0,63,"Orkun Kokcu (Turkey) tries to take the opposition by surprise with a quick free kick into the box.",general,Free Kick,Kokcu,Turkey,101
+austria_turkey,64,0,64,"Here is a change. Konrad Laimer is going off and Ralf Rangnick gives the last tactical orders to Florian Grillitsch (Austria).",key_event,Substitution,"Laimer, Grillitsch, Rangnick",Austria,124
+austria_turkey,64,0,64,"Substitution. Philipp Lienhart makes his way off the pitch and Maximilian Wober (Austria) comes on as his replacement.",key_event,Substitution,"Lienhart, Wober",Austria,119
+austria_turkey,66,0,66,"Marcel Sabitzer (Austria) prepares to take a corner kick.",general,Corner,Sabitzer,Austria,56
+austria_turkey,66,0,66,"GOAL - 1:2! The corner comes over and Stefan Posch flicks on with his head to Michael Gregoritsch (Austria), who makes no mistake and fires the ball into the back of the net.",key_event,Goal,"Posch, Gregoritsch",Austria,183
+austria_turkey,69,0,69,"Michael Gregoritsch (Austria) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the middle of the net is denied by Mert Gunok. This effort really didn't trouble him.",key_event,Save,"Gregoritsch, Gunok",Austria,211
+austria_turkey,70,0,70,"Referee Artur Soares Dias sees the trip by Florian Grillitsch (Austria) and doesn't hesitate to blow his whistle.",general,General,Grillitsch,Austria,113
+austria_turkey,72,0,72,"Baris Alper Yilmaz (Turkey) sends in a pass which fails to reach any of his teammates.",general,General,Yilmaz,Turkey,86
+austria_turkey,73,0,73,"Alexander Prass (Austria) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. The linesman makes the right call and Austria will have a corner.",general,Corner,Prass,Austria,216
+austria_turkey,74,0,74,"Austria fail to score from a corner as Mert Gunok (Turkey) leaps to collect the ball.",general,Corner,Gunok,Turkey,84
+austria_turkey,74,0,74,"Florian Grillitsch (Austria) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",key_event,Shot,Grillitsch,Austria,181
+austria_turkey,75,0,75,"A run and shot from the edge of the box by Florian Grillitsch (Austria) causes Mert Gunok little worry as it's towards the middle of the goal. Easy save.",key_event,Save,"Grillitsch, Gunok",Austria,161
+austria_turkey,75,0,75,"Marko Arnautovic (Austria) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",key_event,Shot,Arnautovic,Austria,143
+austria_turkey,76,0,76,"Another attempt to send the ball beyond the defence by Michael Gregoritsch (Austria) is thwarted and cleared to safety.",general,General,Gregoritsch,Austria,123
+austria_turkey,78,0,78,"Marko Arnautovic (Austria) finds himself in a promising position after receiving a beautiful cross from the side, but the opposition defence is ready and one of the defenders averts the threat with a quick interception. Corner kick. Austria will have an opportunity.",general,Corner,Arnautovic,Austria,238
+austria_turkey,78,0,78,"Here's the change. Arda Guler leaves the pitch and Okay Yokuslu (Turkey) comes on as a substitute.",key_event,Substitution,"Guler, Yokuslu",Turkey,105
+austria_turkey,78,0,78,"Vincenzo Montella has decided to introduce fresh legs, with Kerem Akturkoglu (Turkey) replacing Kenan Yildiz.",key_event,Substitution,"Yildiz, Akturkoglu, Montella",Turkey,111
+austria_turkey,79,0,79,"Marcel Sabitzer (Austria) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance. The linesman points to the corner flag, Austria are going to take it.",general,Corner,Sabitzer,Austria,194
+austria_turkey,79,0,79,"The ball is whipped in from the corner by Marcel Sabitzer (Austria), but one of the defenders gets it clear.",general,Corner,Sabitzer,Austria,112
+austria_turkey,80,0,80,"Nicolas Seiwald (Austria) wastes a good opportunity as his pass into the box is blocked by the defence.",general,General,Seiwald,Austria,107
+austria_turkey,81,0,81,"Marcel Sabitzer (Austria) tries to slide the ball through to a teammate but it's well blocked by a defender.",general,General,Sabitzer,Austria,109
+austria_turkey,82,0,82,"Marcel Sabitzer (Austria) sends a cross in and finds Christoph Baumgartner inside the box, but one of the defenders steps in and clears the danger.",general,General,"Sabitzer, Baumgartner",Austria,153
+austria_turkey,83,0,83,"Orkun Kokcu (Turkey) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",general,General,Kokcu,Turkey,126
+austria_turkey,83,0,83,"The referee signals that it is time for a substitution and Irfan Can Kahveci (Turkey) will replace Orkun Kokcu.",key_event,Substitution,"Kokcu, Kahveci",Turkey,118
+austria_turkey,85,0,85,"Christoph Baumgartner (Austria) has a great chance! He climbs highest deep in the penalty box and strikes a powerful header towards the net. Next time he should aim better as his effort ends wide of the left post.",key_event,Shot,Baumgartner,Austria,203
+austria_turkey,86,0,86,"Another attempt to send the ball beyond the defence by Michael Gregoritsch (Austria) is thwarted and cleared to safety. Austria get a corner.",general,Corner,Gregoritsch,Austria,142
+austria_turkey,87,0,87,"Corner kick. Marcel Sabitzer (Austria) is ready to send the ball into the box.",general,Corner,Sabitzer,Austria,78
+austria_turkey,87,0,87,"Christoph Baumgartner (Austria) makes a good run into the box and unleashes a powerful header in the centre of the box from the corner, but it rises well over the bar.",key_event,Shot,Baumgartner,Austria,170
+austria_turkey,87,0,87,"A cross is clipped into the penalty area by Florian Grillitsch (Austria) but poses no threat.",general,General,Grillitsch,Austria,92
+austria_turkey,88,0,88,"Patrick Pentz displays his ability to read the game and clears the danger after Baris Alper Yilmaz (Turkey) threatened to latch onto a through ball from just outside the box.",general,General,"Pentz, Yilmaz",Austria,175
+austria_turkey,89,0,89,"The game is interrupted as Baris Alper Yilmaz (Turkey) is flagged offside.",general,Offside,Yilmaz,Turkey,73
+austria_turkey,90,0,90,"4 additional min. will be played.",general,General,,Both,38
+austria_turkey,90,2,90+2,"Michael Gregoritsch (Austria) rises high to connect with a lofted pass inside the box, but one of his opponents is in the right place at the right time to thwart him.",general,General,Gregoritsch,Austria,168
+austria_turkey,90,4,90+4,"Stefan Posch (Austria) delivers a promising cross into the box, but it's cleared.",general,General,Posch,Austria,79
+austria_turkey,90,4,90+4,"Baris Alper Yilmaz (Turkey) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the right-hand post, but Patrick Pentz was alert and the score remains the same.",key_event,Save,"Yilmaz, Pentz",Turkey,190
+austria_turkey,90,5,90+5,"Christoph Baumgartner (Austria) attempts to convert a lofted cross as he jumps high and heads the ball to the left side of the goal. Mert Gunok shows his brilliant reflexes and pulls off a glorious save to stop the ball from hitting the net. The referee and his assistant both point at the corner flag. Austria will have an opportunity to threaten the opposition's goal.",key_event,Save,"Baumgartner, Gunok",Austria,315
+austria_turkey,90,6,90+6,"Marcel Sabitzer (Austria) takes the corner, but it's intercepted by the defender.",general,Corner,Sabitzer,Austria,83
+austria_turkey,90,6,90+6,"The referee blows for the end of today's match.",key_event,Full Time,,Both,51
+

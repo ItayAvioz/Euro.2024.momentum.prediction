@@ -1,0 +1,48 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+spain_france,1,0,1,KICKOFF:  And we're off! France get us started.,key_event,Kick Off,,France,47
+spain_france,2,0,2,"Bright start from Spain... Fabian Ruiz moves into the left channel and curls a cross towards the back post, but Lamine Yamal slips and the ball bounces out of play.",general,General,"Ruiz, Yamal",Spain,164
+spain_france,4,0,4,"CHANCE!  Yamal and Ruiz are involved again for Spain, with the former this time setting up the latter from right to left. However, Ruiz can only head his effort at the far post over the crossbar.",key_event,Chance,"Ruiz, Yamal",Spain,195
+spain_france,4,0,4,"CHANCE!  Yamal and Ruiz are involved again for Spain, with the former this time setting up the latter from right to left. However, Ruiz can only head his effort at the far post over the crossbar.",key_event,Chance,"Ruiz, Yamal",Spain,195
+spain_france,6,0,6,Kylian Mbappe - without his mask tonight after breaking his nose at the start of the tournament - had the ball poked away from his feet on the edge of the penalty area by Jesus Navas.,general,General,"Navas, Mbappe",Both,183
+spain_france,9,0,9,GOAL!  SPAIN 0-1 FRANCE (KOLO MUANI),key_event,Goal,,Both,36
+spain_france,11,0,11,GOAL!  France finally score their first goal of Euro 2024 from open play!,key_event,Goal,,France,73
+spain_france,13,0,13,Spain have responded well to going a goal behind as they pile bodies forward and look threatening on both wings with Yamal and Nico Williams.,general,General,"Yamal, Williams",Spain,141
+spain_france,15,0,15,"YELLOW CARD!  Navas is booked for a late sliding challenge on Rabiot around 35 yards away from Spain's goal... resulting free kick for France comes to nothing, though.",key_event,Yellow Card,"Navas, Rabiot",Both,167
+spain_france,18,0,18,"France are beginning to find their rhythm... this is the best they have played at Euro 2024, although they have yet to test the gloves of Unai Simon.",general,General,Simon,France,149
+spain_france,21,0,21,GOAL!  SPAIN 1-1 FRANCE (YAMAL),key_event,Goal,,Both,31
+spain_france,23,0,23,GOAL!  Wow... that was special!,key_event,Goal,,Both,31
+spain_france,25,0,25,GOAL!  SPAIN 2-1 FRANCE (OLMO),key_event,Goal,,Both,30
+spain_france,27,0,27,GOAL!,key_event,Goal,,Both,5
+spain_france,31,0,31,"UEFA state, at the moment, that Spain's second goal is in fact an own goal scored by France defender Jules Kounde, but that will surely change as Olmo's strike looked on target.",general,General,"Olmo, Kounde",Both,177
+spain_france,35,0,35,Theo Hernandez leaves his mark on Yamal with a late challenge right on the touchline. Referee Slavko Vincic gives the foul but opts to keeps his cards in his pocket for this one,general,General,"Yamal, Hernandez",Both,177
+spain_france,37,0,37,"Thirty-seven brilliant minutes played in Munich so far; France have impressed despite letting a one-goal lead slip, but Spain's two goals scored just four minutes and nine seconds apart is what is separating the two teams at present.",general,General,,Both,233
+spain_france,39,0,39,"CHANCE!  France win a corner and play it short; Theo Hernandez's cross is initially kept in by William Saliba, but it fails to reach a teammate.",key_event,Chance,"Saliba, Hernandez",France,144
+spain_france,41,0,41,"Maignan leaps well to catch the resulting corner from Williams; the France goalkeeper then tries to get his team up the pitch with an early throw, but the options were not there in front of him for a quick breakaway.",general,Corner,"Williams, Maignan",France,216
+spain_france,44,0,44,"As expected, UEFA have now awarded the second Spain goal to Dani Olmo, meaning the RB Leipzig attacker is officially joint top scorer at Euro 2024 with three goals.",general,General,Olmo,Spain,164
+spain_france,45,0,45,Two minutes of added time.,general,General,,Both,26
+spain_france,46,0,46,KICKOFF:  Spain get us underway for the second half!,key_event,Kick Off,,Spain,52
+spain_france,48,0,48,CHANCE!  Maignan does well to come off his line and rush out of his box to win the ball from Williams on Spain's left flank.,key_event,Chance,"Williams, Maignan",Spain,124
+spain_france,51,0,51,"Ousmane Dembele does brilliantly to control a cross and stands up Spain left-back Marc Cucurella, but the PSG winger could only curl his delivery from the right into the gloves of Unai Simon... frustrating from France's perspective.",general,General,"Simon, Cucurella, Dembele",Both,232
+spain_france,52,0,52,"CHANCE!  Mbappe cuts inside from the left and fizzes a low shot towards the near post, but Unai Simon comfortably gets behind it.",key_event,Chance,"Simon, Mbappe",Both,129
+spain_france,53,0,53,"Spain are forced to make their first substitution of the night, as right-back Navas seems to have picked up a knock and is replaced by Athletic Bilbao centre-back Dani Vivian, meaning Nacho is set to move over to the right side of the back four.",key_event,Substitution,"Navas, Vivian, Nacho",Spain,245
+spain_france,56,0,56,"CHANCE!  Mbappe races down the right, easily beating Rodri for pace, before smacking a cross into the six-yard box, but Simon blocks the cross with a strong left hand.",key_event,Chance,"Simon, Rodri, Mbappe",Both,167
+spain_france,61,0,61,"YELLOW CARD!  Tchouameni is booked for a late lunging tackle on Morata in the middle of the pitch, preventing a Spanish counter-attack.",key_event,Yellow Card,"Morata, Tchouameni",Spain,135
+spain_france,62,0,62,"With half an hour remaining, Deschamps has opted to roll the dice...",general,General,,Both,68
+spain_france,64,0,64,"Antoine Griezmann (36) has now become France's most-capped player at major tournaments, surpassing goalkeeper Hugo Lloris (35).",general,General,Griezmann,France,127
+spain_france,66,0,66,"France win another corner, but Dayot Upamecano heads wide at the back post... a lot of France's best chances have come through headers and this is another one that goes begging.",general,Corner,Upamecano,France,177
+spain_france,66,0,66,"France win another corner, but Dayot Upamecano heads wide at the back post... a lot of France's best chances have come through headers and this is another one that goes begging.",general,Corner,Upamecano,France,177
+spain_france,69,0,69,"Spain are yet to register a single shot on goal in the second half, while France have had three chances.",general,General,,Both,104
+spain_france,71,0,71,"Spain have lost the spark they had in the first 45 and seem to be holding on here, as France enjoy an extended spell of possession and pose a threat in the final third.",general,General,,Both,168
+spain_france,74,0,74,"CHANCE!  Spain fail to clear their lines and a deflected cross from Dembele falls nicely to Theo Hernandez, in space on the edge of the box, but the French left-back blazes a right-foot shot over the crossbar.",key_event,Chance,"Hernandez, Dembele",Both,209
+spain_france,76,0,76,"Spain decide to make two changes ahead of the final 10 minutes of normal time, with Olmo and Morata brought off as Mikel Merino and Mikel Oyarzabal enter the pitch.",general,General,"Olmo, Morata, Merino, Oyarzabal",Spain,164
+spain_france,80,0,80,Another change for France as their all-time record goalscorer Olivier Giroud is brought on for Dembele.,general,General,"Dembele, Giroud",France,103
+spain_france,82,0,82,"CHANCE!  Yamal, like the rest of his Spain teammates, has rarely threatened in the second half, but he almost put the game to bed with another speculative strike.",key_event,Chance,Yamal,Spain,162
+spain_france,84,0,84,"France's front three have scored a combined 149 goals at international level - Olivier Giroud (57), Kylian Mbappe (48) and Antoine Griezmann (44) - but they are still searching for that all-important equaliser.",general,General,"Griezmann, Mbappe, Giroud",France,210
+spain_france,86,0,86,Spain defender Aymeric Laporte is down and receiving treatment after running into the shoulder of Giroud.,general,General,"Laporte, Giroud",Spain,105
+spain_france,88,0,88,"CHANCE!  Just moments after Laporte was cleared to continue, Mbappe was presented with a brilliant chance to restore parity fro France.",key_event,Chance,"Laporte, Mbappe",France,135
+spain_france,90,0,90,YELLOW CARD!  France are clearly getting frustrated now and Camavinga is deservedly booked for a late tackle on Marc Cucurella.,key_event,Yellow Card,"Cucurella, Camavinga",France,127
+spain_france,91,0,91,Five minutes of added time... can Spain hold on or can France find a late equaliser?,general,General,,Both,84
+spain_france,92,0,92,YELLOW CARD!  Yamal takes one for the team and receives a yellow card for pulling back Hernandez to prevent a French counter-attack.,key_event,Yellow Card,"Yamal, Hernandez",France,132
+spain_france,94,0,94,Spain are looking to kill the pace of the game now... Merino picks out Williams on the left and the winger looks to keep the ball in the corner.,general,Corner,"Williams, Merino",Spain,144
+spain_france,95,0,95,"Spain make a late double substitution, with Yamal and Williams receiving a standing ovation from the jubilant Spanish supporters as they make way for Ferran Torres and Martin Zubimendi.",key_event,Substitution,"Yamal, Williams, Torres, Zubimendi",Spain,185
+spain_france,96,0,96,"A cross goes in to Spain's penalty box towards Griezmann, who heads it onto the roof of the net; the Frenchman is asking for a corner, but he does not get one.",general,Corner,Griezmann,Both,159

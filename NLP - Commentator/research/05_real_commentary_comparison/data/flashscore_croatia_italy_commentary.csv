@@ -1,0 +1,110 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+croatia_italy,0,0,0,"Let us introduce today's referee to you, and it's Danny Makkelie.",general,General,Makkelie,Both,67
+croatia_italy,0,0,0,"The players are on the pitch and Croatia will have the kick-off.",general,Kick Off,,Croatia,65
+croatia_italy,1,0,1,"Here we go, today's match is starting right now.",key_event,Kick Off,,Both,51
+croatia_italy,2,0,2,"Croatia keep possession of the ball by producing short passes and one-two passes from player to player.",general,General,,Croatia,116
+croatia_italy,4,0,4,"Josip Stanisic (Croatia) attempts to slip the ball through the defence, but is unable to find any of his teammates.",general,General,Stanisic,Croatia,125
+croatia_italy,5,0,5,"A dangerous attempt from Luka Sucic (Croatia) was aimed to the top left corner, but Gianluigi Donnarumma pulls off a superb save and stops this one. Croatia have a corner.",key_event,Save,"Sucic, Donnarumma",Croatia,186
+croatia_italy,5,0,5,"Luka Modric (Croatia) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",general,Corner,Modric,Croatia,145
+croatia_italy,6,0,6,"Federico Dimarco (Italy) races towards goal but the defender gets back well to make a challenge.",general,General,Dimarco,Italy,100
+croatia_italy,7,0,7,"Giovanni Di Lorenzo (Italy) fails to find any of his teammates inside the box as his pass is blocked. The ball is out of play. Italy will have a throw-in.",general,General,Di Lorenzo,Italy,164
+croatia_italy,8,0,8,"Matteo Darmian (Italy) produces a dangerous low pass into the penalty area, but the defence manage to cut it out.",general,General,Darmian,Italy,126
+croatia_italy,10,0,10,"Another attempt to send the ball beyond the defence by Marcelo Brozovic (Croatia) is thwarted and cleared to safety.",general,General,Brozovic,Croatia,128
+croatia_italy,11,0,11,"A lofted pass to the edge of the six-yard box is won in the air by Lorenzo Pellegrini (Italy), but his tame header goes well wide of the left post.",key_event,Shot,Pellegrini,Italy,160
+croatia_italy,12,0,12,"Josko Gvardiol (Croatia) makes a reckless foul in order to win the ball from his opponent. Danny Makkelie has a clear sight of it and blows his whistle.",general,General,Gvardiol,Croatia,163
+croatia_italy,12,0,12,"Andrej Kramaric (Croatia) tries to play a through ball from just inside the box to Mario Pasalic, but one of the defending players is alert to the danger and makes a timely interception.",general,General,"Kramaric, Pasalic",Croatia,192
+croatia_italy,14,0,14,"Giovanni Di Lorenzo (Italy) fails to send a pass into the box as his effort is cut out. The referee and his assistant both point at the corner flag. Italy will have an opportunity to threaten the opposition's goal.",general,Corner,Di Lorenzo,Italy,214
+croatia_italy,14,0,14,"Federico Dimarco (Italy) floats the ball in from the corner but it's intercepted.",general,Corner,Dimarco,Italy,83
+croatia_italy,15,0,15,"Luka Modric (Croatia) looks to break free, but an opposing player clears the ball away.",general,General,Modric,Croatia,92
+croatia_italy,16,0,16,"Nicolo Barella (Italy) makes a rough challenge and Danny Makkelie blows his whistle for a foul.",general,General,Barella,Italy,101
+croatia_italy,17,0,17,"Josip Stanisic (Croatia) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Stanisic,Croatia,169
+croatia_italy,19,0,19,"Marin Pongracic (Croatia) escapes without any punishment from the referee after using excessive force to foul his opponent.",general,General,Pongracic,Croatia,130
+croatia_italy,20,0,20,"Nicolo Barella (Italy) takes the free kick and immediately restarts play with a short pass.",general,Free Kick,Barella,Italy,93
+croatia_italy,21,0,21,"Mateo Retegui (Italy) meets a cross inside the box, but his header is blocked by an opposing player. The ball is out of play. Italy win a corner kick.",general,Corner,Retegui,Italy,163
+croatia_italy,22,0,22,"Lorenzo Pellegrini (Italy) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",general,Corner,Pellegrini,Italy,161
+croatia_italy,23,0,23,"The defender bravely blocks the shot from Mateo Retegui (Italy) inside the box. Italy earn a corner.",key_event,Shot,Retegui,Italy,107
+croatia_italy,23,0,23,"Federico Dimarco (Italy) decides to speed play up with a short corner kick.",general,Corner,Dimarco,Italy,75
+croatia_italy,24,0,24,"This yellow card was deserved. The tackle by Luka Sucic (Croatia) was quite harsh and Danny Makkelie didn't hesitate to show him a yellow card.",key_event,Yellow Card,Sucic,Croatia,155
+croatia_italy,25,0,25,"Luka Sucic (Croatia) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",general,General,Sucic,Croatia,130
+croatia_italy,26,0,26,"Mateo Retegui (Italy) has a shot blocked from inside the box. Italy will have a chance to score from a corner kick.",key_event,Shot,Retegui,Italy,119
+croatia_italy,27,0,27,"The resulting corner, taken by Federico Dimarco (Italy), comes to nothing.",general,Corner,Dimarco,Italy,75
+croatia_italy,28,0,28,"Dominik Livakovic makes a superb save to deny a header which was nodded towards the roof of the net by Alessandro Bastoni (Italy) after a cross from the side. The ball goes behind for a corner. Italy will have an opportunity to threaten the opposition's goal.",key_event,Save,"Livakovic, Bastoni",Italy,260
+croatia_italy,28,0,28,"The corner is swung in but Italy can't take advantage as a defender sweeps the ball away.",general,Corner,,Italy,94
+croatia_italy,30,0,30,"Half-chance! Luka Modric (Croatia) plays a pass into the box, but Gianluigi Donnarumma reacts well to snuff out the attack.",general,General,"Modric, Donnarumma",Croatia,134
+croatia_italy,31,0,31,"Luka Modric (Croatia) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders.",key_event,Shot,Modric,Croatia,162
+croatia_italy,33,0,33,"One of the defenders reacts at the last minute to brilliantly block a pass from Luka Sucic (Croatia).",general,General,Sucic,Croatia,113
+croatia_italy,34,0,34,"Marin Pongracic (Croatia) makes a strong challenge and Danny Makkelie blows for a foul.",general,General,Pongracic,Croatia,89
+croatia_italy,35,0,35,"Josko Gvardiol (Croatia) commits a rough challenge and Danny Makkelie blows his whistle for a foul.",general,General,Gvardiol,Croatia,101
+croatia_italy,35,0,35,"Giovanni Di Lorenzo (Italy) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",general,General,Di Lorenzo,Italy,188
+croatia_italy,36,0,36,"Dominik Livakovic was forced into action to thwart Lorenzo Pellegrini (Italy). He found himself some space after latching on to a pass and unleashed a shot to the bottom right corner but couldn't beat the keeper.",key_event,Save,"Livakovic, Pellegrini",Italy,210
+croatia_italy,37,0,37,"Mario Pasalic (Croatia) tries to slide the ball through to a teammate but it's well blocked by a defender.",general,General,Pasalic,Croatia,113
+croatia_italy,37,0,37,"Luka Modric (Croatia) quickly takes the corner kick with a short pass.",general,Corner,Modric,Croatia,69
+croatia_italy,38,0,38,"Luka Modric (Croatia) sends over a cross, but he can't find any teammate inside the box. Poor delivery.",general,General,Modric,Croatia,112
+croatia_italy,40,0,40,"The ball is cleared after Giovanni Di Lorenzo (Italy) attempted to dribble past an opposing player.",general,General,Di Lorenzo,Italy,105
+croatia_italy,42,0,42,"Danny Makkelie couldn't ignore the rough tackle by Marin Pongracic (Croatia) and blew his whistle.",general,General,Pongracic,Croatia,100
+croatia_italy,45,0,45,"The fourth official shows 1 min. of added time.",general,General,,Both,54
+croatia_italy,45,1,45+1,"Mario Pasalic (Croatia) plays a through ball but overhits it.",general,General,Pasalic,Croatia,63
+croatia_italy,45,1,45+1,"The first half of today's match has just finished.",general,Half Time,,Both,56
+croatia_italy,46,0,46,"The whistle blows and Danny Makkelie starts the second half.",key_event,Kick Off,,Both,61
+croatia_italy,46,0,46,"Zlatko Dalic has made a change at the break. Ante Budimir has come on in place of Mario Pasalic (Croatia).",key_event,Substitution,"Pasalic, Budimir, Dalic",Croatia,114
+croatia_italy,46,0,46,"Half-time substitution. Lorenzo Pellegrini (Italy) is replaced by Davide Frattesi.",key_event,Substitution,"Pellegrini, Frattesi",Italy,83
+croatia_italy,47,0,47,"Having seen unsporting behavior, Danny Makkelie shows a yellow card to one of the players sitting on the bench. And Luciano Spalletti (Italy) is the recipient.",key_event,Yellow Card,Spalletti,Italy,170
+croatia_italy,47,0,47,"A pass by Josip Stanisic (Croatia) ends up in no man's land, and the attacking effort comes to an end.",general,General,Stanisic,Croatia,109
+croatia_italy,48,0,48,"Giovanni Di Lorenzo (Italy) gives away a foul for a clumsy challenge. Referee Danny Makkelie saw the whole situation.",general,General,Di Lorenzo,Italy,121
+croatia_italy,49,0,49,"Luka Modric (Croatia) floats the free kick into the box, but it's easily cleared by the first man.",general,Free Kick,Modric,Croatia,106
+croatia_italy,52,0,52,"Croatia are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball.",general,General,,Croatia,204
+croatia_italy,52,0,52,"That looked a certain handball by Davide Frattesi (Italy) inside the box, but the ref wasn't having it and just played on. NO penalty!",general,VAR,Frattesi,Italy,147
+croatia_italy,52,0,52,"There's a break in play and referee Danny Makkelie must have got a signal in his ear as he indicates he will check that earlier penalty claim by Croatia using VAR. This could be interesting!",general,VAR,Makkelie,Croatia,188
+croatia_italy,54,0,54,"It's a PENALTY to Croatia after the VAR review!",key_event,VAR,,Croatia,49
+croatia_italy,54,0,54,"Luka Modric (Croatia) is heading towards the penalty spot to take it.",general,Penalty,Modric,Croatia,66
+croatia_italy,54,0,54,"Luka Modric (Croatia) wastes a huge opportunity to score from the penalty spot. He attempts to slot into the bottom right corner, but Gianluigi Donnarumma pulls off a superb save.",key_event,Penalty Save,"Modric, Donnarumma",Croatia,183
+croatia_italy,55,0,55,"A tremendous drive by Ante Budimir (Croatia) from inside the box towards the middle of the goal looks like it's in, but Gianluigi Donnarumma makes a brilliant save.",key_event,Save,"Budimir, Donnarumma",Croatia,173
+croatia_italy,55,0,55,"Goal! Luka Modric (Croatia) fires the rebound into the roof of the net after the ball breaks to him in the box. The score is 1:0.",key_event,Goal,Modric,Croatia,136
+croatia_italy,57,0,57,"Substitution. Federico Dimarco makes way for Federico Chiesa (Italy).",key_event,Substitution,"Dimarco, Chiesa",Italy,70
+croatia_italy,58,0,58,"Davide Frattesi (Italy) tries his luck and takes a shot from inside the box. His effort on goal is blocked by a defender. The ball is out of play. A goal-scoring opportunity from a corner for Italy.",general,Corner,Frattesi,Italy,189
+croatia_italy,58,0,58,"Giacomo Raspadori (Italy) takes the corner kick, but Dominik Livakovic reads it well and stops the effort.",general,Corner,"Raspadori, Livakovic",Italy,114
+croatia_italy,60,0,60,"Danny Makkelie shows a yellow card to Luka Modric (Croatia) for his blatant foul.",key_event,Yellow Card,Modric,Croatia,82
+croatia_italy,61,0,61,"The game is interrupted. Ante Budimir (Croatia) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",general,General,Budimir,Croatia,179
+croatia_italy,61,0,61,"Federico Chiesa (Italy) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball. The linesman points to the corner flag, Italy are going to take it.",general,Corner,Chiesa,Italy,209
+croatia_italy,61,0,61,"Giacomo Raspadori (Italy) will take the corner.",general,Corner,Raspadori,Italy,50
+croatia_italy,62,0,62,"The corner is swung in and Alessandro Bastoni (Italy) leaps above the defence only to send his header a whisker over the bar from close in.",key_event,Shot,Bastoni,Italy,149
+croatia_italy,65,0,65,"Federico Chiesa (Italy) tries to send the ball in front of the goal, but the opposition's defence averts the threat. Italy get a corner.",general,Corner,Chiesa,Italy,144
+croatia_italy,65,0,65,"Giacomo Raspadori (Italy) takes the corner kick but the ball only finds the head of an opponent.",general,Corner,Raspadori,Italy,105
+croatia_italy,66,0,66,"Davide Frattesi (Italy) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",general,General,Frattesi,Italy,130
+croatia_italy,67,0,67,"Matteo Darmian (Italy) has a crack at goal from inside the box, but the defender somehow makes the block to deny him.",key_event,Shot,Darmian,Italy,127
+croatia_italy,68,0,68,"Davide Frattesi (Italy) tries to pass the ball into the penalty area but it's blocked. Italy will take a corner kick.",general,Corner,Frattesi,Italy,125
+croatia_italy,68,0,68,"Giacomo Raspadori (Italy) launches a cross from the corner, but Dominik Livakovic is alert to thwart the effort.",general,Corner,"Raspadori, Livakovic",Italy,121
+croatia_italy,70,0,70,"Federico Chiesa (Italy) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",general,General,Chiesa,Italy,135
+croatia_italy,70,0,70,"Substitution. Ivan Perisic (Croatia) in, Luka Sucic out.",key_event,Substitution,"Sucic, Perisic",Croatia,62
+croatia_italy,70,0,70,"Here is a change. Mateo Kovacic is going off and Zlatko Dalic gives the last tactical orders to Luka Ivanusec (Croatia).",key_event,Substitution,"Kovacic, Ivanusec, Dalic",Croatia,129
+croatia_italy,71,0,71,"Josko Gvardiol (Croatia) makes a rough challenge and the referee blows for a foul. Italy have a free kick from a promising distance.",general,Free Kick,Gvardiol,Croatia,139
+croatia_italy,72,0,72,"The goalkeeper is not tested by the free kick from 24 metres out by Giacomo Raspadori (Italy) as his effort only hit the wall. Corner kick. Italy will have an opportunity.",general,Corner,Raspadori,Italy,177
+croatia_italy,73,0,73,"Giacomo Raspadori (Italy) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",general,Corner,Raspadori,Italy,131
+croatia_italy,73,0,73,"The referee has issued a yellow card to Luka Ivanusec (Croatia).",key_event,Yellow Card,Ivanusec,Croatia,68
+croatia_italy,75,0,75,"A substitution has been made. Giacomo Raspadori is replaced by Gianluca Scamacca (Italy).",key_event,Substitution,"Raspadori, Scamacca",Italy,91
+croatia_italy,76,0,76,"The linesman signals that Matteo Darmian (Italy) is offside and the referee confirms the decision.",general,Offside,Darmian,Italy,101
+croatia_italy,76,0,76,"Giovanni Di Lorenzo (Italy) sends a promising through ball, but the defence is alert and cuts out the pass.",general,General,Di Lorenzo,Italy,115
+croatia_italy,78,0,78,"Marin Pongracic (Croatia) is booked after bringing down an opponent. Danny Makkelie had an easy-decision to make.",key_event,Yellow Card,Pongracic,Croatia,115
+croatia_italy,80,0,80,"Marcelo Brozovic (Croatia) wastes a good opportunity as his pass into the box is blocked by the defence.",general,General,Brozovic,Croatia,111
+croatia_italy,80,0,80,"Substitution. Luka Modric makes his way off the pitch and Lovro Majer (Croatia) comes on as his replacement.",key_event,Substitution,"Modric, Majer",Croatia,114
+croatia_italy,81,0,81,"Luciano Spalletti has decided to make a change. Nicolo Fagioli (Italy) replaces Jorginho.",key_event,Substitution,"Jorginho, Fagioli, Spalletti",Italy,96
+croatia_italy,81,0,81,"Substitution. Mattia Zaccagni (Italy) has come on for Matteo Darmian.",key_event,Substitution,"Darmian, Zaccagni",Italy,75
+croatia_italy,82,0,82,"Josip Stanisic (Croatia) has tested the patience of referee Danny Makkelie and goes into the book for a previous late challenge.",key_event,Yellow Card,Stanisic,Croatia,133
+croatia_italy,84,0,84,"The referee blows his whistle as Ante Budimir (Croatia) was too aggressive in his challenge.",general,General,Budimir,Croatia,95
+croatia_italy,85,0,85,"Marcelo Brozovic (Croatia) attempted to pick out a free teammate inside the box, but Gianluigi Donnarumma comes off the line to clear the ball away.",general,General,"Brozovic, Donnarumma",Croatia,159
+croatia_italy,87,0,87,"Federico Chiesa (Italy) plays a through ball but overhits it.",general,General,Chiesa,Italy,63
+croatia_italy,90,0,90,"Andrej Kramaric comes off the pitch to be replaced by Josip Juranovic (Croatia).",key_event,Substitution,"Kramaric, Juranovic",Croatia,81
+croatia_italy,90,0,90,"We will have 8 min. of added time.",general,General,,Both,38
+croatia_italy,90,1,90+1,"The attendance for today's match is 38322.",general,General,,Both,47
+croatia_italy,90,1,90+1,"Danny Makkelie shows a yellow card to Marcelo Brozovic (Croatia) for his blatant foul.",key_event,Yellow Card,Brozovic,Croatia,85
+croatia_italy,90,2,90+2,"Gianluca Scamacca (Italy) fires a powerful shot which is blocked. The ball is out of play and the linesman points at the corner flag. Corner to Italy.",general,Corner,Scamacca,Italy,156
+croatia_italy,90,2,90+2,"The corner from Mattia Zaccagni (Italy) is cleared away by the defence.",general,Corner,Zaccagni,Italy,73
+croatia_italy,90,3,90+3,"Riccardo Calafiori (Italy) is booked after bringing down an opponent. Danny Makkelie had an easy-decision to make.",key_event,Yellow Card,Calafiori,Italy,115
+croatia_italy,90,5,90+5,"Nicolo Barella (Italy) clearly holds his opponent to prevent him from getting the ball and the referee immediately stops play.",general,General,Barella,Italy,138
+croatia_italy,90,6,90+6,"Ivan Perisic (Croatia) sends in a pass which fails to reach any of his teammates.",general,General,Perisic,Croatia,80
+croatia_italy,90,6,90+6,"Nicolo Fagioli (Italy) is booked after bringing down an opponent. Danny Makkelie had an easy-decision to make.",key_event,Yellow Card,Fagioli,Italy,115
+croatia_italy,90,8,90+8,"Ante Budimir (Croatia) makes a bad challenge and the referee blows his whistle for a foul.",general,General,Budimir,Croatia,91
+croatia_italy,90,8,90+8,"It's a goal! Mattia Zaccagni (Italy) shows off his superb ability as he volleys the ball from inside the box into the right side of the target. The assist goes to Riccardo Calafiori and the score changes to 1:1.",key_event,Goal,"Zaccagni, Calafiori",Italy,216
+croatia_italy,90,10,90+10,"Luciano Spalletti isn't happy on the touchline after referee Danny Makkelie shows him a yellow card.",key_event,Yellow Card,Spalletti,Italy,110
+croatia_italy,90,10,90+10,"Danny Makkelie is looking at his watch and immediately ends this match.",key_event,Full Time,,Both,73
+

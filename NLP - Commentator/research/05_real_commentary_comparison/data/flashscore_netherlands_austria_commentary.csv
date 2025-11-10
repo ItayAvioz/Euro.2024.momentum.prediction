@@ -1,0 +1,108 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+netherlands_austria,0,0,0,"Today's referee will be Ivan Kruzliak.",general,General,Kruzliak,Both,42
+netherlands_austria,0,0,0,"The players are on the pitch and Austria will have the kick-off.",general,Kick Off,,Austria,65
+netherlands_austria,1,0,1,"Today's match has just started, enjoy the game!",key_event,Kick Off,,Both,51
+netherlands_austria,2,0,2,"Alexander Prass (Austria) clips an inviting cross into the box, but there's no one in a position to get on the end of it.",general,General,Prass,Austria,126
+netherlands_austria,3,0,3,"Philipp Lienhart (Austria) sends a promising through ball, but the defence is alert and cuts out the pass.",general,General,Lienhart,Austria,117
+netherlands_austria,5,0,5,"The Austria players keep the ball and are exchanging a combination of passes. They are waiting for gaps in the defence to open up.",general,General,,Austria,138
+netherlands_austria,6,0,6,"Marko Arnautovic (Austria) sends a cross into the box, but Bart Verbruggen comes off his line to gather the ball.",general,General,"Arnautovic, Verbruggen",Austria,127
+netherlands_austria,6,0,6,"The score has changed! Donyell Malen (Netherlands) turned the ball into his own net.",key_event,Own Goal,Malen,Austria,92
+netherlands_austria,9,0,9,"Jerdy Schouten (Netherlands) delivers a crossfield pass, but the ball is cut out before it reaches its intended target.",general,General,Schouten,Netherlands,134
+netherlands_austria,10,0,10,"One of the defenders reacts at the last minute to brilliantly block a pass from Donyell Malen (Netherlands).",general,General,Malen,Netherlands,118
+netherlands_austria,12,0,12,"Philipp Lienhart (Austria) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",general,General,Lienhart,Austria,133
+netherlands_austria,13,0,13,"Cody Gakpo (Netherlands) commits a rough foul. Ivan Kruzliak stops the game and makes a call.",general,General,Gakpo,Netherlands,98
+netherlands_austria,14,0,14,"What a big chance! Tijjani Reijnders (Netherlands) picks up an inch-perfect pass inside the box and misses the net well wide of the right post.",key_event,Shot,Reijnders,Netherlands,152
+netherlands_austria,15,0,15,"Marcel Sabitzer (Austria) tries to create a chance, but puts too much weight on his pass.",general,General,Sabitzer,Austria,95
+netherlands_austria,15,0,15,"Stefan Posch (Austria) commits a rough challenge and Ivan Kruzliak blows his whistle for a foul.",general,General,Posch,Austria,104
+netherlands_austria,16,0,16,"The referee blows his whistle as Lutsharel Geertruida (Netherlands) was too aggressive in his challenge.",general,General,Geertruida,Netherlands,115
+netherlands_austria,17,0,17,"Maximilian Wober (Austria) makes a bad challenge and the referee blows his whistle for a foul.",general,General,Wober,Austria,98
+netherlands_austria,19,0,19,"The ball possession at the moment is 40:60.",general,General,,Both,47
+netherlands_austria,21,0,21,"Maximilian Wober (Austria) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball goes out of play and Netherlands will have a goal kick.",general,General,Wober,Austria,182
+netherlands_austria,22,0,22,"Romano Schmid (Austria) attempts to slip the ball through the defence, but is unable to find any of his teammates.",general,General,Schmid,Austria,123
+netherlands_austria,23,0,23,"Ivan Kruzliak blows his whistle. Florian Grillitsch (Austria) commits a foul after dangerous play.",general,General,Grillitsch,Austria,105
+netherlands_austria,23,0,23,"Golden chance! Donyell Malen (Netherlands) meets a cross in the box and finds some space for a shot. He produces an inaccurate effort that goes wide of the right post.",key_event,Shot,Malen,Netherlands,177
+netherlands_austria,25,0,25,"Stefan Posch (Austria) should know this behaviour is beyond the rules. He was too careless with his challenge and left Ivan Kruzliak no option but to blow his whistle.",general,General,Posch,Austria,175
+netherlands_austria,26,0,26,"Patrick Wimmer (Austria) robs an opponent of the ball and explodes in anger when Ivan Kruzliak blows for a foul.",general,General,Wimmer,Austria,121
+netherlands_austria,26,0,26,"Donyell Malen (Netherlands) tries to slide the ball through to a teammate but it's well blocked by a defender. Netherlands force a corner. Their opponents will face another attacking threat.",general,Corner,Malen,Netherlands,194
+netherlands_austria,26,0,26,"The corner from Joey Veerman (Netherlands) is intercepted by the defence.",general,Corner,Veerman,Netherlands,73
+netherlands_austria,28,0,28,"Austria are playing excellent possession football at the moment by exchanging some long passes.",general,General,,Austria,103
+netherlands_austria,29,0,29,"Alexander Prass (Austria) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",general,General,Prass,Austria,167
+netherlands_austria,30,0,30,"Marcel Sabitzer (Austria) shoots from outside the box, but his effort is blocked.",key_event,Shot,Sabitzer,Austria,81
+netherlands_austria,30,0,30,"Florian Grillitsch (Austria) blew a promising chance when he got to a rebound just outside the penalty area. He struck it towards the middle of the target, but Bart Verbruggen pulled off a nice save to stop the attempt.",key_event,Save,"Grillitsch, Verbruggen",Austria,223
+netherlands_austria,32,0,32,"This yellow card was deserved. The tackle by Stefan Posch (Austria) was quite harsh and Ivan Kruzliak didn't hesitate to show him a yellow card.",key_event,Yellow Card,Posch,Austria,155
+netherlands_austria,33,0,33,"Ivan Kruzliak shows a yellow card to Patrick Wimmer (Austria) for his blatant foul.",key_event,Yellow Card,Wimmer,Austria,82
+netherlands_austria,33,0,33,"Patrick Wimmer (Austria) will miss the next game because of that yellow card.",general,General,Wimmer,Austria,71
+netherlands_austria,34,0,34,"Joey Veerman (Netherlands) takes the free kick from a long way out but the defender manages to get it clear.",general,Free Kick,Veerman,Netherlands,117
+netherlands_austria,34,0,34,"Tijjani Reijnders (Netherlands) tries his luck with a long-range shot from a rebound, but it isn't precise at all and the ball flies well wide of the left post towards the corner flag. Very poor shot.",key_event,Shot,Reijnders,Netherlands,200
+netherlands_austria,35,0,35,"Ronald Koeman decides to make a substitution. Joey Veerman will be replaced by Xavi Simons (Netherlands).",key_event,Substitution,"Veerman, Simons, Koeman",Netherlands,113
+netherlands_austria,35,0,35,"A cooling break is underway.",general,General,,Both,30
+netherlands_austria,37,0,37,"Austria work the corner short. The ball is passed to a nearby teammate.",general,Corner,,Austria,72
+netherlands_austria,38,0,38,"Marcel Sabitzer (Austria) produces a long-range cannon of a shot after a nice pass. The ball heads towards the bottom left corner, but is stopped by a great save from Bart Verbruggen and the score remains the same.",key_event,Save,"Sabitzer, Verbruggen",Austria,210
+netherlands_austria,38,0,38,"Florian Grillitsch (Austria) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",key_event,Shot,Grillitsch,Austria,183
+netherlands_austria,38,0,38,"Marcel Sabitzer (Austria) picks up a precise pass deep inside the box, but his strike is saved by the keeper.",key_event,Save,"Sabitzer, Verbruggen",Austria,114
+netherlands_austria,39,0,39,"Romano Schmid (Austria) was too forceful with his tackle and Ivan Kruzliak interrupted the game to signal a free kick.",general,General,Schmid,Austria,125
+netherlands_austria,40,0,40,"Patrick Wimmer (Austria) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders.",key_event,Shot,Wimmer,Austria,141
+netherlands_austria,40,0,40,"Memphis Depay (Netherlands) sends over a free kick from long range but the defence is alert.",general,Free Kick,Depay,Netherlands,96
+netherlands_austria,41,0,41,"Jerdy Schouten (Netherlands) expertly controls the pass inside the penalty area and shoots, but it's inadvertently blocked a defender.",key_event,Shot,Schouten,Netherlands,141
+netherlands_austria,42,0,42,"Memphis Depay (Netherlands) rises above the defence inside the box to power a fine header, but the goalkeeper is lucky as the ball flies narrowly wide of the right post.",key_event,Shot,Depay,Netherlands,174
+netherlands_austria,45,0,45,"The fourth official shows 2 min. of added time.",general,General,,Both,54
+netherlands_austria,45,1,45+1,"Romano Schmid (Austria) slides a pass forward, but one of the defenders cuts it out. Austria have been awarded a corner kick.",general,Corner,Schmid,Austria,141
+netherlands_austria,45,2,45+2,"Marcel Sabitzer (Austria) goes over to take a corner kick after one of the defenders makes a good clearance.",general,Corner,Sabitzer,Austria,116
+netherlands_austria,45,2,45+2,"Florian Grillitsch (Austria) reacts well near the penalty spot to connect with the resulting corner, but fails to direct his header into the back of the net. The ball floats high over the bar.",key_event,Shot,Grillitsch,Austria,194
+netherlands_austria,45,3,45+3,"The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",general,Half Time,,Both,130
+netherlands_austria,46,0,46,"The second half gets underway.",key_event,Kick Off,,Both,34
+netherlands_austria,47,0,47,"Goal - 1:1! Xavi Simons tees up Cody Gakpo (Netherlands) inside the box and he curls the ball into the right side of the net and past Patrick Pentz.",key_event,Goal,"Simons, Gakpo, Pentz",Netherlands,159
+netherlands_austria,48,0,48,"Virgil van Dijk (Netherlands) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul. Austria have been awarded a free kick.",general,Free Kick,van Dijk,Netherlands,180
+netherlands_austria,49,0,49,"Romano Schmid (Austria) sends in a lofted cross from a long-range free kick, but his poor effort goes out of play. The ball is off of the pitch and it's a goal kick for Netherlands.",general,Free Kick,Schmid,Austria,180
+netherlands_austria,49,0,49,"Donyell Malen (Netherlands) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",general,General,Malen,Netherlands,123
+netherlands_austria,51,0,51,"Donyell Malen (Netherlands) skips past his man but can't keep the ball in play. The ball goes out of play and Austria will have a goal kick.",general,General,Malen,Netherlands,145
+netherlands_austria,51,0,51,"Virgil van Dijk (Netherlands) makes a reckless foul in order to win the ball from his opponent. Ivan Kruzliak has a clear sight of it and blows his whistle.",general,General,van Dijk,Netherlands,164
+netherlands_austria,53,0,53,"Donyell Malen (Netherlands) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. The ball goes out of play. Netherlands are awarded a corner kick.",general,Corner,Malen,Netherlands,188
+netherlands_austria,54,0,54,"Memphis Depay (Netherlands) will deliver the corner kick.",general,Corner,Depay,Netherlands,60
+netherlands_austria,54,0,54,"Virgil van Dijk (Netherlands) gets himself onto the end of the corner, but his header is blocked.",general,Corner,van Dijk,Netherlands,101
+netherlands_austria,54,0,54,"Memphis Depay (Netherlands) whips in a cross from the corner, but Patrick Pentz is well positioned and punches the ball away.",general,Corner,"Depay, Pentz",Netherlands,138
+netherlands_austria,54,0,54,"Ivan Kruzliak blows his whistle as Virgil van Dijk (Netherlands) used excessive force in the tackle during an attack.",general,General,van Dijk,Netherlands,127
+netherlands_austria,55,0,55,"Patrick Pentz (Austria) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",general,General,Pentz,Austria,138
+netherlands_austria,56,0,56,"Patrick Pentz (Austria) is able to continue to play.",general,General,Pentz,Austria,53
+netherlands_austria,57,0,57,"Ivan Kruzliak has a clear sight and sees a foul from Alexander Prass (Austria).",general,General,Prass,Austria,80
+netherlands_austria,57,0,57,"Stefan de Vrij (Netherlands) plants a header from the edge of the box after a nice cross from the free kick. It lacks accuracy and the ball flies well wide of the left post.",key_event,Shot,de Vrij,Netherlands,175
+netherlands_austria,58,0,58,"Patrick Wimmer (Austria) makes an overly-aggressive challenge and Ivan Kruzliak blows his whistle for a foul.",general,General,Wimmer,Austria,111
+netherlands_austria,59,0,59,"Romano Schmid (Austria) scores a beautiful goal. He climbs high to meet a cross and finds the back of the net with a bullet header that goes into the bottom left corner.",key_event,Goal,Schmid,Austria,171
+netherlands_austria,62,0,62,"Donyell Malen (Netherlands) gives away a foul for a clumsy challenge. Referee Ivan Kruzliak saw the whole situation.",general,General,Malen,Netherlands,114
+netherlands_austria,62,0,62,"The referee signals a substitution. Leopold Querfeld (Austria) is brought on as a substitute for Philipp Lienhart.",key_event,Substitution,"Lienhart, Querfeld",Austria,121
+netherlands_austria,62,0,62,"Ralf Rangnick has decided to make a change. Christoph Baumgartner (Austria) replaces Patrick Wimmer.",key_event,Substitution,"Wimmer, Baumgartner, Rangnick",Austria,107
+netherlands_austria,62,0,62,"Ralf Rangnick prepares a substitution. Florian Grillitsch is replaced by Konrad Laimer (Austria).",key_event,Substitution,"Grillitsch, Laimer, Rangnick",Austria,100
+netherlands_austria,65,0,65,"The referee stops play as the linesman flags Cody Gakpo (Netherlands) offside.",general,Offside,Gakpo,Netherlands,83
+netherlands_austria,65,0,65,"Here is a change. Tijjani Reijnders is going off and Ronald Koeman gives the last tactical orders to Georginio Wijnaldum (Netherlands).",key_event,Substitution,"Reijnders, Wijnaldum, Koeman",Netherlands,134
+netherlands_austria,65,0,65,"Substitution. Micky van de Ven (Netherlands) has come on for Nathan Ake.",key_event,Substitution,"Ake, van de Ven",Netherlands,77
+netherlands_austria,68,0,68,"Alexander Prass (Austria) makes a rough challenge and the referee blows for a foul.",general,General,Prass,Austria,84
+netherlands_austria,71,0,71,"Ivan Kruzliak couldn't ignore the rough tackle by Stefan Posch (Austria) and blew his whistle. It's a free kick to Netherlands, but they probably won't attempt a direct shot on goal from here.",general,Free Kick,Posch,Austria,188
+netherlands_austria,72,0,72,"Substitution. Donyell Malen will be replaced by Wout Weghorst (Netherlands).",key_event,Substitution,"Malen, Weghorst",Netherlands,79
+netherlands_austria,72,0,72,"Memphis Depay (Netherlands) whips in the resulting set piece but it's cleared.",general,Free Kick,Depay,Netherlands,79
+netherlands_austria,72,0,72,"Memphis Depay (Netherlands) is obviously not following the Golden Rule: \"Treat others as you want to be treated.\" He makes a bad challenge and leaves Ivan Kruzliak with no other option than to blow for a foul.",general,General,Depay,Netherlands,206
+netherlands_austria,73,0,73,"The keeper doesn't have to worry about this one. Xavi Simons (Netherlands) sacrificed accuracy for power, and thus his attempt went well wide of the left post.",key_event,Shot,Simons,Netherlands,165
+netherlands_austria,75,0,75,"Another attempt to send the ball beyond the defence by Alexander Prass (Austria) is thwarted and cleared to safety.",general,General,Prass,Austria,123
+netherlands_austria,75,0,75,"The ball is in the net but it's immediately ruled out by referee Ivan Kruzliak due to a handball, much to the disappointment of the Memphis Depay (Netherlands) and his team.",key_event,VAR,Depay,Netherlands,177
+netherlands_austria,76,0,76,"Possible change! There could be handball by the attacking team in the lead up. Referee Ivan Kruzliak wants to look at it, so he's going to review using VAR.",general,VAR,Kruzliak,Netherlands,159
+netherlands_austria,78,0,78,"Referee Ivan Kruzliak points to the centre spot to indicate that the goal stands after the VAR review. The Netherlands players celebrate. Goal! Wout Weghorst gets to the ball and heads it over the defence to Memphis Depay (Netherlands), who meets it nicely and fires in into the back of the net. 2:2.",key_event,Goal,"Weghorst, Depay, Kruzliak",Netherlands,291
+netherlands_austria,78,0,78,"That will be all from Marko Arnautovic who is being replaced by the fresh legs of Michael Gregoritsch (Austria).",key_event,Substitution,"Arnautovic, Gregoritsch",Austria,121
+netherlands_austria,80,0,80,"Patrick Pentz comes off his line to intercept the corner from Memphis Depay (Netherlands).",general,Corner,"Pentz, Depay",Netherlands,93
+netherlands_austria,80,0,80,"Goal - 2:3! Christoph Baumgartner tees up Marcel Sabitzer (Austria) inside the box and he slams the ball into the roof of the net and past Bart Verbruggen.",key_event,Goal,"Baumgartner, Sabitzer, Verbruggen",Austria,164
+netherlands_austria,83,0,83,"Christoph Baumgartner (Austria) has a goal ruled out for offside!",key_event,Disallowed Goal,Baumgartner,Austria,67
+netherlands_austria,83,0,83,"The Austria players celebrate the goal but the referee immediately signals a VAR review. Let's see what happens. Big moment in the game.",general,VAR,,Austria,141
+netherlands_austria,83,0,83,"The referee disallows the goal after the intervention of the VAR!",key_event,VAR,,Austria,67
+netherlands_austria,84,0,84,"Cody Gakpo (Netherlands) tries to find the head of a teammate in the box but overhits the cross. The ball goes out of play and Austria will have a goal kick.",general,General,Gakpo,Netherlands,159
+netherlands_austria,86,0,86,"Wout Weghorst (Netherlands) wins himself enough space to connect with a cross inside the box, but his fine header goes narrowly over the crossbar!",key_event,Shot,Weghorst,Netherlands,159
+netherlands_austria,89,0,89,"The attendance for today's match is 68363.",general,General,,Both,47
+netherlands_austria,90,0,90,"We will have 6 min. of added time.",general,General,,Both,38
+netherlands_austria,90,2,90+2,"It is time for a substitution. Andreas Weimann (Austria) is on for Romano Schmid.",key_event,Substitution,"Schmid, Weimann",Austria,90
+netherlands_austria,90,3,90+3,"Xavi Simons (Netherlands) sends a teasing cross into the area, but Patrick Pentz intercepts the ball.",general,General,"Simons, Pentz",Netherlands,107
+netherlands_austria,90,3,90+3,"Half-chance! Micky van de Ven (Netherlands) plays a pass into the box, but Patrick Pentz reacts well to snuff out the attack. Netherlands force their opponents to concede a corner.",general,Corner,"van de Ven, Pentz",Netherlands,187
+netherlands_austria,90,4,90+4,"Leopold Querfeld (Austria) is down injured and the referee stops play so that he can receive medical treatment.",general,General,Querfeld,Austria,124
+netherlands_austria,90,4,90+4,"This is a yellow card! Leopold Querfeld (Austria) is not happy with the decision, but from our point of view it was clear.",key_event,Yellow Card,Querfeld,Austria,129
+netherlands_austria,90,5,90+5,"Memphis Depay (Netherlands) launches an inaccurate corner kick into the penalty area.",general,Corner,Depay,Netherlands,87
+netherlands_austria,90,5,90+5,"The defender bravely blocks the shot from Memphis Depay (Netherlands) inside the box.",key_event,Shot,Depay,Netherlands,85
+netherlands_austria,90,5,90+5,"Lutsharel Geertruida (Netherlands) makes a rough challenge and Ivan Kruzliak blows his whistle for a foul.",general,General,Geertruida,Netherlands,111
+netherlands_austria,90,6,90+6,"Virgil van Dijk (Netherlands) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone. The ball is off of the pitch and it's a goal kick for Austria.",general,General,van Dijk,Netherlands,188
+netherlands_austria,90,7,90+7,"That's the end of the match.",key_event,Full Time,,Both,29
+

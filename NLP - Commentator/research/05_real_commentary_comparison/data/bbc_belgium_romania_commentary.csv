@@ -1,0 +1,54 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+belgium_romania,1,0,1,"And away we go...",key_event,Kick Off,,Both,18
+belgium_romania,2,0,2,"Oh, WOW! Talk about fast starts. Belgium could not wish for a better start as a sweeping move ends with Romelu Lukaku teeing-up Youri Tielemans for the sweetest of finishes from about 18 yards. The Red Devils are up and running.",key_event,Goal,"Lukaku, Tielemans",Belgium,247
+belgium_romania,4,0,4,"Belgium's goal after 73 seconds is their earliest ever in a match at a major international tournament.",general,General,,Belgium,104
+belgium_romania,5,0,5,"This is being played at 200mph! Now Romania come close to an equaliser through Radu Dragusin's header but Koen Casteels makes a fine save pushing it over the bar. It's end-to-end stuff.",key_event,Save,"Dragusin, Casteels",Romania,211
+belgium_romania,7,0,7,"More on that goal by Tielemans. He struck it first-time and it was only going to hit the back of the net. Sweet, sweet finish.",general,General,Tielemans,Belgium,142
+belgium_romania,9,0,9,"All four teams in Group E have three points as it stands. Next Wednesday's final round of games in this group could be fun!",general,General,,Both,128
+belgium_romania,11,0,11,"Jeremy Doku is teasing the Romanian defence with some clever play. The Manchester City man tries to set up Youri Tielemans for another goal but this time his attempt is blocked.",general,General,"Doku, Tielemans",Belgium,191
+belgium_romania,13,0,13,"Cologne is witnessing one of the most frantic and entertaining starts to a game at Euro 2024...as well as one of the best atmospheres. Honestly, both sets of fans in the stands are giving off BIG energy.",general,General,,Both,205
+belgium_romania,19,0,19,"Make no mistake, Belgium are on it tonight. They are playing like they are No 3 in the world.",general,General,,Belgium,99
+belgium_romania,22,0,22,"That's a great stat, Chris. This Euros is a great watch.",general,General,,Both,59
+belgium_romania,24,0,24,"It's all Belgium at this moment in time. After Jeremy Doku tries to walk the ball into the net, Belgium win a corner before Romania pounce on the counter. It's like a winner-takes-all tie.",general,Corner,Doku,Belgium,196
+belgium_romania,26,0,26,"What is it about Saturday nights and Euro 2024? Albania scored after 23 SECONDS against Italy last Saturday. Belgium have scored after 73 SECONDS in Cologne",general,General,,Both,156
+belgium_romania,28,0,28,"Just the one attempt on target by Romania so far. It brought a fine save from Koen Casteels. It seems a long time ago already. They've been on the ropes since.",general,General,Casteels,Romania,171
+belgium_romania,30,0,30,"The Red Devils are being devilishly exciting. They're really turning on the style with clever flicks and turns. Jeremy Doku is full of twists and turns. He's just brought another save from Florin Nita.",general,General,"Doku, Nita",Belgium,214
+belgium_romania,32,0,32,"Another attempt. This time Dodi Lukebakio's shot takes a deflection and flies over the bar. Belgium look bright and alert. That was their ninth attempt.",general,General,Lukebakio,Belgium,160
+belgium_romania,35,0,35,"A yellow card for Dodi Lukebakio for a foul on the yellow-shirted Denis Dragus. The Belgium player had no choice after a poor pass but he will now miss Belgium's final group game.",key_event,Yellow Card,"Lukebakio, Dragus",Belgium,201
+belgium_romania,37,0,37,"Despite Belgium's dominance, Romania are still in this and look dangerous on the counter. In all honesty the Red Devils should have a more handsome lead. There will be serious questions asked if they do not win this.",general,General,,Both,217
+belgium_romania,39,0,39,"Oh my goodness! Almost a big chance for Romania as Denis Dragus almost gets to the ball before goalkeeper Koen Casteels after a long ball forward.",general,General,"Dragus, Casteels",Romania,158
+belgium_romania,41,0,41,"Romania are struggling to get a touch. Belgium continue to dominate with half-time looming.",general,General,,Both,102
+belgium_romania,42,0,42,"Dozens and dozens of blue, yellow and red flags being waved in the stands. Romania's fans still believe.",general,General,,Both,109
+belgium_romania,45,0,45,"Corner to Romania right at the end of the first half. It falls nicely for Andrei Burca but he cannot keep his header down.",general,Corner,Burca,Romania,138
+belgium_romania,46,0,46,"Will Belgium finish the job? Back under way in Cologne.",key_event,Kick Off,,Both,61
+belgium_romania,47,0,47,"And Romania come flying out of the traps as Dennis Man forces a save in the opening minute of the second half. It was comfortable for Koen Casteels in the end.",general,General,"Man, Casteels",Romania,174
+belgium_romania,48,0,48,"A huge chance for Valentin Mihaila! He looks as though he is clean through with a Belgium defender trailing in his wake but his final touch isn't the best and he balloons it over. Will Romania be left regretting that miss?",key_event,Shot,Mihaila,Romania,239
+belgium_romania,50,0,50,"This is so well poised. Intriguing, exciting, riveting and engrossing.",general,General,,Both,75
+belgium_romania,52,0,52,"Now KDB doing KDB things. Kevin de Bruyne spots an opening just outside Romania's penalty area and tries to bend it into the corner. It falls agonisingly wide. Over the hill? Do me a favour...",general,General,de Bruyne,Belgium,210
+belgium_romania,53,0,53,"Jan Vertonghen is caught by Denis Dragus. It ends in the most reluctant handshake I have ever seen.",general,General,"Vertonghen, Dragus",Belgium,117
+belgium_romania,54,0,54,"Another chance for Kevin de Bruyne. Not as spectacular as his attempt a few moments ago but it still forces Florin Nita to react.",general,General,"de Bruyne, Nita",Belgium,150
+belgium_romania,56,0,56,"Leandro Trossard is introduced to the action in place of Dodi Lukébakio, who was booked earlier and will miss Belgium's final group game against Ukraine.",key_event,Substitution,"Lukebakio, Trossard",Belgium,173
+belgium_romania,58,0,58,"ITV are reporting ""one or two missiles"" were thrown at Jeremy Doku from the crowd after another chance for Belgium goes begging. Not good news.",general,General,Doku,Belgium,155
+belgium_romania,60,0,60,"Nicusor Bancu becomes the first Romania player to be booked. There are flares being held aloft behind the goal where Romania's fans are seated. They're making one heck of a noise too.",key_event,Yellow Card,Bancu,Romania,198
+belgium_romania,61,0,61,"Outstanding match. Outstanding atmosphere. Will Romania get themselves back into this?",general,General,,Both,90
+belgium_romania,63,0,63,"Romelu Lukaku's Euro 2024 is up and running! A composed finish after a lovely pass from Kevin de Bruyne through the middle. It''s really well taken by Lukaku who spins away to celebrate and is mobbed by Belgium's substitutes.",key_event,VAR,"Lukaku, de Bruyne",Belgium,252
+belgium_romania,63,0,63,"It won't count! A huge roar from Romania's fans. It's been chalked off for offside.",key_event,VAR,Lukaku,Belgium,95
+belgium_romania,65,0,65,"Romelu Lukaku at Euro 2024... Three goal celebrations. Three goals disallowed. He looks furious!",general,VAR,Lukaku,Belgium,109
+belgium_romania,67,0,67,"Romelu Lukaku's goal was ruled out by VAR. It took about 20 seconds to make the decision and get the game back under way. There are lessons to be learned there...",general,VAR,Lukaku,Belgium,166
+belgium_romania,69,0,69,"Honestly, you cannot take your eyes off this! Now Dennis Man is charging towards the Belgium goal but his finish lacks conviction and Koen Casteels makes the save. Big, big chance.",key_event,Save,"Man, Casteels",Romania,195
+belgium_romania,70,0,70,"This might just be the best 1-0 I have seen in years. It's compelling, edge of your seat stuff.",general,General,,Both,103
+belgium_romania,72,0,72,"There's still time for Romania. They've made a couple of change. Off go Marius Marin and Valentin Mihaila. On come Ianis Hagi and Darius Olaru.",key_event,Substitution,"Marin, Mihaila, Hagi, Olaru",Romania,163
+belgium_romania,74,0,74,"Now Belgium have sent on Yannick Carrasco and Orel Mangala to see this out. Goalscorer Youri Tielemans has been replaced. So too Jeremy Doku.",key_event,Substitution,"Tielemans, Doku, Carrasco, Mangala",Belgium,167
+belgium_romania,76,0,76,"There's a rare lull in action. Are both teams preparing for a late surge? Loads of energy all around the ground as well. Both sets of fans are giving it everything.",general,General,,Both,170
+belgium_romania,79,0,79,"This one is going to count, isn't it? Romania are caught out at the back and Kevin de Bruyne holds off Radu Dragusin before firing past Florin Nita. There's a goal check going on...",key_event,Goal,"de Bruyne, Dragusin, Nita",Belgium,208
+belgium_romania,80,0,80,"Goal check over. And the Belgium celebrations can really begin.",general,Goal,,Belgium,69
+belgium_romania,82,0,82,"Belgium are trying to put this to bed. Leandro Trossard tries to square it to Romelu Lukaku but his pass is intercepted.",general,General,"Trossard, Lukaku",Belgium,135
+belgium_romania,83,0,83,"One assist for Romelu Lukaku. One goal for Kevin de Bruyne. Belgium's old guard have shown up in Cologne.",general,General,"Lukaku, de Bruyne",Belgium,123
+belgium_romania,85,0,85,"Almost a goal back for Romania! Substitute Denis Alibec dinks it towards the net but it lacks power and Belgium are able to clear.",general,General,Alibec,Romania,141
+belgium_romania,87,0,87,"Belgium were embarrassed by Slovakia the other day. Their response has been impressive. They thoroughly deserve this.",general,General,,Belgium,126
+belgium_romania,89,0,89,"Romalu Lukaku wants a goal! More frustration for Belgium's No 10 as he is denied by the foot of Florin Nita. Will he score at these Euros?",general,General,"Lukaku, Nita",Belgium,154
+belgium_romania,90,0,90,"We're going to have four minutes of additional time. By the way, do not write Romania off from the Euros. They face Slovakia next and can still advance.",general,General,,Both,158
+belgium_romania,90,1,90+1,"Here come Romania. A long-range attempt by Radu Dragusin. It's deflected over for a corner.",general,Corner,Dragusin,Romania,101
+belgium_romania,90,3,90+3,"Belgium's fans are partying in the stands. And why not? This is the night their Euros have come alive.",general,General,,Belgium,110
+belgium_romania,90,3,90+3,"Belgium's Euro 2024 is up and running!",key_event,Full Time,,Belgium,41
+

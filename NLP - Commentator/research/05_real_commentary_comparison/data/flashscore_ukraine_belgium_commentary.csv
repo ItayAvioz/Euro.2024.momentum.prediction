@@ -1,0 +1,109 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+ukraine_belgium,0,0,0,"Anthony Taylor will referee today's match.",general,General,Taylor,Both,47
+ukraine_belgium,0,0,0,"The players are out at last! Belgium will take the kick-off.",general,Kick Off,,Belgium,61
+ukraine_belgium,1,0,1,"The match has just started.",key_event,Kick Off,,Both,28
+ukraine_belgium,1,0,1,"Roman Yaremchuk (Ukraine) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance. Ukraine will take a corner kick.",general,Corner,Yaremchuk,Ukraine,166
+ukraine_belgium,1,0,1,"Georgiy Sudakov (Ukraine) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",general,Corner,Sudakov,Ukraine,123
+ukraine_belgium,2,0,2,"Georgiy Sudakov (Ukraine) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",general,General,Sudakov,Ukraine,141
+ukraine_belgium,2,0,2,"Arthur Theate (Belgium) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",general,General,Theate,Belgium,127
+ukraine_belgium,4,0,4,"Vitali Mykolenko (Ukraine) sends a cross into the box, but Koen Casteels comes off his line to gather the ball.",general,General,"Mykolenko, Casteels",Ukraine,120
+ukraine_belgium,5,0,5,"Arthur Theate (Belgium) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",general,General,Theate,Belgium,172
+ukraine_belgium,6,0,6,"Youri Tielemans (Belgium) plays a through ball but overhits it.",general,General,Tielemans,Belgium,62
+ukraine_belgium,6,0,6,"Anthony Taylor blows his whistle. Wout Faes (Belgium) commits a foul after dangerous play.",general,General,Faes,Belgium,94
+ukraine_belgium,7,0,7,"Romelu Lukaku (Belgium) receives a diagonal pass, bursts into the box and shoots towards the bottom left corner. Anatoliy Trubin is well positioned, though, and it's a comfortable save.",key_event,Save,"Lukaku, Trubin",Belgium,189
+ukraine_belgium,10,0,10,"Anthony Taylor blows his whistle for a foul after Ilya Zabarnyi (Ukraine) hacks down one of his opponents.",general,General,Zabarnyi,Ukraine,111
+ukraine_belgium,11,0,11,"Youri Tielemans (Belgium) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance.",general,General,Tielemans,Belgium,173
+ukraine_belgium,12,0,12,"Kevin De Bruyne (Belgium) tries to latch onto a through ball, but it's too long. The ball is off of the pitch and it's a goal kick for Ukraine.",general,General,De Bruyne,Belgium,143
+ukraine_belgium,13,0,13,"Kevin De Bruyne (Belgium) slides a pass forward, but one of the defenders cuts it out. Belgium have been awarded a corner kick.",general,Corner,De Bruyne,Belgium,136
+ukraine_belgium,14,0,14,"Kevin De Bruyne (Belgium) takes the corner kick but the ball only finds the head of an opponent. The ball goes out of play. Belgium are awarded a corner kick.",general,Corner,De Bruyne,Belgium,159
+ukraine_belgium,14,0,14,"Kevin De Bruyne (Belgium) takes the corner but fails to find any of his teammates as he overhits the effort.",general,Corner,De Bruyne,Belgium,118
+ukraine_belgium,16,0,16,"The Belgium players are exchanging some short passes to try and open up the opposition's defence and hit them swiftly on the break.",general,General,,Belgium,138
+ukraine_belgium,18,0,18,"Dangerous play by Roman Yaremchuk (Ukraine). Anthony Taylor blows his whistle for a foul.",general,General,Yaremchuk,Ukraine,92
+ukraine_belgium,19,0,19,"Kevin De Bruyne (Belgium) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",general,General,De Bruyne,Belgium,184
+ukraine_belgium,20,0,20,"Roman Yaremchuk (Ukraine) slams the ball towards the middle of the goal, but it fails to surprise Koen Casteels and he's equal to it.",key_event,Save,"Yaremchuk, Casteels",Ukraine,143
+ukraine_belgium,21,0,21,"A long-range effort by Artem Dovbyk (Ukraine) after he received a good pass was well wide of the right post.",key_event,Shot,Dovbyk,Ukraine,114
+ukraine_belgium,23,0,23,"Timothy Castagne (Belgium) fails to reach the box as the defence clears the ball away to safety.",general,General,Castagne,Belgium,102
+ukraine_belgium,23,0,23,"Arthur Theate (Belgium) attempts to surprise the keeper with a nice shot, but it lacks accuracy and goes well wide of the right post.",key_event,Shot,Theate,Belgium,142
+ukraine_belgium,25,0,25,"Youri Tielemans (Belgium) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",general,General,Tielemans,Belgium,126
+ukraine_belgium,26,0,26,"Kevin De Bruyne (Belgium) sends a pass into the penalty area, but the opponent manages to cut it out.",general,General,De Bruyne,Belgium,110
+ukraine_belgium,26,0,26,"Mykola Shaparenko (Ukraine) fires the ball from distance, but it's blocked by a defender.",key_event,Shot,Shaparenko,Ukraine,92
+ukraine_belgium,27,0,27,"Kevin De Bruyne (Belgium) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",general,General,De Bruyne,Belgium,148
+ukraine_belgium,28,0,28,"Georgiy Sudakov (Ukraine) receives a pass and decides to smash the ball from long range, but his poor effort sails high over the bar.",key_event,Shot,Sudakov,Ukraine,144
+ukraine_belgium,29,0,29,"Vitali Mykolenko crosses the ball right onto the head of Roman Yaremchuk (Ukraine), but his firm header from around the penalty spot shoots well wide of the right post.",key_event,Shot,"Mykolenko, Yaremchuk",Ukraine,177
+ukraine_belgium,31,0,31,"Anthony Taylor has a clear sight and sees a foul from Oleksandr Svatok (Ukraine). It's a free kick to Belgium, but they probably won't attempt a direct shot on goal from here.",general,Free Kick,Svatok,Ukraine,176
+ukraine_belgium,33,0,33,"The free kick from long distance is taken by Kevin De Bruyne (Belgium), who fires in a direct effort just wide of the right post. What a chance!",key_event,Shot,De Bruyne,Belgium,159
+ukraine_belgium,34,0,34,"A pass travels right across the box to Georgiy Sudakov (Ukraine) and gives him a sight of goal. He tries to beat the keeper inside the left post, but Koen Casteels denies him with a decent save.",key_event,Save,"Sudakov, Casteels",Ukraine,203
+ukraine_belgium,36,0,36,"Oleksandr Svatok (Ukraine) pulls the jersey of one of the opposition players and Anthony Taylor blows his whistle for a foul.",general,General,Svatok,Ukraine,129
+ukraine_belgium,37,0,37,"A cross is clipped into the penalty area by Jeremy Doku (Belgium) but poses no threat. The ball goes out of play and Ukraine will have a goal kick.",general,General,Doku,Belgium,153
+ukraine_belgium,38,0,38,"Oleksandr Svatok (Ukraine) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",general,General,Svatok,Ukraine,127
+ukraine_belgium,39,0,39,"Roman Yaremchuk (Ukraine) escapes without any punishment from the referee after using excessive force to foul his opponent. A free kick is awarded to Belgium.",general,Free Kick,Yaremchuk,Ukraine,161
+ukraine_belgium,39,0,39,"The game is interrupted now, Georgiy Sudakov (Ukraine) picks up a knock and the physio has to come on.",general,General,Sudakov,Ukraine,112
+ukraine_belgium,41,0,41,"Kevin De Bruyne (Belgium) takes the free kick from a long way out but the defender manages to get it clear.",general,Free Kick,De Bruyne,Belgium,113
+ukraine_belgium,41,0,41,"Georgiy Sudakov (Ukraine) is able to continue to play.",general,General,Sudakov,Ukraine,55
+ukraine_belgium,42,0,42,"Roman Yaremchuk (Ukraine) breaks past challenges inside the box, but puts too much pace on his pass to Artem Dovbyk.",general,General,Yaremchuk,Ukraine,127
+ukraine_belgium,43,0,43,"This yellow card was deserved. The tackle by Wout Faes (Belgium) was quite harsh and Anthony Taylor didn't hesitate to show him a yellow card.",key_event,Yellow Card,Faes,Belgium,155
+ukraine_belgium,44,0,44,"Koen Casteels reacts well to deny a long-range free kick from Georgiy Sudakov (Ukraine) towards the bottom left corner.",key_event,Save,"Casteels, Sudakov",Ukraine,128
+ukraine_belgium,45,0,45,"The fourth official shows 2 min. of added time.",general,General,,Both,54
+ukraine_belgium,45,1,45+1,"Kevin De Bruyne (Belgium) meets a delivery on the edge of the penalty area and shoots towards the left side of the goal. He didn't put enough power into the effort, though, and the keeper pulls off an easy save.",key_event,Save,"De Bruyne, Trubin",Belgium,215
+ukraine_belgium,45,1,45+1,"Roman Yaremchuk (Ukraine) finds himself behind the opposition's defence, but the game is stopped for offside.",general,Offside,Yaremchuk,Ukraine,115
+ukraine_belgium,45,2,45+2,"The first half of today's match has just finished.",general,Half Time,,Both,55
+ukraine_belgium,46,0,46,"The half-time break is over and the second half is about to start.",key_event,Kick Off,,Both,71
+ukraine_belgium,46,0,46,"Ilya Zabarnyi (Ukraine) gives away a foul for a clumsy challenge. Referee Anthony Taylor saw the whole situation.",general,General,Zabarnyi,Ukraine,118
+ukraine_belgium,47,0,47,"Another attempt to send the ball beyond the defence by Leandro Trossard (Belgium) is thwarted and cleared to safety.",general,General,Trossard,Belgium,130
+ukraine_belgium,48,0,48,"The attendance for today's match is 54000.",general,General,,Both,47
+ukraine_belgium,50,0,50,"The referee blows his whistle as Jeremy Doku (Belgium) was too aggressive in his challenge.",general,General,Doku,Belgium,97
+ukraine_belgium,52,0,52,"Jeremy Doku (Belgium) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Doku,Belgium,163
+ukraine_belgium,52,0,52,"Youri Tielemans (Belgium) unleashed a powerful long-range strike, but the ball was blocked by a defender on its way. Corner kick. Belgium will have an opportunity.",general,Corner,Tielemans,Belgium,167
+ukraine_belgium,52,0,52,"Kevin De Bruyne (Belgium) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",general,Corner,De Bruyne,Belgium,129
+ukraine_belgium,53,0,53,"This was a nice set play that lacked a finish. Unmarked Youri Tielemans (Belgium) controlled a precise lofted pass from the corner kick and unleashed a long-range shot. He hit the ball very poorly, sending it miles of the right post.",key_event,Shot,Tielemans,Belgium,237
+ukraine_belgium,54,0,54,"Vitali Mykolenko (Ukraine) tries to latch onto a through ball, but it's too long. The ball goes out of play and Belgium will have a goal kick.",general,General,Mykolenko,Ukraine,142
+ukraine_belgium,55,0,55,"Kevin De Bruyne (Belgium) tries to play a through ball from just inside the box to Leandro Trossard, but one of the defending players is alert to the danger and makes a timely interception. Belgium win a corner.",general,Corner,De Bruyne,Belgium,202
+ukraine_belgium,55,0,55,"Kevin De Bruyne (Belgium) takes a short corner kick.",general,Corner,De Bruyne,Belgium,54
+ukraine_belgium,56,0,56,"Jeremy Doku (Belgium) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",key_event,Shot,Doku,Belgium,146
+ukraine_belgium,56,0,56,"Vitali Mykolenko (Ukraine) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",general,General,Mykolenko,Ukraine,148
+ukraine_belgium,58,0,58,"Jeremy Doku (Belgium) breaks past challenges inside the box, but puts too much pace on his pass to Romelu Lukaku.",general,General,Doku,Belgium,123
+ukraine_belgium,58,0,58,"Vitali Mykolenko is substituted due to injury. Sergiy Rebrov gives a chance to Oleksandr Zinchenko (Ukraine).",key_event,Substitution,"Mykolenko, Zinchenko, Rebrov",Ukraine,111
+ukraine_belgium,59,0,59,"Amadou Onana (Belgium) slides a pass forward, but one of the defenders cuts it out.",general,General,Onana,Belgium,87
+ukraine_belgium,59,0,59,"Mykola Shaparenko (Ukraine) finds himself beyond the last defender but the linesman raises his flag for offside.",general,Offside,Shaparenko,Ukraine,115
+ukraine_belgium,62,0,62,"Substitution. Youri Tielemans leaves the pitch and is replaced by Orel Mangala (Belgium).",key_event,Substitution,"Tielemans, Mangala",Belgium,89
+ukraine_belgium,62,0,62,"Domenico Tedesco has decided to make a change. Yannick Carrasco (Belgium) replaces Leandro Trossard.",key_event,Substitution,"Trossard, Carrasco, Tedesco",Belgium,107
+ukraine_belgium,62,0,62,"Anthony Taylor blows for a foul after Orel Mangala (Belgium) was too aggressive in the battle for the ball.",general,General,Mangala,Belgium,113
+ukraine_belgium,63,0,63,"Arthur Theate (Belgium) makes a bad challenge and the referee blows his whistle for a foul.",general,General,Theate,Belgium,95
+ukraine_belgium,65,0,65,"Romelu Lukaku (Belgium) receives a diagonal pass, bursts into the box and shoots low towards the middle of the goal. Anatoliy Trubin is well positioned, though, and it's a comfortable save.",key_event,Save,"Lukaku, Trubin",Belgium,189
+ukraine_belgium,67,0,67,"Yannick Carrasco (Belgium) sets himself up and has a crack at goal from the edge of the box. The shot heads low to the middle of the goal, but Anatoliy Trubin tracks it all the way and makes an easy save.",key_event,Save,"Carrasco, Trubin",Belgium,206
+ukraine_belgium,69,0,69,"Artem Dovbyk (Ukraine) is booked after bringing down an opponent. Anthony Taylor had an easy-decision to make.",key_event,Yellow Card,Dovbyk,Ukraine,115
+ukraine_belgium,70,0,70,"Substitution. Taras Stepanenko (Ukraine) replaces Volodymyr Brazhko.",key_event,Substitution,"Brazhko, Stepanenko",Ukraine,72
+ukraine_belgium,70,0,70,"Sergiy Rebrov has decided to introduce fresh legs, with Ruslan Malinovsky (Ukraine) replacing Roman Yaremchuk.",key_event,Substitution,"Yaremchuk, Malinovsky, Rebrov",Ukraine,111
+ukraine_belgium,70,0,70,"Substitution. Vladyslav Vanat (Ukraine) on for Mykola Shaparenko.",key_event,Substitution,"Shaparenko, Vanat",Ukraine,67
+ukraine_belgium,72,0,72,"A pass by Jeremy Doku (Belgium) ends up in no man's land, and the attacking effort comes to an end.",general,General,Doku,Belgium,109
+ukraine_belgium,73,0,73,"Yannick Carrasco (Belgium) receives a low pass just outside the box and unleashes a fine strike to the bottom left corner. Anatoliy Trubin pulls off a reflexive save to block his effort. Nice goalkeeping skill.",key_event,Save,"Carrasco, Trubin",Belgium,216
+ukraine_belgium,73,0,73,"Jeremy Doku (Belgium) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders.",key_event,Shot,Doku,Belgium,162
+ukraine_belgium,74,0,74,"The ball is cleared after Artem Dovbyk (Ukraine) attempted to dribble past an opposing player.",general,General,Dovbyk,Ukraine,95
+ukraine_belgium,75,0,75,"Artem Dovbyk (Ukraine) reacts well to latch onto a rebound inside the box, but his shot is well blocked.",key_event,Shot,Dovbyk,Ukraine,109
+ukraine_belgium,77,0,77,"Arthur Theate (Belgium) makes a rough challenge and Anthony Taylor blows his whistle for a foul.",general,General,Theate,Belgium,101
+ukraine_belgium,77,0,77,"Substitution. Johan Bakayoko (Belgium) has come on for Jeremy Doku.",key_event,Substitution,"Doku, Bakayoko",Belgium,72
+ukraine_belgium,79,0,79,"Artem Dovbyk (Ukraine) receives a brilliant pass and wastes a big opportunity as his shot from inside the penalty area flies narrowly wide of the right post.",key_event,Shot,Dovbyk,Ukraine,164
+ukraine_belgium,80,0,80,"Ruslan Malinovsky (Ukraine) makes a reckless foul in order to win the ball from his opponent. Anthony Taylor has a clear sight of it and blows his whistle.",general,General,Malinovsky,Ukraine,155
+ukraine_belgium,81,0,81,"Sergiy Rebrov has decided to substitute Oleksandr Svatok and he is replaced by Andriy Yarmolenko (Ukraine).",key_event,Substitution,"Svatok, Yarmolenko, Rebrov",Ukraine,108
+ukraine_belgium,82,0,82,"Vladyslav Vanat (Ukraine) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger. The ball goes out of play. Ukraine are awarded a corner kick.",general,Corner,Vanat,Ukraine,206
+ukraine_belgium,82,0,82,"Ruslan Malinovsky (Ukraine) looks like he will be the one to take the corner kick.",general,Corner,Malinovsky,Ukraine,82
+ukraine_belgium,82,0,82,"The corner from Ruslan Malinovsky (Ukraine) is straight at the keeper, who can only punch the ball away. Ukraine force their opponents to concede a corner.",general,Corner,Malinovsky,Ukraine,156
+ukraine_belgium,83,0,83,"Ruslan Malinovsky (Ukraine) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",general,Corner,Malinovsky,Ukraine,129
+ukraine_belgium,83,0,83,"Taras Stepanenko (Ukraine) fails to connect properly with the corner kick and plants his header way over the bar from the centre of the box.",key_event,Shot,Stepanenko,Ukraine,148
+ukraine_belgium,85,0,85,"Andriy Yarmolenko (Ukraine) fires a powerful shot which is blocked.",key_event,Shot,Yarmolenko,Ukraine,69
+ukraine_belgium,86,0,86,"Romelu Lukaku (Belgium) produces a dangerous low pass into the penalty area, but the defence manage to cut it out. Belgium have been awarded a corner kick.",general,Corner,Lukaku,Belgium,157
+ukraine_belgium,86,0,86,"This corner kick is taken with a short pass by Kevin De Bruyne (Belgium).",general,Corner,De Bruyne,Belgium,75
+ukraine_belgium,87,0,87,"Andriy Yarmolenko (Ukraine) sends a lofted cross into the box which is headed clear.",general,General,Yarmolenko,Ukraine,88
+ukraine_belgium,87,0,87,"Johan Bakayoko (Belgium) connects with a pass inside the box, but his effort goes well wide of the left post.",key_event,Shot,Bakayoko,Belgium,118
+ukraine_belgium,88,0,88,"Ruslan Malinovsky (Ukraine) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",key_event,Shot,Malinovsky,Ukraine,142
+ukraine_belgium,90,0,90,"Oleksandr Zinchenko (Ukraine) tries to latch onto a through ball, but it's too long. The ball is off of the pitch and it's a goal kick for Belgium.",general,General,Zinchenko,Ukraine,143
+ukraine_belgium,90,0,90,"Domenico Tedesco prepares a substitution. Romelu Lukaku is replaced by Lois Openda (Belgium).",key_event,Substitution,"Lukaku, Openda, Tedesco",Belgium,101
+ukraine_belgium,90,0,90,"4 additional min. will be played.",general,General,,Both,38
+ukraine_belgium,90,1,90+1,"Yannick Carrasco (Belgium) races towards goal but the defender gets back well to make a challenge.",general,General,Carrasco,Belgium,97
+ukraine_belgium,90,1,90+1,"Georgiy Sudakov (Ukraine) unleashes a shot from the edge of the box, but it goes straight at Koen Casteels.",key_event,Save,"Sudakov, Casteels",Ukraine,119
+ukraine_belgium,90,2,90+2,"Yannick Carrasco (Belgium) sends a pass into the box, but his attempt is thwarted and cleared.",general,General,Carrasco,Belgium,100
+ukraine_belgium,90,3,90+3,"Kevin De Bruyne (Belgium) decides to speed play up with a short corner kick.",general,Corner,De Bruyne,Belgium,80
+ukraine_belgium,90,4,90+4,"Johan Bakayoko (Belgium) tries to send a pass but it's blocked. It will be a corner kick for Belgium.",general,Corner,Bakayoko,Belgium,103
+ukraine_belgium,90,4,90+4,"Kevin De Bruyne (Belgium) takes the corner with a short pass.",general,Corner,De Bruyne,Belgium,62
+ukraine_belgium,90,4,90+4,"Nothing more will happen in this game as the referee blows for full time.",key_event,Full Time,,Both,79
+

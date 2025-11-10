@@ -1,0 +1,90 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+france_belgium,0,0,0,"The referee of today's match will be Glenn Nyberg.",general,General,Nyberg,Both,51
+france_belgium,0,0,0,"France will kick-off.",general,Kick Off,,France,22
+france_belgium,1,0,1,"Here we go, today's match is starting right now.",key_event,Kick Off,,Both,48
+france_belgium,2,0,2,"Adrien Rabiot (France) latches on to a lofted pass and strikes a snap shot from outside the box. His effort curls way wide of the left post. The ball is off of the pitch and it's a goal kick for Belgium.",key_event,Shot,Rabiot,France,199
+france_belgium,3,0,3,"Marcus Thuram (France) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",general,Offside,Thuram,France,144
+france_belgium,4,0,4,"Timothy Castagne (Belgium) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",general,General,Castagne,Belgium,134
+france_belgium,4,0,4,"Kevin De Bruyne (Belgium) sends a long ball forward to Jeremy Doku, but he put too much power and the chance is gone. The ball has crossed the sideline. France are taking a throw-in.",general,General,"De Bruyne, Doku",Belgium,184
+france_belgium,6,0,6,"Arthur Theate (Belgium) sends a long cross over to Lois Openda, but Mike Maignan comes forward to gather the ball.",general,General,"Theate, Openda, Maignan",Belgium,125
+france_belgium,7,0,7,"Antoine Griezmann (France) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort.",general,General,Griezmann,France,172
+france_belgium,8,0,8,"Marcus Thuram (France) looks to break free, but his touch lets him down and he loses the ball. The ball goes out of play and Belgium will have a goal kick.",general,General,Thuram,France,156
+france_belgium,10,0,10,"Antoine Griezmann (France) superbly controls a difficult pass on the edge of the box and effortlessly let's fly with a magnificent low strike towards the middle of the goal, which the keeper somehow pushes away.",key_event,Save,Griezmann,France,211
+france_belgium,12,0,12,"Jules Kounde (France) sends in a pass which fails to reach any of his teammates.",general,General,Kounde,France,80
+france_belgium,14,0,14,"Antoine Griezmann (France) delivers a lovely cross into the penalty area. Nevertheless, an opposition defender is alert and averts the danger with a brilliant clearance. The ball goes behind for a corner. France will have an opportunity to threaten the opposition's goal.",general,Corner,Griezmann,France,243
+france_belgium,14,0,14,"A horde of players are waiting inside the penalty area for a cross from the corner, but Antoine Griezmann (France) takes it short.",general,Corner,Griezmann,France,131
+france_belgium,14,0,14,"Kylian Mbappe (France) fires the ball on goal but sends it into orbit. The ball goes out of play and Belgium will have a goal kick.",key_event,Shot,Mbappe,France,138
+france_belgium,14,0,14,"Aurelien Tchouameni (France) is booked for saying more than Glenn Nyberg was willing to tolerate.",key_event,Yellow Card,Tchouameni,France,101
+france_belgium,16,0,16,"Yannick Carrasco (Belgium) looks to break free, but an opposing player clears the ball away.",general,General,Carrasco,Belgium,91
+france_belgium,17,0,17,"Jules Kounde (France) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. France have been awarded a corner kick.",general,Corner,Kounde,France,156
+france_belgium,17,0,17,"There's an opportunity for Antoine Griezmann (France) to deliver the ball into the box from a corner.",general,Corner,Griezmann,France,99
+france_belgium,18,0,18,"Marcus Thuram (France) finds space near the penalty spot to plant a header at goal from the corner, but it's badly directed and drifts well wide of the right post. The ball goes out of play and Belgium will have a goal kick.",key_event,Shot,Thuram,France,218
+france_belgium,20,0,20,"Wasted effort! Adrien Rabiot (France) finds himself some space, looks up but sends a dreadful shot high over the bar from long range. The ball goes out of play and Belgium will have a goal kick.",key_event,Shot,Rabiot,France,193
+france_belgium,21,0,21,"Timothy Castagne (Belgium) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",general,General,Castagne,Belgium,139
+france_belgium,23,0,23,"Antoine Griezmann (France) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Glenn Nyberg didn't think twice about pulling it out of his pocket.",key_event,Yellow Card,Griezmann,France,180
+france_belgium,24,0,24,"Kevin De Bruyne (Belgium) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball.",general,Free Kick,De Bruyne,Belgium,210
+france_belgium,24,0,24,"Yellow card. Adrien Rabiot (France) goes into the book for a bad tackle on his opponent.",key_event,Yellow Card,Rabiot,France,91
+france_belgium,25,0,25,"Adrien Rabiot (France) will miss the next game.",general,General,Rabiot,France,47
+france_belgium,25,0,25,"Jeremy Doku (Belgium) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",general,General,Doku,Belgium,148
+france_belgium,26,0,26,"Jeremy Doku (Belgium) seems to be alright and is okay to carry on.",general,General,Doku,Belgium,63
+france_belgium,27,0,27,"Yannick Carrasco (Belgium) fires the ball at goal from inside the area, but it's well blocked.",key_event,Shot,Carrasco,Belgium,95
+france_belgium,29,0,29,"Yannick Carrasco (Belgium) tries to send a pass but it's blocked.",general,General,Carrasco,Belgium,61
+france_belgium,30,0,30,"Jeremy Doku (Belgium) did his best to latch on to a crossfield pass, but it was too long and it goes out of play. The ball is out of play. France will have a throw-in.",general,General,Doku,Belgium,166
+france_belgium,32,0,32,"Theo Hernandez (France) fizzes over a cross which doesn't cause any problems. The ball goes out of play and Belgium will have a goal kick.",general,General,Hernandez,France,138
+france_belgium,33,0,33,"Kevin De Bruyne (Belgium) fouls an opponent during an attacking move.",general,General,De Bruyne,Belgium,70
+france_belgium,34,0,34,"Jules Kounde plays a hopeful lofted pass into the box. Marcus Thuram (France) luckily gets his head to the ball and sends it narrowly wide of the right post from near the penalty spot. The ball is off of the pitch and it's a goal kick for Belgium.",key_event,Shot,"Kounde, Thuram",France,238
+france_belgium,36,0,36,"The foul by Lois Openda (Belgium) was seen by Glenn Nyberg who didn't hesitate to blow the whistle.",general,General,Openda,Belgium,103
+france_belgium,37,0,37,"Theo Hernandez (France) sends a cross into the box, but Koen Casteels comes off his line to gather the ball.",general,General,"Hernandez, Casteels",France,115
+france_belgium,39,0,39,"Aurelien Tchouameni (France) sends a cross into the box, but the opposition's defence clears the ball to safety.",general,General,Tchouameni,France,117
+france_belgium,40,0,40,"Aurelien Tchouameni (France) picks up a precise pass and attempts to threaten the keeper with a long-range effort, but it goes well wide of the mark. The ball is off of the pitch and it's a goal kick for Belgium.",key_event,Shot,Tchouameni,France,205
+france_belgium,41,0,41,"Jules Kounde (France) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders.",general,General,Kounde,France,169
+france_belgium,43,0,43,"Antoine Griezmann (France) breaks past challenges inside the box, but puts too much pace on his pass to Marcus Thuram.",general,General,Griezmann,France,131
+france_belgium,44,0,44,"Kevin De Bruyne (Belgium) commits a foul after unfairly pressing his opponent during an attacking move.",general,General,De Bruyne,Belgium,110
+france_belgium,45,0,45,"Theo Hernandez (France) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The referee points to the corner flag and France will take a corner.",general,Corner,Hernandez,France,185
+france_belgium,45,0,45,"Antoine Griezmann (France) decides to take a short corner instead of crossing into the box.",general,Corner,Griezmann,France,93
+france_belgium,45,0,45,"We will have 1 min. of added time.",general,General,,Both,38
+france_belgium,45,1,45+1,"A rebound falls kindly for Aurelien Tchouameni (France), but his shot from the edge of the box flies high over bar. None too pretty! The ball goes out of play and Belgium will have a goal kick.",key_event,Shot,Tchouameni,France,191
+france_belgium,45,2,45+2,"Glenn Nyberg blows his whistle to signal the end of the first-half action.",general,Half Time,,Both,72
+france_belgium,46,0,46,"The players are back out on the pitch following the half-time break and the second half is about to start.",key_event,Kick Off,,Both,110
+france_belgium,46,0,46,"Kylian Mbappe (France) clips an inviting cross into the box, but there's no one in a position to get on the end of it. The ball goes out of play and Belgium will have a goal kick.",general,General,Mbappe,France,175
+france_belgium,48,0,48,"Antoine Griezmann (France) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Griezmann,France,164
+france_belgium,49,0,49,"Aurelien Tchouameni (France) produces a ferocious strike from the edge of the box. His dangerous effort towards the bottom right corner is blocked by Koen Casteels, who pulls off a superb save to keep the ball out of the net. The ball is out of play and the linesman points at the corner flag. Corner to France.",key_event,Save,"Tchouameni, Casteels",France,283
+france_belgium,50,0,50,"The resulting corner from Antoine Griezmann (France) is cleared by the defence.",general,Corner,Griezmann,France,81
+france_belgium,51,0,51,"Antoine Griezmann (France) crosses the ball into the box from the free kick, but the defence clears the danger.",general,Free Kick,Griezmann,France,117
+france_belgium,51,0,51,"Jules Kounde clips a neat ball into the box towards Marcus Thuram (France), whose header from the centre of the box goes narrowly over the crossbar. The ball goes out of play and Belgium will have a goal kick.",key_event,Shot,"Kounde, Thuram",France,206
+france_belgium,52,0,52,"The attendance for today's match is 46810.",general,General,,Both,47
+france_belgium,53,0,53,"Adrien Rabiot (France) clips a neat ball into the box in the direction of Marcus Thuram, but he can't get on the end of the pass.",general,General,"Rabiot, Thuram",France,136
+france_belgium,54,0,54,"Kylian Mbappe (France) jinks his way past two defenders and from the edge of the box has an effort which goes just over the bar. The ball is off of the pitch and it's a goal kick for Belgium.",key_event,Shot,Mbappe,France,182
+france_belgium,56,0,56,"Jules Kounde plays a short pass through to Kylian Mbappe (France) inside the box, but he scuffs his effort well wide of the left post. The ball goes out of play and Belgium will have a goal kick.",key_event,Shot,"Kounde, Mbappe",France,191
+france_belgium,58,0,58,"Jules Kounde (France) commits a foul after unfairly battling his opponent for the ball.",general,General,Kounde,France,90
+france_belgium,60,0,60,"Jeremy Doku (Belgium) fouls an opponent. At least that's what referee Glenn Nyberg signals.",general,General,Doku,Belgium,92
+france_belgium,61,0,61,"Yannick Carrasco (Belgium) misses a good chance to score. An inch-perfect cross into the box finds Yannick Carrasco (Belgium) who rises for a header, but sends the ball well over the bar. Belgium will take a corner kick.",key_event,Shot,Carrasco,Belgium,205
+france_belgium,62,0,62,"Kevin De Bruyne (Belgium) takes the corner, but he overhits it and none of his teammates are able to reach the ball.",general,Corner,De Bruyne,Belgium,123
+france_belgium,62,0,62,"The referee stops play so that a substitution can be made and Marcus Thuram trots off the pitch and is replaced by Randal Kolo Muani (France).",key_event,Substitution,"Thuram, Kolo Muani",France,143
+france_belgium,63,0,63,"Domenico Tedesco has decided to make a change. Orel Mangala (Belgium) replaces Lois Openda.",key_event,Substitution,"Openda, Mangala, Tedesco",Belgium,102
+france_belgium,65,0,65,"Antoine Griezmann (France) gets on the end of a pass on the edge of the area, but he drags his shot just wide of the right post. The ball is off of the pitch and it's a goal kick for Belgium.",key_event,Shot,Griezmann,France,186
+france_belgium,67,0,67,"Aurelien Tchouameni (France) plays a long ball to Jules Kounde, but the defence is well organised and manages to get it clear. The referee and the linesman both signal a throw-in for France.",general,General,"Tchouameni, Kounde",France,189
+france_belgium,69,0,69,"Aurelien Tchouameni (France) watches the ball all the way and connects well with a volley on the edge of the box, but sends the effort miles over the bar. The ball is off of the pitch and it's a goal kick for Belgium.",key_event,Shot,Tchouameni,France,206
+france_belgium,71,0,71,"Romelu Lukaku (Belgium) darts into the penalty area to latch on to a pass, and he unleashes a shot towards the middle of the net, but Mike Maignan is alert and denies him.",key_event,Save,"Lukaku, Maignan",Belgium,175
+france_belgium,73,0,73,"Aurelien Tchouameni (France) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",general,General,Tchouameni,France,143
+france_belgium,74,0,74,"Antoine Griezmann (France) takes the corner, but the opposition's defence is ready and clears the ball to safety.",general,Corner,Griezmann,France,119
+france_belgium,74,0,74,"William Saliba (France) has to stretch for the ball in the box and sends it just wide of the right post. The ball is off of the pitch and it's a goal kick for Belgium.",key_event,Shot,Saliba,France,166
+france_belgium,76,0,76,"Glenn Nyberg shows a yellow card to Jan Vertonghen (Belgium) for a tough tackle.",key_event,Yellow Card,Vertonghen,Belgium,79
+france_belgium,76,0,76,"Domenico Tedesco is stunned as referee Glenn Nyberg shows him a yellow card. What was that for?",key_event,Yellow Card,Tedesco,Belgium,100
+france_belgium,78,0,78,"Unlucky! A great strike from Kylian Mbappe (France) near the edge of the box had the keeper scrambling but flew just over the bar. The ball goes out of play and Belgium will have a goal kick.",key_event,Shot,Mbappe,France,186
+france_belgium,81,0,81,"Jules Kounde (France) swings a cross into the box, but it's far too close to Koen Casteels, who smothers the ball.",general,General,"Kounde, Casteels",France,122
+france_belgium,81,0,81,"Yannick Carrasco (Belgium) gets on the ball and beats an opponent, but his run is stopped by the referee Glenn Nyberg who sees an offensive foul.",general,General,Carrasco,Belgium,149
+france_belgium,82,0,82,"N'Golo Kante (France) gives away a foul for a fierce tackle on an opponent.",general,General,Kante,France,76
+france_belgium,83,0,83,"Kevin De Bruyne (Belgium) shoots from the edge of the penalty area. The ball travels towards the right side of the target, but Mike Maignan easily deals with the threat.",key_event,Save,"De Bruyne, Maignan",Belgium,173
+france_belgium,85,0,85,"Here is an example of luck not being on your side. Jan Vertonghen (Belgium) puts the ball into the back of the net but, unfortunately for him, it's into his own goal!",key_event,Own Goal,Vertonghen,Belgium,175
+france_belgium,87,0,87,"The ball is cleared after Jeremy Doku (Belgium) attempted to dribble past an opposing player.",general,General,Doku,Belgium,91
+france_belgium,88,0,88,"Here is a change. Yannick Carrasco is going off and Domenico Tedesco gives the last tactical orders to Dodi Lukebakio (Belgium).",key_event,Substitution,"Carrasco, Lukebakio, Tedesco",Belgium,124
+france_belgium,88,0,88,"Timothy Castagne comes off the pitch to be replaced by Charles De Ketelaere (Belgium).",key_event,Substitution,"Castagne, De Ketelaere",Belgium,82
+france_belgium,90,0,90,"Jeremy Doku (Belgium) tries to slide the ball through to a teammate but it's well blocked by a defender.",general,General,Doku,Belgium,105
+france_belgium,90,0,90,"The fourth official shows 3 min. of added time.",general,General,,Both,50
+france_belgium,90,2,90+2,"The defence is alert as they clear a dangerous cross from Jeremy Doku (Belgium). The referee points to the corner flag. It's a corner to Belgium.",general,Corner,Doku,Belgium,150
+france_belgium,90,3,90+3,"The corner from Kevin De Bruyne (Belgium) is intercepted by the defence.",general,Corner,De Bruyne,Belgium,72
+france_belgium,90,3,90+3,"A yellow card for a tackle by Orel Mangala (Belgium). Glenn Nyberg doesn't hesitate at all to make this decision.",key_event,Yellow Card,Mangala,Belgium,119
+france_belgium,90,4,90+4,"Orel Mangala (Belgium) will miss the next game because of that yellow card.",general,General,Mangala,Belgium,73
+france_belgium,90,4,90+4,"The referee blows for the end of today's match.",key_event,Full Time,,Both,51
+

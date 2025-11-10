@@ -219,3 +219,7 @@ Euro2024-clean/
 **/events_complete.csv
 **/events_360.csv
 
+# Do not upload this local archive/folder
+Euro2024_data.zip
+Euro2024_data.zip/
+

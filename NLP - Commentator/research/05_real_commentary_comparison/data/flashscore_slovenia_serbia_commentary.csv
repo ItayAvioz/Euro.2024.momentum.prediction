@@ -1,0 +1,92 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+slovenia_serbia,0,0,0,"Istvan Kovacs will supervise the game today.",general,General,Kovacs,Both,47
+slovenia_serbia,0,0,0,"The players are out at last! Slovenia will take the kick-off.",general,Kick Off,,Slovenia,64
+slovenia_serbia,1,0,1,"The match has just started.",key_event,Kick Off,,Both,30
+slovenia_serbia,1,0,1,"A long ball forward to Aleksandar Mitrovic (Serbia) is intercepted.",general,General,Mitrovic,Serbia,68
+slovenia_serbia,4,0,4,"Adam Gnezda Cerin (Slovenia) latches on to a pass on the edge of the box, but he can't get any power into the shot and fails to trouble Predrag Rajkovic.",general,General,"Gnezda Cerin, Rajkovic",Slovenia,164
+slovenia_serbia,7,0,7,"Serbia slow the tempo of the game down by exchanging a combination of one or two touch passes. The opposition's players are finding it very difficult at the moment, very physically demanding to run without the ball.",general,General,,Serbia,227
+slovenia_serbia,8,0,8,"Jan Mlakar (Slovenia) zig-zags his way into the box and fails to direct a shot inside the right post as the goalkeeper pulls off a miraculous stop. The linesman makes the right call and Slovenia will have a corner.",key_event,Save,"Mlakar, Rajkovic",Slovenia,215
+slovenia_serbia,8,0,8,"Slovenia take a short corner instead of sending the ball into the penalty area.",general,Corner,,Slovenia,79
+slovenia_serbia,9,0,9,"Vanja Drkusic (Slovenia) robs an opponent of the ball and explodes in anger when Istvan Kovacs blows for a foul. Serbia win a free kick.",general,Free Kick,Drkusic,Slovenia,145
+slovenia_serbia,11,0,11,"Zan Karnicnik (Slovenia) did his best to latch on to a crossfield pass, but it was too long and it goes out of play. The linesman signals a throw-in for Serbia.",general,General,Karnicnik,Slovenia,169
+slovenia_serbia,12,0,12,"Adam Gnezda Cerin (Slovenia) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle. Serbia are awarded the free kick.",general,Free Kick,Gnezda Cerin,Slovenia,181
+slovenia_serbia,13,0,13,"Adam Gnezda Cerin (Slovenia) sends a long ball in, but Predrag Rajkovic comfortably gathers the ball.",general,General,"Gnezda Cerin, Rajkovic",Slovenia,113
+slovenia_serbia,15,0,15,"Strahinja Pavlovic (Serbia) sends a long cross over to Dusan Vlahovic, but Jan Oblak comes forward to gather the ball.",general,General,"Pavlovic, Vlahovic, Oblak",Serbia,137
+slovenia_serbia,16,0,16,"Erik Janza (Slovenia) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. The ball goes out of play and Serbia will have a goal kick.",general,General,Janza,Slovenia,214
+slovenia_serbia,16,0,16,"Adam Gnezda Cerin (Slovenia) makes an overly-aggressive challenge and Istvan Kovacs blows his whistle for a foul. A free kick has been awarded to Serbia.",general,Free Kick,Gnezda Cerin,Slovenia,163
+slovenia_serbia,19,0,19,"Serbia are showing great team chemistry. They are passing it around beautifully. Excellent team work.",general,General,,Serbia,111
+slovenia_serbia,20,0,20,"Erik Janza (Slovenia) sends a teasing cross into the area, but Predrag Rajkovic intercepts the ball.",general,General,"Janza, Rajkovic",Slovenia,107
+slovenia_serbia,23,0,23,"Benjamin Sesko (Slovenia) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Slovenia will have a chance to score from a corner kick.",general,Corner,Sesko,Slovenia,184
+slovenia_serbia,23,0,23,"A horde of players are waiting inside the penalty area for a cross from the corner, but Adam Gnezda Cerin (Slovenia) takes it short.",general,Corner,Gnezda Cerin,Slovenia,148
+slovenia_serbia,25,0,25,"The game has begun to heat up. Filip Mladenovic (Serbia) challenges an opponent and receives a deserved yellow card for his ugly tackle.",key_event,Yellow Card,Mladenovic,Serbia,153
+slovenia_serbia,26,0,26,"Petar Stojanovic (Slovenia) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger.",general,Free Kick,Stojanovic,Slovenia,152
+slovenia_serbia,27,0,27,"Sasa Lukic (Serbia) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The ball is behind the touchline and Serbia will take a throw-in.",general,General,Lukic,Serbia,207
+slovenia_serbia,27,0,27,"Dusan Vlahovic (Serbia) meets a splendid cross on the edge of the 6-yard box and sends the ball towards the left post, forcing Jan Oblak into a superb diving save to keep it out.",key_event,Save,"Vlahovic, Oblak",Serbia,188
+slovenia_serbia,29,0,29,"Timi Max Elsnik (Slovenia) makes a strong challenge and Istvan Kovacs blows for a foul. That's a free kick to Serbia.",general,Free Kick,Elsnik,Slovenia,126
+slovenia_serbia,30,0,30,"Sasa Lukic (Serbia) tries to find Aleksandar Mitrovic, but he puts too much power on the through ball. The ball is off of the pitch and it's a goal kick for Slovenia.",general,General,"Lukic, Mitrovic",Serbia,170
+slovenia_serbia,31,0,31,"Dusan Tadic (Serbia) takes the ball to the corner flag and sends it into the box.",general,Corner,Tadic,Serbia,88
+slovenia_serbia,31,0,31,"The corner is bent into the box and met with a firm header by Aleksandar Mitrovic (Serbia), but it's just wide of the left post. The ball is off of the pitch and it's a goal kick for Slovenia.",key_event,Shot,Mitrovic,Serbia,191
+slovenia_serbia,33,0,33,"Jan Mlakar (Slovenia) attempted to pick out a free teammate inside the box, but Predrag Rajkovic comes off the line to clear the ball away.",general,General,"Mlakar, Rajkovic",Slovenia,148
+slovenia_serbia,38,0,38,"What a great touch by Timi Max Elsnik (Slovenia)! He picks up a precise pass on the edge of the box and immediately unleashes a shot on goal. His effort, however, only rattles the right post. What an unlucky moment for him.",key_event,Shot,Elsnik,Slovenia,224
+slovenia_serbia,38,0,38,"Benjamin Sesko (Slovenia) misses a big chance! He fires the ball high over the crossbar from inside the 6-yard box after the ball rebounded to him. The ball goes out of play and Serbia will have a goal kick.",key_event,Shot,Sesko,Slovenia,202
+slovenia_serbia,39,0,39,"Istvan Kovacs has a clear sight and sees a foul from Erik Janza (Slovenia). Another situation results in a direct free kick for Serbia.",general,Free Kick,Janza,Slovenia,142
+slovenia_serbia,39,0,39,"Dusan Vlahovic (Serbia) steps up and sends the free kick straight into the defensive wall.",general,Free Kick,Vlahovic,Serbia,94
+slovenia_serbia,42,0,42,"The ball is crossed into the box and Aleksandar Mitrovic (Serbia) reacts quickest to send a shot flying towards the bottom left corner, but Jan Oblak gets a glove on it to thwart him.",key_event,Save,"Mitrovic, Oblak",Serbia,192
+slovenia_serbia,43,0,43,"Nikola Milenkovic (Serbia) brings his opponent down. Istvan Kovacs has a clear sight of it and blows his whistle for a foul. Slovenia get a free kick.",general,Free Kick,Milenkovic,Serbia,159
+slovenia_serbia,43,0,43,"The resulting set piece, sent into the penalty area by Adam Gnezda Cerin (Slovenia), was easily dealt with by one of the defenders.",general,Free Kick,Gnezda Cerin,Slovenia,142
+slovenia_serbia,44,0,44,"Petar Stojanovic (Slovenia) gets on the end of a pass and takes a shot from the edge of the box, but it's blocked by one of the defending players. Slovenia will take a corner kick.",general,Corner,Stojanovic,Slovenia,188
+slovenia_serbia,44,0,44,"Adam Gnezda Cerin (Slovenia) sends the corner into the box, but Predrag Rajkovic intercepts it and averts the threat.",general,Corner,"Gnezda Cerin, Rajkovic",Slovenia,125
+slovenia_serbia,45,0,45,"1 additional min. will be played.",general,General,,Both,38
+slovenia_serbia,45,1,45+1,"The ball is cleared after Andrija Zivkovic (Serbia) attempted to dribble past an opposing player. Serbia have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",general,Corner,Zivkovic,Serbia,203
+slovenia_serbia,45,1,45+1,"Serbia take a short corner kick.",general,Corner,,Serbia,33
+slovenia_serbia,45,1,45+1,"What a wasted chance that is! An inch-perfect cross into the box finds Aleksandar Mitrovic (Serbia) who sends his header well wide of the left post.",key_event,Shot,Mitrovic,Serbia,158
+slovenia_serbia,45,2,45+2,"The first half of today's match has just finished.",general,Half Time,,Both,56
+slovenia_serbia,46,0,46,"The players are back out on the pitch following the half-time break and the second half is about to start.",key_event,Kick Off,,Both,114
+slovenia_serbia,46,0,46,"Half-time substitution. Filip Mladenovic is replaced by Mijat Gacinovic (Serbia).",key_event,Substitution,"Mladenovic, Gacinovic",Serbia,82
+slovenia_serbia,47,0,47,"Aleksandar Mitrovic (Serbia) receives a precise low pass inside the box, controls the ball and releases it towards the right post. Unfortunately for him, Jan Oblak makes a great save to stop his effort.",key_event,Save,"Mitrovic, Oblak",Serbia,207
+slovenia_serbia,49,0,49,"Mijat Gacinovic (Serbia) sends a lofted cross into the box which is headed clear. The ball is out of play and Serbia manage to earn a corner.",general,Corner,Gacinovic,Serbia,148
+slovenia_serbia,51,0,51,"Dusan Tadic (Serbia) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",general,Corner,Tadic,Serbia,130
+slovenia_serbia,51,0,51,"Aleksandar Mitrovic (Serbia) latched on to a cross inside the six-yard box and headed at goal. If it wasn't for one of the defenders making a save on the goal line, he would have been celebrating a goal now. The referee and one of his assistants signal for a corner kick to Serbia.",general,Corner,Mitrovic,Serbia,269
+slovenia_serbia,51,0,51,"Erik Janza (Slovenia) is down injured and the referee stops play so that he can receive medical treatment.",general,Injury,Janza,Slovenia,112
+slovenia_serbia,52,0,52,"Jan Oblak leaps to collect the ball from the corner which was sent over by Dusan Tadic (Serbia).",general,Corner,"Oblak, Tadic",Serbia,103
+slovenia_serbia,53,0,53,"Erik Janza (Slovenia) seems to be alright and is okay to carry on.",general,Injury,Janza,Slovenia,67
+slovenia_serbia,54,0,54,"Istvan Kovacs shows a yellow card to Sasa Lukic (Serbia) for his blatant foul.",key_event,Yellow Card,Lukic,Serbia,79
+slovenia_serbia,56,0,56,"Andrija Zivkovic (Serbia) serves up a nice cross, but the defence clears the danger. The linesman points to the corner flag, Serbia are going to take it.",general,Corner,Zivkovic,Serbia,159
+slovenia_serbia,57,0,57,"Serbia fail to score from a corner as Jan Oblak (Slovenia) leaps to collect the ball.",general,Corner,Oblak,Serbia,85
+slovenia_serbia,59,0,59,"Benjamin Sesko (Slovenia) fashions a shot from the edge of the box after receiving an accurate pass. Predrag Rajkovic makes a stunning save to stop the effort from flying into the top right corner. Good work from Slovenia as they win a corner.",general,Corner,"Sesko, Rajkovic",Slovenia,238
+slovenia_serbia,59,0,59,"Adam Gnezda Cerin (Slovenia) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",general,Corner,Gnezda Cerin,Slovenia,175
+slovenia_serbia,62,0,62,"Slovenia are bossing possession at the moment by exchanging some precise passes from player to player.",general,General,,Slovenia,114
+slovenia_serbia,64,0,64,"Substitution. Jon Gorenc Stankovic (Slovenia) in, Jan Mlakar out.",key_event,Substitution,"Mlakar, Stankovic",Slovenia,71
+slovenia_serbia,64,0,64,"Dragan Stojkovic prepares a substitution. Dusan Vlahovic is replaced by Luka Jovic (Serbia).",key_event,Substitution,"Vlahovic, Jovic, Stojkovic",Serbia,98
+slovenia_serbia,64,0,64,"The referee stops play so that a substitution can be made and Sasa Lukic trots off the pitch and is replaced by Sergej Milinkovic-Savic (Serbia).",key_event,Substitution,"Lukic, Milinkovic-Savic",Serbia,150
+slovenia_serbia,65,0,65,"Aleksandar Mitrovic (Serbia) got the ball on the edge of the box and smashed a first-time shot, but his effort flew high over the crossbar. The ball goes out of play and Slovenia will have a goal kick.",key_event,Shot,Mitrovic,Serbia,200
+slovenia_serbia,67,0,67,"Mijat Gacinovic (Serbia) sends over a cross, but he can't find any teammate inside the box. Poor delivery. The ball goes out of play and Slovenia will have a goal kick.",general,General,Gacinovic,Serbia,172
+slovenia_serbia,67,0,67,"Petar Stojanovic (Slovenia) races towards goal but the defender gets back well to make a challenge. The ball is off of the pitch and it's a goal kick for Serbia.",general,General,Stojanovic,Slovenia,161
+slovenia_serbia,69,0,69,"Goal - 1:0! Zan Karnicnik (Slovenia) receives a precise pass inside the box from Timi Max Elsnik and he beats the goalkeeper with a neat finish into the bottom right corner.",key_event,Goal,"Karnicnik, Elsnik",Slovenia,190
+slovenia_serbia,72,0,72,"Aleksandar Mitrovic (Serbia) controls a cross deep inside the box and hits the crossbar!",key_event,Shot,Mitrovic,Serbia,93
+slovenia_serbia,75,0,75,"Adam Gnezda Cerin (Slovenia) was trying to get to the ball but clattered into the legs of the opponent as well. Istvan Kovacs blows his whistle for an infringement. Serbia are awarded a free kick from a dangerous position.",general,Free Kick,Gnezda Cerin,Slovenia,217
+slovenia_serbia,76,0,76,"Sergej Milinkovic-Savic (Serbia) creates himself some space in front of goal and connects with the resulting free kick. His header is slightly mistimed and sails inches wide of the right post. The ball is off of the pitch and it's a goal kick for Slovenia.",key_event,Shot,Milinkovic-Savic,Serbia,254
+slovenia_serbia,76,0,76,"The referee stops play so that a substitution can be made and Petar Stojanovic leaves the pitch and Benjamin Verbic (Slovenia) comes on.",key_event,Substitution,"Stojanovic, Verbic",Slovenia,148
+slovenia_serbia,76,0,76,"Matjaz Kek has decided to make a change. Zan Vipotnik (Slovenia) replaces Benjamin Sesko.",key_event,Substitution,"Sesko, Vipotnik, Kek",Slovenia,100
+slovenia_serbia,78,0,78,"Zan Karnicnik (Slovenia) is having a lively performance. He is causing problems and wanting the ball at every opportunity.",general,General,Karnicnik,Slovenia,136
+slovenia_serbia,79,0,79,"Zan Karnicnik (Slovenia) took a first-time shot from mid-range after he was put in the clear by a great pass, but the effort lacked a little accuracy and went just wide of the left post. The ball is off of the pitch and it's a goal kick for Serbia.",key_event,Shot,Karnicnik,Slovenia,246
+slovenia_serbia,82,0,82,"Here comes a substitution. Andrija Zivkovic is given a rest as he is replaced by Veljko Birmancevic (Serbia).",key_event,Substitution,"Zivkovic, Birmancevic",Serbia,116
+slovenia_serbia,82,0,82,"Dragan Stojkovic has decided to substitute Dusan Tadic and he is replaced by Lazar Samardzic (Serbia).",key_event,Substitution,"Tadic, Samardzic, Stojkovic",Serbia,111
+slovenia_serbia,83,0,83,"Great solo effort from Lazar Samardzic (Serbia)! He beat a couple of players and shot from the edge of the box, but the effort slips just wide of the right post. The ball is off of the pitch and it's a goal kick for Slovenia.",key_event,Shot,Samardzic,Serbia,225
+slovenia_serbia,85,0,85,"Istvan Kovacs blows his whistle. Benjamin Verbic (Slovenia) commits a foul after dangerous play. Serbia are awarded a free kick. Let's see what they create from this.",general,Free Kick,Verbic,Slovenia,173
+slovenia_serbia,85,0,85,"Veljko Birmancevic (Serbia) produces a shot on goal from a mid-range free kick. It heads towards the top right corner, but the keeper averts the danger with a stunning save! The ball is out of play. A goal-scoring opportunity from a corner for Serbia.",general,Corner,"Birmancevic, Oblak",Serbia,250
+slovenia_serbia,85,0,85,"Serbia take the corner, but their hopes of scoring a goal end with a nice clearance by the defence. The ball is out of play. Serbia will have a chance to score from a corner.",general,Corner,,Serbia,169
+slovenia_serbia,85,0,85,"Ivan Ilic (Serbia) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",general,General,Ilic,Serbia,182
+slovenia_serbia,86,0,86,"A corner kick by Serbia is thwarted by the well prepared Jan Oblak (Slovenia).",general,Corner,Oblak,Serbia,82
+slovenia_serbia,86,0,86,"Ivan Ilic (Serbia) fizzes over a cross which doesn't cause any problems.",general,General,Ilic,Serbia,74
+slovenia_serbia,87,0,87,"This is an obvious ploy to delay the restart of play from Erik Janza (Slovenia). The referee is firm and issues Erik Janza (Slovenia) a deserved yellow card.",key_event,Yellow Card,Janza,Slovenia,168
+slovenia_serbia,90,0,90,"Luka Jovic (Serbia) puts a dangerous cross into the box, but the corner is cleared by the first man.",general,General,Jovic,Serbia,105
+slovenia_serbia,90,0,90,"The fourth official shows 5 min. of added time.",general,General,,Both,54
+slovenia_serbia,90,1,90+1,"Substitution. Timi Max Elsnik leaves the pitch and is replaced by David Brekalo (Slovenia).",key_event,Substitution,"Elsnik, Brekalo",Slovenia,92
+slovenia_serbia,90,2,90+2,"Luka Jovic (Serbia) receives a yellow card from the referee as expected.",key_event,Yellow Card,Jovic,Serbia,72
+slovenia_serbia,90,3,90+3,"Mijat Gacinovic (Serbia) is given a fully deserved yellow card.",key_event,Yellow Card,Gacinovic,Serbia,64
+slovenia_serbia,90,4,90+4,"Zan Vipotnik (Slovenia) violates the laws of the game and is shown a deserved yellow card by the referee.",key_event,Yellow Card,Vipotnik,Slovenia,111
+slovenia_serbia,90,5,90+5,"There's an opportunity for Ivan Ilic (Serbia) to deliver the ball into the box from a corner.",general,Corner,Ilic,Serbia,99
+slovenia_serbia,90,5,90+5,"Luka Jovic (Serbia) jumped highest inside the box to meet a perfectly executed corner kick by Ivan Ilic. His header bounced off the ground and went inside the left post behind the goalkeeper. It's 1:1.",key_event,Goal,"Jovic, Ilic",Serbia,211
+slovenia_serbia,90,7,90+7,"Nothing more will happen in this game as the referee blows for full time.",key_event,Full Time,,Both,79
+

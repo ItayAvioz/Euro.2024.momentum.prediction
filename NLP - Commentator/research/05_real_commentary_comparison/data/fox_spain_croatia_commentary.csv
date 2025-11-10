@@ -1,0 +1,132 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+spain_croatia,0,0,0,"The current period has begun.",key_event,Kick Off,,Both,30
+spain_croatia,1,0,1,"Spain awarded a throw-in in their own half.",general,General,,Spain,45
+spain_croatia,3,0,3,"Michael Oliver signals a free kick to Croatia.",general,Free Kick,Oliver,Croatia,47
+spain_croatia,4,0,4,"Throw-in for Croatia in their own half.",general,General,,Croatia,40
+spain_croatia,6,0,6,"Croatia have a goal kick.",general,General,,Croatia,25
+spain_croatia,7,0,7,"In Berlin Spain drive forward through Alvaro Morata. His shot is on target but it's saved.",general,General,Morata,Spain,97
+spain_croatia,8,0,8,"Can Spain get the ball into an attacking position from this throw-in in Croatia's half?",general,General,,Spain,91
+spain_croatia,10,0,10,"Free kick Spain.",general,Free Kick,,Spain,17
+spain_croatia,10,0,10,"Goal kick for Croatia at Olympiastadion Berlin.",general,General,,Croatia,50
+spain_croatia,11,0,11,"Croatia to take a throw-in in Spain territory.",general,General,,Croatia,47
+spain_croatia,12,0,12,"Ball goes out of play for a Croatia goal kick.",general,General,,Croatia,47
+spain_croatia,12,0,12,"Croatia awarded a free kick in their own half.",general,Free Kick,,Croatia,47
+spain_croatia,14,0,14,"Michael Oliver awards Spain a goal kick.",general,General,Oliver,Spain,42
+spain_croatia,14,0,14,"Michael Oliver signals a free kick to Croatia.",general,Free Kick,Oliver,Croatia,47
+spain_croatia,15,0,15,"Croatia have a goal kick.",general,General,,Croatia,25
+spain_croatia,16,0,16,"Michael Oliver signals a Croatia throw-in in Spain's half.",general,General,Oliver,Croatia,58
+spain_croatia,16,0,16,"Throw-in for Croatia close to the penalty box.",general,General,,Croatia,49
+spain_croatia,17,0,17,"Can Croatia capitalize from this dangerous free kick?",general,Free Kick,,Croatia,56
+spain_croatia,18,0,18,"Michael Oliver signals a Croatia throw-in in Spain's half.",general,General,Oliver,Croatia,58
+spain_croatia,18,0,18,"Throw-in for Spain at Olympiastadion Berlin.",general,General,,Spain,49
+spain_croatia,19,0,19,"Can Spain get the ball into an attacking position from this throw-in in Croatia's half?",general,General,,Spain,91
+spain_croatia,20,0,20,"Michael Oliver signals a free kick to Croatia in their own half.",general,Free Kick,Oliver,Croatia,64
+spain_croatia,20,0,20,"Croatia to take a throw-in in Spain territory.",general,General,,Croatia,47
+spain_croatia,22,0,22,"Spain are too eager and fall into an offside trap.",general,Offside,,Spain,51
+spain_croatia,23,0,23,"Croatia attack but Ante Budimir's header doesn't find the target.",general,General,Budimir,Croatia,67
+spain_croatia,23,0,23,"Goal kick for Spain at Olympiastadion Berlin.",general,General,,Spain,49
+spain_croatia,23,0,23,"Michael Oliver awards Spain a goal kick.",general,General,Oliver,Spain,42
+spain_croatia,24,0,24,"Ball safe as Croatia is awarded a throw-in in their half.",general,General,,Croatia,60
+spain_croatia,25,0,25,"Free kick Spain.",general,Free Kick,,Spain,17
+spain_croatia,25,0,25,"Can Spain get the ball into an attacking position from this throw-in in Croatia's half?",general,General,,Spain,91
+spain_croatia,26,0,26,"Ball goes out of play for a Croatia goal kick.",general,General,,Croatia,47
+spain_croatia,29,0,29,"Alvaro Morata is on target to give Spain a 1-0 advantage.",key_event,Goal,Morata,Spain,60
+spain_croatia,30,0,30,"Croatia pushes forward through Mateo Kovacic, whose finish on goal is saved.",general,General,Kovacic,Croatia,83
+spain_croatia,31,0,31,"Throw-in Spain.",general,General,,Spain,17
+spain_croatia,31,0,31,"Ball safe as Spain is awarded a throw-in in their half.",general,General,,Spain,58
+spain_croatia,32,0,32,"Great finish from Fabian Ruiz to give Spain a 2-0 lead.",key_event,Goal,Ruiz,Spain,59
+spain_croatia,33,0,33,"Marcelo Brozovic of Croatia smashes in a shot on target. The keeper saves, though.",general,General,Brozovic,Croatia,83
+spain_croatia,34,0,34,"Croatia's Lovro Majer misses with an attempt on goal.",general,General,Majer,Croatia,57
+spain_croatia,34,0,34,"Michael Oliver awards Spain a goal kick.",general,General,Oliver,Spain,42
+spain_croatia,34,0,34,"Spain awarded a throw-in in their own half.",general,General,,Spain,46
+spain_croatia,34,0,34,"Throw-in for Spain in their own half.",general,General,,Spain,39
+spain_croatia,35,0,35,"Spain awarded a free kick in their own half.",general,Free Kick,,Spain,45
+spain_croatia,36,0,36,"Corner awarded to Spain.",general,Corner,,Spain,25
+spain_croatia,36,0,36,"Robin Le Normand (Spain) wins the ball in the air but heads wide.",general,Corner,Le Normand,Spain,67
+spain_croatia,36,0,36,"Ball goes out of play for a Croatia goal kick.",general,General,,Croatia,47
+spain_croatia,36,0,36,"Spain to take a throw-in in Croatia territory.",general,General,,Spain,47
+spain_croatia,37,0,37,"Croatia have a goal kick.",general,General,,Croatia,25
+spain_croatia,39,0,39,"The match has been stopped briefly for attention to the injured Pedri.",general,Injury,Pedri,Spain,73
+spain_croatia,40,0,40,"Spain's Pedri is on his feet again at Olympiastadion Berlin.",general,Injury,Pedri,Spain,60
+spain_croatia,40,0,40,"Throw-in for Croatia at Olympiastadion Berlin.",general,General,,Croatia,49
+spain_croatia,41,0,41,"Free kick Croatia.",general,Free Kick,,Croatia,19
+spain_croatia,41,0,41,"Croatia are coming forward and Josko Gvardiol gets in a strike, it misses the target, however.",general,General,Gvardiol,Croatia,103
+spain_croatia,41,0,41,"Goal kick for Spain at Olympiastadion Berlin.",general,General,,Spain,49
+spain_croatia,42,0,42,"Throw-in Croatia.",general,General,,Croatia,19
+spain_croatia,42,0,42,"Croatia have a goal kick.",general,General,,Croatia,25
+spain_croatia,43,0,43,"Michael Oliver signals a Spain throw-in in Croatia's half.",general,General,Oliver,Spain,59
+spain_croatia,45,0,45,"Croatia are pushing forward but Andrej Kramaric's finish is wide of the goal.",general,General,Kramaric,Croatia,83
+spain_croatia,45,0,45,"Goal kick for Spain at Olympiastadion Berlin.",general,General,,Spain,49
+spain_croatia,45,1,45+1,"Croatia's Mateo Kovacic gets his shot away but it misses the target.",general,General,Kovacic,Croatia,70
+spain_croatia,45,1,45+1,"Michael Oliver awards Spain a goal kick.",general,General,Oliver,Spain,42
+spain_croatia,45,2,45+2,"Spain have been awarded a corner by Michael Oliver.",general,Corner,Oliver,Spain,52
+spain_croatia,45,3,45+3,"It's now 3-0 in Berlin as Dani Carvajal scores for Spain.",key_event,Goal,Carvajal,Spain,60
+spain_croatia,45,3,45+3,"The current period has ended.",general,Half Time,,Both,32
+spain_croatia,45,0,45,"The current period has begun.",key_event,Kick Off,,Both,30
+spain_croatia,46,0,46,"Ball goes out of play for a Croatia goal kick.",general,General,,Croatia,47
+spain_croatia,47,0,47,"Michael Oliver signals a free kick to Spain in their own half.",general,Free Kick,Oliver,Spain,64
+spain_croatia,47,0,47,"Michael Oliver signals a Croatia throw-in in Spain's half.",general,General,Oliver,Croatia,58
+spain_croatia,48,0,48,"Throw-in Croatia.",general,General,,Croatia,19
+spain_croatia,48,0,48,"Spain to take a throw-in in Croatia territory.",general,General,,Spain,47
+spain_croatia,49,0,49,"Play has been temporarily suspended for attention to Dani Carvajal for Spain who is writhing in pain on the pitch.",general,Injury,Carvajal,Spain,125
+spain_croatia,49,0,49,"Spain's Dani Carvajal is back in action after a slight knock.",general,Injury,Carvajal,Spain,60
+spain_croatia,50,0,50,"Michael Oliver signals a free kick to Spain.",general,Free Kick,Oliver,Spain,45
+spain_croatia,51,0,51,"Croatia have a dangerous throw-in.",general,General,,Croatia,35
+spain_croatia,51,0,51,"Free kick Croatia.",general,Free Kick,,Croatia,19
+spain_croatia,52,0,52,"Lamine Yamal for Spain drives towards goal at Olympiastadion Berlin. But the finish is unsuccessful.",general,General,Yamal,Spain,107
+spain_croatia,52,0,52,"Can Spain get the ball into an attacking position from this throw-in in Croatia's half?",general,General,,Spain,91
+spain_croatia,53,0,53,"Ball safe as Croatia is awarded a throw-in in their half.",general,General,,Croatia,60
+spain_croatia,53,0,53,"Corner awarded to Spain.",general,Corner,,Spain,25
+spain_croatia,54,0,54,"Throw-in for Croatia at Olympiastadion Berlin.",general,General,,Croatia,49
+spain_croatia,54,0,54,"Croatia awarded a free kick in their own half.",general,Free Kick,,Croatia,47
+spain_croatia,55,0,55,"Ante Budimir (Croatia) strikes at Olympiastadion Berlin but his header is cleared.",general,General,Budimir,Croatia,83
+spain_croatia,55,0,55,"Ball goes out of play for a Spain goal kick.",general,General,,Spain,45
+spain_croatia,56,0,56,"Zlatko Dalic (Croatia) is making a first substitution, with Ivan Perisic replacing Ante Budimir.",key_event,Substitution,"Budimir, Perisic, Dalic",Croatia,103
+spain_croatia,57,0,57,"Spain will need to be alert as they defend a dangerous free kick from Croatia.",general,Free Kick,,Spain,80
+spain_croatia,59,0,59,"Michael Oliver signals a free kick to Spain in their own half.",general,Free Kick,Oliver,Spain,64
+spain_croatia,59,0,59,"Luis De La Fuente is making the team's first substitution at Olympiastadion Berlin with Dani Olmo replacing Pedri.",key_event,Substitution,"Pedri, Olmo, De La Fuente",Spain,125
+spain_croatia,60,0,60,"Throw-in for Croatia in their own half.",general,General,,Croatia,42
+spain_croatia,62,0,62,"Croatia awarded a throw-in in their own half.",general,General,,Croatia,48
+spain_croatia,63,0,63,"Spain awarded a free kick in their own half.",general,Free Kick,,Spain,45
+spain_croatia,63,0,63,"Michael Oliver signals a throw-in for Croatia, close to Spain's area.",general,General,Oliver,Croatia,71
+spain_croatia,65,0,65,"Throw-in for Croatia in their own half.",general,General,,Croatia,42
+spain_croatia,65,0,65,"Mario Pasalic is replacing Luka Modric for Croatia at Olympiastadion Berlin.",key_event,Substitution,"Modric, Pasalic",Croatia,81
+spain_croatia,65,0,65,"Zlatko Dalic is making the team's third substitution at Olympiastadion Berlin with Luka Sucic replacing Mateo Kovacic.",key_event,Substitution,"Kovacic, Sucic, Dalic",Croatia,129
+spain_croatia,67,0,67,"Ball safe as Croatia is awarded a throw-in in their half.",general,General,,Croatia,60
+spain_croatia,67,0,67,"Mikel Oyarzabal is on a sub for Alvaro Morata for Spain.",key_event,Substitution,"Morata, Oyarzabal",Spain,58
+spain_croatia,67,0,67,"Spain make their third substitution with Mikel Merino replacing Nico Williams.",key_event,Substitution,"Williams, Merino",Spain,80
+spain_croatia,69,0,69,"Throw-in Spain.",general,General,,Spain,17
+spain_croatia,72,0,72,"Croatia awarded a throw-in in their own half.",general,General,,Croatia,48
+spain_croatia,72,0,72,"Zlatko Dalic (Croatia) is making a fourth substitution, with Bruno Petkovic replacing Andrej Kramaric.",key_event,Substitution,"Kramaric, Petkovic, Dalic",Croatia,105
+spain_croatia,74,0,74,"Spain drives forward and Dani Olmo gets in a shot. Without netting, however.",general,General,Olmo,Spain,80
+spain_croatia,74,0,74,"Throw-in for Croatia at Olympiastadion Berlin.",general,General,,Croatia,49
+spain_croatia,75,0,75,"Spain to take a throw-in in Croatia territory.",general,General,,Spain,47
+spain_croatia,75,0,75,"Michael Oliver signals a free kick to Croatia in their own half.",general,Free Kick,Oliver,Croatia,64
+spain_croatia,76,0,76,"Michael Oliver signals a free kick to Croatia in their own half.",general,Free Kick,Oliver,Croatia,64
+spain_croatia,76,0,76,"Croatia awarded a free kick in their own half.",general,Free Kick,,Croatia,47
+spain_croatia,77,0,77,"Spain advance rapidly upfield but Michael Oliver blows for offside.",general,Offside,Oliver,Spain,72
+spain_croatia,78,0,78,"A penalty awarded for Croatia.",key_event,Penalty,,Croatia,32
+spain_croatia,78,0,78,"Rodri (Spain) gets a yellow card.",key_event,Yellow Card,Rodri,Spain,33
+spain_croatia,79,0,79,"VAR: Penalty.",key_event,VAR,,Croatia,14
+spain_croatia,79,0,79,"VAR Decision: Penalty.",key_event,VAR,,Croatia,22
+spain_croatia,80,0,80,"Bruno Petkovic (Croatia) had a chance from the penalty spot but missed!",key_event,Penalty,Petkovic,Croatia,73
+spain_croatia,81,0,81,"VAR: Goal.",key_event,VAR,,Croatia,10
+spain_croatia,81,0,81,"VAR Decision: No Goal.",key_event,VAR,,Croatia,22
+spain_croatia,82,0,82,"Michael Oliver signals a free kick to Spain.",general,Free Kick,Oliver,Spain,45
+spain_croatia,82,0,82,"Michael Oliver signals a free kick to Croatia in their own half.",general,Free Kick,Oliver,Croatia,64
+spain_croatia,83,0,83,"Spain awarded a free kick in their own half.",general,Free Kick,,Spain,45
+spain_croatia,84,0,84,"Croatia's Ivan Perisic is on target but unsuccessful.",general,General,Perisic,Croatia,53
+spain_croatia,85,0,85,"Michael Oliver signals a Croatia throw-in in Spain's half.",general,General,Oliver,Croatia,58
+spain_croatia,85,0,85,"Rodri is writhing in pain and play has been suspended for a few moments.",general,Injury,Rodri,Spain,72
+spain_croatia,86,0,86,"Ferran Torres is replacing Lamine Yamal for Spain at Olympiastadion Berlin.",key_event,Substitution,"Yamal, Torres",Spain,79
+spain_croatia,86,0,86,"Martin Zubimendi is replacing Rodri for Spain at Olympiastadion Berlin.",key_event,Substitution,"Rodri, Zubimendi",Spain,72
+spain_croatia,89,0,89,"Spain have been awarded a corner by Michael Oliver.",general,Corner,Oliver,Spain,52
+spain_croatia,90,0,90,"Free kick Spain.",general,Free Kick,,Spain,17
+spain_croatia,90,0,90,"Michael Oliver signals a free kick to Croatia in their own half.",general,Free Kick,Oliver,Croatia,64
+spain_croatia,90,2,90+2,"Ivan Perisic (Croatia) gets up for a header but cannot keep the ball on target.",general,General,Perisic,Croatia,77
+spain_croatia,90,2,90+2,"Goal kick for Spain at Olympiastadion Berlin.",general,General,,Spain,49
+spain_croatia,90,3,90+3,"Spain have been awarded a corner by Michael Oliver.",general,Corner,Oliver,Spain,52
+spain_croatia,90,4,90+4,"Croatia awarded a free kick in their own half.",general,Free Kick,,Croatia,47
+spain_croatia,90,5,90+5,"Michael Oliver signals a free kick to Spain in their own half.",general,Free Kick,Oliver,Spain,64
+spain_croatia,90,6,90+6,"The match has ended.",key_event,Full Time,,Both,22
+

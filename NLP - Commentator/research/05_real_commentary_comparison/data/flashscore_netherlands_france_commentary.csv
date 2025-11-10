@@ -1,0 +1,78 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+netherlands_france,0,0,0,"The referee of today's match will be Anthony Taylor.",general,General,Taylor,Both,56
+netherlands_france,0,0,0,"The match will be delayed due to minute of silence.",general,General,,Both,56
+netherlands_france,0,0,0,"Netherlands will kick the game off.",general,Kick Off,,Netherlands,36
+netherlands_france,1,0,1,"Today's match has just started, enjoy the game!",key_event,Kick Off,,Both,51
+netherlands_france,1,0,1,"Jeremie Frimpong (Netherlands) collects a great pass inside the box and misses a golden opportunity. His low drive is headed for the bottom left corner, but the goalkeeper pulls off a marvellous diving save and denies him. The ball goes behind for a corner. Netherlands will have an opportunity to threaten the opposition's goal.",key_event,Save,"Frimpong, Maignan",Netherlands,332
+netherlands_france,2,0,2,"The resulting corner, taken by Memphis Depay (Netherlands), comes to nothing.",general,Corner,Depay,Netherlands,77
+netherlands_france,4,0,4,"Antoine Griezmann (France) receives a clever pass and shoots from mid-range. His shot looks like it's going into the roof of the net, but Bart Verbruggen has other ideas and makes a brilliant save. France get a corner.",key_event,Save,"Griezmann, Verbruggen",France,221
+netherlands_france,5,0,5,"Antoine Griezmann (France) takes a short corner kick.",general,Corner,Griezmann,France,57
+netherlands_france,6,0,6,"Dayot Upamecano (France) plays a long ball to Marcus Thuram, but the defence is well organised and manages to get it clear.",general,General,"Upamecano, Thuram",France,140
+netherlands_france,10,0,10,"Memphis Depay (Netherlands) plays a one-two with Cody Gakpo, but the move breaks down.",general,General,"Depay, Gakpo",Netherlands,93
+netherlands_france,12,0,12,"The foul by Denzel Dumfries (Netherlands) was seen by Anthony Taylor who didn't hesitate to blow the whistle.",general,General,Dumfries,Netherlands,122
+netherlands_france,13,0,13,"Jules Kounde (France) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",general,General,Kounde,France,148
+netherlands_france,14,0,14,"Antoine Griezmann is not given a chance to finish after receiving a sweet pass by Adrien Rabiot (France).",general,General,"Griezmann, Rabiot",France,120
+netherlands_france,14,0,14,"Big chance! A simple pass from N'Golo Kante left Antoine Griezmann (France) with just the keeper to beat inside the box, but his shot went agonisingly just past the left post.",key_event,Shot,"Kante, Griezmann",France,185
+netherlands_france,16,0,16,"Mike Maignan makes a brilliant save! Cody Gakpo (Netherlands) easily weaves through the defence and unleashes a shot from just outside of the box. His effort goes towards the bottom right corner but is saved by the keeper! The ball goes out for a corner. Netherlands can continue in their attacking effort.",key_event,Save,"Maignan, Gakpo",Netherlands,302
+netherlands_france,17,0,17,"Memphis Depay (Netherlands) sends over a poor, overhit cross from the corner kick and the ball goes out of play.",general,Corner,Depay,Netherlands,121
+netherlands_france,19,0,19,"Antoine Griezmann (France) takes the corner but it's cleared.",general,Corner,Griezmann,France,62
+netherlands_france,21,0,21,"Adrien Rabiot (France) is disappointed with himself because he got into a good area but produced a poor cross. The ball is off of the pitch and it's a goal kick for Netherlands.",general,General,Rabiot,France,176
+netherlands_france,24,0,24,"Denzel Dumfries (Netherlands) finds himself some space to meet a beautiful cross from the free kick, and from near the penalty spot he attempts to score with a header. His effort lacks accuracy and goes well wide of the right post.",key_event,Shot,Dumfries,Netherlands,232
+netherlands_france,26,0,26,"Cody Gakpo (Netherlands) breaks past challenges inside the box, but puts too much pace on his pass to Memphis Depay. The ball goes out of play and France will have a goal kick.",general,General,"Gakpo, Depay",Netherlands,184
+netherlands_france,28,0,28,"The defender did brilliantly to block the long-range effort from Tijjani Reijnders (Netherlands).",general,General,Reijnders,Netherlands,101
+netherlands_france,28,0,28,"Marcus Thuram (France) makes a yard for himself inside the box after an accurate pass and takes a shot that goes just wide of the right post.",key_event,Shot,Thuram,France,154
+netherlands_france,31,0,31,"This yellow card was deserved. The tackle by Jerdy Schouten (Netherlands) was quite harsh and Anthony Taylor didn't hesitate to show him a yellow card.",key_event,Yellow Card,Schouten,Netherlands,163
+netherlands_france,34,0,34,"Stefan de Vrij (Netherlands) sends a long cross over to Cody Gakpo, but Mike Maignan comes forward to gather the ball.",general,General,"de Vrij, Gakpo, Maignan",Netherlands,135
+netherlands_france,35,0,35,"Jeremie Frimpong (Netherlands) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",key_event,Shot,Frimpong,Netherlands,160
+netherlands_france,36,0,36,"The shot by Xavi Simons (Netherlands) from the edge of the box low towards the middle of the goal lacks power and is easily saved by Mike Maignan.",key_event,Save,"Simons, Maignan",Netherlands,157
+netherlands_france,38,0,38,"Anthony Taylor blows his whistle for a foul after Stefan de Vrij (Netherlands) hacks down one of his opponents. France are awarded the free kick.",general,Free Kick,de Vrij,Netherlands,156
+netherlands_france,39,0,39,"Antoine Griezmann (France) floats the free kick into the box, but it's easily cleared by the first man.",general,Free Kick,Griezmann,France,112
+netherlands_france,40,0,40,"Virgil van Dijk (Netherlands) is penalised after knocking an opponent down. France win a free kick. It's a promising situation for a direct shot.",general,Free Kick,van Dijk,Netherlands,154
+netherlands_france,41,0,41,"A poorly taken free kick by Antoine Griezmann (France)! He sends a shot from the edge of the box into the defensive wall. France force a corner. Their opponents will face another attacking threat.",general,Corner,Griezmann,France,203
+netherlands_france,42,0,42,"Antoine Griezmann (France) steps up to take the corner. He launches the ball into the penalty area, but it only finds the head of an opposing player who clears the danger.",general,Corner,Griezmann,France,183
+netherlands_france,43,0,43,"Antoine Griezmann (France) attempts to convert a cross into a goal, but his promising header from near the penalty spot towards the bottom left corner is denied by a decent save from Bart Verbruggen.",key_event,Save,"Griezmann, Verbruggen",France,208
+netherlands_france,45,0,45,"There will be a minimum of 1 min. of added time.",general,General,,Both,54
+netherlands_france,45,2,45+2,"That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",general,Half Time,,Both,130
+netherlands_france,46,0,46,"Everything is set for the start of the second half.",key_event,Kick Off,,Both,55
+netherlands_france,47,0,47,"Ousmane Dembele (France) looks to break free, but his touch lets him down and he loses the ball. The ball goes out of play and Netherlands will have a goal kick.",general,General,Dembele,France,166
+netherlands_france,50,0,50,"Jeremie Frimpong (Netherlands) feels very aggrieved after the referee stops play for a foul that he commits while heading towards goal with the ball.",general,General,Frimpong,Netherlands,163
+netherlands_france,51,0,51,"Ousmane Dembele (France) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",key_event,Shot,Dembele,France,189
+netherlands_france,52,0,52,"N'Golo Kante (France) rushes a shot from long range and subsequently sends it high over the bar.",key_event,Shot,Kante,France,101
+netherlands_france,54,0,54,"Ousmane Dembele (France) fouls an opponent. At least that's what referee Anthony Taylor signals. Netherlands have a free kick from a promising distance.",general,Free Kick,Dembele,France,162
+netherlands_france,55,0,55,"Memphis Depay (Netherlands) takes the free kick from the edge of the box, but the defensive wall charges down the ball.",general,Free Kick,Depay,Netherlands,129
+netherlands_france,56,0,56,"Memphis Depay (Netherlands) is clearly in an offside position and the linesman raises his flag.",general,Offside,Depay,Netherlands,97
+netherlands_france,57,0,57,"Adrien Rabiot (France) cushions the ball on his chest then hits a first-time volley high over the bar from inside the box.",key_event,Shot,Rabiot,France,136
+netherlands_france,60,0,60,"Adrien Rabiot passes to Marcus Thuram (France), but he produces a wild shot from the edge of the box which goes well wide of the left post.",key_event,Shot,"Rabiot, Thuram",France,153
+netherlands_france,63,0,63,"The ball is whipped in from the corner by Ousmane Dembele (France), but one of the defenders gets it clear.",general,Corner,Dembele,France,118
+netherlands_france,63,0,63,"Ousmane Dembele sends a terrific cross into the box. Aurelien Tchouameni (France) gets on the end of it but his header from the centre of the box goes just over the bar.",key_event,Shot,"Dembele, Tchouameni",France,177
+netherlands_france,65,0,65,"Antoine Griezmann (France) receives a precise low pass inside the box, controls the ball and releases it towards the right post. Unfortunately for him, Bart Verbruggen makes a great save to stop his effort. Corner kick. France will have an opportunity.",general,Corner,"Griezmann, Verbruggen",France,254
+netherlands_france,66,0,66,"The resulting corner from Antoine Griezmann (France) is cleared.",general,Corner,Griezmann,France,63
+netherlands_france,66,0,66,"Aurelien Tchouameni (France) tries his luck with and strikes the ball towards goal from long-range, but it is blocked by one of the defenders.",key_event,Shot,Tchouameni,France,147
+netherlands_france,67,0,67,"Ousmane Dembele (France) swings a cross into the box, but it's far too close to Bart Verbruggen, who smothers the ball.",general,General,"Dembele, Verbruggen",France,137
+netherlands_france,68,0,68,"The opposition back off Ousmane Dembele (France) and he lashes in a shot from the edge of the box that just flies over the bar. Unlucky!",key_event,Shot,Dembele,France,151
+netherlands_france,69,0,69,"What a wasted opportunity by Memphis Depay (Netherlands)! He unleashed a powerful low shot from the centre of the box, but Mike Maignan makes a decent save to thwart him.",key_event,Save,"Depay, Maignan",Netherlands,183
+netherlands_france,69,0,69,"Goal! Xavi Simons (Netherlands) shows perfect technique and produces a first-time effort from just outside the box that goes into the bottom right corner. It's 1:0.",key_event,Disallowed Goal,Simons,Netherlands,178
+netherlands_france,70,0,70,"Wait! Referee Anthony Taylor has indicated he is going to review the Netherlands goal using VAR. It's probably to see if there was an offside in the build-up.",general,VAR,Taylor,Netherlands,169
+netherlands_france,72,0,72,"Here comes the VAR verdict. NO GOAL for Netherlands due to an offside in the build-up play.",key_event,VAR,,Netherlands,101
+netherlands_france,73,0,73,"Substitution. Xavi Simons will be replaced by Georginio Wijnaldum (Netherlands).",key_event,Substitution,"Simons, Wijnaldum",Netherlands,82
+netherlands_france,73,0,73,"Ronald Koeman prepares a substitution. Jerdy Schouten is replaced by Joey Veerman (Netherlands).",key_event,Substitution,"Schouten, Veerman, Koeman",Netherlands,100
+netherlands_france,73,0,73,"It's time for a substitution. That's the last involvement from Jeremie Frimpong as he is replaced by Lutsharel Geertruida (Netherlands).",key_event,Substitution,"Frimpong, Geertruida",Netherlands,142
+netherlands_france,75,0,75,"Aurelien Tchouameni (France) tries to find Antoine Griezmann, but he puts too much power on the through ball. The ball is off of the pitch and it's a goal kick for Netherlands.",general,General,"Tchouameni, Griezmann",France,182
+netherlands_france,75,0,75,"A substitution has been made. Ousmane Dembele goes off and Kingsley Coman (France) comes on.",key_event,Substitution,"Dembele, Coman",France,97
+netherlands_france,75,0,75,"Substitution. Marcus Thuram is replaced by Olivier Giroud (France).",key_event,Substitution,"Thuram, Giroud",France,68
+netherlands_france,77,0,77,"Anthony Taylor blows his whistle after N'Golo Kante (France) kicks an opponent's legs instead of the ball. Netherlands are awarded a free kick.",general,Free Kick,Kante,France,153
+netherlands_france,78,0,78,"The free kick is taken by Memphis Depay (Netherlands), but ball is cleared.",general,Free Kick,Depay,Netherlands,77
+netherlands_france,79,0,79,"Substitution. Wout Weghorst (Netherlands) receives a signal from the referee and is now allowed to enter the pitch as Memphis Depay walks off.",key_event,Substitution,"Depay, Weghorst",Netherlands,156
+netherlands_france,79,0,79,"Joey Veerman (Netherlands) takes the corner kick but the ball only finds the head of an opponent.",general,Corner,Veerman,Netherlands,101
+netherlands_france,79,0,79,"Wout Weghorst (Netherlands) was standing in a clear offside position, making it an easy call for the linesman.",general,Offside,Weghorst,Netherlands,119
+netherlands_france,85,0,85,"France keep the ball and are displaying some tiki-taka style passing at the moment.",general,General,,France,88
+netherlands_france,86,0,86,"This should have been a goal! Olivier Giroud (France) sends a killer pass into the box, but Antoine Griezmann can't trick the opposition's defence and loses possession.",general,General,"Giroud, Griezmann",France,177
+netherlands_france,87,0,87,"The attendance is 38531.",general,General,,Both,27
+netherlands_france,88,0,88,"Adrien Rabiot (France) is down injured and the referee stops play so that he can receive medical treatment.",general,Injury,Rabiot,France,116
+netherlands_france,89,0,89,"Adrien Rabiot (France) slips past one challenge, but is unable to feed a low pass into the path of one of his teammates.",general,General,Rabiot,France,137
+netherlands_france,90,0,90,"5 min. of stoppage-time to be played.",general,General,,Both,40
+netherlands_france,90,1,90+1,"N'Golo Kante (France) receives a sweet pass inside the box, but his effort on goal is blocked by the defender. The ball is out of play. A goal-scoring opportunity from a corner for France.",general,Corner,Kante,France,192
+netherlands_france,90,1,90+1,"Antoine Griezmann (France) whips in a cross from the corner, but Bart Verbruggen is well positioned and punches the ball away.",general,Corner,"Griezmann, Verbruggen",France,138
+netherlands_france,90,4,90+4,"Denzel Dumfries (Netherlands) sends a cross into the box, but the opposition's defence clears the ball to safety.",general,General,Dumfries,Netherlands,127
+netherlands_france,90,6,90+6,"The match has just finished.",key_event,Full Time,,Both,30
+

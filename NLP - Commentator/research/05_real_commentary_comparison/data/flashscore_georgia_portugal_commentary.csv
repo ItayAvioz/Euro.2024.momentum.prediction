@@ -1,0 +1,115 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+georgia_portugal,0,0,0,"The referee of today's match will be Sandro Scharer.",general,General,Scharer,Both,56
+georgia_portugal,0,0,0,"Portugal will kick-off.",general,Kick Off,,Portugal,24
+georgia_portugal,1,0,1,"The first half has started.",key_event,Kick Off,,Both,27
+georgia_portugal,2,0,2,"Goal! Georges Mikautadze plays a pass to the feet of Khvicha Kvaratskhelia (Georgia), and he shoots into the bottom right corner from inside the box. It's 1:0.",key_event,Goal,"Mikautadze, Kvaratskhelia",Georgia,174
+georgia_portugal,4,0,4,"Pedro Neto (Portugal) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it.",general,General,Neto,Portugal,153
+georgia_portugal,5,0,5,"A fine lofted pass into the box, sent by Francisco Conceicao (Portugal), is intercepted by the opposition's defence.",general,General,Conceicao,Portugal,127
+georgia_portugal,7,0,7,"The Portugal players are exchanging some short passes to try and open up the opposition's defence and hit them swiftly on the break.",general,General,,Portugal,138
+georgia_portugal,10,0,10,"Francisco Conceicao (Portugal) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",general,General,Conceicao,Portugal,132
+georgia_portugal,10,0,10,"Francisco Conceicao (Portugal) skips past his man but can't keep the ball in play. The ball goes out of play and Georgia will have a goal kick.",general,General,Conceicao,Portugal,150
+georgia_portugal,12,0,12,"A lofted cross from Giorgi Kochorashvili (Georgia) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",general,General,Kochorashvili,Georgia,148
+georgia_portugal,12,0,12,"Sandro Scharer has a clear sight and sees a foul from Otar Kakabadze (Georgia).",general,General,Kakabadze,Georgia,78
+georgia_portugal,13,0,13,"Otar Kiteishvili (Georgia) looks to break free, but an opposing player clears the ball away.",general,General,Kiteishvili,Georgia,91
+georgia_portugal,14,0,14,"Joao Felix (Portugal) whips a promising cross into the box, but the opposition's defence intercepts the ball.",general,General,Felix,Portugal,116
+georgia_portugal,16,0,16,"Lasha Dvali (Georgia) gives away a foul for a fierce tackle on an opponent. A free kick has been awarded to Portugal.",general,Free Kick,Dvali,Georgia,119
+georgia_portugal,17,0,17,"Cristiano Ronaldo (Portugal) tries his luck from a long-range free kick and fires the ball to the middle of the goal, but Giorgi Mamardashvili is alert and thwarts the effort. The linesman points to the corner flag, Portugal are going to take it.",key_event,Save,"Ronaldo, Mamardashvili",Portugal,240
+georgia_portugal,17,0,17,"Joao Felix (Portugal) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",general,Corner,Felix,Portugal,133
+georgia_portugal,18,0,18,"Diogo Dalot (Portugal) does well to reach the lofted pass in the centre of the box, but doesn't make full contact and his header drifts well past the right post.",key_event,Shot,Dalot,Portugal,168
+georgia_portugal,20,0,20,"Giorgi Kochorashvili (Georgia) gives away a foul for a clumsy challenge. Referee Sandro Scharer saw the whole situation. A free kick has been awarded to Portugal.",general,Free Kick,Kochorashvili,Georgia,163
+georgia_portugal,21,0,21,"The free kick picks out Antonio Silva (Portugal) in space, but his close-range header flies miles over the bar.",key_event,Shot,Silva,Portugal,120
+georgia_portugal,23,0,23,"Joao Palhinha (Portugal) drills a powerful shot from long range towards the middle of the goal, but Giorgi Mamardashvili makes a comfortable save.",key_event,Save,"Palhinha, Mamardashvili",Portugal,159
+georgia_portugal,24,0,24,"Joao Neves (Portugal) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders.",key_event,Shot,Neves,Portugal,164
+georgia_portugal,25,0,25,"Otar Kiteishvili (Georgia) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",general,General,Kiteishvili,Georgia,148
+georgia_portugal,26,0,26,"Otar Kiteishvili (Georgia) is moving okay again after that injury scare.",general,General,Kiteishvili,Georgia,71
+georgia_portugal,27,0,27,"Francisco Conceicao (Portugal) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Good work from Portugal as they win a corner.",general,Corner,Conceicao,Portugal,180
+georgia_portugal,27,0,27,"Joao Felix (Portugal) takes the corner with a short pass.",general,Corner,Felix,Portugal,58
+georgia_portugal,28,0,28,"What a sensational goal that would have been! Francisco Conceicao (Portugal) picks up the ball inside the box and fires a beautiful first-time shot, but it goes just a few inches wide of the right post.",key_event,Shot,Conceicao,Portugal,199
+georgia_portugal,28,0,28,"Cristiano Ronaldo (Portugal) receives a yellow card from the referee as expected.",key_event,Yellow Card,Ronaldo,Portugal,82
+georgia_portugal,29,0,29,"Joao Neves (Portugal) plays a through ball which would have led to a great opportunity, if it hadn't been stopped by the defence.",general,General,Neves,Portugal,138
+georgia_portugal,30,0,30,"Joao Felix (Portugal) gets on the end of a pass on the edge of the area, but he drags his shot just wide of the right post.",key_event,Shot,Felix,Portugal,130
+georgia_portugal,31,0,31,"Diogo Dalot (Portugal) tries to send a pass but it's blocked.",general,General,Dalot,Portugal,59
+georgia_portugal,32,0,32,"Joao Palhinha (Portugal) makes a reckless foul in order to win the ball from his opponent. Sandro Scharer has a clear sight of it and blows his whistle.",general,General,Palhinha,Portugal,155
+georgia_portugal,33,0,33,"Khvicha Kvaratskhelia (Georgia) makes space inside the box for a shot, but his effort goes just wide of the right post.",key_event,Shot,Kvaratskhelia,Georgia,127
+georgia_portugal,35,0,35,"What a great touch by Cristiano Ronaldo (Portugal) as he controls a fine pass into the box and fires the ball to the left post, but the effort is brilliantly blocked. Portugal have been awarded a corner kick.",key_event,Shot,Ronaldo,Portugal,208
+georgia_portugal,35,0,35,"Joao Felix (Portugal) decides to speed play up with a short corner kick.",general,Corner,Felix,Portugal,73
+georgia_portugal,35,0,35,"Diogo Dalot (Portugal) was too forceful with his tackle and Sandro Scharer interrupted the game to signal a free kick. Georgia are awarded a free kick.",general,Free Kick,Dalot,Portugal,153
+georgia_portugal,36,0,36,"Khvicha Kvaratskhelia (Georgia) attempts to find one of his teammates with a cross from the resultant free kick, but he fails to hit the ball properly and sends it off the pitch. The ball is off of the pitch and it's a goal kick for Portugal.",general,Free Kick,Kvaratskhelia,Georgia,229
+georgia_portugal,37,0,37,"Pedro Neto (Portugal) tries to slide the ball through to a teammate but it's well blocked by a defender. Portugal will have a chance to score from a corner kick.",general,Corner,Neto,Portugal,158
+georgia_portugal,37,0,37,"Joao Felix (Portugal) steps up to take the corner, but the ball just sails in among the defenders.",general,Corner,Felix,Portugal,100
+georgia_portugal,38,0,38,"Dangerous play by Joao Palhinha (Portugal). Sandro Scharer blows his whistle for a foul.",general,General,Palhinha,Portugal,91
+georgia_portugal,40,0,40,"Joao Felix (Portugal) attempts to slip the ball through the defence, but is unable to find any of his teammates.",general,General,Felix,Portugal,119
+georgia_portugal,40,0,40,"Khvicha Kvaratskhelia (Georgia) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",general,General,Kvaratskhelia,Georgia,138
+georgia_portugal,42,0,42,"Khvicha Kvaratskhelia (Georgia) seems to be alright and is okay to carry on.",general,General,Kvaratskhelia,Georgia,73
+georgia_portugal,42,0,42,"Rough tackle by Giorgi Chakvetadze (Georgia). The referee blows his whistle for a foul.",general,General,Chakvetadze,Georgia,90
+georgia_portugal,43,0,43,"Portugal seem to be finding their feet as they enjoy some possession. They are waiting for the right moment to create new attacking opportunities.",general,General,,Portugal,151
+georgia_portugal,43,0,43,"Joao Palhinha (Portugal) nicely brought down the pass, but his long-range effort was wild and went well wide of the right post.",key_event,Shot,Palhinha,Portugal,138
+georgia_portugal,44,0,44,"This is a yellow card! Pedro Neto (Portugal) is not happy with the decision, but from our point of view it was clear.",key_event,Yellow Card,Neto,Portugal,127
+georgia_portugal,45,0,45,"Otar Kiteishvili (Georgia) should know this behaviour is beyond the rules. He was too careless with his challenge and left Sandro Scharer no option but to blow his whistle.",general,General,Kiteishvili,Georgia,170
+georgia_portugal,45,0,45,"3 additional min. will be played.",general,General,,Both,38
+georgia_portugal,45,1,45+1,"Joao Felix (Portugal) unleashes a shot from the edge of the box, but it goes straight at Giorgi Mamardashvili.",key_event,Save,"Felix, Mamardashvili",Portugal,119
+georgia_portugal,45,2,45+2,"Francisco Conceicao (Portugal) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders. The referee signals a corner kick to Portugal.",general,Corner,Conceicao,Portugal,195
+georgia_portugal,45,2,45+2,"The corner from Pedro Neto (Portugal) is intercepted by Giorgi Mamardashvili.",general,Corner,"Neto, Mamardashvili",Portugal,78
+georgia_portugal,45,2,45+2,"That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",general,Half Time,,Both,126
+georgia_portugal,46,0,46,"The referee blows his whistle to signal the start of the second half.",key_event,Kick Off,,Both,71
+georgia_portugal,46,0,46,"That will be all from Joao Palhinha who is being replaced by the fresh legs of Ruben Neves (Portugal).",key_event,Substitution,"Palhinha, Neves",Portugal,109
+georgia_portugal,46,0,46,"The defender bravely blocks the shot from Francisco Conceicao (Portugal) inside the box. Portugal win a corner.",key_event,Shot,Conceicao,Portugal,117
+georgia_portugal,47,0,47,"Corner kick. Ruben Neves (Portugal) is ready to send the ball into the box.",general,Corner,Neves,Portugal,78
+georgia_portugal,47,0,47,"Cristiano Ronaldo (Portugal) gets to the ball from the resulting corner and tries his luck with a shot, but one of the defenders steps in to block the effort. Portugal have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",general,Corner,Ronaldo,Portugal,236
+georgia_portugal,47,0,47,"Ruben Neves (Portugal) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",general,Corner,Neves,Portugal,118
+georgia_portugal,47,0,47,"Danilo Pereira (Portugal) meets a fine cross on the edge of the box from the resulting corner kick and shoots. His shot flies just wide of the left post.",key_event,Shot,Pereira,Portugal,153
+georgia_portugal,49,0,49,"Cristiano Ronaldo (Portugal) was standing in a clear offside position, making it an easy call for the linesman.",general,Offside,Ronaldo,Portugal,114
+georgia_portugal,50,0,50,"Khvicha Kvaratskhelia (Georgia) latches on to a precise pass and one-on-one with the keeper slams the ball towards the middle of the goal. Diogo Costa is alert, though, and makes an easy save to deny him.",key_event,Save,"Kvaratskhelia, Costa",Georgia,207
+georgia_portugal,50,0,50,"Sandro Scharer blows for a foul after Diogo Dalot (Portugal) was too aggressive in the battle for the ball.",general,General,Dalot,Portugal,109
+georgia_portugal,52,0,52,"Joao Felix (Portugal) dummies a defender then lets fly from the edge of the box, but the ball misses the left post by a mile.",key_event,Shot,Felix,Portugal,133
+georgia_portugal,53,0,53,"Yellow card. Ruben Neves (Portugal) goes into the referee's book after a bad challenge.",key_event,Yellow Card,Neves,Portugal,85
+georgia_portugal,53,0,53,"Otar Kiteishvili (Georgia) breaks into the box and goes over after a challenge from an opposition player, but the ref signals NO penalty!",general,Penalty,Kiteishvili,Georgia,142
+georgia_portugal,55,0,55,"Referee Sandro Scharer makes the VAR signal and is going to check whether it's a penalty for Georgia. Let's see what happens!",general,VAR,,Georgia,131
+georgia_portugal,55,0,55,"Here comes the VAR decision. YES, it's a penalty!",key_event,VAR,,Georgia,55
+georgia_portugal,56,0,56,"Georges Mikautadze (Georgia) is going to take the penalty!",general,Penalty,Mikautadze,Georgia,58
+georgia_portugal,57,0,57,"Goal! Georges Mikautadze (Georgia) wins the battle of wills and sends an unstoppable penalty past Diogo Costa into the bottom right corner.",key_event,Goal,"Mikautadze, Costa",Georgia,154
+georgia_portugal,59,0,59,"Some neat passing and movement from Portugal as they ping around some short passes in order to create a new attacking opportunity.",general,General,,Portugal,138
+georgia_portugal,60,0,60,"Ruben Neves (Portugal) sends a cross into the box, but Giorgi Mamardashvili comes off his line to gather the ball.",general,General,"Neves, Mamardashvili",Portugal,120
+georgia_portugal,61,0,61,"Cristiano Ronaldo (Portugal) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Ronaldo,Portugal,122
+georgia_portugal,61,0,61,"The game is interrupted now, Luka Lochoshvili (Georgia) picks up a knock and the physio has to come on.",general,General,Lochoshvili,Georgia,112
+georgia_portugal,62,0,62,"Luka Lochoshvili (Georgia) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",general,General,Lochoshvili,Georgia,117
+georgia_portugal,63,0,63,"Willy Sagnol is forced to make a change. Luka Lochoshvili (Georgia) is unable to continue due to injury, Georgiy Tsitaishvili comes on.",key_event,Substitution,"Lochoshvili, Tsitaishvili, Sagnol",Georgia,128
+georgia_portugal,65,0,65,"Sandro Scharer couldn't ignore the rough tackle by Ruben Neves (Portugal) and blew his whistle.",general,General,Neves,Portugal,96
+georgia_portugal,66,0,66,"Here comes a substitution. Cristiano Ronaldo is given a rest as he is replaced by Goncalo Ramos (Portugal).",key_event,Substitution,"Ronaldo, Ramos",Portugal,111
+georgia_portugal,66,0,66,"Substitution. Antonio Silva makes way for Nelson Semedo (Portugal).",key_event,Substitution,"Silva, Semedo",Portugal,67
+georgia_portugal,66,0,66,"Giorgi Chakvetadze (Georgia) makes a strong challenge and Sandro Scharer blows for a foul.",general,General,Chakvetadze,Georgia,96
+georgia_portugal,66,0,66,"Francisco Conceicao (Portugal) takes a mid-range shot, but it lacks accuracy and it goes way over the bar.",key_event,Shot,Conceicao,Portugal,110
+georgia_portugal,68,0,68,"Nelson Semedo (Portugal) sends a pass into the box, but his attempt is thwarted and cleared. Portugal have been awarded a corner kick.",general,Corner,Semedo,Portugal,134
+georgia_portugal,68,0,68,"Joao Neves (Portugal) takes a short corner kick.",general,Corner,Neves,Portugal,49
+georgia_portugal,70,0,70,"Francisco Conceicao (Portugal) produces a dangerous lofted cross into the box which is intercepted.",general,General,Conceicao,Portugal,100
+georgia_portugal,71,0,71,"Francisco Conceicao (Portugal) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",general,General,Conceicao,Portugal,163
+georgia_portugal,72,0,72,"Giorgi Chakvetadze (Georgia) squandered a huge opportunity from inside the 6-yard box. He blazed it high over the bar.",key_event,Shot,Chakvetadze,Georgia,127
+georgia_portugal,72,0,72,"Nelson Semedo (Portugal) robs an opponent of the ball and explodes in anger when Sandro Scharer blows for a foul.",general,General,Semedo,Portugal,119
+georgia_portugal,74,0,74,"Francisco Conceicao (Portugal) sends a teasing cross into the area, but Giorgi Mamardashvili intercepts the ball.",general,General,"Conceicao, Mamardashvili",Portugal,120
+georgia_portugal,75,0,75,"The manager has decided to make a substitution and Pedro Neto walks off the pitch to be replaced by Diogo Jota (Portugal).",key_event,Substitution,"Neto, Jota",Portugal,127
+georgia_portugal,75,0,75,"Roberto Martinez prepares a substitution. Joao Neves is replaced by Matheus Nunes (Portugal).",key_event,Substitution,"Neves J, Nunes, Martinez",Portugal,99
+georgia_portugal,76,0,76,"The game has come to an end for Giorgi Gvelesiani. He has contributed as much as he could today. He will be replaced by the fresh legs of Solomon Kvirkvelia (Georgia).",key_event,Substitution,"Gvelesiani, Kvirkvelia",Georgia,173
+georgia_portugal,78,0,78,"The defence is alert as they clear a dangerous cross from Georgiy Tsitaishvili (Georgia). The referee and one of his assistants signal for a corner kick to Georgia.",general,Corner,Tsitaishvili,Georgia,163
+georgia_portugal,78,0,78,"Khvicha Kvaratskhelia (Georgia) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",general,Corner,Kvaratskhelia,Georgia,133
+georgia_portugal,79,0,79,"Joao Felix (Portugal) tries to find the head of a teammate in the box but overhits the cross. The ball goes out of play and Georgia will have a goal kick.",general,General,Felix,Portugal,152
+georgia_portugal,80,0,80,"Diogo Jota (Portugal) latches on to a pin-point through ball, but one of the defending players dispossess him. Brilliant defending. The ball is out of play and the linesman points at the corner flag. Corner to Portugal.",general,Corner,Jota,Portugal,201
+georgia_portugal,81,0,81,"Ruben Neves (Portugal) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",general,Corner,Neves,Portugal,168
+georgia_portugal,81,0,81,"Nelson Semedo (Portugal) receives a rebound and has a go from distance. His shot flies towards the goal, but is blocked at the last moment by a defender.",key_event,Shot,Semedo,Portugal,157
+georgia_portugal,81,0,81,"Here comes a substitution. Anzor Mekvabishvili (Georgia) is brought on as a substitute for Giorgi Chakvetadze.",key_event,Substitution,"Chakvetadze, Mekvabishvili",Georgia,115
+georgia_portugal,81,0,81,"Here is a change. Khvicha Kvaratskhelia is going off and Willy Sagnol gives the last tactical orders to Zuriko Davitashvili (Georgia).",key_event,Substitution,"Kvaratskhelia, Davitashvili, Sagnol",Georgia,119
+georgia_portugal,84,0,84,"Ruben Neves (Portugal) fails to pick a body out in the box with an over-hit cross to the back post. The ball goes out of play and Georgia will have a goal kick.",general,General,Neves,Portugal,158
+georgia_portugal,85,0,85,"The attendance for today's match is 49616.",general,General,,Both,47
+georgia_portugal,85,0,85,"Sandro Scharer shows a yellow card to Anzor Mekvabishvili (Georgia) for his blatant foul.",key_event,Yellow Card,Mekvabishvili,Georgia,89
+georgia_portugal,85,0,85,"Anzor Mekvabishvili (Georgia) will miss the next game.",general,General,Mekvabishvili,Georgia,53
+georgia_portugal,85,0,85,"Close! Zuriko Davitashvili (Georgia) picks up the ball in space and from inside the penalty area sends a shot inches wide of the left post.",key_event,Shot,Davitashvili,Georgia,146
+georgia_portugal,87,0,87,"Sandro Scharer blows his whistle. Francisco Conceicao (Portugal) commits a foul after dangerous play.",general,General,Conceicao,Portugal,106
+georgia_portugal,89,0,89,"Matheus Nunes (Portugal) sends over a cross, but he can't find any teammate inside the box. Poor delivery. The ball goes out of play and Georgia will have a goal kick.",general,General,Nunes,Portugal,170
+georgia_portugal,90,0,90,"4 min. of stoppage-time to be played.",general,General,,Both,40
+georgia_portugal,90,1,90+1,"Nelson Semedo (Portugal) wastes a huge opportunity! He receives a precise cross inside the penalty area and produces a low shot that sails towards the middle of a goal. His effort, however, lacks power and the goalkeeper makes a comfortable save.",key_event,Save,"Semedo, Mamardashvili",Portugal,253
+georgia_portugal,90,2,90+2,"Francisco Conceicao (Portugal) fails to find any of his teammates inside the box as his pass is blocked.",general,General,Conceicao,Portugal,111
+georgia_portugal,90,3,90+3,"Francisco Conceicao (Portugal) goes close to scoring with a shot from inside the box, but he drags his effort wide of the right post.",key_event,Shot,Conceicao,Portugal,142
+georgia_portugal,90,4,90+4,"Diogo Dalot (Portugal) receives a low pass just outside the box and unleashes a fine strike towards the right post. Giorgi Mamardashvili pulls off a reflexive save to block his effort. Nice goalkeeping skill, indeed.",key_event,Save,"Dalot, Mamardashvili",Portugal,228
+georgia_portugal,90,4,90+4,"The resulting corner from Ruben Neves (Portugal) comes to nothing. The ball goes out of play and Portugal have been awarded a corner kick.",general,Corner,Neves,Portugal,141
+georgia_portugal,90,5,90+5,"Ruben Neves (Portugal) swings in the corner kick, but one of the defenders leaps highest to head the ball away.",general,Corner,Neves,Portugal,119
+georgia_portugal,90,5,90+5,"That's the end of the match.",key_event,Full Time,,Both,29
+

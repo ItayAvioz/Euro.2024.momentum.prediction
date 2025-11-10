@@ -1,0 +1,96 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+hungary_switzerland,0,0,0,"The referee of today's match will be Slavko Vincic.",general,General,Vincic,Both,54
+hungary_switzerland,0,0,0,"The players are on the pitch and Hungary will have the kick-off.",general,Kick Off,,Hungary,67
+hungary_switzerland,1,0,1,"The referee blows his whistle and we are underway.",key_event,Kick Off,Vincic,Both,51
+hungary_switzerland,1,0,1,"Remo Freuler (Switzerland) commits a rough foul. Slavko Vincic stops the game and makes a call. Hungary are given an advantage. They have a free kick.",general,Free Kick,Freuler,Switzerland,161
+hungary_switzerland,2,0,2,"It seemed like Dominik Szoboszlai (Hungary) was going to take a quick free kick, but instead he is going to send the ball inside the penalty box for his teammates.",general,Free Kick,Szoboszlai,Hungary,171
+hungary_switzerland,2,0,2,"The linesman raises his flag. Michel Aebischer (Switzerland) is adjudged offside.",general,Offside,Aebischer,Switzerland,84
+hungary_switzerland,5,0,5,"Today's referee Slavko Vincic rightly decides to book Silvan Widmer (Switzerland) for his harsh tackle.",key_event,Yellow Card,Widmer,Switzerland,112
+hungary_switzerland,6,0,6,"Michel Aebischer (Switzerland) did his best to latch on to a crossfield pass, but it was too long and it goes out of play.",general,General,Aebischer,Switzerland,135
+hungary_switzerland,7,0,7,"Milos Kerkez (Hungary) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety.",general,General,Kerkez,Hungary,204
+hungary_switzerland,10,0,10,"Roland Sallai (Hungary) makes some space for himself and from mid-range let's fly with a wild effort which goes high over the crossbar.",general,General,Sallai,Hungary,145
+hungary_switzerland,12,0,12,"Gooal! No wait, it's been ruled out for offside. Kwadwo Duah (Switzerland) disagrees, but the linesman is sure about his call.",key_event,VAR,Duah,Switzerland,148
+hungary_switzerland,13,0,13,"The Switzerland players joy may have been justified, because referee Slavko Vincic is going use VAR to determine whether it was offside.",key_event,VAR,Vincic,Switzerland,155
+hungary_switzerland,13,0,13,"Here comes the VAR decision. The goal is given and Switzerland players have a reason to celebrate!",key_event,Goal,Duah,Switzerland,107
+hungary_switzerland,15,0,15,"Barnabas Varga (Hungary) makes a rough challenge and Slavko Vincic blows his whistle for a foul. Switzerland are awarded the free kick.",general,Free Kick,Varga,Hungary,140
+hungary_switzerland,17,0,17,"The resulting corner from Ricardo Rodriguez (Switzerland) only finds one of the defenders, who heads it out of danger.",general,Corner,Rodriguez,Switzerland,130
+hungary_switzerland,19,0,19,"Remo Freuler (Switzerland) commits a minor foul to interrupt the attacking move of his opponent and is warned by the referee that he will get a yellow card if he does it again. Hungary have a free kick.",general,Free Kick,Freuler,Switzerland,211
+hungary_switzerland,20,0,20,"Ruben Vargas (Switzerland) runs onto a loose pass inside the box and releases a tremendous shot towards the middle of the goal. However, Peter Gulacsi anticipates the shot and makes a decent save. The ball is out of play. A goal-scoring opportunity from a corner for Switzerland.",key_event,Save,"Vargas, Gulacsi",Switzerland,277
+hungary_switzerland,22,0,22,"Ruben Vargas (Switzerland) swings in the corner, but the goalkeeper does a brilliant job to intercept the effort.",general,Corner,Vargas,Switzerland,121
+hungary_switzerland,22,0,22,"Fabian Schar (Switzerland) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders.",general,General,Schar,Switzerland,171
+hungary_switzerland,26,0,26,"A long cross from the side is directed to the well-positioned Attila Fiola (Hungary), but the defence gets it clear.",general,General,Fiola,Hungary,131
+hungary_switzerland,27,0,27,"Andras Schafer (Hungary) makes a slide tackle, but referee Slavko Vincic blows for a foul. There is a free kick near the sideline to Switzerland.",general,Free Kick,Schafer,Hungary,153
+hungary_switzerland,29,0,29,"Fabian Schar (Switzerland) makes space for himself in the box after some nice work, but his shot is immediately charged down by a defender.",general,General,Schar,Switzerland,152
+hungary_switzerland,30,0,30,"Roland Sallai (Hungary) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Sallai,Hungary,128
+hungary_switzerland,31,0,31,"Dominik Szoboszlai (Hungary) looks like he will be the one to take the corner kick.",general,Corner,Szoboszlai,Hungary,82
+hungary_switzerland,32,0,32,"Slavko Vincic blows for a foul after Attila Fiola (Hungary) was too aggressive in the battle for the ball. A free kick is awarded to Switzerland.",general,Free Kick,Fiola,Hungary,151
+hungary_switzerland,33,0,33,"Ricardo Rodriguez (Switzerland) gives away a foul for a fierce tackle on an opponent. It's a free kick to Hungary in a dangerous position.",general,Free Kick,Rodriguez,Switzerland,146
+hungary_switzerland,36,0,36,"Silvan Widmer (Switzerland) races towards goal but the defender gets back well to make a challenge. The ball is out of play. Switzerland will take a throw-in.",general,General,Widmer,Switzerland,167
+hungary_switzerland,37,0,37,"Silvan Widmer (Switzerland) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",general,General,Widmer,Switzerland,131
+hungary_switzerland,37,0,37,"Dan Ndoye (Switzerland) produces a dangerous low pass into the penalty area, but the defence manage to cut it out.",general,General,Ndoye,Switzerland,127
+hungary_switzerland,39,0,39,"Adam Nagy (Hungary) attempts to find some of his teammates with a dangerous pass from the edge of the box. The opponent's defence, however, intercepts the effort and clears the ball to safety.",general,General,Nagy,Hungary,201
+hungary_switzerland,39,0,39,"The game is interrupted. Dan Ndoye (Switzerland) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did. A free kick has been awarded to Hungary.",general,Free Kick,Ndoye,Switzerland,225
+hungary_switzerland,40,0,40,"It seemed like Dominik Szoboszlai (Hungary) was going to take a quick free kick, but instead he is going to send the ball inside the penalty box for his teammates.",general,Free Kick,Szoboszlai,Hungary,171
+hungary_switzerland,40,0,40,"Willi Orban (Hungary) creates himself some space around the penalty spot and connects with the free kick. His header is aimed towards the middle of the net, but Yann Sommer pulls off a comfortable save to thwart him.",key_event,Save,"Orban, Sommer",Hungary,218
+hungary_switzerland,41,0,41,"Andras Schafer (Hungary) should know this behaviour is beyond the rules. He was too careless with his challenge and left Slavko Vincic no option but to blow his whistle.",general,General,Schafer,Hungary,176
+hungary_switzerland,42,0,42,"Granit Xhaka (Switzerland) brings his opponent down. Slavko Vincic has a clear sight of it and blows his whistle for a foul.",general,General,Xhaka,Switzerland,130
+hungary_switzerland,42,0,42,"Kwadwo Duah (Switzerland) clips an inviting cross into the box, but there's no one in a position to get on the end of it.",general,General,Duah,Switzerland,131
+hungary_switzerland,44,0,44,"Dan Ndoye (Switzerland) produces a poor pass. He attempts to get the ball into the box but it's hacked away.",general,General,Ndoye,Switzerland,115
+hungary_switzerland,45,0,45,"Michel Aebischer (Switzerland) takes a great first touch to control a killer pass on the edge of the box and drills a shot into the bottom right corner in trademark fashion.",key_event,Goal,Aebischer,Switzerland,187
+hungary_switzerland,45,0,45,"2 min. of stoppage-time to be played.",general,General,,Both,42
+hungary_switzerland,45,2,45+2,"Roland Sallai (Hungary) pulls the jersey of one of the opposition players and Slavko Vincic blows his whistle for a foul.",general,General,Sallai,Hungary,133
+hungary_switzerland,45,2,45+2,"The end of the first half.",general,Half Time,,Both,27
+hungary_switzerland,46,0,46,"Referee Slavko Vincic blows his whistle to start the second half.",key_event,Kick Off,Vincic,Both,65
+hungary_switzerland,46,0,46,"Half-time substitution. Adam Lang (Hungary) is replaced by Bendeguz Bolla.",key_event,Substitution,"Lang, Bolla",Hungary,79
+hungary_switzerland,47,0,47,"Kwadwo Duah (Switzerland) passes the ball into the box but an opposing player clears.",general,General,Duah,Switzerland,89
+hungary_switzerland,48,0,48,"Peter Gulacsi pulls off a great save to deny Kwadwo Duah (Switzerland), who makes himself some space inside the box and unleashes a quick low drive to the bottom left corner.",key_event,Save,"Duah, Gulacsi",Switzerland,197
+hungary_switzerland,49,0,49,"Ruben Vargas (Switzerland) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",general,Corner,Vargas,Switzerland,161
+hungary_switzerland,49,0,49,"Milos Kerkez (Hungary) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",general,General,Kerkez,Hungary,145
+hungary_switzerland,51,0,51,"Roland Sallai (Hungary) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",general,Offside,Sallai,Hungary,149
+hungary_switzerland,54,0,54,"Ruben Vargas (Switzerland) had time and space inside the box after picking up a neat pass, but his shot low towards the middle of the goal was comfortably saved by Peter Gulacsi.",general,General,"Vargas, Gulacsi",Switzerland,193
+hungary_switzerland,56,0,56,"Slavko Vincic blows his whistle and signals a foul after Dan Ndoye (Switzerland) brought his opponent down. Hungary win a free kick. It's a promising situation for a direct shot.",general,Free Kick,Ndoye,Switzerland,184
+hungary_switzerland,56,0,56,"Dominik Szoboszlai (Hungary) floats the free kick into the box, but it's easily cleared by the first man. Hungary get a corner.",general,Corner,Szoboszlai,Hungary,136
+hungary_switzerland,57,0,57,"This corner kick is taken with a short pass by Dominik Szoboszlai (Hungary).",general,Corner,Szoboszlai,Hungary,79
+hungary_switzerland,58,0,58,"What a poor attempt! Dan Ndoye (Switzerland) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes into the stands.",general,General,Ndoye,Switzerland,209
+hungary_switzerland,59,0,59,"Remo Freuler (Switzerland) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Slavko Vincic ignores the protests.",key_event,Yellow Card,Freuler,Switzerland,167
+hungary_switzerland,60,0,60,"It seemed like Dominik Szoboszlai (Hungary) was going to take a quick free kick, but instead he is going to send the ball inside the penalty box for his teammates.",general,Free Kick,Szoboszlai,Hungary,171
+hungary_switzerland,61,0,61,"The game is interrupted as Barnabas Varga (Hungary) is flagged offside.",general,Offside,Varga,Hungary,74
+hungary_switzerland,62,0,62,"The attendance for today's match is 41676.",general,General,,Both,50
+hungary_switzerland,62,0,62,"The linesman signals that Barnabas Varga (Hungary) is offside and the referee confirms the decision.",general,Offside,Varga,Hungary,109
+hungary_switzerland,63,0,63,"Silvan Widmer (Switzerland) makes an overly-aggressive challenge and Slavko Vincic blows his whistle for a foul.",general,General,Widmer,Switzerland,120
+hungary_switzerland,63,0,63,"What a wasted chance that was! A precise cross into the box finds Barnabas Varga (Hungary), whose header flies narrowly wide of the left post.",general,General,Varga,Hungary,159
+hungary_switzerland,66,0,66,"It's a goal! Dominik Szoboszlai sends a long raking pass onto the head of Barnabas Varga (Hungary), who makes no mistake from close in and sends the ball into the right side of the goal. 1:2.",key_event,Goal,"Szoboszlai, Varga",Hungary,214
+hungary_switzerland,67,0,67,"Substitution. Adam Nagy makes his way off the pitch and Laszlo Kleinheisler (Hungary) comes on as his replacement.",key_event,Substitution,"Nagy, Kleinheisler",Hungary,134
+hungary_switzerland,68,0,68,"Murat Yakin prepares a substitution. Kwadwo Duah is replaced by Zeki Amdouni (Switzerland).",key_event,Substitution,"Duah, Amdouni, Yakin",Switzerland,101
+hungary_switzerland,68,0,68,"Silvan Widmer will be replaced by Leonidas Stergiou (Switzerland).",key_event,Substitution,"Widmer, Stergiou",Switzerland,69
+hungary_switzerland,69,0,69,"Attila Szalai (Hungary) sees a yellow card from Slavko Vincic after he sent one of the opposing players to the ground.",key_event,Yellow Card,Szalai,Hungary,129
+hungary_switzerland,71,0,71,"Ruben Vargas (Switzerland) crosses the ball into the box from the free kick, but the defence clears the danger.",general,Free Kick,Vargas,Switzerland,120
+hungary_switzerland,71,0,71,"Dan Ndoye (Switzerland) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players. The ball is out of play and the linesman points at the corner flag. Corner to Switzerland.",general,Corner,Ndoye,Switzerland,235
+hungary_switzerland,72,0,72,"Ruben Vargas (Switzerland) takes the corner.",general,Corner,Vargas,Switzerland,49
+hungary_switzerland,72,0,72,"The corner is bent into the box and met with a firm header by Fabian Schar (Switzerland), but it's just wide of the right post.",general,Corner,Schar,Switzerland,135
+hungary_switzerland,73,0,73,"A pass from Milos Kerkez (Hungary) is intercepted by Yann Sommer and the move breaks down.",general,General,"Kerkez, Sommer",Hungary,99
+hungary_switzerland,74,0,74,"Substitution. Ruben Vargas is replaced by Breel Embolo (Switzerland).",key_event,Substitution,"Vargas, Embolo",Switzerland,72
+hungary_switzerland,77,0,77,"An attempted cross from Milos Kerkez (Hungary) is cleared.",general,General,Kerkez,Hungary,58
+hungary_switzerland,77,0,77,"Milos Kerkez (Hungary) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul. Switzerland win a free kick and will be able to apply some pressure on the opposition goal.",general,Free Kick,Kerkez,Hungary,221
+hungary_switzerland,79,0,79,"The referee stops play so that a substitution can be made and Milos Kerkez departs the field of play to be replaced by Martin Adam (Hungary).",key_event,Substitution,"Kerkez, Adam",Hungary,151
+hungary_switzerland,79,0,79,"Marco Rossi has decided to make a change. Marton Dardai (Hungary) replaces Attila Szalai.",key_event,Substitution,"Szalai, Dardai, Rossi",Hungary,100
+hungary_switzerland,80,0,80,"Fabian Schar (Switzerland) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",general,Injury,Schar,Switzerland,156
+hungary_switzerland,81,0,81,"Fabian Schar (Switzerland) seems to be alright and is okay to carry on.",general,Injury,Schar,Switzerland,73
+hungary_switzerland,82,0,82,"Martin Adam (Hungary) whips a promising cross into the box, but the opposition's defence intercepts the ball.",general,General,Adam,Hungary,120
+hungary_switzerland,82,0,82,"Roland Sallai (Hungary) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player.",general,General,Sallai,Hungary,125
+hungary_switzerland,83,0,83,"Dan Ndoye (Switzerland) beats the defender to the lofted pass inside the box, but can't control his shot and it flashes well wide of the right post.",general,General,Ndoye,Switzerland,162
+hungary_switzerland,84,0,84,"Bendeguz Bolla (Hungary) produces a quality cross into the box, but the opposition's defence intercepts the ball and spanks it away.",general,General,Bolla,Hungary,141
+hungary_switzerland,84,0,84,"Marton Dardai (Hungary) makes a reckless foul in order to win the ball from his opponent. Slavko Vincic has a clear sight of it and blows his whistle. Switzerland have a free kick.",general,Free Kick,Dardai,Hungary,186
+hungary_switzerland,86,0,86,"The game has come to an end for Remo Freuler. He has contributed as much as he could today. He will be replaced by the fresh legs of Vincent Sierro (Switzerland).",key_event,Substitution,"Freuler, Sierro",Switzerland,176
+hungary_switzerland,86,0,86,"Murat Yakin has decided to substitute Dan Ndoye and he is replaced by Fabian Rieder (Switzerland).",key_event,Substitution,"Ndoye, Rieder, Yakin",Switzerland,109
+hungary_switzerland,86,0,86,"Leonidas Stergiou (Switzerland) clearly holds his opponent to prevent him from getting the ball and the referee immediately stops play. Hungary get a free kick.",general,Free Kick,Stergiou,Switzerland,167
+hungary_switzerland,88,0,88,"Slavko Vincic shows a yellow card to Bendeguz Bolla (Hungary), who isn't surprised as the tackle was really hard and late.",key_event,Yellow Card,Bolla,Hungary,137
+hungary_switzerland,88,0,88,"Referee Slavko Vincic halts the game and wanders over to the touchline to talk to Murat Yakin, then shows him a yellow.",key_event,Yellow Card,Yakin,Switzerland,133
+hungary_switzerland,89,0,89,"Vincent Sierro (Switzerland) shoots from outside the box, but his effort is blocked. The referee signals a corner kick to Switzerland.",general,Corner,Sierro,Switzerland,139
+hungary_switzerland,90,0,90,"We will have 5 min. of added time.",general,General,,Both,42
+hungary_switzerland,90,1,90+1,"Fabian Rieder (Switzerland) is heading toward the corner flag to take the set piece.",general,Corner,Rieder,Switzerland,83
+hungary_switzerland,90,1,90+1,"Granit Xhaka (Switzerland) rises highest from the corner to head at goal, but his effort towards the right side of the goal is brilliantly kept out by the goalkeeper.",key_event,Save,"Xhaka, Gulacsi",Switzerland,182
+hungary_switzerland,90,1,90+1,"The corner kick from Fabian Rieder (Switzerland) is headed out of the penalty area by one of the defenders.",general,Corner,Rieder,Switzerland,113
+hungary_switzerland,90,3,90+3,"Goal! Breel Embolo (Switzerland) gets to the ball inside the box, sees the goalkeeper off his line and lifts the ball over him and into the back of the net. 1:3.",key_event,Goal,Embolo,Switzerland,179
+hungary_switzerland,90,7,90+7,"That's it for today, Slavko Vincic has blown his whistle and the game is over.",key_event,Full Time,Vincic,Both,84
+

@@ -1,0 +1,89 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+scotland_switzerland,0,0,0,"Let us introduce today's referee to you, and it's Ivan Kruzliak.",general,General,Kruzliak,Both,67
+scotland_switzerland,0,0,0,"The players are on the pitch and Scotland will have the kick-off.",general,Kick Off,,Scotland,65
+scotland_switzerland,1,0,1,"The first half has started.",key_event,Kick Off,,Both,30
+scotland_switzerland,1,0,1,"Dan Ndoye (Switzerland) fouls an opponent during an attacking move.",general,General,Ndoye,Switzerland,69
+scotland_switzerland,3,0,3,"The corner from Scott McTominay (Scotland) is intercepted by the defence.",general,Corner,McTominay,Scotland,76
+scotland_switzerland,4,0,4,"Yann Sommer comes off his line to intercept the corner from Scott McTominay (Scotland).",general,Corner,"Sommer, McTominay",Scotland,92
+scotland_switzerland,7,0,7,"Kieran Tierney (Scotland) sends in a lofted cross from a long-range free kick in order to find one of his teammates. His poor effort, however, sails way out of play. The ball goes out of play and Switzerland will have a goal kick.",general,Free Kick,Tierney,Scotland,229
+scotland_switzerland,9,0,9,"Scott McTominay (Scotland) attempts to release Che Adams with a through ball, but his effort is thwarted by one of the defending players.",general,General,"McTominay, Adams",Scotland,150
+scotland_switzerland,9,0,9,"The ball is cleared after Silvan Widmer (Switzerland) attempted to dribble past an opposing player. The ball is off of the pitch and it's a goal kick for Scotland.",general,General,Widmer,Switzerland,168
+scotland_switzerland,13,0,13,"This corner kick is taken with a short pass by Xherdan Shaqiri (Switzerland).",general,Corner,Shaqiri,Switzerland,79
+scotland_switzerland,13,0,13,"Goal! Callum McGregor plays it to Scott McTominay (Scotland), whose deflected shot from inside the box goes past the helpless Yann Sommer. 1:0.",key_event,Goal,"McGregor, McTominay, Sommer",Scotland,164
+scotland_switzerland,16,0,16,"The corner from Xherdan Shaqiri (Switzerland) is hurriedly cleared.",general,Corner,Shaqiri,Switzerland,68
+scotland_switzerland,16,0,16,"Ricardo Rodriguez (Switzerland) volleys the ball on the edge of the box after a rebound. It's a great effort and has Angus Gunn scrambling, but it flies just wide of the right post.",key_event,Shot,"Rodriguez, Gunn",Switzerland,186
+scotland_switzerland,18,0,18,"Ruben Vargas (Switzerland) passes the ball into the box but an opposing player clears. The linesman points to the corner flag, Switzerland are going to take it.",general,Corner,Vargas,Switzerland,165
+scotland_switzerland,18,0,18,"Ruben Vargas (Switzerland) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",general,Corner,Vargas,Switzerland,145
+scotland_switzerland,19,0,19,"Anthony Ralston (Scotland) is down injured and the referee stops play so that he can receive medical treatment. Fabian Schar (Switzerland) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",general,Injury,"Ralston, Schar",Both,252
+scotland_switzerland,22,0,22,"Xherdan Shaqiri (Switzerland) fails to send a pass into the box as his effort is cut out. Switzerland get a corner.",general,Corner,Shaqiri,Switzerland,125
+scotland_switzerland,22,0,22,"The resulting corner from Xherdan Shaqiri (Switzerland) is cleared by the opposition's defence.",general,Corner,Shaqiri,Switzerland,101
+scotland_switzerland,24,0,24,"Silvan Widmer (Switzerland) is deemed to be in an offside position by the linesman and it looks like it is the right decision despite being a very close call.",general,Offside,Widmer,Switzerland,170
+scotland_switzerland,26,0,26,"GOAL! Xherdan Shaqiri (Switzerland) gets to the ball on the edge of the box after a huge mistake by an opponent and slams it into the back of the net. He makes it 1:1.",key_event,Goal,Shaqiri,Switzerland,178
+scotland_switzerland,28,0,28,"Ricardo Rodriguez sends a good ball to the edge of the box and Silvan Widmer (Switzerland) gets in a shot which goes narrowly over the bar.",key_event,Shot,"Rodriguez, Widmer",Switzerland,154
+scotland_switzerland,30,0,30,"Che Adams (Scotland) makes a reckless foul in order to win the ball from his opponent. Ivan Kruzliak has a clear sight of it and blows his whistle.",general,General,Adams,Scotland,153
+scotland_switzerland,31,0,31,"Ricardo Rodriguez (Switzerland) makes a bad challenge on his opponent and is booked by the referee.",key_event,Yellow Card,Rodriguez,Switzerland,106
+scotland_switzerland,32,0,32,"Angus Gunn was forced into action to thwart Dan Ndoye (Switzerland). He found himself some space after latching on to a pass and unleashed a shot to the right post but couldn't beat the keeper. Good work from Switzerland as they win a corner.",general,Corner,"Gunn, Ndoye",Switzerland,244
+scotland_switzerland,33,0,33,"Xherdan Shaqiri (Switzerland) will take the corner.",general,Corner,Shaqiri,Switzerland,54
+scotland_switzerland,33,0,33,"The assistant referee raises his flag and the referee blows his whistle. Dan Ndoye (Switzerland) puts the ball into the net, but he is flagged for offside.",key_event,Disallowed Goal,Ndoye,Switzerland,168
+scotland_switzerland,33,0,33,"The Switzerland players joy may have been justified, because referee Ivan Kruzliak is going use VAR to determine whether it was offside.",general,VAR,Kruzliak,Switzerland,147
+scotland_switzerland,34,0,34,"The goal by Switzerland is DISALLOWED on the advice of the video assistant referee due to an offside.",key_event,VAR,,Switzerland,109
+scotland_switzerland,37,0,37,"Remo Freuler (Switzerland) fouls an opponent. At least that's what referee Ivan Kruzliak signals. A free kick has been awarded to Scotland.",general,Free Kick,Freuler,Switzerland,148
+scotland_switzerland,41,0,41,"Scott McTominay (Scotland) takes the corner.",general,Corner,McTominay,Scotland,47
+scotland_switzerland,41,0,41,"Che Adams (Scotland) misses a big chance from point-blank range as he struck the ball towards the bottom right corner. His promising effort following the corner kick was, to his disappointment, thwarted by Yann Sommer with a fabulous save.",key_event,Save,"Adams, Sommer",Scotland,244
+scotland_switzerland,42,0,42,"A sweet pass finds Granit Xhaka (Switzerland) on the edge of the box, and he drills the ball towards the right side of the goal. Angus Gunn is almost caught out but pulls off a brilliant save at the last second.",key_event,Save,"Xhaka, Gunn",Switzerland,208
+scotland_switzerland,43,0,43,"Ruben Vargas (Switzerland) is caught offside after the linesman raises his flag.",general,Offside,Vargas,Switzerland,81
+scotland_switzerland,45,0,45,"The fourth official shows 3 min. of added time.",general,General,,Both,54
+scotland_switzerland,45,2,45+2,"Ivan Kruzliak interrupts the game for a tactical foul by Michel Aebischer (Switzerland).",general,General,Aebischer,Switzerland,88
+scotland_switzerland,45,4,45+4,"The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",general,Half Time,,Both,131
+scotland_switzerland,46,0,46,"The half-time break is over and the second half is about to start.",key_event,Kick Off,,Both,70
+scotland_switzerland,46,0,46,"Silvan Widmer (Switzerland) sends a pass into the box, but his attempt is thwarted and cleared. The ball goes out for a corner. Switzerland can continue in their attacking effort.",general,Corner,Widmer,Switzerland,182
+scotland_switzerland,46,0,46,"Xherdan Shaqiri (Switzerland) takes the corner but fails to find any of his teammates. The ball is easily cleared out of danger.",general,Corner,Shaqiri,Switzerland,145
+scotland_switzerland,47,0,47,"Xherdan Shaqiri (Switzerland) decides to take a short corner instead of crossing into the box.",general,Corner,Shaqiri,Switzerland,99
+scotland_switzerland,47,0,47,"Silvan Widmer (Switzerland) starts his run too early and the referee blows for offside.",general,Offside,Widmer,Switzerland,89
+scotland_switzerland,48,0,48,"Fabian Schar (Switzerland) is penalised for holding. Ivan Kruzliak signals a set piece. Scotland have a free kick.",general,Free Kick,Schar,Switzerland,127
+scotland_switzerland,49,0,49,"Andrew Robertson (Scotland) crosses the ball into the box from the free kick, but the defence clears the danger.",general,Free Kick,Robertson,Scotland,121
+scotland_switzerland,51,0,51,"Scott McTominay (Scotland) is shown the yellow card for talking out of turn to the referee. It could have been worse!",key_event,Yellow Card,McTominay,Scotland,125
+scotland_switzerland,53,0,53,"Fabian Schar (Switzerland) sends a long ball in, but Angus Gunn comfortably gathers the ball.",general,General,"Schar, Gunn",Switzerland,101
+scotland_switzerland,55,0,55,"Dan Ndoye almost found himself in a promising position after Granit Xhaka (Switzerland) tried to send a defence-splitting pass, but one of the defenders reacts well and makes a timely interception. The ball goes out of play and Switzerland have been awarded a corner kick.",general,Corner,"Ndoye, Xhaka",Switzerland,270
+scotland_switzerland,56,0,56,"A horde of players are waiting inside the penalty area for a cross from the corner, but Ruben Vargas (Switzerland) takes it short.",general,Corner,Vargas,Switzerland,142
+scotland_switzerland,56,0,56,"Ruben Vargas (Switzerland) connected with a pass around the edge of the box, aimed and shot. His attempt went low towards the middle of the target, but Angus Gunn was alert and the score remained the same.",key_event,Save,"Vargas, Gunn",Switzerland,203
+scotland_switzerland,58,0,58,"Dan Ndoye (Switzerland) has a chance after receiving a pass. He measures his shot from the edge of the box but it sails just wide of the left post.",key_event,Shot,Ndoye,Switzerland,157
+scotland_switzerland,60,0,60,"Xherdan Shaqiri goes off the pitch and Breel Embolo (Switzerland) comes on.",key_event,Substitution,"Shaqiri, Embolo",Switzerland,78
+scotland_switzerland,60,0,60,"The game is interrupted now, Kieran Tierney (Scotland) picks up a knock and the physio has to come on.",general,Injury,Tierney,Scotland,120
+scotland_switzerland,61,0,61,"Kieran Tierney (Scotland) wants to continue but the body doesn't look willing!",general,Injury,Tierney,Scotland,79
+scotland_switzerland,61,0,61,"The manager has been forced to make a substitution and the injured Kieran Tierney (Scotland) leaves the pitch to be replaced by Scott McKenna.",key_event,Substitution,"Tierney, McKenna",Scotland,153
+scotland_switzerland,64,0,64,"The opposition can't get near Ruben Vargas (Switzerland), who finally takes a shot inside the box. The effort looks goalbound but veers just over the bar at the last second.",key_event,Shot,Vargas,Switzerland,182
+scotland_switzerland,65,0,65,"Billy Gilmour (Scotland) hammers the ball from far out, but his shot is blocked by an opposition player.",general,General,Gilmour,Scotland,115
+scotland_switzerland,66,0,66,"Ivan Kruzliak blows his whistle after Manuel Akanji (Switzerland) kicks an opponent's legs instead of the ball. A free kick is awarded to Scotland.",general,Free Kick,Akanji,Switzerland,152
+scotland_switzerland,67,0,67,"Grant Hanley (Scotland) leaps high to meet a beautiful cross from the free kick into the box and attempts to score with a header. His effort is not accurate enough and bounces away off the left post.",key_event,Shot,Hanley,Scotland,205
+scotland_switzerland,68,0,68,"Scott McKenna (Scotland) is booked after bringing down an opponent. Ivan Kruzliak had an easy-decision to make.",key_event,Yellow Card,McKenna,Scotland,119
+scotland_switzerland,70,0,70,"Anthony Ralston (Scotland) sends a cross into the box, but the opposition's defence quickly intercepts the ball. The referee points to the corner flag and Scotland will take a corner.",general,Corner,Ralston,Scotland,186
+scotland_switzerland,71,0,71,"The resulting corner from Andrew Robertson (Scotland) is cleared.",general,Corner,Robertson,Scotland,65
+scotland_switzerland,71,0,71,"John McGinn (Scotland) has tested the patience of referee Ivan Kruzliak and goes into the book for a previous late challenge.",key_event,Yellow Card,McGinn,Scotland,137
+scotland_switzerland,74,0,74,"Scott McKenna (Scotland) creates himself some space around the penalty spot and connects with the free kick. His header is badly mistimed and sails high over the bar.",key_event,Shot,McKenna,Scotland,177
+scotland_switzerland,75,0,75,"Substitution. Remo Freuler walks off the pitch and Vincent Sierro (Switzerland) comes on as a substitute.",key_event,Substitution,"Freuler, Sierro",Switzerland,107
+scotland_switzerland,75,0,75,"Murat Yakin has decided to make a change. Fabian Rieder (Switzerland) replaces Ruben Vargas.",key_event,Substitution,"Vargas, Rieder, Yakin",Switzerland,99
+scotland_switzerland,76,0,76,"Scott McTominay (Scotland) will deliver the corner kick.",general,Corner,McTominay,Scotland,59
+scotland_switzerland,78,0,78,"Dan Ndoye (Switzerland) skips past the defender inside the box and blasts the ball at goal, but sends the effort high over the bar.",key_event,Shot,Ndoye,Switzerland,148
+scotland_switzerland,79,0,79,"It is time for a substitution. Kenny McLean (Scotland) is on for Billy Gilmour.",key_event,Substitution,"Gilmour, McLean",Scotland,81
+scotland_switzerland,80,0,80,"Fabian Rieder (Switzerland) tries to find Breel Embolo, but he puts too much power on the through ball. The ball goes out of play and Scotland will have a goal kick.",general,General,"Rieder, Embolo",Switzerland,165
+scotland_switzerland,81,0,81,"Scott McTominay (Scotland) runs onto a good ball played into the box and hits a first-time screamer towards goal, but a defender somehow gets his body in the way and makes the block.",general,General,McTominay,Scotland,190
+scotland_switzerland,83,0,83,"GOAL DISALLOWED! Controversy and anger as Breel Embolo (Switzerland) has a goal ruled out, incredibly, for offside.",key_event,Disallowed Goal,Embolo,Switzerland,130
+scotland_switzerland,83,0,83,"Wait! Referee Ivan Kruzliak immediately makes the VAR signal, most likely to see if there was an offside in the build-up play.",general,VAR,Kruzliak,Switzerland,142
+scotland_switzerland,83,0,83,"The goal by Switzerland won't count as it has been disallowed due to offside on the advice of the video assistant referee!",key_event,VAR,,Switzerland,131
+scotland_switzerland,86,0,86,"Vincent Sierro (Switzerland) is given a fully deserved yellow card.",key_event,Yellow Card,Sierro,Switzerland,64
+scotland_switzerland,86,0,86,"Substitution. Zeki Amdouni (Switzerland) in, Dan Ndoye out.",key_event,Substitution,"Ndoye, Amdouni",Switzerland,63
+scotland_switzerland,86,0,86,"Murat Yakin has decided to introduce fresh legs, with Leonidas Stergiou (Switzerland) replacing Silvan Widmer.",key_event,Substitution,"Widmer, Stergiou, Yakin",Switzerland,121
+scotland_switzerland,87,0,87,"Kenny McLean (Scotland) shoots from the edge of the penalty area. The ball travels low towards the middle of the target, but Yann Sommer easily deals with the threat.",key_event,Save,"McLean, Sommer",Scotland,180
+scotland_switzerland,89,0,89,"Andrew Robertson (Scotland) tackles a bit over-zealously and Ivan Kruzliak blows for a foul. Switzerland are awarded a free kick. Let's see what they create from this.",general,Free Kick,Robertson,Scotland,174
+scotland_switzerland,90,0,90,"Zeki Amdouni (Switzerland) latches onto the free kick from Fabian Rieder, but heads just wide of the left post from close range.",key_event,Shot,"Amdouni, Rieder",Switzerland,140
+scotland_switzerland,90,0,90,"Substitution. John McGinn leaves the pitch and is replaced by Ryan Christie (Scotland).",key_event,Substitution,"McGinn, Christie",Scotland,86
+scotland_switzerland,90,0,90,"Steve Clarke has decided to substitute Che Adams and he is replaced by Lawrence Shankland (Scotland).",key_event,Substitution,"Adams, Shankland, Clarke",Scotland,114
+scotland_switzerland,90,0,90,"4 additional min. will be played.",general,General,,Both,38
+scotland_switzerland,90,1,90+1,"Andrew Robertson (Scotland) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",general,General,Robertson,Scotland,124
+scotland_switzerland,90,1,90+1,"Callum McGregor (Scotland) cracks a volley from just outside the box, but his miskick goes skyward.",key_event,Shot,McGregor,Scotland,111
+scotland_switzerland,90,3,90+3,"A pass from Zeki Amdouni (Switzerland) is intercepted by Angus Gunn and the move breaks down.",general,General,"Amdouni, Gunn",Switzerland,99
+scotland_switzerland,90,4,90+4,"An attempted cross from Andrew Robertson (Scotland) is cleared.",general,General,Robertson,Scotland,63
+scotland_switzerland,90,4,90+4,"The attendance is 42711.",general,General,,Both,27
+scotland_switzerland,90,5,90+5,"The match has just finished.",key_event,Full Time,,Both,30
+

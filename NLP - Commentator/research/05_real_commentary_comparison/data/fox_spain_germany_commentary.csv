@@ -1,0 +1,187 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+spain_germany,0,0,0,"The current period has begun.",key_event,Kick Off,,Both,30
+spain_germany,1,0,1,"Spain's Pedri gets in a shot on goal at Stuttgart Arena. But the effort is unsuccessful.",general,General,Pedri,Spain,93
+spain_germany,2,0,2,"Attention is being given to Spain's Marc Cucurella and play has been suspended briefly.",general,Injury,Cucurella,Spain,90
+spain_germany,2,0,2,"Spain's Marc Cucurella looks ok and returns to the pitch.",general,Injury,Cucurella,Spain,55
+spain_germany,3,0,3,"Free kick Spain.",general,Free Kick,,Spain,17
+spain_germany,3,0,3,"Throw-in Germany.",general,General,,Germany,19
+spain_germany,3,0,3,"Can Germany capitalize from this throw-in deep inside Spain's half?",general,General,,Germany,71
+spain_germany,4,0,4,"Germany have a dangerous throw-in.",general,General,,Germany,35
+spain_germany,4,0,4,"Spain awarded a free kick in their own half.",general,Free Kick,,Spain,45
+spain_germany,4,0,4,"The match at Stuttgart Arena has been interrupted briefly for a check on Pedri, who is down injured.",general,Injury,Pedri,Spain,107
+spain_germany,6,0,6,"Spain's Pedri is on his feet again at Stuttgart Arena.",general,Injury,Pedri,Spain,52
+spain_germany,6,0,6,"Anthony Taylor signals a free kick to Spain.",general,Free Kick,Taylor,Spain,45
+spain_germany,6,0,6,"Germany awarded a throw-in in their own half.",general,General,,Germany,48
+spain_germany,7,0,7,"Play has been interrupted briefly in Stuttgart to check on Pedri, who is grimacing with pain.",general,Injury,Pedri,Spain,99
+spain_germany,8,0,8,"Luis De La Fuente (Spain) has taken off Pedri who seemed to be grimacing with pain earlier. A possible injury. Dani Olmo is the replacement.",key_event,Substitution,"Pedri, Olmo, De La Fuente",Spain,144
+spain_germany,10,0,10,"In Stuttgart, Spain push forward quickly but are pulled up for offside.",general,Offside,,Spain,75
+spain_germany,11,0,11,"David Raum for Germany drives towards goal at Stuttgart Arena. But the finish is unsuccessful.",general,General,Raum,Germany,93
+spain_germany,11,0,11,"Ball safe as Spain is awarded a throw-in in their half.",general,General,,Spain,58
+spain_germany,12,0,12,"In Stuttgart Spain attack through Nico Williams. The finish is off target, however.",general,General,Williams,Spain,89
+spain_germany,12,0,12,"Anthony Taylor awards Germany a goal kick.",general,General,Taylor,Germany,42
+spain_germany,12,0,12,"Antonio Rudiger (Germany) has received a first yellow card.",key_event,Yellow Card,Rudiger,Germany,55
+spain_germany,13,0,13,"Anthony Taylor signals a free kick to Germany in their own half.",general,Free Kick,Taylor,Germany,64
+spain_germany,13,0,13,"Germany will need to be alert as they defend a dangerous free kick from Spain.",general,Free Kick,,Germany,78
+spain_germany,15,0,15,"Spain are coming forward and Lamine Yamal gets in a strike, it misses the target, however.",general,General,Yamal,Spain,97
+spain_germany,15,0,15,"Goal kick for Germany at Stuttgart Arena.",general,General,,Germany,44
+spain_germany,17,0,17,"Fabian Ruiz of Spain gets in a strike, but is off target.",general,General,Ruiz,Spain,59
+spain_germany,17,0,17,"Germany have a goal kick.",general,General,,Germany,25
+spain_germany,19,0,19,"Anthony Taylor signals a throw-in for Germany, close to Spain's area.",general,General,Taylor,Germany,71
+spain_germany,19,0,19,"Germany's Joshua Kimmich is whistled for offside at Stuttgart Arena.",general,Offside,Kimmich,Germany,69
+spain_germany,21,0,21,"Kai Havertz (Germany) strikes at Stuttgart Arena but his header is cleared.",general,General,Havertz,Germany,76
+spain_germany,23,0,23,"Spain's Aymeric Laporte is on target but unsuccessful.",general,General,Laporte,Spain,52
+spain_germany,24,0,24,"Throw-in for Spain at Stuttgart Arena.",general,General,,Spain,40
+spain_germany,24,0,24,"Germany are in shooting range from this free kick.",general,Free Kick,,Germany,50
+spain_germany,25,0,25,"Anthony Taylor signals a free kick to Germany.",general,Free Kick,Taylor,Germany,45
+spain_germany,27,0,27,"Corner awarded to Germany.",general,Corner,,Germany,27
+spain_germany,28,0,28,"Free kick Spain.",general,Free Kick,,Spain,17
+spain_germany,28,0,28,"David Raum (Germany) gets a yellow card.",key_event,Yellow Card,Raum,Germany,40
+spain_germany,29,0,29,"Anthony Taylor signals a free kick to Germany in their own half.",general,Free Kick,Taylor,Germany,64
+spain_germany,29,0,29,"Free kick Germany.",general,Free Kick,,Germany,19
+spain_germany,29,0,29,"Spain's Robin Le Normand has been booked in Stuttgart.",key_event,Yellow Card,Le Normand,Spain,52
+spain_germany,31,0,31,"Spain needs to be cautious. Germany have an attacking throw-in.",general,General,,Spain,67
+spain_germany,31,0,31,"Anthony Taylor signals a free kick to Spain.",general,Free Kick,Taylor,Spain,45
+spain_germany,35,0,35,"In Stuttgart Germany drive forward through Kai Havertz. His shot is on target but it's saved.",general,General,Havertz,Germany,97
+spain_germany,36,0,36,"Nico Williams gets his shot on target but fails to score for Spain.",general,General,Williams,Spain,69
+spain_germany,36,0,36,"Anthony Taylor blows against Spain's Nico Williams for offside.",general,Offside,"Taylor, Williams",Spain,62
+spain_germany,37,0,37,"Germany awarded a free kick in their own half.",general,Free Kick,,Germany,47
+spain_germany,38,0,38,"Throw-in for Spain in their own half.",general,General,,Spain,39
+spain_germany,39,0,39,"Dani Olmo for Spain drives towards goal at Stuttgart Arena. But the finish is unsuccessful.",general,General,Olmo,Spain,93
+spain_germany,40,0,40,"Free kick Germany.",general,Free Kick,,Germany,19
+spain_germany,41,0,41,"Anthony Taylor signals a free kick to Spain in their own half.",general,Free Kick,Taylor,Spain,64
+spain_germany,43,0,43,"Ball safe as Germany is awarded a throw-in in their half.",general,General,,Germany,60
+spain_germany,45,0,45,"Lamine Yamal gets his shot on target but fails to score for Spain.",general,General,Yamal,Spain,68
+spain_germany,45,2,45+2,"Germany awarded a free kick in their own half.",general,Free Kick,,Germany,47
+spain_germany,45,0,45,"The current period has ended.",general,Half Time,,Both,32
+spain_germany,45,0,45,"Nacho is replacing Robin Le Normand for Spain at Stuttgart Arena.",key_event,Substitution,"Le Normand, Nacho",Spain,70
+spain_germany,45,0,45,"Julian Nagelsmann is making the team's first substitution at Stuttgart Arena with Florian Wirtz replacing Leroy Sane.",key_event,Substitution,"Sane, Wirtz, Nagelsmann",Germany,119
+spain_germany,45,0,45,"Germany make their second substitution with Robert Andrich replacing Emre Can.",key_event,Substitution,"Can, Andrich",Germany,78
+spain_germany,45,0,45,"The current period has begun.",key_event,Kick Off,,Both,30
+spain_germany,46,0,46,"Spain awarded a free kick in their own half.",general,Free Kick,,Spain,45
+spain_germany,46,0,46,"Anthony Taylor waits before resuming play because Aymeric Laporte for Spain is still down.",general,Injury,"Taylor, Laporte",Spain,90
+spain_germany,47,0,47,"Aymeric Laporte returns to the field for Spain after picking up a slight injury.",general,Injury,Laporte,Spain,78
+spain_germany,47,0,47,"Spain's Alvaro Morata gets his shot away but it misses the target.",general,General,Morata,Spain,68
+spain_germany,47,0,47,"Ball goes out of play for a Germany goal kick.",general,General,,Germany,47
+spain_germany,48,0,48,"Germany's Robert Andrich breaks free at Stuttgart Arena. But the strike goes wide of the post.",general,General,Andrich,Germany,99
+spain_germany,48,0,48,"Anthony Taylor awards Spain a goal kick.",general,General,Taylor,Spain,42
+spain_germany,49,0,49,"Throw-in for Germany at Stuttgart Arena.",general,General,,Germany,42
+spain_germany,49,0,49,"Spain to take a throw-in in Germany territory.",general,General,,Spain,47
+spain_germany,50,0,50,"Anthony Taylor signals a free kick to Germany in their own half.",general,Free Kick,Taylor,Germany,64
+spain_germany,50,0,50,"Can Germany get the ball into an attacking position from this throw-in in Spain's half?",general,General,,Germany,89
+spain_germany,51,0,51,"Anthony Taylor signals a free kick to Spain in their own half.",general,Free Kick,Taylor,Spain,64
+spain_germany,50,0,50,"Goal! Dani Olmo gives Spain a 1-0 lead in Stuttgart.",key_event,Goal,Olmo,Spain,56
+spain_germany,54,0,54,"In Stuttgart Germany drive forward through Jamal Musiala. His shot is on target but it's saved.",general,General,Musiala,Germany,97
+spain_germany,56,0,56,"Spain awarded a free kick in their own half.",general,Free Kick,,Spain,45
+spain_germany,56,0,56,"Robert Andrich (Germany) has been booked and must now be careful not to get a second yellow card.",key_event,Yellow Card,Andrich,Germany,93
+spain_germany,57,0,57,"Maximilian Mittelstadt is on a sub for David Raum for Germany.",key_event,Substitution,"Raum, Mittelstadt",Germany,63
+spain_germany,57,0,57,"Niclas Fullkrug is on a sub for Ilkay Gundogan for Germany.",key_event,Substitution,"Gundogan, Fullkrug",Germany,61
+spain_germany,58,0,58,"Anthony Taylor signals a free kick to Spain in their own half.",general,Free Kick,Taylor,Spain,64
+spain_germany,59,0,59,"Anthony Taylor signals a Germany throw-in in Spain's half.",general,General,Taylor,Germany,59
+spain_germany,60,0,60,"Florian Wirtz for Germany gets in a strike but fails to hit the target.",general,General,Wirtz,Germany,70
+spain_germany,60,0,60,"Ball goes out of play for a Spain goal kick.",general,General,,Spain,45
+spain_germany,61,0,61,"Germany have been awarded a corner by Anthony Taylor.",general,Corner,Taylor,Germany,52
+spain_germany,61,0,61,"Spain have a goal kick.",general,General,,Spain,21
+spain_germany,62,0,62,"Can Germany get the ball into an attacking position from this throw-in in Spain's half?",general,General,,Germany,89
+spain_germany,63,0,63,"Spain make their third substitution with Ferran Torres replacing Lamine Yamal.",key_event,Substitution,"Yamal, Torres",Spain,77
+spain_germany,64,0,64,"Corner awarded to Germany.",general,Corner,,Germany,27
+spain_germany,64,0,64,"Germany surge into the attack at Stuttgart Arena but Niclas Fullkrug's header is off-target.",general,Corner,Fullkrug,Germany,95
+spain_germany,64,0,64,"Goal kick for Spain at Stuttgart Arena.",general,General,,Spain,42
+spain_germany,64,0,64,"Anthony Taylor signals a Germany throw-in in Spain's half.",general,General,Taylor,Germany,59
+spain_germany,65,0,65,"Spain awarded a free kick in their own half.",general,Free Kick,,Spain,45
+spain_germany,66,0,66,"Anthony Taylor signals a free kick to Spain in their own half.",general,Free Kick,Taylor,Spain,64
+spain_germany,67,0,67,"Anthony Taylor signals a free kick to Spain.",general,Free Kick,Taylor,Spain,45
+spain_germany,67,0,67,"Toni Kroos (Germany) has received a first yellow card.",key_event,Yellow Card,Kroos,Germany,51
+spain_germany,70,0,70,"In Stuttgart, Robert Andrich (Germany) gets his head to the ball but the strike is cleared by an untiring defence.",general,General,Andrich,Germany,118
+spain_germany,72,0,72,"In Stuttgart, Niclas Fullkrug (Germany) misses the target with a header.",general,General,Fullkrug,Germany,71
+spain_germany,72,0,72,"Spain have a goal kick.",general,General,,Spain,21
+spain_germany,73,0,73,"Can Spain capitalize from this dangerous free kick?",general,Free Kick,,Spain,52
+spain_germany,73,0,73,"Maximilian Mittelstadt (Germany) has received a yellow card from Anthony Taylor.",key_event,Yellow Card,"Mittelstadt, Taylor",Germany,75
+spain_germany,74,0,74,"Germany awarded a free kick in their own half.",general,Free Kick,,Germany,47
+spain_germany,74,0,74,"Ferran Torres for Spain has been booked by Anthony Taylor and receives a first yellow card.",key_event,Yellow Card,"Torres, Taylor",Spain,89
+spain_germany,75,0,75,"Throw-in Germany.",general,General,,Germany,19
+spain_germany,77,0,77,"Niclas Fullkrug hits the post! Very nearly a goal there in Stuttgart for Germany.",general,General,Fullkrug,Germany,79
+spain_germany,77,0,77,"Ball goes out of play for a Spain goal kick.",general,General,,Spain,45
+spain_germany,77,0,77,"Throw-in for Spain in their own half.",general,General,,Spain,39
+spain_germany,79,0,79,"Spain awarded a throw-in in their own half.",general,General,,Spain,46
+spain_germany,79,0,79,"Spain make their fourth substitution with Mikel Merino replacing Nico Williams.",key_event,Substitution,"Williams, Merino",Spain,78
+spain_germany,79,0,79,"Mikel Oyarzabal is on a sub for Alvaro Morata for Spain.",key_event,Substitution,"Morata, Oyarzabal",Spain,57
+spain_germany,80,0,80,"Julian Nagelsmann (Germany) is making a fifth substitution, with Thomas Muller replacing Jonathan Tah.",key_event,Substitution,"Tah, Muller, Nagelsmann",Germany,104
+spain_germany,81,0,81,"Throw-in Germany.",general,General,,Germany,19
+spain_germany,81,0,81,"Germany's Jamal Musiala breaks free at Stuttgart Arena. But the strike goes wide of the post.",general,General,Musiala,Germany,98
+spain_germany,81,0,81,"Anthony Taylor awards Spain a goal kick.",general,General,Taylor,Spain,42
+spain_germany,82,0,82,"Unai Simon (Spain) has received a yellow card from Anthony Taylor.",key_event,Yellow Card,"Simon, Taylor",Spain,65
+spain_germany,82,0,82,"Germany are pushing forward but Kai Havertz's finish is wide of the goal.",general,General,Havertz,Germany,75
+spain_germany,82,0,82,"Goal kick for Spain at Stuttgart Arena.",general,General,,Spain,42
+spain_germany,83,0,83,"Spain awarded a free kick in their own half.",general,Free Kick,,Spain,45
+spain_germany,84,0,84,"Spain's Fabian Ruiz misses with an attempt on goal.",general,General,Ruiz,Spain,53
+spain_germany,84,0,84,"Goal kick for Germany at Stuttgart Arena.",general,General,,Germany,44
+spain_germany,85,0,85,"Free kick in a good position for Germany!",general,Free Kick,,Germany,43
+spain_germany,86,0,86,"Anthony Taylor signals a free kick to Spain in their own half.",general,Free Kick,Taylor,Spain,64
+spain_germany,87,0,87,"Germany have been awarded a corner by Anthony Taylor.",general,Corner,Taylor,Germany,52
+spain_germany,88,0,88,"Germany to take a throw-in in Spain territory.",general,General,,Germany,47
+spain_germany,88,0,88,"Ball safe as Germany is awarded a throw-in in their half.",general,General,,Germany,60
+spain_germany,89,0,89,"Florian Wirtz grabs a goal to bring things level at 1-1 at Stuttgart Arena.",key_event,Goal,Wirtz,Germany,76
+spain_germany,90,1,90+1,"Ball goes out of play for a Germany goal kick.",general,General,,Germany,47
+spain_germany,90,2,90+2,"Anthony Taylor signals a free kick to Germany in their own half.",general,Free Kick,Taylor,Germany,64
+spain_germany,90,3,90+3,"Germany awarded a free kick in their own half.",general,Free Kick,,Germany,47
+spain_germany,91,4,91+4,"Nico Schlotterbeck (Germany) is not on the pitch at the moment but still receives a yellow card.",key_event,Yellow Card,Schlotterbeck,Germany,96
+spain_germany,90,4,90+4,"In Stuttgart Germany attack through Thomas Muller. The finish is off target, however.",general,General,Muller,Germany,87
+spain_germany,90,4,90+4,"Spain have a goal kick.",general,General,,Spain,21
+spain_germany,90,0,90,"The current period has ended.",general,Full Time,,Both,32
+spain_germany,90,0,90,"Julian Nagelsmann is making the team's sixth substitution at Stuttgart Arena with Waldemar Anton replacing Kai Havertz.",key_event,Substitution,"Havertz, Anton, Nagelsmann",Germany,123
+spain_germany,90,0,90,"The current period has begun.",key_event,Extra Time Start,,Both,30
+spain_germany,91,0,91,"Anthony Taylor awards Germany a goal kick.",general,General,Taylor,Germany,42
+spain_germany,93,0,93,"Corner awarded to Germany.",general,Corner,,Germany,27
+spain_germany,93,0,93,"Germany are caught offside.",general,Offside,,Germany,29
+spain_germany,94,0,94,"Anthony Taylor signals a free kick to Spain.",general,Free Kick,Taylor,Spain,45
+spain_germany,94,0,94,"Florian Wirtz (Germany) gets a yellow card.",key_event,Yellow Card,Wirtz,Germany,43
+spain_germany,95,0,95,"Germany have a goal kick.",general,General,,Germany,25
+spain_germany,95,0,95,"Free kick Spain.",general,Free Kick,,Spain,17
+spain_germany,98,0,98,"Anthony Taylor signals a Germany throw-in in Spain's half.",general,General,Taylor,Germany,59
+spain_germany,98,0,98,"Spain awarded a free kick in their own half.",general,Free Kick,,Spain,45
+spain_germany,100,0,100,"Anthony Taylor signals a free kick to Germany in their own half.",general,Free Kick,Taylor,Germany,64
+spain_germany,100,0,100,"Spain's Dani Carvajal has been booked in Stuttgart.",key_event,Yellow Card,Carvajal,Spain,49
+spain_germany,101,0,101,"Robert Andrich for Germany gets in a strike but fails to hit the target.",general,General,Andrich,Germany,70
+spain_germany,101,0,101,"Ball goes out of play for a Spain goal kick.",general,General,,Spain,45
+spain_germany,102,0,102,"Fabian Ruiz is writhing in pain and play has been suspended for a few moments.",general,Injury,Ruiz,Spain,80
+spain_germany,102,0,102,"Spain make their sixth substitution with Mato Joselu replacing Fabian Ruiz.",key_event,Substitution,"Ruiz, Joselu",Spain,72
+spain_germany,102,0,102,"Fabian Ruiz is back on his feet again.",general,Injury,Ruiz,Spain,39
+spain_germany,103,0,103,"Spain to take a throw-in in Germany territory.",general,General,,Spain,47
+spain_germany,104,0,104,"Spain's Mikel Oyarzabal gets his shot away but it misses the target.",general,General,Oyarzabal,Spain,68
+spain_germany,104,0,104,"Goal kick for Germany at Stuttgart Arena.",general,General,,Germany,44
+spain_germany,105,1,105+1,"Florian Wirtz for Germany gets in a strike but fails to hit the target.",general,General,Wirtz,Germany,70
+spain_germany,105,1,105+1,"Anthony Taylor awards Spain a goal kick.",general,General,Taylor,Spain,42
+spain_germany,105,0,105,"The current period has ended.",general,Half Time Extra,,Both,32
+spain_germany,105,0,105,"The current period has begun.",key_event,Extra Time 2nd Start,,Both,30
+spain_germany,107,0,107,"VAR: Penalty.",key_event,VAR,,Both,14
+spain_germany,107,0,107,"Throw-in for Germany close to the penalty box.",general,General,,Germany,49
+spain_germany,108,0,108,"Spain have been awarded a corner by Anthony Taylor.",general,Corner,Taylor,Spain,52
+spain_germany,109,0,109,"In Stuttgart Germany attack through Niclas Fullkrug. The finish is off target, however.",general,General,Fullkrug,Germany,89
+spain_germany,109,0,109,"Anthony Taylor awards Spain a goal kick.",general,General,Taylor,Spain,42
+spain_germany,110,0,110,"Anthony Taylor signals a free kick to Germany in their own half.",general,Free Kick,Taylor,Germany,64
+spain_germany,110,0,110,"Rodri for Spain has been booked by Anthony Taylor and receives a first yellow card.",key_event,Yellow Card,"Rodri, Taylor",Spain,78
+spain_germany,111,0,111,"Throw-in for Spain in their own half.",general,General,,Spain,39
+spain_germany,112,0,112,"Germany awarded a throw-in in their own half.",general,General,,Germany,48
+spain_germany,112,0,112,"Spain are pushing forward but Mikel Oyarzabal's finish is wide of the goal.",general,General,Oyarzabal,Spain,77
+spain_germany,112,0,112,"Germany have a goal kick.",general,General,,Germany,25
+spain_germany,113,0,113,"Play has been interrupted briefly in Stuttgart to check on Toni Kroos, who is grimacing with pain.",general,Injury,Kroos,Germany,107
+spain_germany,114,0,114,"Deniz Undav (Germany) is not on the pitch at the moment but still receives a yellow card.",key_event,Yellow Card,Undav,Germany,89
+spain_germany,114,0,114,"Toni Kroos has recovered and rejoins the match in Stuttgart.",general,Injury,Kroos,Germany,57
+spain_germany,115,0,115,"Anthony Taylor signals a free kick to Spain just outside Germany's area.",general,Free Kick,Taylor,Spain,70
+spain_germany,116,0,116,"Anthony Taylor waits before resuming play because Nacho for Spain is still down.",general,Injury,"Taylor, Nacho",Spain,75
+spain_germany,117,0,117,"Spain's Nacho looks ok and returns to the pitch.",general,Injury,Nacho,Spain,46
+spain_germany,117,0,117,"Niclas Fullkrug (Germany) gets in a header on goal but the attempt is cleared.",general,General,Fullkrug,Germany,77
+spain_germany,117,0,117,"Can Germany get the ball into an attacking position from this throw-in in Spain's half?",general,General,,Germany,89
+spain_germany,119,0,119,"Anthony Taylor signals a Spain throw-in in Germany's half.",general,General,Taylor,Spain,59
+spain_germany,119,0,119,"Spain take a 2-1 lead thanks to Mikel Merino.",key_event,Goal,Merino,Spain,47
+spain_germany,120,2,120+2,"Anthony Taylor signals a free kick to Germany.",general,Free Kick,Taylor,Germany,45
+spain_germany,120,2,120+2,"Can Germany get the ball into an attacking position from this throw-in in Spain's half?",general,General,,Germany,89
+spain_germany,0,0,0,"Fabian Ruiz (Spain) is not on the pitch at the moment but still receives a yellow card.",key_event,Yellow Card,Ruiz,Spain,90
+spain_germany,120,3,120+3,"Germany attack but Niclas Fullkrug's header doesn't find the target.",general,General,Fullkrug,Germany,67
+spain_germany,120,3,120+3,"Goal kick for Spain at Stuttgart Arena.",general,General,,Spain,42
+spain_germany,120,4,120+4,"Free kick Spain.",general,Free Kick,,Spain,17
+spain_germany,120,5,120+5,"At Stuttgart Arena, Spain are penalized for being offside.",general,Offside,,Spain,61
+spain_germany,120,6,120+6,"Dani Carvajal has been booked for the second time in this match - the red card is coming out!",key_event,Red Card,Carvajal,Spain,96
+spain_germany,120,6,120+6,"Anthony Taylor signals a free kick to Germany.",general,Free Kick,Taylor,Germany,45
+spain_germany,120,0,120,"The match has ended.",key_event,Full Time Extra,,Both,22
+

@@ -1,0 +1,106 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+turkey_netherlands,0,0,0,"The referee of today's match will be Clement Turpin.",general,General,Turpin,Both,54
+turkey_netherlands,0,0,0,"The players are on the pitch and Netherlands will have the kick-off.",general,Kick Off,,Netherlands,68
+turkey_netherlands,1,0,1,"The match has just started.",key_event,Kick Off,,Both,28
+turkey_netherlands,1,0,1,"Memphis Depay (Netherlands) has a great chance to score from deep inside the box! He creates some space for the shot, but blazes it high over the crossbar. Very bad attempt.",key_event,Shot,Depay,Netherlands,174
+turkey_netherlands,2,0,2,"Baris Alper Yilmaz (Turkey) is offside and the linesman raises his flag.",general,Offside,Yilmaz,Turkey,75
+turkey_netherlands,4,0,4,"Tijjani Reijnders (Netherlands) slaloms his way past challenges, but an opposing player does well to get the ball away.",general,General,Reijnders,Netherlands,120
+turkey_netherlands,7,0,7,"Memphis Depay (Netherlands) expertly controls the pass inside the penalty area and shoots, but it's inadvertently blocked a defender.",key_event,Shot,Depay,Netherlands,134
+turkey_netherlands,7,0,7,"Cody Gakpo (Netherlands) is caught offside!",general,Offside,Gakpo,Netherlands,42
+turkey_netherlands,8,0,8,"Clement Turpin blows his whistle and signals a foul after Xavi Simons (Netherlands) brought his opponent down.",general,General,Simons,Netherlands,114
+turkey_netherlands,10,0,10,"Cody Gakpo (Netherlands) crosses the ball into the box, but one of the defending players averts the threat.",general,General,Gakpo,Netherlands,110
+turkey_netherlands,11,0,11,"Salih Ozcan (Turkey) strikes from the edge of the box, but hits it really poorly and sends the ball way over the bar.",key_event,Shot,Ozcan,Turkey,123
+turkey_netherlands,12,0,12,"Denzel Dumfries (Netherlands) is unable to feed an accurate cross into the box.",general,General,Dumfries,Netherlands,79
+turkey_netherlands,12,0,12,"Xavi Simons (Netherlands) bangs the ball towards goal from the edge of the box, but it's rising all the way and sails high over the bar.",key_event,Shot,Simons,Netherlands,137
+turkey_netherlands,14,0,14,"Some patient build-up play from Netherlands as they look to unlock the defence.",general,General,,Netherlands,78
+turkey_netherlands,15,0,15,"Cody Gakpo (Netherlands) finds himself beyond the last defender, but the game is stopped by the referee after the linesman signals for offside.",general,Offside,Gakpo,Netherlands,145
+turkey_netherlands,15,0,15,"The game is interrupted now, Samet Akaydin (Turkey) picks up a knock and the physio has to come on.",general,General,Akaydin,Turkey,104
+turkey_netherlands,17,0,17,"Samet Akaydin (Turkey) seems to be alright and is okay to carry on.",general,General,Akaydin,Turkey,64
+turkey_netherlands,20,0,20,"Cody Gakpo (Netherlands) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Gakpo,Netherlands,119
+turkey_netherlands,21,0,21,"Baris Alper Yilmaz (Turkey) tries to send a pass but it's blocked.",general,General,Yilmaz,Turkey,62
+turkey_netherlands,21,0,21,"Hakan Calhanoglu (Turkey) shoots from outside the box, but his effort is blocked.",key_event,Shot,Calhanoglu,Turkey,80
+turkey_netherlands,21,0,21,"Arda Guler (Turkey) launches a cross from the corner, but Bart Verbruggen is alert to thwart the effort.",general,Corner,"Guler, Verbruggen",Turkey,107
+turkey_netherlands,24,0,24,"Netherlands are seeing far more of the ball now.",general,General,,Netherlands,48
+turkey_netherlands,24,0,24,"The ball is cleared after Steven Bergwijn (Netherlands) attempted to dribble past an opposing player.",general,General,Bergwijn,Netherlands,103
+turkey_netherlands,25,0,25,"Baris Alper Yilmaz (Turkey) races towards goal but the defender gets back well to make a challenge. The referee points to the corner flag and Turkey will take a corner.",general,Corner,Yilmaz,Turkey,158
+turkey_netherlands,26,0,26,"The corner kick from Arda Guler (Turkey) is headed out of the penalty area by one of the defenders.",general,Corner,Guler,Turkey,103
+turkey_netherlands,27,0,27,"Virgil van Dijk (Netherlands) sends a long ball forward to Denzel Dumfries, but he put too much power and the chance is gone.",general,General,"van Dijk, Dumfries",Netherlands,133
+turkey_netherlands,28,0,28,"Stefan de Vrij (Netherlands) makes a rough challenge and Clement Turpin blows his whistle for a foul.",general,General,de Vrij,Netherlands,104
+turkey_netherlands,29,0,29,"Abdulkerim Bardakci (Turkey) wins the ball inside the goal area from the resulting set piece and unleashes a shot which sails high over the bar.",key_event,Shot,Bardakci,Turkey,143
+turkey_netherlands,30,0,30,"Xavi Simons (Netherlands) is shown a yellow card after a horrible tackle.",key_event,Yellow Card,Simons,Netherlands,72
+turkey_netherlands,31,0,31,"Mert Muldur (Turkey) is down injured and the referee stops play so that he can receive medical treatment.",general,General,Muldur,Turkey,107
+turkey_netherlands,31,0,31,"Mert Muldur (Turkey) is able to continue to play.",general,General,Muldur,Turkey,48
+turkey_netherlands,32,0,32,"Hakan Calhanoglu (Turkey) sends the ball into the penalty area from a free kick a few yards outside the box. The cross is good, but the goalkeeper shows himself in a good light as he leaps high to intercept the ball.",general,Free Kick,Calhanoglu,Turkey,210
+turkey_netherlands,32,0,32,"Arda Guler (Turkey) takes a mid-range shot, but the ball sails high over the bar.",key_event,Shot,Guler,Turkey,82
+turkey_netherlands,34,0,34,"Arda Guler (Turkey) takes the corner and sends it into the penalty area, but the opposition's defence is ready and makes a good clearance.",general,Corner,Guler,Turkey,142
+turkey_netherlands,34,0,34,"Kenan Yildiz (Turkey) has to stretch for the ball in the box and sends it high over the bar.",key_event,Shot,Yildiz,Turkey,96
+turkey_netherlands,35,0,35,"Hakan Calhanoglu (Turkey) whips in the corner, but one of the defending players gets a head on it and intercepts.",general,Corner,Calhanoglu,Turkey,117
+turkey_netherlands,35,0,35,"Arda Guler produces a beautiful lofted cross into the box where Samet Akaydin (Turkey) rises high to head the ball off the crossbar into the roof of the net. The score is now - 0:1.",key_event,Goal,"Guler, Akaydin",Turkey,176
+turkey_netherlands,38,0,38,"The Turkey players are exchanging short passes in an attempt to create a shooting opportunity.",general,General,,Turkey,96
+turkey_netherlands,39,0,39,"The total number of attempts is 3:6.",general,General,,Both,38
+turkey_netherlands,40,0,40,"Cody Gakpo (Netherlands) is adjudged offside.",general,Offside,Gakpo,Netherlands,45
+turkey_netherlands,42,0,42,"Steven Bergwijn (Netherlands) sets himself up on the edge of the box, but balloons his shot way over the bar.",key_event,Shot,Bergwijn,Netherlands,111
+turkey_netherlands,44,0,44,"The defence is alert as they clear a dangerous cross from Cody Gakpo (Netherlands).",general,General,Gakpo,Netherlands,84
+turkey_netherlands,45,0,45,"Clement Turpin interrupts the game for a tactical foul by Steven Bergwijn (Netherlands).",general,General,Bergwijn,Netherlands,83
+turkey_netherlands,45,0,45,"2 min. of stoppage-time to be played.",general,General,,Both,39
+turkey_netherlands,45,1,45+1,"Hakan Calhanoglu (Turkey) is penalised after knocking an opponent down.",general,General,Calhanoglu,Turkey,67
+turkey_netherlands,45,3,45+3,"The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",general,Half Time,,Both,125
+turkey_netherlands,46,0,46,"The second half gets underway.",key_event,Kick Off,,Both,32
+turkey_netherlands,46,0,46,"Ronald Koeman makes a switch. Wout Weghorst (Netherlands) is coming on in place of Steven Bergwijn at the start of the second period.",key_event,Substitution,"Weghorst, Bergwijn, Koeman",Netherlands,132
+turkey_netherlands,47,0,47,"Bertug Yildirim (Turkey) is sent off! He receives a red card and the match ends for him. He attempts to argue, but the referee's decision is final.",key_event,Red Card,Yildirim,Turkey,149
+turkey_netherlands,48,0,48,"Memphis Depay (Netherlands) takes the ball to the corner flag and sends it into the box.",general,General,Depay,Netherlands,85
+turkey_netherlands,49,0,49,"Cody Gakpo (Netherlands) gives away a foul for a clumsy challenge. Referee Clement Turpin saw the whole situation.",general,General,Gakpo,Netherlands,109
+turkey_netherlands,51,0,51,"Wout Weghorst (Netherlands) times his run too early and the linesman raises his flag for offside.",general,Offside,Weghorst,Netherlands,97
+turkey_netherlands,53,0,53,"A cross from Cody Gakpo (Netherlands) fails to reach the box as the defence clears the ball away to safety.",general,General,Gakpo,Netherlands,112
+turkey_netherlands,54,0,54,"Cody Gakpo (Netherlands) sends a cross into the box, but the opposition's defence clears the ball to safety.",general,General,Gakpo,Netherlands,111
+turkey_netherlands,54,0,54,"Nathan Ake (Netherlands) commits a foul and is shown a yellow card without any hesitation from the referee.",key_event,Yellow Card,Ake,Netherlands,109
+turkey_netherlands,56,0,56,"Arda Guler (Turkey) lashes in a mid-range free kick and his effort crashes against the left post. That was an excellent shot, but unfortunately for him it didn't end up in the back of the net.",key_event,Hit Post,Guler,Turkey,183
+turkey_netherlands,57,0,57,"Memphis Depay (Netherlands) shoots from the edge of the penalty area. The ball travels low towards the middle of the target, but Mert Gunok easily deals with the threat.",key_event,Save,"Depay, Gunok",Netherlands,169
+turkey_netherlands,58,0,58,"Jerdy Schouten (Netherlands) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",general,General,Schouten,Netherlands,148
+turkey_netherlands,59,0,59,"Jerdy Schouten (Netherlands) is moving okay again after that injury scare.",general,General,Schouten,Netherlands,72
+turkey_netherlands,60,0,60,"Good movement by Cody Gakpo (Netherlands), but he can't find any of his teammates as the cross is poor.",general,General,Gakpo,Netherlands,107
+turkey_netherlands,63,0,63,"Netherlands hold possession of the ball and display neat passing from player to player. They are waiting for the right moment to open up the opposition's defence to hit them swiftly on the break.",general,General,,Netherlands,199
+turkey_netherlands,63,0,63,"Memphis Depay (Netherlands) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",key_event,Shot,Depay,Netherlands,150
+turkey_netherlands,64,0,64,"The attendance is 70091.",general,General,,Both,27
+turkey_netherlands,64,0,64,"Virgil van Dijk (Netherlands) is cautioned by the referee for a foul that he committed a little earlier.",key_event,Yellow Card,van Dijk,Netherlands,103
+turkey_netherlands,65,0,65,"Hakan Calhanoglu (Turkey) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger.",general,Free Kick,Calhanoglu,Turkey,142
+turkey_netherlands,65,0,65,"Chance! Kenan Yildiz (Turkey) gets to the rebound on the edge of the box and smashes the ball towards goal, but Bart Verbruggen is alert and makes a great save to deny him.",key_event,Save,"Yildiz, Verbruggen",Turkey,171
+turkey_netherlands,66,0,66,"Arda Guler (Turkey) works the corner short.",general,Corner,Guler,Turkey,43
+turkey_netherlands,68,0,68,"The current number of corner kicks is 1:5.",general,General,,Both,44
+turkey_netherlands,70,0,70,"Wout Weghorst (Netherlands) gets on the end of a cross inside the box and sweeps the ball goalwards towards the right side of the goal, but Mert Gunok is well positioned and easily deals with the effort.",key_event,Save,"Weghorst, Gunok",Netherlands,200
+turkey_netherlands,70,0,70,"A horde of players are waiting inside the penalty area for a cross from the corner, but Memphis Depay (Netherlands) takes it short.",general,Corner,Depay,Netherlands,132
+turkey_netherlands,70,0,70,"It's a goal! Stefan de Vrij (Netherlands) makes it 1:1. He jumped highest to connect with a perfect cross from Memphis Depay and planted his close-range header into the top of the net. Mert Gunok was helpless.",key_event,Goal,"de Vrij, Depay, Gunok",Netherlands,204
+turkey_netherlands,73,0,73,"The referee allows time for a substitution. Nathan Ake will be replaced by Micky van de Ven (Netherlands).",key_event,Substitution,"Ake, van de Ven",Netherlands,104
+turkey_netherlands,73,0,73,"Ronald Koeman prepares a substitution. Tijjani Reijnders is replaced by Joey Veerman (Netherlands).",key_event,Substitution,"Reijnders, Veerman, Koeman",Netherlands,98
+turkey_netherlands,75,0,75,"Memphis Depay (Netherlands) goes down in the box after a challenge from the defender. Possibly unsighted, the referee just waves play on.",general,Penalty Appeal,Depay,Netherlands,140
+turkey_netherlands,75,0,75,"Memphis Depay (Netherlands) decides to speed play up with a short corner kick.",general,Corner,Depay,Netherlands,77
+turkey_netherlands,76,0,76,"It's an own goal! A pitiful moment for Mert Muldur (Turkey), who tries to clear a cross into the six-yard box but instead sends the ball behind his own keeper. The score is 2:1.",key_event,Own Goal,Muldur,Turkey,182
+turkey_netherlands,77,0,77,"The manager makes a subsitution with Okay Yokuslu (Turkey) coming on for Salih Ozcan.",key_event,Substitution,"Yokuslu, Ozcan",Turkey,85
+turkey_netherlands,77,0,77,"Vincenzo Montella has decided to substitute Kenan Yildiz and he is replaced by Kerem Akturkoglu (Turkey).",key_event,Substitution,"Yildiz, Akturkoglu, Montella",Turkey,98
+turkey_netherlands,78,0,78,"A pass from Mert Muldur (Turkey) is intercepted by Bart Verbruggen and the move breaks down.",general,General,"Muldur, Verbruggen",Turkey,91
+turkey_netherlands,79,0,79,"Micky van de Ven (Netherlands) was too forceful with his tackle and Clement Turpin interrupted the game to signal a free kick.",general,Free Kick,van de Ven,Netherlands,125
+turkey_netherlands,80,0,80,"Samet Akaydin (Turkey) requires medical treatment, so the referee stops play and signals for the physio to come onto the pitch.",general,General,Akaydin,Turkey,126
+turkey_netherlands,82,0,82,"Substitution. Mert Muldur will be replaced by Zeki Celik (Turkey).",key_event,Substitution,"Muldur, Celik",Turkey,63
+turkey_netherlands,82,0,82,"Problems for Vincenzo Montella as Samet Akaydin is not able to play anymore. His injury is too serious and Cenk Tosun (Turkey) replaces him.",key_event,Substitution,"Akaydin, Tosun, Montella",Turkey,134
+turkey_netherlands,84,0,84,"Cenk Tosun (Turkey) gets on the end of a lofted pass near the penalty spot, but it's a poor header and drifts high over the bar.",key_event,Shot,Tosun,Turkey,134
+turkey_netherlands,85,0,85,"Zeki Celik (Turkey) picks up a pass inside the box and finds some space for a shot before unleashing a low drive goalwards, but one of the defending players blocks his effort.",key_event,Shot,Celik,Turkey,173
+turkey_netherlands,85,0,85,"The defender bravely blocks the shot from Kerem Akturkoglu (Turkey) inside the box.",key_event,Shot,Akturkoglu,Turkey,83
+turkey_netherlands,85,0,85,"Turkey have a chance to score from a corner kick, but the ball is cleared by a defender.",general,Corner,,Turkey,87
+turkey_netherlands,86,0,86,"Kerem Akturkoglu (Turkey) serves up a nice cross, but the defence clears the danger.",general,General,Akturkoglu,Turkey,81
+turkey_netherlands,87,0,87,"Ronald Koeman has decided to introduce fresh legs, with Jeremie Frimpong (Netherlands) replacing Memphis Depay.",key_event,Substitution,"Frimpong, Depay, Koeman",Netherlands,110
+turkey_netherlands,87,0,87,"Today's match ends for Xavi Simons who will be replaced by Joshua Zirkzee (Netherlands).",key_event,Substitution,"Simons, Zirkzee",Netherlands,84
+turkey_netherlands,89,0,89,"Cenk Tosun (Turkey) rises above the defence inside the box, but his header flies narrowly wide of the left post.",key_event,Shot,Tosun,Turkey,115
+turkey_netherlands,89,0,89,"Substitution. Kaan Ayhan leaves the pitch and is replaced by Semih Kilicsoy (Turkey).",key_event,Substitution,"Ayhan, Kilicsoy",Turkey,81
+turkey_netherlands,89,0,89,"Mert Gunok was forced into action to thwart Cody Gakpo (Netherlands). He found himself some space after latching on to a pass and unleashed a shot to the bottom left corner but couldn't beat the keeper.",key_event,Save,"Gunok, Gakpo",Netherlands,198
+turkey_netherlands,90,0,90,"Kerem Akturkoglu (Turkey) wastes an opportunity to score with a header from deep inside the box. His effort flies well wide of the left post!",key_event,Shot,Akturkoglu,Turkey,144
+turkey_netherlands,90,0,90,"We will have 5 min. of added time.",general,General,,Both,38
+turkey_netherlands,90,1,90+1,"Semih Kilicsoy (Turkey) picks up a lofted cross inside the box and fires a quick shot to the middle of the goal. His promising effort is kept out by Bart Verbruggen, who pulls off a stunning save!",key_event,Save,"Kilicsoy, Verbruggen",Turkey,198
+turkey_netherlands,90,2,90+2,"Hakan Calhanoglu (Turkey) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",general,Corner,Calhanoglu,Turkey,130
+turkey_netherlands,90,3,90+3,"Hakan Calhanoglu (Turkey) blasts the ball from just outside the box, but his attempt is blocked by the defender.",key_event,Shot,Calhanoglu,Turkey,115
+turkey_netherlands,90,3,90+3,"Cenk Tosun (Turkey) goes into the referee's book for dissent.",key_event,Yellow Card,Tosun,Turkey,57
+turkey_netherlands,90,5,90+5,"Vincenzo Montella is stunned as referee Clement Turpin shows him a yellow card. What was that for?",key_event,Yellow Card,Montella,Turkey,101
+turkey_netherlands,90,5,90+5,"The linesman raises his flag as one of the players from Turkey was in an offside position.",general,Offside,,Turkey,86
+turkey_netherlands,90,6,90+6,"Bertug Yildirim (Turkey) is shown a red card even though he is not on the pitch. Unsporting behavior says the referee.",key_event,Red Card,Yildirim,Turkey,119
+turkey_netherlands,90,6,90+6,"Wout Weghorst (Netherlands) is cautioned and receives a yellow card.",key_event,Yellow Card,Weghorst,Netherlands,63
+turkey_netherlands,90,7,90+7,"The referee checks his watch and blows his whistle to signal the end of this match.",key_event,Full Time,,Both,87
+

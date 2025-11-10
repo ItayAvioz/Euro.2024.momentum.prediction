@@ -1,0 +1,104 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+switzerland_germany,0,0,0,"Let us introduce today's referee to you, and it's Daniele Orsato.",general,General,Orsato,Both,67
+switzerland_germany,0,0,0,"Germany will kick the game off.",general,Kick Off,,Germany,31
+switzerland_germany,1,0,1,"The first half of this match is about to start.",key_event,Kick Off,,Both,47
+switzerland_germany,1,0,1,"Fabian Rieder (Switzerland) robs an opponent of the ball and explodes in anger when Daniele Orsato blows for a foul.",general,General,Rieder,Switzerland,129
+switzerland_germany,2,0,2,"Ilkay Gundogan almost found himself in a promising position after Jamal Musiala (Germany) tried to send a defence-splitting pass, but one of the defenders reacts well and makes a timely interception. Germany have been awarded a corner kick.",general,Corner,"Gundogan, Musiala",Germany,243
+switzerland_germany,3,0,3,"Toni Kroos (Germany) will deliver the corner kick.",general,Corner,Kroos,Germany,53
+switzerland_germany,3,0,3,"Kai Havertz (Germany) outjumps the defence to meet the resulting corner and heads the ball towards the middle of the goal. The long-range header is not powerful enough, and the keeper comfortably makes a save.",key_event,Save,Havertz,Germany,217
+switzerland_germany,4,0,4,"Dan Ndoye (Switzerland) tries to slide the ball through to a teammate but it's well blocked by a defender. The ball goes out of play. Switzerland are awarded a corner kick.",general,Corner,Ndoye,Switzerland,180
+switzerland_germany,4,0,4,"The resulting corner from Fabian Rieder (Switzerland) is cleared by the opposition's defence.",general,Corner,Rieder,Switzerland,100
+switzerland_germany,5,0,5,"Referee Daniele Orsato sees the trip by Florian Wirtz (Germany) and doesn't hesitate to blow his whistle.",general,General,Wirtz,Germany,117
+switzerland_germany,8,0,8,"Germany are bossing possession at the moment by exchanging some precise passes from player to player.",general,General,,Germany,113
+switzerland_germany,10,0,10,"Dan Ndoye (Switzerland) slides a pass forward, but one of the defenders cuts it out.",general,General,Ndoye,Switzerland,88
+switzerland_germany,10,0,10,"Daniele Orsato blows his whistle and signals a foul after Granit Xhaka (Switzerland) brought his opponent down.",general,General,Xhaka,Switzerland,123
+switzerland_germany,11,0,11,"Ilkay Gundogan (Germany) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",key_event,Shot,Gundogan,Germany,157
+switzerland_germany,13,0,13,"A precise first-time shot by Kai Havertz (Germany) inside the box is unwittingly blocked by a defender.",key_event,Shot,Havertz,Germany,112
+switzerland_germany,14,0,14,"The linesman signals that Kai Havertz (Germany) is offside and the referee confirms the decision.",general,Offside,Havertz,Germany,105
+switzerland_germany,16,0,16,"Granit Xhaka (Switzerland) commits a rough challenge and Daniele Orsato blows his whistle for a foul.",general,General,Xhaka,Switzerland,107
+switzerland_germany,17,0,17,"Robert Andrich (Germany) receives a brilliant pass and hammers the ball inside the left post. It couldn't have gone in a better place. What a beautiful long-range goal.",key_event,Disallowed Goal,Andrich,Germany,176
+switzerland_germany,18,0,18,"Wait! Referee Daniele Orsato has indicated he is going to review the Germany goal using VAR. It's probably to see if there was a foul in the build-up.",general,VAR,Orsato,Germany,160
+switzerland_germany,19,0,19,"The goal by Germany is DISALLOWED on the advice of the video assistant referee due to a foul.",key_event,VAR,,Germany,99
+switzerland_germany,20,0,20,"Antonio Rudiger (Germany) makes an overly-aggressive challenge and Daniele Orsato blows his whistle for a foul. Free kick. Switzerland will probably just try to cross the ball in from here.",general,Free Kick,Rudiger,Germany,190
+switzerland_germany,20,0,20,"Michel Aebischer (Switzerland) delivers a poor cross from a free kick as one of the defenders comfortably clears it away.",general,Free Kick,Aebischer,Switzerland,130
+switzerland_germany,21,0,21,"Ilkay Gundogan (Germany) is caught offside!",general,Offside,Gundogan,Germany,46
+switzerland_germany,23,0,23,"Jamal Musiala (Germany) jumps into a tackle and Daniele Orsato signals a foul.",general,General,Musiala,Germany,85
+switzerland_germany,25,0,25,"Dan Ndoye (Switzerland) takes his opponent down and receives a yellow card from the referee.",key_event,Yellow Card,Ndoye,Switzerland,95
+switzerland_germany,27,0,27,"Maximilian Mittelstadt (Germany) fizzes over a cross which doesn't cause any problems.",general,General,Mittelstadt,Germany,90
+switzerland_germany,28,0,28,"What a goal! Remo Freuler plays it to Dan Ndoye (Switzerland), who finds himself unmarked inside the box and slots a first-time shot past Manuel Neuer into the top left corner. 1:0.",key_event,Goal,"Freuler, Ndoye, Neuer",Switzerland,192
+switzerland_germany,31,0,31,"Dan Ndoye (Switzerland) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the right post.",key_event,Shot,Ndoye,Switzerland,137
+switzerland_germany,33,0,33,"Robert Andrich (Germany) fires the ball from distance, but it's blocked by a defender. The linesman makes the right call and Germany will have a corner.",general,Corner,Andrich,Germany,158
+switzerland_germany,34,0,34,"The corner from Toni Kroos (Germany) is cleared away by the defence.",general,Corner,Kroos,Germany,73
+switzerland_germany,35,0,35,"Dan Ndoye (Switzerland) commits a rough foul. Daniele Orsato stops the game and makes a call.",general,General,Ndoye,Switzerland,99
+switzerland_germany,36,0,36,"Daniele Orsato blows his whistle after Florian Wirtz (Germany) brings one of his opponents down with a strong tackle.",general,General,Wirtz,Germany,131
+switzerland_germany,37,0,37,"Joshua Kimmich (Germany) attempted to pick out a free teammate inside the box, but Yann Sommer comes off the line to clear the ball away.",general,General,"Kimmich, Sommer",Germany,150
+switzerland_germany,38,0,38,"A yellow card for a tackle by Jonathan Tah (Germany). Daniele Orsato doesn't hesitate at all to make this decision.",key_event,Yellow Card,Tah,Germany,130
+switzerland_germany,38,0,38,"Jonathan Tah (Germany) will miss the next game because of that yellow card.",general,General,Tah,Germany,71
+switzerland_germany,40,0,40,"A promising cross into the box is nearly received by the lurking Kai Havertz (Germany), but one of the defending players cuts it out to avert the threat.",general,General,Havertz,Germany,168
+switzerland_germany,41,0,41,"Florian Wirtz (Germany) takes a short corner kick.",general,Corner,Wirtz,Germany,54
+switzerland_germany,42,0,42,"Antonio Rudiger (Germany) had a good opportunity when he latched on to a cross from the wing, but his header wasn't accurate at all and the ball went well wide of the right post.",key_event,Shot,Rudiger,Germany,184
+switzerland_germany,42,0,42,"Kai Havertz (Germany) cushions the ball on his chest then hits a first-time volley high over the bar from inside the box.",key_event,Shot,Havertz,Germany,136
+switzerland_germany,43,0,43,"A shot from the edge of the box by Robert Andrich (Germany) is a waste and goes well wide of the right post.",key_event,Shot,Andrich,Germany,117
+switzerland_germany,45,0,45,"Toni Kroos (Germany) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",general,General,Kroos,Germany,134
+switzerland_germany,45,0,45,"Good movement by Maximilian Mittelstadt (Germany), but he can't find any of his teammates as the cross is poor.",general,General,Mittelstadt,Germany,127
+switzerland_germany,45,0,45,"2 min. of stoppage-time to be played.",general,General,,Both,40
+switzerland_germany,45,3,45+3,"The end of the first half.",general,Half Time,,Both,28
+switzerland_germany,46,0,46,"Referee Daniele Orsato blows his whistle to start the second half.",key_event,Kick Off,,Both,67
+switzerland_germany,47,0,47,"Breel Embolo (Switzerland) tries to find Silvan Widmer, but he puts too much power on the through ball.",general,General,Embolo,Switzerland,113
+switzerland_germany,49,0,49,"Breel Embolo (Switzerland) skips past his man but can't keep the ball in play.",general,General,Embolo,Switzerland,80
+switzerland_germany,51,0,51,"Jamal Musiala (Germany) latches on to a precise defence-splitting pass and fires a nice strike from a promising distance towards the middle of the goal. Yann Sommer has a clear sight of it and makes a comfortable save.",key_event,Save,"Musiala, Sommer",Germany,222
+switzerland_germany,51,0,51,"Ilkay Gundogan (Germany) takes a rebound on the edge of the box and slams the ball well wide of the left post.",key_event,Shot,Gundogan,Germany,120
+switzerland_germany,54,0,54,"Toni Kroos (Germany) pounces on a bouncing ball on the edge of the box, but sends his volley well wide of the left post.",key_event,Shot,Kroos,Germany,130
+switzerland_germany,55,0,55,"Antonio Rudiger (Germany) gives away a foul for a clumsy challenge. Referee Daniele Orsato saw the whole situation.",general,General,Rudiger,Germany,123
+switzerland_germany,57,0,57,"Foul! Jonathan Tah (Germany) is penalised for pulling back his opponent.",general,General,Tah,Germany,74
+switzerland_germany,58,0,58,"The foul by Remo Freuler (Switzerland) was seen by Daniele Orsato who didn't hesitate to blow the whistle.",general,General,Freuler,Switzerland,119
+switzerland_germany,59,0,59,"Joshua Kimmich (Germany) wastes a good opportunity as his pass into the box is blocked by the defence. The ball is out of play. Germany win a corner kick.",general,Corner,Kimmich,Germany,161
+switzerland_germany,59,0,59,"Toni Kroos (Germany) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",general,Corner,Kroos,Germany,140
+switzerland_germany,60,0,60,"Ilkay Gundogan (Germany) sends a pass into the box, but his attempt is thwarted and cleared. Good work from Germany as they win a corner.",general,Corner,Gundogan,Germany,149
+switzerland_germany,60,0,60,"Toni Kroos (Germany) swings in the corner, but the goalkeeper does a brilliant job to intercept the effort.",general,Corner,"Kroos, Sommer",Germany,119
+switzerland_germany,61,0,61,"That will be all from Jonathan Tah who is being replaced by the fresh legs of Nico Schlotterbeck (Germany).",key_event,Substitution,"Tah, Schlotterbeck",Germany,119
+switzerland_germany,61,0,61,"Julian Nagelsmann decides to make a substitution. Maximilian Mittelstadt will be replaced by David Raum (Germany).",key_event,Substitution,"Mittelstadt, Raum, Nagelsmann",Germany,122
+switzerland_germany,62,0,62,"Joshua Kimmich (Germany) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger. Germany force a corner. They send men into the box.",general,Corner,Kimmich,Germany,203
+switzerland_germany,63,0,63,"Toni Kroos (Germany) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",general,Corner,Kroos,Germany,145
+switzerland_germany,63,0,63,"David Raum (Germany) strikes the ball towards goal from distance, but it goes over the bar.",key_event,Shot,Raum,Germany,99
+switzerland_germany,65,0,65,"Ilkay Gundogan (Germany) rises high to connect with a lofted pass inside the box, but one of his opponents is in the right place at the right time to thwart him. The referee and one of his assistants signal for a corner kick to Germany.",general,Corner,Gundogan,Germany,223
+switzerland_germany,65,0,65,"This corner kick is taken with a short pass by Toni Kroos (Germany).",general,Corner,Kroos,Germany,69
+switzerland_germany,65,0,65,"Kai Havertz (Germany) outjumped his marker after a well-taken corner, but his header goes wide of the target.",key_event,Shot,Havertz,Germany,125
+switzerland_germany,65,0,65,"Murat Yakin has decided to make a change. Kwadwo Duah (Switzerland) replaces Breel Embolo.",key_event,Substitution,"Embolo, Duah, Yakin",Switzerland,104
+switzerland_germany,65,0,65,"The manager makes a subsitution with Ruben Vargas (Switzerland) coming on for Fabian Rieder.",key_event,Substitution,"Rieder, Vargas",Switzerland,99
+switzerland_germany,65,0,65,"Dan Ndoye goes off the pitch and Zeki Amdouni (Switzerland) comes on.",key_event,Substitution,"Ndoye, Amdouni",Switzerland,72
+switzerland_germany,65,0,65,"Robert Andrich will be replaced by Maximilian Beier (Germany).",key_event,Substitution,"Andrich, Beier",Germany,63
+switzerland_germany,67,0,67,"Granit Xhaka (Switzerland) sees a yellow card from Daniele Orsato after he sent one of the opposing players to the ground.",key_event,Yellow Card,Xhaka,Switzerland,132
+switzerland_germany,67,0,67,"Toni Kroos (Germany) will take the free kick.",general,Free Kick,Kroos,Germany,48
+switzerland_germany,68,0,68,"Kai Havertz (Germany) jumps for a cross in the goal area and produces a fine header which goes just a few inches over the bar! What a huge opportunity!",key_event,Shot,Havertz,Germany,163
+switzerland_germany,70,0,70,"He should have scored! Joshua Kimmich (Germany) gathered a short pass deep inside the box but took too long to shoot, allowing the defender to make the block.",key_event,Shot,Kimmich,Germany,165
+switzerland_germany,71,0,71,"One of the Germany players is in on goal but gets upended by the defender in the box. That could be a penalty, but the ref says NO! Play continues.",general,VAR,,Germany,160
+switzerland_germany,72,0,72,"There's a break in play and referee Daniele Orsato must have got a signal in his ear as he indicates he will check that earlier penalty claim by Germany using VAR. This could be interesting!",general,VAR,Orsato,Germany,188
+switzerland_germany,72,0,72,"Here's the VAR verdict on that penalty incident - NO PENALTY for Germany! Play can continue.",key_event,VAR,,Germany,95
+switzerland_germany,74,0,74,"Kwadwo Duah (Switzerland) gets a shot from distance but fails to generate enough power to beat the goalkeeper.",key_event,Shot,Duah,Switzerland,119
+switzerland_germany,75,0,75,"Daniele Orsato blows the whistle, Ilkay Gundogan (Germany) is penalised for a foul. Switzerland are awarded a free kick. Let's see what they create from this.",general,Free Kick,Gundogan,Germany,167
+switzerland_germany,76,0,76,"Substitution. Florian Wirtz makes way for Leroy Sane (Germany).",key_event,Substitution,"Wirtz, Sane",Germany,66
+switzerland_germany,76,0,76,"Here is a change. Jamal Musiala is going off and Julian Nagelsmann gives the last tactical orders to Niclas Fullkrug (Germany).",key_event,Substitution,"Musiala, Fullkrug, Nagelsmann",Germany,134
+switzerland_germany,76,0,76,"Ruben Vargas (Switzerland) takes the free kick but it is cleared by the first defender.",general,Free Kick,Vargas,Switzerland,91
+switzerland_germany,78,0,78,"David Raum (Germany) brings his opponent down with a tackle and Daniele Orsato blows his whistle for a foul.",general,General,Raum,Germany,119
+switzerland_germany,81,0,81,"Silvan Widmer (Switzerland) has received a yellow card for his foul.",key_event,Yellow Card,Widmer,Switzerland,70
+switzerland_germany,81,0,81,"Silvan Widmer (Switzerland) will miss the next game.",general,General,Widmer,Switzerland,53
+switzerland_germany,82,0,82,"Toni Kroos (Germany) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity.",general,Free Kick,"Kroos, Sommer",Germany,210
+switzerland_germany,82,0,82,"Leroy Sane (Germany) has a great chance inside the box following a rebound off a defender, but somehow he gets too much on the ball and it goes well wide of the left post.",key_event,Shot,Sane,Germany,174
+switzerland_germany,84,0,84,"David Raum (Germany) tries to send a pass but it's blocked. Germany win a corner.",general,Corner,Raum,Germany,87
+switzerland_germany,84,0,84,"David Raum (Germany) takes the corner with a short pass.",general,Corner,Raum,Germany,60
+switzerland_germany,84,0,84,"Gooal! No wait, it's been ruled out for offside. Ruben Vargas (Switzerland) disagrees, but the linesman is sure about his call.",key_event,Disallowed Goal,Vargas,Switzerland,148
+switzerland_germany,85,0,85,"Kai Havertz (Germany) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. The ball is out of play and the linesman points at the corner flag. Corner to Germany.",general,Corner,Havertz,Germany,235
+switzerland_germany,85,0,85,"Toni Kroos (Germany) is heading toward the corner flag to take the set piece.",general,Corner,Kroos,Germany,82
+switzerland_germany,85,0,85,"A cross arrives in the goalmouth from the resulting corner kick. Kai Havertz (Germany) outjumps the defence, but his promising header bounces away off the bar!",key_event,Shot,Havertz,Germany,169
+switzerland_germany,87,0,87,"Nico Schlotterbeck (Germany) should know this behaviour is beyond the rules. He was too careless with his challenge and left Daniele Orsato no option but to blow his whistle.",general,General,Schlotterbeck,Germany,180
+switzerland_germany,88,0,88,"Granit Xhaka (Switzerland) attempts to score with a first-time shot from the edge of the box. His effort towards the left post is saved by Manuel Neuer. The referee signals a corner kick to Switzerland.",key_event,Save,"Xhaka, Neuer",Switzerland,202
+switzerland_germany,89,0,89,"Ruben Vargas (Switzerland) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",general,Corner,Vargas,Switzerland,123
+switzerland_germany,90,0,90,"4 additional min. will be played.",general,General,,Both,38
+switzerland_germany,90,1,90+1,"Yann Sommer is alert and has a clear sight of a long through ball from Joshua Kimmich (Germany). Easy save!",general,General,"Sommer, Kimmich",Germany,125
+switzerland_germany,90,1,90+1,"Kwadwo Duah (Switzerland) times his run too early and the linesman raises his flag for offside.",general,Offside,Duah,Switzerland,103
+switzerland_germany,90,2,90+2,"David Raum displays his great technique and produces a beautiful lofted cross deep into the box. Niclas Fullkrug (Germany) gets onto the scoresheet by superbly heading it into the top left corner – 1:1.",key_event,Goal,"Raum, Fullkrug",Germany,226
+switzerland_germany,90,4,90+4,"The attendance is 46685.",general,General,,Both,27
+switzerland_germany,90,4,90+4,"Ruben Vargas (Switzerland) fails to deliver a decent cross from a long-range free kick. The opposition's defence intercepts the effort.",general,Free Kick,Vargas,Switzerland,148
+switzerland_germany,90,5,90+5,"The referee checks his watch and blows his whistle to signal the end of this match.",key_event,Full Time,,Both,90
+

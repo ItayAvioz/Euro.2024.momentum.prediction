@@ -1,0 +1,98 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+spain_england,0,0,0,"Francois Letexier will referee today's match.",general,General,Letexier,Both,46
+spain_england,0,0,0,"The players are out and the match is about to start. England will have the kick-off.",general,Kick Off,,England,80
+spain_england,1,0,1,"Here we go, today's match is starting right now.",key_event,Kick Off,,Both,48
+spain_england,2,0,2,"A long cross from the side is directed to the well-positioned Lamine Yamal (Spain), but the defence gets it clear.",general,General,Yamal,Spain,119
+spain_england,4,0,4,"Lamine Yamal (Spain) races towards goal but the defender gets back well to make a challenge.",general,General,Yamal,Spain,96
+spain_england,5,0,5,"Dani Olmo (Spain) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",general,General,Olmo,Spain,159
+spain_england,5,0,5,"Nico Williams (Spain) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack. Spain get a corner.",general,Corner,Williams,Spain,174
+spain_england,5,0,5,"Nico Williams (Spain) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",general,Corner,Williams,Spain,140
+spain_england,6,0,6,"Spain seem to be finding their feet as they enjoy some possession. Great movement by the offensive players allows the defenders to set up the attack.",general,General,,Spain,147
+spain_england,8,0,8,"Dani Olmo (Spain) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",general,General,Olmo,Spain,173
+spain_england,10,0,10,"Rodri (Spain) was trying to get to the ball but clattered into the legs of the opponent as well. Francois Letexier blows his whistle for an infringement.",general,General,Rodri,Spain,150
+spain_england,11,0,11,"Marc Guehi (England) commits a foul during an attacking move.",general,General,Guehi,England,60
+spain_england,12,0,12,"Nico Williams (Spain) goes on a weaving run through the defence and gets within shooting range but his effort is blocked. The referee points to the corner flag and Spain will take a corner.",general,Corner,Williams,Spain,186
+spain_england,13,0,13,"Nico Williams (Spain) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",general,Corner,Williams,Spain,127
+spain_england,13,0,13,"Robin Le Normand (Spain) wins the ball from the corner kick and strikes. The effort lacks accuracy and goes miles wide of the left post.",key_event,Shot,Le Normand,Spain,137
+spain_england,14,0,14,"Nico Williams (Spain) tries to send a pass but it's blocked.",general,General,Williams,Spain,58
+spain_england,15,0,15,"Kyle Walker (England) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",general,General,Walker,England,113
+spain_england,16,0,16,"Phil Foden (England) launches a powerful cross from the corner into the box, but the ball is intercepted by the defender.",general,Corner,Foden,England,123
+spain_england,17,0,17,"Declan Rice (England) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",key_event,Shot,Rice,England,151
+spain_england,19,0,19,"Another attempt to send the ball beyond the defence by Dani Olmo (Spain) is thwarted and cleared to safety.",general,General,Olmo,Spain,113
+spain_england,19,0,19,"Daniel Carvajal (Spain) sends a cross into the box, but Jordan Pickford comes off his line to gather the ball.",general,General,"Carvajal, Pickford",Spain,116
+spain_england,22,0,22,"Marc Cucurella (Spain) makes a strong challenge and Francois Letexier blows for a foul.",general,General,Cucurella,Spain,89
+spain_england,23,0,23,"Lamine Yamal (Spain) sends a long ball in, but Jordan Pickford comfortably gathers the ball.",general,General,"Yamal, Pickford",Spain,95
+spain_england,24,0,24,"A pass lands at the feet of Lamine Yamal (Spain) in the middle of the box, he looks up and shoots but the effort is superbly blocked by a defender.",key_event,Shot,Yamal,Spain,148
+spain_england,24,0,24,"Spain take a short corner kick.",general,Corner,,Spain,30
+spain_england,24,0,24,"A lofted cross from Nico Williams (Spain) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",general,General,Williams,Spain,130
+spain_england,24,0,24,"Francois Letexier blows his whistle after Daniel Carvajal (Spain) kicks an opponent's legs instead of the ball.",general,General,Carvajal,Spain,116
+spain_england,25,0,25,"It must be a yellow card. It is. Harry Kane (England) receives the caution after an awful tackle.",key_event,Yellow Card,Kane,England,102
+spain_england,26,0,26,"Fabian Ruiz (Spain) is having a really tough time right now. We are about to find out how serious his injury is.",general,General,Fabian Ruiz,Spain,119
+spain_england,26,0,26,"Fabian Ruiz (Spain) seems to be alright and is okay to carry on.",general,General,Fabian Ruiz,Spain,66
+spain_england,27,0,27,"69:31 – the ratio of ball possession.",general,General,,Both,38
+spain_england,28,0,28,"Fabian Ruiz (Spain) blasts the ball from just outside the box, but his attempt is blocked by the defender.",key_event,Shot,Fabian Ruiz,Spain,110
+spain_england,31,0,31,"Yellow card. Dani Olmo (Spain) goes into the book for a bad tackle on his opponent.",key_event,Yellow Card,Olmo,Spain,86
+spain_england,34,0,34,"Lamine Yamal (Spain) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball goes out of play and Spain have been awarded a corner kick.",general,Corner,Yamal,Spain,172
+spain_england,35,0,35,"Lamine Yamal (Spain) takes the corner which is cleared by the opposition's defence. Spain have been awarded a corner kick.",general,Corner,Yamal,Spain,120
+spain_england,35,0,35,"Nico Williams (Spain) decides to speed play up with a short corner kick.",general,Corner,Williams,Spain,75
+spain_england,35,0,35,"Dani Olmo (Spain) has an effort from distance but it's blocked.",key_event,Shot,Olmo,Spain,63
+spain_england,36,0,36,"Nico Williams (Spain) plays in a hopeful cross, but it doesn't find its way to any of the attacking players. The ball goes out of play and England will have a goal kick.",general,General,Williams,Spain,161
+spain_england,38,0,38,"Daniel Carvajal (Spain) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",general,General,Carvajal,Spain,129
+spain_england,40,0,40,"John Stones (England) slides a pass forward, but one of the defenders cuts it out.",general,General,Stones,England,85
+spain_england,43,0,43,"Alvaro Morata (Spain) latches on to a pin-point through ball, but one of the defending players dispossess him. Brilliant defending. Spain have a corner.",general,Corner,Morata,Spain,154
+spain_england,43,0,43,"Nothing comes of the resulting corner from Nico Williams (Spain). The defence is alert and manages to cut it out.",general,Corner,Williams,Spain,117
+spain_england,45,0,45,"Harry Kane (England) collects a pass from the flank, looks up and fires in a goal-bound shot from the edge of the box which canons off a defender to safety.",key_event,Shot,Kane,England,156
+spain_england,45,0,45,"Nico Williams (Spain) brings his opponent down with a tackle and Francois Letexier blows his whistle for a foul. England have a free kick.",general,Free Kick,Williams,Spain,142
+spain_england,45,0,45,"We will have 2 min. of added time.",general,General,,Both,36
+spain_england,45,1,45+1,"Phil Foden (England) clutches his head in despair after he blew a huge opportunity! He received the ball after the free kick, took a good first touch and unleashed a projectile from close range to the bottom left corner, but Unai Simon makes a nice save.",key_event,Save,"Foden, Simon",England,249
+spain_england,45,3,45+3,"That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",general,Half Time,,Both,122
+spain_england,46,0,46,"Francois Letexier blows his whistle and the second half starts.",key_event,Kick Off,,Both,63
+spain_england,46,0,46,"Luis de la Fuente has decided to make a substitution during the half-time break. Martin Zubimendi comes on the pitch for Rodri (Spain).",key_event,Substitution,"Zubimendi, Rodri, De la Fuente",Spain,148
+spain_england,47,0,47,"Goal - 1:0! Lamine Yamal tees up Nico Williams (Spain) inside the box and he rolls the ball into the bottom right corner and past Jordan Pickford.",key_event,Goal,"Yamal, Williams, Pickford",Spain,157
+spain_england,49,0,49,"Ambitious effort from Dani Olmo (Spain). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the right post.",key_event,Shot,Olmo,Spain,216
+spain_england,52,0,52,"Kyle Walker (England) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging.",general,General,Walker,England,159
+spain_england,53,0,53,"John Stones (England) has to be very careful for the rest of the match after receiving a yellow card from the referee for a bad tackle on an opponent.",key_event,Yellow Card,Stones,England,151
+spain_england,55,0,55,"Alvaro Morata (Spain) tries his luck with and strikes the ball towards goal from long-range, but it is blocked by one of the defenders.",key_event,Shot,Morata,Spain,138
+spain_england,56,0,56,"Alvaro Morata (Spain) latched on to an accurate pass deep into the box and attempted to fire the ball past the keeper, but the shot is way off target. What a miskick!",key_event,Shot,Morata,Spain,168
+spain_england,56,0,56,"Fine attempt! Nico Williams (Spain) collects a pass and manages to hold off the defender, then rifles in a shot from mid-range which unluckily swerves inches past the left post.",key_event,Shot,Williams,Spain,176
+spain_england,59,0,59,"Spain are showing great team chemistry. They are passing it around beautifully. Excellent team work.",general,General,,Spain,106
+spain_england,60,0,60,"Another attempt to send the ball beyond the defence by Dani Olmo (Spain) is thwarted and cleared to safety.",general,General,Olmo,Spain,113
+spain_england,60,0,60,"Phil Foden (England) tries to pass the ball into the penalty area but it's blocked.",general,General,Foden,England,82
+spain_england,61,0,61,"Gareth Southgate has decided to make a change. Ollie Watkins (England) replaces Harry Kane.",key_event,Substitution,"Watkins, Kane, Southgate",England,101
+spain_england,62,0,62,"Rough tackle by Nico Williams (Spain). The referee blows his whistle for a foul.",general,General,Williams,Spain,84
+spain_england,63,0,63,"Phil Foden (England) swings in a promising cross from the free kick, but one of the defenders does a perfect job to avert the danger.",general,Free Kick,Foden,England,132
+spain_england,63,0,63,"Nico Williams (Spain) is having a lively performance. He is causing problems and wanting the ball at every opportunity.",general,General,Williams,Spain,125
+spain_england,64,0,64,"Jude Bellingham (England) skips perfectly past challenges but misdirects his shot from the edge of the box. The ball flies a few yards wide of the left post.",key_event,Shot,Bellingham,England,160
+spain_england,65,0,65,"Kyle Walker (England) sends a long ball forward to Ollie Watkins, but he put too much power and the chance is gone. The ball is off of the pitch and it's a goal kick for Spain.",general,General,"Walker, Watkins",England,175
+spain_england,66,0,66,"Lamine Yamal (Spain) receives a pass inside the box, controls the ball and drills it towards the left post. Unfortunately for him, Jordan Pickford makes a great save to stop his effort. Spain earn a corner.",key_event,Save,"Yamal, Pickford",Spain,203
+spain_england,67,0,67,"Nico Williams (Spain) swings in the corner, but fails to find any of his teammates. One of the defenders reacts superbly to get it clear.",general,Corner,Williams,Spain,137
+spain_england,68,0,68,"It is time for a substitution. Mikel Oyarzabal (Spain) is on for Alvaro Morata.",key_event,Substitution,"Oyarzabal, Morata",Spain,82
+spain_england,69,0,69,"Lamine Yamal (Spain) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort. Spain will have a chance to score from a corner kick.",general,Corner,Yamal,Spain,218
+spain_england,69,0,69,"Lamine Yamal (Spain) sends the corner into the box, but Jordan Pickford intercepts it and averts the threat.",general,Corner,"Yamal, Pickford",Spain,115
+spain_england,70,0,70,"Dani Olmo (Spain) sends a teasing cross into the area, but Jordan Pickford intercepts the ball.",general,General,"Olmo, Pickford",Spain,100
+spain_england,70,0,70,"That's unlucky! Fabian Ruiz (Spain) side steps a tackle after receiving a pass, advances then hits a booming shot from mid-range which only rises at the last second to fly just over the bar.",key_event,Shot,Fabian Ruiz,Spain,194
+spain_england,70,0,70,"A substitution has been made. Kobbie Mainoo goes off and Cole Palmer (England) comes on.",key_event,Substitution,"Mainoo, Palmer",England,92
+spain_england,72,0,72,"The linesman signals that Lamine Yamal (Spain) is offside and the referee confirms the decision.",general,Offside,Yamal,Spain,100
+spain_england,72,0,72,"Mikel Oyarzabal (Spain) darts into the penalty area to latch on to a pass, and he unleashes a low shot in the direction of the left post. Jordan Pickford is alert and denies him with a nice save.",key_event,Save,"Oyarzabal, Pickford",Spain,188
+spain_england,73,0,73,"Goal! Jude Bellingham finds Cole Palmer (England) with a clever pass. He steps inside his man on the edge of the box and whips a tremendous shot into the bottom left corner. Fantasy football! 1:1.",key_event,Goal,"Bellingham, Palmer",England,200
+spain_england,75,0,75,"Bukayo Saka (England) passes the ball into the box but an opposing player clears.",general,General,Saka,England,82
+spain_england,78,0,78,"The cross into the penalty area from Daniel Carvajal (Spain) needed to be more accurate in order to create a goal-scoring opportunity for his team.",general,General,Carvajal,Spain,145
+spain_england,78,0,78,"Nico Williams (Spain) attempts to send over a cross in order to find one of his teammates, but an opposition defender averts the danger by intercepting the effort. Spain have been awarded a corner kick.",general,Corner,Williams,Spain,197
+spain_england,79,0,79,"The corner from Nico Williams (Spain) is intercepted by the defence.",general,Corner,Williams,Spain,68
+spain_england,82,0,82,"Lamine Yamal (Spain) receives a precise pass in the box and takes the shot early. The ball heads towards the middle of the goal, but Jordan Pickford shows off his skills and makes a brilliant save to deny him.",key_event,Save,"Yamal, Pickford",Spain,199
+spain_england,83,0,83,"The referee stops play so that a substitution can be made and Robin Le Normand leaves the pitch and Nacho Fernandez (Spain) comes on.",key_event,Substitution,"Le Normand, Nacho",Spain,139
+spain_england,85,0,85,"Nico Williams (Spain) and Dani Olmo attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball. The ball is out of play. A goal-scoring opportunity from a corner for Spain.",general,Corner,"Williams, Olmo",Spain,199
+spain_england,85,0,85,"Lamine Yamal (Spain) takes the corner kick and sends the ball among a huddle of players inside the penalty area, but one of the defenders clears it to safety.",general,Corner,Yamal,Spain,158
+spain_england,86,0,86,"It's in the back of the net! Marc Cucurella is the provider as he slips the ball to Mikel Oyarzabal (Spain) who simply steers it home from close range. It's 2:1.",key_event,Goal,"Cucurella, Oyarzabal",Spain,159
+spain_england,88,0,88,"Ollie Watkins (England) received a clever through ball which could have put him in a promising position, but the defence was alert to the danger.",general,General,Watkins,England,144
+spain_england,89,0,89,"Substitution. Phil Foden will be replaced by Ivan Toney (England).",key_event,Substitution,"Foden, Toney",England,63
+spain_england,89,0,89,"Luis de la Fuente has decided to substitute Lamine Yamal and he is replaced by Mikel Merino (Spain).",key_event,Substitution,"Yamal, Merino, De la Fuente",Spain,102
+spain_england,89,0,89,"Cole Palmer (England) steps up to send the ball in.",general,General,Palmer,England,52
+spain_england,90,0,90,"Declan Rice (England) peeled away from his marker and got on the end of the resulting corner, but he sends his header straight at the goalkeeper.",key_event,Shot,Rice,England,144
+spain_england,90,0,90,"A huge opportunity wasted! Marc Guehi (England) produces a header from a rebound inside the six-yard box. His effort is denied by one of the defenders who is well positioned and clears the ball to safety.",key_event,Chance,Guehi,England,200
+spain_england,90,0,90,"Declan Rice (England) is furious with himself. He collects a rebound near the penalty spot, and powers a header narrowly over the bar!",key_event,Close Call,Rice,England,140
+spain_england,90,0,90,"4 min. of stoppage-time to be played.",general,General,,Both,40
+spain_england,90,1,90+1,"What was Ollie Watkins (England) thinking? He will not get away with that. The referee shows him a yellow card.",key_event,Yellow Card,Watkins,England,116
+spain_england,90,3,90+3,"A cross from the free kick is whipped in by Jordan Pickford (England), but one of the defenders steps in and averts the threat.",general,Free Kick,Pickford,England,131
+spain_england,90,3,90+3,"Bukayo Saka (England) commits a foul and Francois Letexier immediately signals a free kick.",general,General,Saka,England,94
+spain_england,90,5,90+5,"There will be no more action in this match as the referee signals full time.",key_event,Full Time,,Both,81

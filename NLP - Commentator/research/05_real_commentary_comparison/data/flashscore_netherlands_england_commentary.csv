@@ -1,0 +1,90 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+netherlands_england,0,0,0,"Felix Zwayer will officiate today.",general,General,Zwayer,Both,34
+netherlands_england,0,0,0,"England will kick the game off.",general,Kick Off,,England,31
+netherlands_england,1,0,1,"The match has just started.",key_event,Kick Off,,Both,28
+netherlands_england,2,0,2,"Donyell Malen (Netherlands) finds himself in an offside position and the referee stops play after the linesman raises his flag.",general,Offside,Malen,Netherlands,135
+netherlands_england,3,0,3,"Poor challenge! Jerdy Schouten (Netherlands) is penalised for tripping and Felix Zwayer blows his whistle. That's a free kick to England.",general,Free Kick,Schouten,Netherlands,141
+netherlands_england,4,0,4,"Xavi Simons (Netherlands) attempted to send a defence-splitting pass into space where Donyell Malen was lurking. It could have put him one-on-one with the goalkeeper, but one of the defending players somehow manages to avert the threat.",general,General,"Simons, Malen",Netherlands,239
+netherlands_england,5,0,5,"Bukayo Saka (England) sends a lofted cross into the box which is headed clear.",general,General,Saka,England,79
+netherlands_england,5,0,5,"Kieran Trippier (England) is in a clear offside position and the linesman raises his flag.",general,Offside,Trippier,England,91
+netherlands_england,7,0,7,"Kieran Trippier (England) sends a long ball in, but Bart Verbruggen comfortably gathers the ball.",general,General,"Trippier, Verbruggen",England,106
+netherlands_england,7,0,7,"Xavi Simons (Netherlands) produces a moment of pure magic and scores a spectacular goal by striking the ball into the top left corner of the net!",key_event,Goal,Simons,Netherlands,152
+netherlands_england,9,0,9,"Felix Zwayer blows his whistle. Jerdy Schouten (Netherlands) commits a foul after dangerous play. England have a free kick from a promising distance.",general,Free Kick,Schouten,Netherlands,146
+netherlands_england,10,0,10,"Jerdy Schouten (Netherlands) is down injured and the referee stops play so that he can receive medical treatment.",general,General,Schouten,Netherlands,114
+netherlands_england,11,0,11,"Phil Foden (England) floats the free kick into the box, but it's easily cleared by the first man.",general,Free Kick,Foden,England,101
+netherlands_england,11,0,11,"Cody Gakpo (Netherlands) was trying to get to the ball but clattered into the legs of the opponent as well. Felix Zwayer blows his whistle for an infringement. England get a free kick.",general,Free Kick,Gakpo,Netherlands,175
+netherlands_england,12,0,12,"The free kick is delivered by Kieran Trippier (England) but it's not one of his best and is easily cleared.",general,Free Kick,Trippier,England,109
+netherlands_england,13,0,13,"Kieran Trippier (England) is flagged for offside once again, but it was a very tight call this time.",general,Offside,Trippier,England,105
+netherlands_england,13,0,13,"Harry Kane (England) has a lack of options after running onto a pass, so shoots from long range. It's a decent effort towards the bottom left corner, but Bart Verbruggen pulls off a comfortable save to deny him.",key_event,Save,"Kane, Verbruggen",England,216
+netherlands_england,14,0,14,"Bukayo Saka (England) fires the ball at goal from inside the area, but it's well blocked. Close! Harry Kane (England) is a whisker away from finishing-off the move he started. His close-range effort flies just over the bar.",key_event,Shot,"Saka, Kane",England,211
+netherlands_england,14,0,14,"Harry Kane (England) goes down in the box after a challenge from the defender. Possibly unsighted, the referee just waves play on.",general,Penalty Appeal,Kane,England,133
+netherlands_england,15,0,15,"Referee Felix Zwayer makes the VAR signal and is going to check whether it's a penalty for England. Let's see what happens!",general,VAR,,England,125
+netherlands_england,17,0,17,"It's a PENALTY to England after the VAR review!",key_event,Penalty,,England,47
+netherlands_england,17,0,17,"Denzel Dumfries (Netherlands) makes a bad tackle on his opponent and is angry when the referee shows him a deserved yellow card.",key_event,Yellow Card,Dumfries,Netherlands,130
+netherlands_england,18,0,18,"Harry Kane (England) is heading towards the penalty spot to take it.",general,Penalty,Kane,England,67
+netherlands_england,18,0,18,"Goal! Harry Kane (England) puts the ball into the bottom left corner past the outstretched arm of Bart Verbruggen.",key_event,Goal,"Kane, Verbruggen",England,120
+netherlands_england,21,0,21,"England are seeing far more of the ball now.",general,General,,England,46
+netherlands_england,23,0,23,"Phil Foden (England) shoots from inside the box after his amazing individual effort. He beats the goalkeeper, but hits one of the defending players and it bounces away.",key_event,Shot,Foden,England,165
+netherlands_england,25,0,25,"Kyle Walker (England) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",general,General,Walker,England,169
+netherlands_england,28,0,28,"Jude Bellingham received a sweet pass from Phil Foden (England), but the advance is stopped.",general,General,"Bellingham, Foden",England,93
+netherlands_england,29,0,29,"Donyell Malen (Netherlands) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked. The referee blows his whistle, Netherlands are awarded a corner kick.",key_event,Shot,Malen,Netherlands,199
+netherlands_england,30,0,30,"Xavi Simons (Netherlands) prepares to take a corner kick.",general,Corner,Simons,Netherlands,58
+netherlands_england,30,0,30,"Denzel Dumfries (Netherlands) latches on to the corner kick inside the box, but his header crashes against the crossbar! The goalkeeper would have been helpless.",key_event,Hit Bar,Dumfries,Netherlands,154
+netherlands_england,32,0,32,"Bukayo Saka (England) fizzes over a cross which doesn't cause any problems.",general,General,Saka,England,75
+netherlands_england,32,0,32,"Phil Foden (England) expertly controls a neat clever pass on the edge of the penalty area, but his effort rattles the left post! What a shot that was!",key_event,Hit Post,Foden,England,148
+netherlands_england,34,0,34,"Memphis Depay (Netherlands) is clearly asking for some medical attention with his painful gestures. The extent of his injury is yet to be discovered.",general,General,Depay,Netherlands,148
+netherlands_england,35,0,35,"Ronald Koeman is forced to make a change. Memphis Depay (Netherlands) is not able to carry on due to injury. He is replaced by Joey Veerman.",key_event,Substitution,"Depay, Veerman, Koeman",Netherlands,144
+netherlands_england,37,0,37,"Jude Bellingham (England) breaks past challenges inside the box, but puts too much pace on his pass to Kieran Trippier. The ball is behind the touchline and Netherlands will take a throw-in.",general,General,"Bellingham, Trippier",England,182
+netherlands_england,39,0,39,"Phil Foden (England) picks up a pass and has an effort from the edge of the box, but Bart Verbruggen gets down to his right to keep it out.",key_event,Save,"Foden, Verbruggen",England,141
+netherlands_england,41,0,41,"Kobbie Mainoo (England) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",key_event,Shot,Mainoo,England,147
+netherlands_england,44,0,44,"Jude Bellingham (England) tries to send a pass but it's blocked.",general,General,Bellingham,England,62
+netherlands_england,45,0,45,"Kieran Trippier (England) sends a cross into the box, but Bart Verbruggen comes off his line to gather the ball.",general,General,"Trippier, Verbruggen",England,114
+netherlands_england,45,0,45,"The fourth official shows 3 min. of added time.",general,General,,Both,51
+netherlands_england,45,2,45+2,"Denzel Dumfries (Netherlands) looks to break free, but an opposing player clears the ball away.",general,General,Dumfries,Netherlands,96
+netherlands_england,45,4,45+4,"That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",general,Half Time,,Both,122
+netherlands_england,46,0,46,"Felix Zwayer blows his whistle and the second half starts.",key_event,Kick Off,,Both,59
+netherlands_england,46,0,46,"Gareth Southgate has decided to make a substitution during the half-time break. Luke Shaw comes on the pitch for Kieran Trippier (England).",key_event,Substitution,"Shaw, Trippier, Southgate",England,141
+netherlands_england,46,0,46,"The need to improve in the second half has brought about a change. Donyell Malen (Netherlands) comes off for Wout Weghorst.",key_event,Substitution,"Malen, Weghorst",Netherlands,130
+netherlands_england,48,0,48,"The ball is cleared after Jude Bellingham (England) attempted to dribble past an opposing player. The ball is off of the pitch and it's a goal kick for Netherlands.",general,General,Bellingham,Netherlands,159
+netherlands_england,49,0,49,"Bukayo Saka (England) sends a pass into the box, but his attempt is thwarted and cleared.",general,General,Saka,England,91
+netherlands_england,51,0,51,"Marc Guehi (England) plays a long ball to Luke Shaw, but the defence is well organised and manages to get it clear.",general,General,"Guehi, Shaw",England,124
+netherlands_england,51,0,51,"Phil Foden (England) was standing in a clear offside position, making it an easy call for the linesman.",general,Offside,Foden,England,104
+netherlands_england,54,0,54,"Xavi Simons (Netherlands) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Simons,Netherlands,120
+netherlands_england,57,0,57,"The attendance is 60926.",general,General,,Both,27
+netherlands_england,60,0,60,"Phil Foden (England) did his best to latch on to a crossfield pass, but it was too long and it goes out of play. The ball is out of play. Netherlands will take a throw-in.",general,General,Foden,England,165
+netherlands_england,61,0,61,"The cross into the penalty area from Joey Veerman (Netherlands) needed to be more accurate in order to create a goal-scoring opportunity for his team. The ball goes out of play and England will have a goal kick.",general,General,Veerman,Netherlands,193
+netherlands_england,62,0,62,"Phil Foden (England) pulls the shirt of his opponent and only escapes without punishment due to the benevolence of the referee.",general,General,Foden,England,128
+netherlands_england,63,0,63,"Jerdy Schouten (Netherlands) tries to find Xavi Simons, but he puts too much power on the through ball.",general,General,"Schouten, Simons",Netherlands,107
+netherlands_england,64,0,64,"A clumsy foul by Marc Guehi (England) and Felix Zwayer blows his whistle. Netherlands are awarded the free kick.",general,Free Kick,Guehi,Netherlands,114
+netherlands_england,65,0,65,"Virgil van Dijk (Netherlands) connects with the ball in the six-yard box after the resulting free kick and shoots towards the right side of the goal, but Jordan Pickford makes a magnificent save! Netherlands have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",key_event,Save,"van Dijk, Pickford",Netherlands,275
+netherlands_england,65,0,65,"Joey Veerman (Netherlands) takes the corner.",general,Corner,Veerman,Netherlands,45
+netherlands_england,65,0,65,"Joey Veerman bends the corner in towards the goal and finds Denzel Dumfries (Netherlands) almost on the goal line, but he somehow contrives to head the ball high over the bar.",key_event,Shot,"Veerman, Dumfries",Netherlands,166
+netherlands_england,68,0,68,"Cody Gakpo (Netherlands) serves up a nice cross, but Jordan Pickford punches the ball away. The linesman makes the right call and Netherlands will have a corner.",general,Corner,"Gakpo, Pickford",Netherlands,155
+netherlands_england,69,0,69,"Joey Veerman (Netherlands) will try to find the head of one of his teammates from a corner kick.",general,Corner,Veerman,Netherlands,95
+netherlands_england,69,0,69,"Wout Weghorst (Netherlands) is penalised for a foul. Felix Zwayer had a clear view and blows his whistle.",general,General,Weghorst,Netherlands,104
+netherlands_england,70,0,70,"Declan Rice (England) sends a chip pass into the box, but Bart Verbruggen is quickest to intercept the ball.",general,General,"Rice, Verbruggen",England,113
+netherlands_england,72,0,72,"Jude Bellingham (England) makes a bad challenge on his opponent and is booked by the referee.",key_event,Yellow Card,Bellingham,England,99
+netherlands_england,74,0,74,"A through ball from Xavi Simons (Netherlands) fails to reach Cody Gakpo as one of the defending players reacts brilliantly to intercept the effort. If the pass had been produced a little bit earlier, Cody Gakpo could have got into a promising position.",general,General,"Simons, Gakpo",Netherlands,246
+netherlands_england,77,0,77,"The defence is alert as they clear a dangerous cross from Nathan Ake (Netherlands).",general,General,Ake,Netherlands,83
+netherlands_england,78,0,78,"Xavi Simons (Netherlands) gets on the end of a pass and produces a promising first-time shot towards the top of the net. His effort is blocked by Jordan Pickford with a brilliant diving save!",key_event,Save,"Simons, Pickford",Netherlands,186
+netherlands_england,79,0,79,"An attempted cross from Luke Shaw (England) is cleared.",general,General,Shaw,England,55
+netherlands_england,79,0,79,"Gooal! No wait, it's been ruled out for offside. Bukayo Saka (England) disagrees, but the linesman is sure about his call.",key_event,Disallowed Goal,Saka,England,131
+netherlands_england,81,0,81,"The referee signals that it is time for a substitution and Cole Palmer (England) comes onto the pitch so that Phil Foden can be given a rest.",key_event,Substitution,"Palmer, Foden",England,149
+netherlands_england,81,0,81,"Here is a change. Harry Kane is going off and Gareth Southgate gives the last tactical orders to Ollie Watkins (England).",key_event,Substitution,"Kane, Watkins, Southgate",England,124
+netherlands_england,85,0,85,"John Stones (England) picks out Ollie Watkins with a fine lofted pass, but the latter wasn't able to create some space to get into shooting range.",general,General,"Stones, Watkins",England,150
+netherlands_england,85,0,85,"Denzel Dumfries (Netherlands) pulls the shirt of his opponent and the referee stops play for a foul. England are awarded a free kick.",general,Free Kick,Dumfries,Netherlands,134
+netherlands_england,86,0,86,"Bukayo Saka (England) brings his opponent down. Felix Zwayer has a clear sight of it and blows his whistle for a foul. Netherlands win a free kick. It's a promising situation for a direct shot.",general,Free Kick,Saka,England,176
+netherlands_england,86,0,86,"Bukayo Saka (England) is rightly booked by the referee because it could not have been anything other than a yellow card.",key_event,Yellow Card,Saka,England,118
+netherlands_england,87,0,87,"Virgil van Dijk (Netherlands) is awarded a yellow card for a sharp discussion with the referee. He should relax or he could be sent off.",key_event,Yellow Card,van Dijk,Netherlands,136
+netherlands_england,88,0,88,"Bart Verbruggen doesn't have to worry about this one. Luke Shaw plays a pass into the feet of Cole Palmer (England), who is unable to find the target as his effort from inside the box goes well wide of the left post.",key_event,Shot,"Verbruggen, Shaw, Palmer",England,217
+netherlands_england,90,0,90,"Goal! Cole Palmer displays great vision and sends a pass to Ollie Watkins (England), who shows brilliant composure inside the box to bury the ball into the bottom left corner. The score is 1:2.",key_event,Goal,"Palmer, Watkins",England,194
+netherlands_england,90,0,90,"2 additional min. will be played.",general,General,,Both,37
+netherlands_england,90,1,90+1,"The referee shows the yellow card to Xavi Simons (Netherlands).",key_event,Yellow Card,Simons,Netherlands,62
+netherlands_england,90,3,90+3,"It is time for a substitution. Ezri Konsa (England) is on for Bukayo Saka.",key_event,Substitution,"Konsa, Saka",England,72
+netherlands_england,90,3,90+3,"Gareth Southgate has decided to make a change. Conor Gallagher (England) replaces Kobbie Mainoo.",key_event,Substitution,"Gallagher, Mainoo, Southgate",England,95
+netherlands_england,90,3,90+3,"A substitution has been made. Xavi Simons is replaced by Brian Brobbey (Netherlands).",key_event,Substitution,"Simons, Brobbey",Netherlands,84
+netherlands_england,90,3,90+3,"Substitution. Joshua Zirkzee (Netherlands) on for Denzel Dumfries.",key_event,Substitution,"Zirkzee, Dumfries",Netherlands,63
+netherlands_england,90,4,90+4,"Having seen unsporting behavior, Felix Zwayer shows a yellow card to one of the players sitting on the bench. And Kieran Trippier (England) is the recipient.",key_event,Yellow Card,Trippier,England,158
+netherlands_england,90,5,90+5,"Wout Weghorst (Netherlands) creates himself some space and attempts to put the ball into the box. However, the defender gets an important foot in to clear.",general,General,Weghorst,Netherlands,159
+netherlands_england,90,6,90+6,"The referee checks his watch and blows his whistle to signal the end of this match.",key_event,Full Time,,Both,87
+

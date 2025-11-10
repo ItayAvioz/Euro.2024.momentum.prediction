@@ -1,0 +1,101 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+netherlands_england,0,0,0,"The current period has begun.",key_event,Kick Off,,Both,30
+netherlands_england,1,0,1,"Felix Zwayer signals a free kick to Netherlands.",general,Free Kick,Zwayer,Netherlands,50
+netherlands_england,2,0,2,"Netherlands's Donyell Malen has run offside.",general,Offside,Malen,Netherlands,45
+netherlands_england,3,0,3,"Free kick England.",general,Free Kick,,England,19
+netherlands_england,5,0,5,"England drive forward but Kieran Trippier is judged offside.",general,Offside,Trippier,England,62
+netherlands_england,7,0,7,"Goal! Xavi Simons gives Netherlands a 1-0 lead in Dortmund.",key_event,Goal,Simons,Netherlands,63
+netherlands_england,9,0,9,"Felix Zwayer signals a free kick to England just outside Netherlands's area.",general,Free Kick,Zwayer,England,77
+netherlands_england,11,0,11,"Felix Zwayer signals a free kick to England.",general,Free Kick,Zwayer,England,45
+netherlands_england,12,0,12,"Felix Zwayer signals a throw-in for England, close to Netherlands's area.",general,General,Zwayer,England,79
+netherlands_england,11,0,11,"Felix Zwayer blows against England's Kieran Trippier for offside.",general,Offside,"Zwayer, Trippier",England,68
+netherlands_england,13,0,13,"England drives forward and Harry Kane gets in a shot. Without netting, however.",general,General,Kane,England,85
+netherlands_england,13,0,13,"Throw-in for England close to the penalty box.",general,General,,England,49
+netherlands_england,14,0,14,"England's Harry Kane breaks free at BVB Stadion Dortmund. But the strike goes wide of the post.",general,General,Kane,England,99
+netherlands_england,14,0,14,"Goal kick for Netherlands at BVB Stadion Dortmund.",general,General,,Netherlands,53
+netherlands_england,16,0,16,"VAR: Penalty.",key_event,VAR,,Both,14
+netherlands_england,16,0,16,"VAR Decision: Penalty.",key_event,VAR,,Both,22
+netherlands_england,15,0,15,"A penalty awarded for England.",key_event,Penalty,,England,32
+netherlands_england,17,0,17,"Denzel Dumfries (Netherlands) gets a yellow card.",key_event,Yellow Card,Dumfries,Netherlands,48
+netherlands_england,18,0,18,"Harry Kane scores from the spot and England draw level at BVB Stadion Dortmund.",key_event,Goal,Kane,England,81
+netherlands_england,19,0,19,"Throw-in England.",general,General,,England,19
+netherlands_england,20,0,20,"Can Netherlands get the ball into an attacking position from this throw-in in England's half?",general,General,,Netherlands,97
+netherlands_england,21,0,21,"Throw-in for England at BVB Stadion Dortmund.",general,General,,England,48
+netherlands_england,22,0,22,"Ball safe as Netherlands is awarded a throw-in in their half.",general,General,,Netherlands,64
+netherlands_england,23,0,23,"Can England capitalize from this throw-in deep inside Netherlands's half?",general,General,,England,76
+netherlands_england,25,0,25,"Netherlands awarded a throw-in in their own half.",general,General,,Netherlands,53
+netherlands_england,26,0,26,"Netherlands have a dangerous throw-in.",general,General,,Netherlands,39
+netherlands_england,30,0,30,"Corner awarded to Netherlands.",general,Corner,,Netherlands,31
+netherlands_england,30,0,30,"Netherlands apply pressure and a brilliant scoring opportunity is created for Denzel Dumfries. But the ball crashes against the crossbar!",key_event,Shot,Dumfries,Netherlands,142
+netherlands_england,30,0,30,"Felix Zwayer awards England a goal kick.",general,General,Zwayer,England,42
+netherlands_england,32,0,32,"England's Phil Foden fires in a great shot but is denied by the woodwork.",key_event,Shot,Foden,England,73
+netherlands_england,32,0,32,"Ball goes out of play for a Netherlands goal kick.",general,General,,Netherlands,51
+netherlands_england,34,0,34,"Memphis Depay is writhing in pain and play has been suspended for a few moments.",general,Injury,Depay,Netherlands,80
+netherlands_england,35,0,35,"Ronald Koeman (Netherlands) has taken off Memphis Depay who seemed to be grimacing with pain earlier. A possible injury. Joey Veerman is the replacement.",key_event,Substitution,"Depay, Veerman, Koeman",Netherlands,154
+netherlands_england,37,0,37,"Throw-in for Netherlands in their own half.",general,General,,Netherlands,46
+netherlands_england,39,0,39,"Phil Foden for England drives towards goal at BVB Stadion Dortmund. But the finish is unsuccessful.",general,General,Foden,England,101
+netherlands_england,41,0,41,"Netherlands needs to be cautious. England have an attacking throw-in.",general,General,,Netherlands,71
+netherlands_england,42,0,42,"Throw-in for England at BVB Stadion Dortmund.",general,General,,England,48
+netherlands_england,45,3,45+3,"England have a goal kick.",general,General,,England,25
+netherlands_england,45,0,45,"The current period has ended.",general,Half Time,,Both,32
+netherlands_england,0,0,0,"Kieran Trippier (England) is not on the pitch at the moment but still receives a yellow card.",key_event,Yellow Card,Trippier,England,95
+netherlands_england,45,0,45,"Ronald Koeman (Netherlands) is making a second substitution, with Wout Weghorst replacing Donyell Malen.",key_event,Substitution,"Malen, Weghorst, Koeman",Netherlands,108
+netherlands_england,45,0,45,"Luke Shaw is replacing Kieran Trippier for England at BVB Stadion Dortmund.",key_event,Substitution,"Trippier, Shaw",England,77
+netherlands_england,45,0,45,"The current period has begun.",key_event,Kick Off,,Both,30
+netherlands_england,46,0,46,"Felix Zwayer signals a free kick to England in their own half.",general,Free Kick,Zwayer,England,64
+netherlands_england,47,0,47,"Throw-in for England in their own half.",general,General,,England,39
+netherlands_england,48,0,48,"Netherlands have a goal kick.",general,General,,Netherlands,29
+netherlands_england,49,0,49,"Felix Zwayer signals a England throw-in in Netherlands's half.",general,General,Zwayer,England,62
+netherlands_england,49,0,49,"Netherlands awarded a free kick in their own half.",general,Free Kick,,Netherlands,51
+netherlands_england,50,0,50,"England awarded a throw-in in their own half.",general,General,,England,48
+netherlands_england,51,0,51,"England are caught offside.",general,Offside,,England,29
+netherlands_england,53,0,53,"Netherlands needs to be cautious. England have an attacking throw-in.",general,General,,Netherlands,71
+netherlands_england,54,0,54,"Ball safe as England is awarded a throw-in in their half.",general,General,,England,60
+netherlands_england,55,0,55,"Throw-in Netherlands.",general,General,,Netherlands,21
+netherlands_england,56,0,56,"Ball safe as England is awarded a throw-in in their half.",general,General,,England,60
+netherlands_england,58,0,58,"Throw-in for England close to the penalty box.",general,General,,England,49
+netherlands_england,59,0,59,"England to take a throw-in in Netherlands territory.",general,General,,England,51
+netherlands_england,59,0,59,"Throw-in England.",general,General,,England,19
+netherlands_england,60,0,60,"Throw-in for Netherlands at BVB Stadion Dortmund.",general,General,,Netherlands,51
+netherlands_england,61,0,61,"Felix Zwayer awards England a goal kick.",general,General,Zwayer,England,42
+netherlands_england,62,0,62,"Netherlands awarded a free kick in their own half.",general,Free Kick,,Netherlands,51
+netherlands_england,63,0,63,"Can Netherlands get the ball into an attacking position from this throw-in in England's half?",general,General,,Netherlands,97
+netherlands_england,64,0,64,"Free kick Netherlands.",general,Free Kick,,Netherlands,21
+netherlands_england,65,0,65,"In Dortmund Netherlands drive forward through Virgil Van Dijk. His shot is on target but it's saved.",general,General,Van Dijk,Netherlands,103
+netherlands_england,65,0,65,"Netherlands have been awarded a corner by Felix Zwayer.",general,Corner,Zwayer,Netherlands,58
+netherlands_england,65,0,65,"Denzel Dumfries (Netherlands) gets up for a header but cannot keep the ball on target.",general,Corner,Dumfries,Netherlands,82
+netherlands_england,65,0,65,"Goal kick for England at BVB Stadion Dortmund.",general,General,,England,48
+netherlands_england,66,0,66,"Felix Zwayer signals a free kick to England in their own half.",general,Free Kick,Zwayer,England,64
+netherlands_england,69,0,69,"Netherlands have been awarded a corner by Felix Zwayer.",general,Corner,Zwayer,Netherlands,58
+netherlands_england,69,0,69,"England awarded a free kick in their own half.",general,Free Kick,,England,47
+netherlands_england,70,0,70,"Ball goes out of play for a Netherlands goal kick.",general,General,,Netherlands,51
+netherlands_england,72,0,72,"Free kick Netherlands.",general,Free Kick,,Netherlands,21
+netherlands_england,72,0,72,"Jude Bellingham (England) has been booked and must now be careful not to get a second yellow card.",key_event,Yellow Card,Bellingham,England,99
+netherlands_england,73,0,73,"Felix Zwayer signals a free kick to England in their own half.",general,Free Kick,Zwayer,England,64
+netherlands_england,74,0,74,"Netherlands have a goal kick.",general,General,,Netherlands,29
+netherlands_england,74,0,74,"Throw-in for Netherlands in their own half.",general,General,,Netherlands,46
+netherlands_england,78,0,78,"Netherlands's Xavi Simons gets in a shot on goal at BVB Stadion Dortmund. But the effort is unsuccessful.",general,General,Simons,Netherlands,107
+netherlands_england,78,0,78,"England awarded a throw-in in their own half.",general,General,,England,48
+netherlands_england,80,0,80,"VAR: Goal.",key_event,VAR,,Both,10
+netherlands_england,80,0,80,"VAR Decision: No Goal.",key_event,VAR,,Both,22
+netherlands_england,78,0,78,"In Dortmund, England push forward quickly but are pulled up for offside.",general,Offside,,England,75
+netherlands_england,80,0,80,"Gareth Southgate is making the team's second substitution at BVB Stadion Dortmund with Ollie Watkins replacing Harry Kane.",key_event,Substitution,"Kane, Watkins, Southgate",England,126
+netherlands_england,81,0,81,"England make their third substitution with Cole Palmer replacing Phil Foden.",key_event,Substitution,"Foden, Palmer",England,75
+netherlands_england,85,0,85,"Felix Zwayer signals a free kick to England.",general,Free Kick,Zwayer,England,45
+netherlands_england,86,0,86,"England will need to be alert as they defend a dangerous free kick from Netherlands.",general,Free Kick,,England,82
+netherlands_england,86,0,86,"Bukayo Saka (England) has received a first yellow card.",key_event,Yellow Card,Saka,England,53
+netherlands_england,87,0,87,"Felix Zwayer signals a free kick to England in their own half.",general,Free Kick,Zwayer,England,64
+netherlands_england,87,0,87,"Netherlands's Virgil Van Dijk has been booked in Dortmund.",key_event,Yellow Card,Van Dijk,Netherlands,55
+netherlands_england,88,0,88,"Cole Palmer of England gets in a strike, but is off target.",general,General,Palmer,England,60
+netherlands_england,88,0,88,"Goal kick for Netherlands at BVB Stadion Dortmund.",general,General,,Netherlands,53
+netherlands_england,89,0,89,"England awarded a free kick in their own half.",general,Free Kick,,England,47
+netherlands_england,90,1,90+1,"Ollie Watkins is on target to give England a 1-2 advantage.",key_event,Goal,Watkins,England,60
+netherlands_england,90,1,90+1,"Xavi Simons (Netherlands) has been booked and must now be careful not to get a second yellow card.",key_event,Yellow Card,Simons,Netherlands,95
+netherlands_england,90,2,90+2,"Ezri Konsa is on a sub for Bukayo Saka for England.",key_event,Substitution,"Saka, Konsa",England,49
+netherlands_england,90,3,90+3,"Brian Brobbey is on a sub for Xavi Simons for Netherlands.",key_event,Substitution,"Simons, Brobbey",Netherlands,57
+netherlands_england,90,3,90+3,"Ronald Koeman (Netherlands) is making a fourth substitution, with Joshua Zirkzee replacing Denzel Dumfries.",key_event,Substitution,"Dumfries, Zirkzee, Koeman",Netherlands,107
+netherlands_england,90,3,90+3,"England make their fifth substitution with Conor Gallagher replacing Kobbie Mainoo.",key_event,Substitution,"Mainoo, Gallagher",England,80
+netherlands_england,90,4,90+4,"Throw-in for Netherlands in their own half.",general,General,,Netherlands,46
+netherlands_england,90,5,90+5,"Felix Zwayer signals a England throw-in in Netherlands's half.",general,General,Zwayer,England,62
+netherlands_england,90,0,90,"The match has ended.",key_event,Full Time,,Both,22
+

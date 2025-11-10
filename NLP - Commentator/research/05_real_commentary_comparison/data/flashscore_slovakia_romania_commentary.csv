@@ -1,0 +1,94 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+slovakia_romania,0,0,0,"Let us introduce today's referee to you, and it's Daniel Siebert.",general,General,Siebert,Both,67
+slovakia_romania,0,0,0,"The players are out and the match is about to start. Slovakia will have the kick-off.",general,Kick Off,,Slovakia,84
+slovakia_romania,1,0,1,"The first half of this match is about to start.",key_event,Kick Off,,Both,47
+slovakia_romania,1,0,1,"Juraj Kucka (Slovakia) reacts well to get to the rebound and takes a shot from the edge of the box, but he fails to get the ball through the players standing between him and the goal.",key_event,Shot,Kucka,Slovakia,180
+slovakia_romania,1,0,1,"Peter Pekarik (Slovakia) gets to the rebound just outside the box, but his attempt is blocked by one of the defending players.",key_event,Shot,Pekarik,Slovakia,134
+slovakia_romania,4,0,4,"Andrei Ratiu (Romania) tries to send a pass but it's blocked.",general,General,Ratiu,Romania,60
+slovakia_romania,6,0,6,"Ondrej Duda (Slovakia) was too fierce in his attempt to get the ball from his opponent and Daniel Siebert blows for a foul.",general,General,Duda,Slovakia,131
+slovakia_romania,7,0,7,"David Strelec (Slovakia) escapes without any punishment from the referee after using excessive force to foul his opponent.",general,General,Strelec,Slovakia,128
+slovakia_romania,7,0,7,"Nicolae Stanciu (Romania) sends over a free kick from long range but the defence is alert.",general,Free Kick,Stanciu,Romania,93
+slovakia_romania,8,0,8,"Lukas Haraslin (Slovakia) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",general,Corner,Haraslin,Slovakia,129
+slovakia_romania,9,0,9,"Juraj Kucka (Slovakia) peeled away from his marker and got on the end of the resulting corner, but he sends his header straight at the goalkeeper.",key_event,Save,Kucka,Slovakia,155
+slovakia_romania,10,0,10,"A pass into the penalty area from Peter Pekarik (Slovakia) is intercepted by the defence.",general,General,Pekarik,Slovakia,89
+slovakia_romania,10,0,10,"Lukas Haraslin (Slovakia) is heading toward the corner flag to take the set piece.",general,Corner,Haraslin,Slovakia,82
+slovakia_romania,10,0,10,"David Hancko (Slovakia) wins the ball from the resulting corner but blazes it well over the bar. The ball goes out of play and Romania will have a goal kick.",key_event,Shot,Hancko,Slovakia,157
+slovakia_romania,11,0,11,"Great save! Andrei Ratiu (Romania) had time and space inside the box after picking up a neat pass, but his shot towards the right side of the goal was brilliantly saved by Martin Dubravka.",key_event,Save,"Ratiu, Dubravka",Romania,198
+slovakia_romania,11,0,11,"Ianis Hagi (Romania) has a great chance inside the box following a rebound off a defender, but somehow he gets underneath the ball and it flies high over the bar.",key_event,Shot,Hagi,Romania,171
+slovakia_romania,12,0,12,"Daniel Siebert couldn't ignore the rough tackle by Juraj Kucka (Slovakia) and blew his whistle.",general,General,Kucka,Slovakia,101
+slovakia_romania,13,0,13,"Razvan Marin (Romania) executes a long-range free kick. His well-taken effort flies only inches wide of the left post. Today is obviously not his lucky day.",key_event,Shot,Marin,Romania,165
+slovakia_romania,15,0,15,"Peter Pekarik (Slovakia) produces a dangerous low pass into the penalty area, but the defence manage to cut it out.",general,General,Pekarik,Slovakia,121
+slovakia_romania,16,0,16,"Lukas Haraslin (Slovakia) whips in a cross from the corner, but Florin Nita is well positioned and punches the ball away.",general,Corner,"Haraslin, Nita",Slovakia,130
+slovakia_romania,17,0,17,"Lukas Haraslin (Slovakia) is flagged for offside.",general,Offside,Haraslin,Slovakia,51
+slovakia_romania,20,0,20,"Nicolae Stanciu (Romania) delivers a low pass into the box which is intercepted.",general,General,Stanciu,Romania,79
+slovakia_romania,21,0,21,"Radu Dragusin (Romania) commits a rough challenge and Daniel Siebert blows his whistle for an infringement.",general,General,Dragusin,Romania,112
+slovakia_romania,21,0,21,"Lukas Haraslin (Slovakia) crosses the ball from the free kick, but it goes out of play.",general,Free Kick,Haraslin,Slovakia,87
+slovakia_romania,24,0,24,"Nicolae Stanciu (Romania) connected with a pass around the edge of the box, aimed and shot. His attempt went towards the middle of the target, but Martin Dubravka was alert and the score remains the same.",key_event,Save,"Stanciu, Dubravka",Romania,207
+slovakia_romania,24,0,24,"Goooooal! Juraj Kucka beats his man and slings in a cross towards Ondrej Duda (Slovakia), who evades his marker and plants a fine header into the bottom right corner from close in. 1:0.",key_event,Goal,"Kucka, Duda",Slovakia,187
+slovakia_romania,26,0,26,"The referee blows his whistle and players are going to refresh themselves.",general,General,,Both,75
+slovakia_romania,28,0,28,"Ondrej Duda (Slovakia) was too forceful with his tackle and Daniel Siebert interrupted the game to signal a free kick.",general,General,Duda,Slovakia,120
+slovakia_romania,28,0,28,"Nicolae Stanciu (Romania) gives away a foul for a fierce tackle on an opponent.",general,General,Stanciu,Romania,76
+slovakia_romania,30,0,30,"Ivan Schranz (Slovakia) does his best to latch onto a cross into the box, but he can't get to the ball.",general,General,Schranz,Slovakia,108
+slovakia_romania,31,0,31,"Ondrej Duda (Slovakia) sends a pass into the box, but his attempt is thwarted and cleared.",general,General,Duda,Slovakia,95
+slovakia_romania,32,0,32,"David Strelec (Slovakia) latched on to an accurate pass deep into the box and attempted to fire the ball past the keeper, but the shot is way off target. What a miskick!",key_event,Shot,Strelec,Slovakia,177
+slovakia_romania,33,0,33,"Florinel Coman (Romania) produces a dangerous lofted cross into the box which is intercepted.",general,General,Coman,Romania,96
+slovakia_romania,33,0,33,"Andrei Ratiu (Romania) beats his marker and unleashes a thunderbolt of a shot from the edge of the box. Martin Dubravka sees the ball late but does well to stop it going into the roof of the net.",key_event,Save,"Ratiu, Dubravka",Romania,194
+slovakia_romania,34,0,34,"David Hancko (Slovakia) is booked after bringing down an opponent. Daniel Siebert had an easy-decision to make.",key_event,Yellow Card,Hancko,Slovakia,115
+slovakia_romania,35,0,35,"Wait! The referee makes the VAR signal and he's going to review that incident in the box from earlier. This could be a penalty for Romania! Let's see what he decides.",general,VAR,,Romania,169
+slovakia_romania,36,0,36,"Here comes the VAR decision. Referee Daniel Siebert decides there was no infringement by David Hancko (Slovakia) and the game can continue. It's a PENALTY to Romania after the VAR review!",key_event,VAR,,Romania,178
+slovakia_romania,37,0,37,"Razvan Marin (Romania) is heading towards the penalty spot to take it.",general,Penalty,Marin,Romania,68
+slovakia_romania,37,0,37,"Goal! Razvan Marin (Romania) wins the battle of wills and sends an unstoppable penalty past Martin Dubravka into the top left corner.",key_event,Goal,"Marin, Dubravka",Romania,147
+slovakia_romania,40,0,40,"Some great controlled play and passing from Romania. They are increasing their possession of the ball and trying to open up the opposition's defence to hit them swiftly on the break.",general,General,,Romania,179
+slovakia_romania,43,0,43,"Denis Dragus (Romania) finds himself unmarked on the edge of the box, but he drags his shot just wide of the right post. The ball is off of the pitch and it's a goal kick for Slovakia.",key_event,Shot,Dragus,Romania,175
+slovakia_romania,44,0,44,"What a poor attempt! David Strelec (Slovakia) drives another shot towards goal - this time from further out, but it couldn't have been worse if he had shot blindfolded. The ball goes miles wide to the right.",key_event,Shot,Strelec,Slovakia,210
+slovakia_romania,45,0,45,"David Hancko (Slovakia) commits a rough challenge and Daniel Siebert blows his whistle for a foul.",general,General,Hancko,Slovakia,105
+slovakia_romania,45,0,45,"3 additional min. will be played.",general,General,,Both,38
+slovakia_romania,45,1,45+1,"Andrei Burca (Romania) goes into the book for a horrible tackle. A yellow card is necessary in this case.",key_event,Yellow Card,Burca,Romania,109
+slovakia_romania,45,4,45+4,"Daniel Siebert shows a yellow card to Nicusor Bancu (Romania) for his blatant foul.",key_event,Yellow Card,Bancu,Romania,84
+slovakia_romania,45,4,45+4,"Nicusor Bancu (Romania) will miss the next game because of that yellow card.",general,General,Bancu,Romania,71
+slovakia_romania,45,4,45+4,"The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",general,Half Time,,Both,126
+slovakia_romania,46,0,46,"The second half gets underway.",key_event,Kick Off,,Both,33
+slovakia_romania,46,0,46,"Denis Dragus (Romania) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",general,General,Dragus,Romania,142
+slovakia_romania,47,0,47,"Ivan Schranz (Slovakia) produces an inaccurate low pass into the box that is blocked by the one of the defenders. If this pass had slipped through, the ball would have probably ended up in the back of the net.",general,General,Schranz,Slovakia,208
+slovakia_romania,47,0,47,"Ondrej Duda (Slovakia) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",general,Corner,Duda,Slovakia,134
+slovakia_romania,48,0,48,"The game is interrupted as David Hancko (Slovakia) is flagged offside.",general,Offside,Hancko,Slovakia,73
+slovakia_romania,49,0,49,"Ianis Hagi (Romania) should know this behaviour is beyond the rules. He was too careless with his challenge and left Daniel Siebert no option but to blow his whistle.",general,General,Hagi,Romania,170
+slovakia_romania,52,0,52,"Lukas Haraslin (Slovakia) gets inside the box and tries to beat Florin Nita with a measured shot into the left side of the goal, but the keeper is equal to the effort and makes a fine save.",key_event,Save,"Haraslin, Nita",Slovakia,192
+slovakia_romania,53,0,53,"Ivan Schranz (Slovakia) is penalised for a foul. Daniel Siebert had a clear view and blows his whistle.",general,General,Schranz,Slovakia,105
+slovakia_romania,54,0,54,"Ondrej Duda (Slovakia) fails to send a pass into the box as his effort is cut out.",general,General,Duda,Slovakia,84
+slovakia_romania,55,0,55,"Referee Daniel Siebert has finally had enough of Edward Iordanescu and brandishes a yellow card at him!",key_event,Yellow Card,Iordanescu,Romania,106
+slovakia_romania,56,0,56,"Flag goes up against Denis Dragus (Romania) and the referee blows his whistle for offside.",general,Offside,Dragus,Romania,90
+slovakia_romania,57,0,57,"Peter Pekarik (Slovakia) is adjudged offside.",general,Offside,Pekarik,Slovakia,47
+slovakia_romania,58,0,58,"The referee stops play so that a substitution can be made and Florinel Coman leaves the pitch and Deian Sorescu (Romania) comes on.",key_event,Substitution,"Coman, Sorescu",Romania,131
+slovakia_romania,61,0,61,"Razvan Marin (Romania) does well to control a poor pass on the edge of the box then shoots towards the middle of the goal. Martin Dubravka is out of position but leaps to make a brilliant save.",key_event,Save,"Marin, Dubravka",Romania,196
+slovakia_romania,61,0,61,"Denis Dragus (Romania) receives a brilliant pass and wastes a big opportunity as his shot from inside the penalty area flies just over the crossbar.",key_event,Shot,Dragus,Romania,153
+slovakia_romania,63,0,63,"Denis Dragus (Romania) gives away a foul for a clumsy challenge. Referee Daniel Siebert saw the whole situation.",general,General,Dragus,Romania,112
+slovakia_romania,64,0,64,"David Strelec (Slovakia) latches on to a precise defence-splitting pass and drills a nice strike from a promising distance towards the middle of the goal. Florin Nita has a clear sight of it and makes a comfortable save.",key_event,Save,"Strelec, Nita",Slovakia,216
+slovakia_romania,65,0,65,"Stanislav Lobotka (Slovakia) touches the ball with his hand inside the box!",general,General,Lobotka,Slovakia,73
+slovakia_romania,65,0,65,"Good team movement sets up Lukas Haraslin (Slovakia) on the edge of the box, but he slices the ball narrowly wide of the right post.",key_event,Shot,Haraslin,Slovakia,141
+slovakia_romania,66,0,66,"We are about to witness a subsitution. Dennis Man (Romania) for Ianis Hagi.",key_event,Substitution,"Hagi, Man",Romania,79
+slovakia_romania,67,0,67,"Edward Iordanescu has decided to introduce fresh legs, with George Puscas (Romania) replacing Denis Dragus.",key_event,Substitution,"Dragus, Puscas, Iordanescu",Romania,109
+slovakia_romania,69,0,69,"Romania are showcasing great team work and neat passing moves.",general,General,,Romania,66
+slovakia_romania,70,0,70,"The referee signals that it is time for a substitution and Tomas Suslov (Slovakia) will replace Lukas Haraslin.",key_event,Substitution,"Haraslin, Suslov",Slovakia,119
+slovakia_romania,70,0,70,"Today's match ends for David Strelec who will be replaced by Robert Bozenik (Slovakia).",key_event,Substitution,"Strelec, Bozenik",Slovakia,89
+slovakia_romania,72,0,72,"A pass from Robert Bozenik (Slovakia) is intercepted by Florin Nita and the move breaks down.",general,General,"Bozenik, Nita",Slovakia,92
+slovakia_romania,74,0,74,"The game is interrupted. Robert Bozenik (Slovakia) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",general,General,Bozenik,Slovakia,179
+slovakia_romania,76,0,76,"Denis Vavro (Slovakia) picks up a precise pass and attempts to threaten the keeper with a long-range effort, but it goes well wide of the mark.",key_event,Shot,Vavro,Slovakia,149
+slovakia_romania,77,0,77,"Ivan Schranz (Slovakia) robs an opponent of the ball and explodes in anger when Daniel Siebert blows for a foul.",general,General,Schranz,Slovakia,119
+slovakia_romania,78,0,78,"That will be all from Ivan Schranz who is being replaced by the fresh legs of David Duris (Slovakia).",key_event,Substitution,"Schranz, Duris",Slovakia,103
+slovakia_romania,80,0,80,"Rough tackle by George Puscas (Romania). The referee blows his whistle for a foul.",general,General,Puscas,Romania,84
+slovakia_romania,81,0,81,"Ondrej Duda (Slovakia) takes the corner which is cleared by the opposition's defence.",general,Corner,Duda,Slovakia,87
+slovakia_romania,82,0,82,"Marius Marin (Romania) makes an overly-aggressive challenge and Daniel Siebert blows his whistle for a foul.",general,General,Marin,Romania,111
+slovakia_romania,83,0,83,"Tomas Suslov (Slovakia) takes the ball and sets it for the free kick.",general,Free Kick,Suslov,Slovakia,69
+slovakia_romania,85,0,85,"Dennis Man (Romania) looks to break free, but an opposing player clears the ball away.",general,General,Man,Romania,88
+slovakia_romania,86,0,86,"Substitution. Adrian Rus (Romania) replaces Razvan Marin.",key_event,Substitution,"Marin, Rus",Romania,62
+slovakia_romania,86,0,86,"A cross from a corner kick by Romania is too strong and the ball goes well out of play.",general,Corner,,Romania,92
+slovakia_romania,88,0,88,"This yellow card was deserved. The tackle by George Puscas (Romania) was quite harsh and Daniel Siebert didn't hesitate to show him a yellow card.",key_event,Yellow Card,Puscas,Romania,155
+slovakia_romania,88,0,88,"The game is interrupted now, Milan Skriniar (Slovakia) picks up a knock and the physio has to come on.",general,General,Skriniar,Slovakia,112
+slovakia_romania,89,0,89,"Milan Skriniar (Slovakia) is able to continue to play.",general,General,Skriniar,Slovakia,53
+slovakia_romania,90,0,90,"There will be a minimum of 3 min. of added time.",general,General,,Both,54
+slovakia_romania,90,1,90+1,"Ondrej Duda (Slovakia) has tested the patience of referee Daniel Siebert and goes into the book for a previous late challenge.",key_event,Yellow Card,Duda,Slovakia,127
+slovakia_romania,90,2,90+2,"Francesco Calzona has decided to substitute Peter Pekarik and he is replaced by Norbert Gyomber (Slovakia).",key_event,Substitution,"Pekarik, Gyomber, Calzona",Slovakia,111
+slovakia_romania,90,2,90+2,"Substitution. Matus Bero (Slovakia) has come on for Ondrej Duda.",key_event,Substitution,"Duda, Bero",Slovakia,67
+slovakia_romania,90,5,90+5,"Daniel Siebert is looking at his watch and immediately ends this match.",key_event,Full Time,,Both,75
+

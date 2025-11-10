@@ -1,0 +1,94 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+poland_netherlands,0,0,0,"Artur Soares Dias will officiate today.",general,General,Soares Dias,Both,44
+poland_netherlands,0,0,0,"The players are on the pitch and Poland will have the kick-off.",general,Kick Off,,Poland,66
+poland_netherlands,1,0,1,"The first half has just begun.",key_event,Kick Off,,Both,33
+poland_netherlands,2,0,2,"CHANCE! Cody Gakpo (Netherlands) goes very close! He gathers a cross inside the box and fires a low shot to the bottom left corner, but Wojciech Szczesny produces an excellent save. The ball goes behind for a corner. Netherlands will have an opportunity to threaten the opposition's goal.",key_event,Save,"Gakpo, Szczesny",Netherlands,305
+poland_netherlands,3,0,3,"Joey Veerman (Netherlands) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",general,Corner,Veerman,Netherlands,138
+poland_netherlands,4,0,4,"Memphis Depay (Netherlands) slips through the defence and passes the ball in from the edge of the box. Cody Gakpo picks it up but loses it to one of the defenders.",general,General,"Depay, Gakpo",Netherlands,174
+poland_netherlands,6,0,6,"Cody Gakpo receives a sweet cross inside the box from Denzel Dumfries (Netherlands), but one of the defenders rushes in bravely to intercept the ball.",general,General,"Gakpo, Dumfries",Netherlands,165
+poland_netherlands,8,0,8,"Artur Soares Dias blows the whistle, Przemyslaw Frankowski (Poland) is penalised for a foul.",general,General,Frankowski,Poland,103
+poland_netherlands,8,0,8,"Cody Gakpo (Netherlands) tries to pass the ball into the penalty area but it's blocked. It will be a corner kick for Netherlands.",general,Corner,Gakpo,Netherlands,134
+poland_netherlands,9,0,9,"Joey Veerman (Netherlands) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",general,Corner,Veerman,Netherlands,146
+poland_netherlands,10,0,10,"What a big chance! Tijjani Reijnders (Netherlands) picks up an inch-perfect pass inside the box and fires the ball a whisker wide of the right post.",key_event,Shot,Reijnders,Netherlands,160
+poland_netherlands,10,0,10,"Adam Buksa (Poland) receives a sweet pass inside the box, but his effort on goal is blocked by the defender.",general,General,Buksa,Poland,123
+poland_netherlands,13,0,13,"Kacper Urbanski (Poland) is adjudged offside.",general,Offside,Urbanski,Poland,48
+poland_netherlands,14,0,14,"An accurate pass to the edge of the box is well taken by Xavi Simons (Netherlands), whose instinctive shot towards goal flashes inches wide of the left post.",general,General,Simons,Netherlands,172
+poland_netherlands,15,0,15,"Joey Veerman (Netherlands) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Artur Soares Dias didn't think twice about pulling it out of his pocket.",key_event,Yellow Card,Veerman,Netherlands,193
+poland_netherlands,16,0,16,"Piotr Zielinski (Poland) looks like he will be the one to try and deliver a quality ball into the penalty box from the corner kick.",general,Corner,Zielinski,Poland,143
+poland_netherlands,16,0,16,"Adam Buksa (Poland) meets the corner and displays his eye for goal as he coolly plants a header from close range into the right side of the goal. The score is 1:0.",key_event,Goal,Buksa,Poland,180
+poland_netherlands,19,0,19,"Netherlands control the tempo of the game by exchanging some accurate short passes.",general,General,,Netherlands,86
+poland_netherlands,19,0,19,"Denzel Dumfries (Netherlands) sends the ball into the box from the side of the pitch, but his cross is blocked. The linesman makes the right call and Netherlands will have a corner.",general,Corner,Dumfries,Netherlands,185
+poland_netherlands,20,0,20,"Joey Veerman (Netherlands) will try to find the head of one of his teammates from a corner kick.",general,Corner,Veerman,Netherlands,100
+poland_netherlands,20,0,20,"A cross following the corner kick finds its way to Virgil van Dijk (Netherlands) inside the box and he manages to steer it to the middle of the target. He is about to start celebrating a goal, but Wojciech Szczesny makes a save in the nick of time and maintains the current score.",key_event,Save,"van Dijk, Szczesny",Netherlands,283
+poland_netherlands,22,0,22,"Good chance! Xavi Simons laid the ball off to Memphis Depay (Netherlands) inside the box, he ducked inside his man and rifled a shot in at goal that skimmed the top of the bar.",key_event,Shot,"Simons, Depay",Netherlands,184
+poland_netherlands,22,0,22,"Artur Soares Dias blows his whistle and signals a foul after Virgil van Dijk (Netherlands) brought his opponent down.",general,General,van Dijk,Netherlands,122
+poland_netherlands,24,0,24,"Ambitious effort from Memphis Depay (Netherlands). He finds himself in a great position after collecting a precise pass inside the penalty area and goes for goal, but it never troubles the goalkeeper and flies well wide of the left post.",general,General,Depay,Netherlands,241
+poland_netherlands,25,0,25,"Half-chance! Tijjani Reijnders (Netherlands) plays a pass into the box, but Wojciech Szczesny reacts well to snuff out the attack. Netherlands earn a corner.",general,Corner,"Reijnders, Szczesny",Netherlands,170
+poland_netherlands,26,0,26,"Joey Veerman (Netherlands) decides to take a short corner instead of crossing into the box.",general,Corner,Veerman,Netherlands,95
+poland_netherlands,27,0,27,"Tijjani Reijnders (Netherlands) meets a cross inside the box, but his header is blocked by an opposing player. Netherlands have a corner.",general,Corner,Reijnders,Netherlands,145
+poland_netherlands,28,0,28,"Joey Veerman (Netherlands) rolls the ball short to a teammate from the corner instead of sending a cross into the box.",general,Corner,Veerman,Netherlands,121
+poland_netherlands,28,0,28,"Cody Gakpo (Netherlands) shoots after receiving a good pass. His effort from the edge of the box goes just wide of the left post.",general,General,Gakpo,Netherlands,135
+poland_netherlands,29,0,29,"Goal! Nathan Ake passes the ball to Cody Gakpo (Netherlands) and he fires in a shot from the edge of the box which is deflected. Wojciech Szczesny couldn't do anything about it. 1:1.",key_event,Goal,"Ake, Gakpo, Szczesny",Netherlands,198
+poland_netherlands,31,0,31,"Artur Soares Dias interrupts the game for a tactical foul by Memphis Depay (Netherlands).",general,General,Depay,Netherlands,90
+poland_netherlands,32,0,32,"A pass into the box finds Jakub Kiwior (Poland) unmarked. He carefully places a shot towards the right side of the goal, but a brilliant last-ditch save by Bart Verbruggen denies him.",key_event,Save,"Kiwior, Verbruggen",Poland,203
+poland_netherlands,33,0,33,"The game is interrupted. Sebastian Szymanski (Poland) has violated the rules in the battle for the ball. No protests or gestures are being made as he is quite aware of what he did.",general,General,Szymanski,Poland,187
+poland_netherlands,36,0,36,"Taras Romanczuk (Poland) brings his opponent down. Artur Soares Dias has a clear sight of it and blows his whistle for a foul.",general,General,Romanczuk,Poland,130
+poland_netherlands,37,0,37,"Denzel Dumfries (Netherlands) fails to find any of his teammates inside the box as his pass is blocked.",general,General,Dumfries,Netherlands,109
+poland_netherlands,38,0,38,"Denzel Dumfries (Netherlands) is penalised for holding. Artur Soares Dias signals a set piece.",general,General,Dumfries,Netherlands,99
+poland_netherlands,42,0,42,"Jan Bednarek (Poland) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",general,General,Bednarek,Poland,146
+poland_netherlands,42,0,42,"Cody Gakpo (Netherlands) gets on the end of a pass from Nathan Ake inside the box and quickly shoots, but the effort goes inches over the bar.",general,General,"Gakpo, Ake",Netherlands,156
+poland_netherlands,45,0,45,"Piotr Zielinski (Poland) plays a through ball inside the box, but it's too strong and Bart Verbruggen comes off his line to intercept.",general,General,"Zielinski, Verbruggen",Poland,151
+poland_netherlands,45,0,45,"Tijjani Reijnders (Netherlands) picks up a wayward pass but gives away possession by shooting from distance. The ball went miles wide of the right post.",general,General,Reijnders,Netherlands,165
+poland_netherlands,45,0,45,"We will have 1 min. of added time.",general,General,,Both,41
+poland_netherlands,45,1,45+1,"A lofted pass into the box is met by Memphis Depay (Netherlands), who rifles a shot just wide of the left post.",general,General,Depay,Netherlands,125
+poland_netherlands,45,2,45+2,"That is it for the first half after the referee blows his whistle and the players head to their respective dressing rooms.",general,Half Time,,Both,128
+poland_netherlands,46,0,46,"The half-time break is over and the second half is about to start.",key_event,Kick Off,,Both,69
+poland_netherlands,46,0,46,"The referee stops play so that a substitution can be made and Sebastian Szymanski departs the field of play to be replaced by Jakub Moder (Poland).",key_event,Substitution,"Szymanski, Moder",Poland,164
+poland_netherlands,47,0,47,"Denzel Dumfries (Netherlands) attempts to feed Memphis Depay with a chip pass, but Wojciech Szczesny reacts well and comes off his line to intercept.",general,General,"Dumfries, Depay, Szczesny",Netherlands,167
+poland_netherlands,48,0,48,"Xavi Simons (Netherlands) collects an inch-perfect pass and strikes the ball from far out, but his shot is blocked.",general,General,Simons,Netherlands,121
+poland_netherlands,48,0,48,"Tijjani Reijnders (Netherlands) received a pass out of defence and immediately attempted a long-range shot, but a defender bravely blocked the effort.",general,General,Reijnders,Netherlands,160
+poland_netherlands,49,0,49,"Memphis Depay (Netherlands) picks up a pass and fires a powerful long-range shot which goes painfully close to the left post.",general,General,Depay,Netherlands,136
+poland_netherlands,51,0,51,"Xavi Simons (Netherlands) makes a driving run into the box but he cannot work any space for a shot.",general,General,Simons,Netherlands,107
+poland_netherlands,52,0,52,"Artur Soares Dias blows his whistle for a foul after Xavi Simons (Netherlands) hacks down one of his opponents.",general,General,Simons,Netherlands,122
+poland_netherlands,53,0,53,"Xavi Simons (Netherlands) is asking for medical treatment after picking up an injury.",general,Injury,Simons,Netherlands,86
+poland_netherlands,54,0,54,"Xavi Simons (Netherlands) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",general,Injury,Simons,Netherlands,132
+poland_netherlands,54,0,54,"Close! Xavi Simons (Netherlands) picks up the ball in space and from inside the penalty area sends a shot inches wide of the right post.",key_event,Shot,Simons,Netherlands,148
+poland_netherlands,55,0,55,"Substitution. Karol Swiderski (Poland) receives a signal from the referee and is now allowed to enter the pitch as Kacper Urbanski walks off.",key_event,Substitution,"Urbanski, Swiderski",Poland,158
+poland_netherlands,55,0,55,"Michal Probierz prepares a substitution. Taras Romanczuk is replaced by Bartosz Slisz (Poland).",key_event,Substitution,"Romanczuk, Slisz, Probierz",Poland,104
+poland_netherlands,58,0,58,"Denzel Dumfries (Netherlands) was too forceful with his tackle and Artur Soares Dias interrupted the game to signal a free kick. Poland earn a free kick.",general,Free Kick,Dumfries,Netherlands,163
+poland_netherlands,58,0,58,"Piotr Zielinski (Poland) takes the free kick but it is cleared by the first defender.",general,Free Kick,Zielinski,Poland,89
+poland_netherlands,59,0,59,"Great save! Jakub Kiwior (Poland) had time and space inside the box after picking up a neat pass, but his shot towards the bottom right corner was brilliantly saved by Bart Verbruggen.",key_event,Save,"Kiwior, Verbruggen",Poland,201
+poland_netherlands,59,0,59,"Piotr Zielinski (Poland) produces a ferocious strike from the edge of the box. His dangerous low effort towards the middle of the goal is blocked by Bart Verbruggen, who pulls off a superb save to keep the ball out of the net.",key_event,Save,"Zielinski, Verbruggen",Poland,235
+poland_netherlands,60,0,60,"Piotr Zielinski (Poland) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear. Poland have been awarded a corner kick.",general,Corner,Zielinski,Poland,181
+poland_netherlands,60,0,60,"Piotr Zielinski (Poland) takes the corner which is cleared.",general,Corner,Zielinski,Poland,61
+poland_netherlands,61,0,61,"Karol Swiderski (Poland) sends a beautiful cross into the penalty area, but the opposition's defence manages to clear the ball to safety.",general,General,Swiderski,Poland,150
+poland_netherlands,62,0,62,"Flag goes up against Karol Swiderski (Poland) and the referee blows his whistle for offside.",general,Offside,Swiderski,Poland,100
+poland_netherlands,62,0,62,"Ronald Koeman has decided to make a change. Georginio Wijnaldum (Netherlands) replaces Joey Veerman.",key_event,Substitution,"Veerman, Wijnaldum, Koeman",Netherlands,117
+poland_netherlands,62,0,62,"That's the end of the game for Xavi Simons, who is replaced by Donyell Malen (Netherlands).",key_event,Substitution,"Simons, Malen",Netherlands,95
+poland_netherlands,64,0,64,"Artur Soares Dias couldn't ignore the rough tackle by Bartosz Salamon (Poland) and blew his whistle.",general,General,Salamon,Poland,106
+poland_netherlands,65,0,65,"Close! Denzel Dumfries (Netherlands) picks up the ball in space and from inside the penalty area sends a shot inches wide of the left post. The ball is off of the pitch and it's a goal kick for Poland.",key_event,Shot,Dumfries,Netherlands,200
+poland_netherlands,68,0,68,"Donyell Malen (Netherlands) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",general,General,Malen,Netherlands,146
+poland_netherlands,69,0,69,"Memphis Depay (Netherlands) latches on to an accurate pass inside the box and immediately unleashes a shot towards goal, but it goes high over the crossbar.",general,General,Depay,Netherlands,164
+poland_netherlands,70,0,70,"Donyell Malen (Netherlands) attempts to find the head of one of his teammates with a promising cross into the box, but a defender outjumps the attackers and averts the threat.",general,General,Malen,Netherlands,182
+poland_netherlands,70,0,70,"Denzel Dumfries (Netherlands) receives a precise pass in the box and takes the shot early. The ball heads towards the bottom right corner, but Wojciech Szczesny shows off his skills and makes a brilliant save to deny him.",key_event,Save,"Dumfries, Szczesny",Netherlands,230
+poland_netherlands,72,0,72,"Donyell Malen (Netherlands) tries to send a pass but it's blocked. The referee points to the corner flag and Netherlands will take a corner.",general,Corner,Malen,Netherlands,139
+poland_netherlands,73,0,73,"Memphis Depay (Netherlands) is ready to send the ball into the box.",general,Corner,Depay,Netherlands,66
+poland_netherlands,73,0,73,"The corner is bent into the box and met with a firm header by Stefan de Vrij (Netherlands), but it's just over the bar.",general,Corner,de Vrij,Netherlands,129
+poland_netherlands,75,0,75,"Jakub Moder (Poland) sends a teasing cross into the area, but Bart Verbruggen intercepts the ball.",general,General,"Moder, Verbruggen",Poland,110
+poland_netherlands,78,0,78,"The referee stops play so that a substitution can be made and Piotr Zielinski leaves the pitch and Jakub Piotrowski (Poland) comes on.",key_event,Substitution,"Zielinski, Piotrowski",Poland,149
+poland_netherlands,80,0,80,"The resulting corner comes to nothing as Karol Swiderski (Poland) sends it out of play.",general,Corner,Swiderski,Poland,90
+poland_netherlands,81,0,81,"Ronald Koeman has decided to introduce fresh legs, with Jeremie Frimpong (Netherlands) replacing Cody Gakpo.",key_event,Substitution,"Gakpo, Frimpong, Koeman",Netherlands,122
+poland_netherlands,81,0,81,"Ronald Koeman decides to make a substitution. Memphis Depay will be replaced by Wout Weghorst (Netherlands).",key_event,Substitution,"Depay, Weghorst, Koeman",Netherlands,118
+poland_netherlands,82,0,82,"Jeremie Frimpong (Netherlands) looks to break free, but his touch lets him down and he loses the ball.",general,General,Frimpong,Netherlands,111
+poland_netherlands,83,0,83,"Goal! Nathan Ake provides Wout Weghorst (Netherlands) with a nice pass inside the box. It allows him to finish with a precise effort into the bottom left corner. 1:2.",key_event,Goal,"Ake, Weghorst",Netherlands,188
+poland_netherlands,86,0,86,"Bartosz Salamon (Poland) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch.",general,Injury,Salamon,Poland,160
+poland_netherlands,86,0,86,"Bartosz Salamon (Poland) is not able to continue due to his injury and will be replaced by Bartosz Bereszynski.",key_event,Substitution,"Salamon, Bereszynski",Poland,122
+poland_netherlands,87,0,87,"Problems for Ronald Koeman as Nathan Ake is not able to play anymore. His injury is too serious and Micky van de Ven (Netherlands) replaces him.",key_event,Substitution,"Ake, van de Ven, Koeman",Netherlands,150
+poland_netherlands,89,0,89,"Artur Soares Dias has a clear sight and sees a foul from Nicola Zalewski (Poland).",general,General,Zalewski,Poland,86
+poland_netherlands,90,0,90,"Bart Verbruggen pulls off a great save to deny Karol Swiderski (Poland) after receiving a precise defence-splitting pass. The effort is headed for the bottom left corner, but the goalkeeper dives superbly to stop it. Definitely the best save of this match so far!",key_event,Save,"Swiderski, Verbruggen",Poland,284
+poland_netherlands,90,0,90,"5 min. of stoppage-time to be played.",general,General,,Both,44
+poland_netherlands,90,1,90+1,"Jakub Piotrowski (Poland) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul.",general,General,Piotrowski,Poland,139
+poland_netherlands,90,2,90+2,"Jakub Moder (Poland) picks up a sweet pass and fires one in from distance towards the right side of the goal, but Bart Verbruggen is alert and makes a decent save.",general,General,"Moder, Verbruggen",Poland,176
+poland_netherlands,90,5,90+5,"Nicola Zalewski (Poland) wastes an opportunity! He unleashed a strong shot from distance after the rebound fell at his feet. It went in the direction of the crossbar, but the goalkeeper pulled off a nice save to deny him.",general,General,"Zalewski, Verbruggen",Poland,230
+poland_netherlands,90,6,90+6,"The referee blows for the end of today's match.",key_event,Full Time,,Both,51
+

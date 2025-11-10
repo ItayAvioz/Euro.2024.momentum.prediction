@@ -1,0 +1,92 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+england_slovenia,0,0,0,"The referee of today's match will be Clement Turpin.",general,General,Turpin,Both,57
+england_slovenia,0,0,0,"The players are out and the match is about to start. England will have the kick-off.",general,Kick Off,,England,82
+england_slovenia,1,0,1,"Today's match has just started, enjoy the game!",key_event,Kick Off,,Both,51
+england_slovenia,2,0,2,"A short through ball almost allows Phil Foden (England) to get in a good shooting position, but he loses it to one of the defenders.",general,General,Foden,England,143
+england_slovenia,4,0,4,"Conor Gallagher (England) was too forceful with his tackle and Clement Turpin interrupted the game to signal a free kick.",general,General,Gallagher,England,128
+england_slovenia,5,0,5,"Benjamin Sesko (Slovenia) is strong enough to get to the ball and produces a header from close range. Even though it was aimed precisely towards the middle of the goal, Jordan Pickford didn't have a hard time stopping the attempt as it wasn't powerful enough.",key_event,Save,"Sesko, Pickford",Slovenia,268
+england_slovenia,9,0,9,"England players are exchanging short passes with one another, waiting for the right moment to beat the opposition's defence.",general,General,,England,132
+england_slovenia,9,0,9,"The ball is cleared after Harry Kane (England) attempted to dribble past an opposing player.",general,General,Kane,England,97
+england_slovenia,10,0,10,"Phil Foden (England) is offside and the linesman raises his flag.",general,Offside,Foden,England,69
+england_slovenia,11,0,11,"Andraz Sporar (Slovenia) wastes a good opportunity as his pass into the box is blocked by the defence.",general,General,Sporar,Slovenia,112
+england_slovenia,15,0,15,"Here's the current ball possession statistics for both teams - 71:29.",general,General,,Both,71
+england_slovenia,16,0,16,"Erik Janza (Slovenia) attempted to create a dangerous situation in front of goal by sending a cross into the box, but the defence easily dealt with the threat.",general,General,Janza,Slovenia,169
+england_slovenia,17,0,17,"Bukayo Saka (England) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",general,General,Saka,England,139
+england_slovenia,17,0,17,"Andraz Sporar (Slovenia) tries to send a pass but it's blocked.",general,General,Sporar,Slovenia,64
+england_slovenia,17,0,17,"Clement Turpin shows a yellow card to Kieran Trippier (England) for his blatant foul.",key_event,Yellow Card,Trippier,England,86
+england_slovenia,18,0,18,"Clement Turpin has a clear sight and sees a foul from Conor Gallagher (England).",general,General,Gallagher,England,80
+england_slovenia,18,0,18,"Erik Janza (Slovenia) sends in a lofted cross from a mid-range free kick. His effort, however, goes out of play.",general,Free Kick,Janza,Slovenia,119
+england_slovenia,19,0,19,"A neat pass is well received by Andraz Sporar (Slovenia), who is lurking on the edge of the box and strikes the ball on goal. The goalkeeper makes a decent save to block his shot.",key_event,Save,"Sporar, Pickford",Slovenia,193
+england_slovenia,20,0,20,"A goal, which was scored by Bukayo Saka (England), was disallowed due to offside.",key_event,Disallowed Goal,Saka,England,87
+england_slovenia,21,0,21,"Clement Turpin couldn't ignore the rough tackle by Kyle Walker (England) and blew his whistle.",general,General,Walker,England,95
+england_slovenia,22,0,22,"It must be a yellow card. It is. Erik Janza (Slovenia) receives the caution after an awful tackle.",key_event,Yellow Card,Janza,Slovenia,102
+england_slovenia,22,0,22,"Erik Janza (Slovenia) will miss the next game because of that yellow card.",general,General,Janza,Slovenia,71
+england_slovenia,24,0,24,"Jude Bellingham (England) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders.",general,General,Bellingham,England,149
+england_slovenia,27,0,27,"Jan Mlakar (Slovenia) commits a rough challenge and Clement Turpin blows his whistle for a foul.",general,General,Mlakar,Slovenia,102
+england_slovenia,27,0,27,"Phil Foden (England) plays a through ball but overhits it.",general,General,Foden,England,60
+england_slovenia,30,0,30,"Harry Kane (England) receives a good pass and from just outside the box he unleashes a promising strike, but the shot is blocked by the defender.",key_event,Shot,Kane,England,151
+england_slovenia,30,0,30,"A cross into the box from Phil Foden (England) is cleared.",general,General,Foden,England,59
+england_slovenia,30,0,30,"Kieran Trippier (England) is heading toward the corner flag to take the set piece.",general,Corner,Trippier,England,82
+england_slovenia,31,0,31,"A snap shot by Harry Kane (England) from mid-range towards the middle of the goal catches Jan Oblak flat footed, but he somehow recovers and makes a brilliant save.",key_event,Save,"Kane, Oblak",England,174
+england_slovenia,32,0,32,"Andraz Sporar (Slovenia) receives a pass and fires a shot in from long range, but it's blocked.",key_event,Shot,Sporar,Slovenia,97
+england_slovenia,34,0,34,"Dangerous play by Jaka Bijol (Slovenia). Clement Turpin blows his whistle for a foul.",general,General,Bijol,Slovenia,92
+england_slovenia,35,0,35,"Phil Foden (England) fires the ball from the free kick, directing it towards the top left corner, but the goalkeeper stretches to punch the ball away. What an excellent save.",key_event,Save,"Foden, Oblak",England,181
+england_slovenia,37,0,37,"A pass into the penalty area from Zan Karnicnik (Slovenia) is intercepted by the defence.",general,General,Karnicnik,Slovenia,93
+england_slovenia,38,0,38,"Slovenia keep possession of the ball with some short passes, waiting for the moment to hit the opposition swiftly on the break.",general,General,,Slovenia,133
+england_slovenia,38,0,38,"Clement Turpin blows his whistle and it's Jaka Bijol (Slovenia) who is penalised for an offensive foul. Good decision by the referee.",general,General,Bijol,Slovenia,140
+england_slovenia,41,0,41,"Kieran Trippier (England) clips an inviting cross into the box, but there's no one in a position to get on the end of it.",general,General,Trippier,England,127
+england_slovenia,43,0,43,"The corner from Kieran Trippier (England) is hurriedly cleared.",general,Corner,Trippier,England,62
+england_slovenia,43,0,43,"Declan Rice (England) fouls an opponent during an attacking move.",general,General,Rice,England,66
+england_slovenia,45,1,45+1,"Clement Turpin blows his whistle to signal the end of the first-half action.",general,Half Time,,Both,79
+england_slovenia,46,0,46,"The second half has just started.",key_event,Kick Off,,Both,35
+england_slovenia,46,0,46,"There will be a change on the pitch for the second half. Gareth Southgate probably wasn't satisfied with the performance of Conor Gallagher. He is replaced by Kobbie Mainoo (England).",key_event,Substitution,"Gallagher, Mainoo, Southgate",England,187
+england_slovenia,49,0,49,"Some neat passing and movement from England as they ping around some short passes in order to create a new attacking opportunity.",general,General,,England,138
+england_slovenia,49,0,49,"Jude Bellingham (England) races towards goal but the defender gets back well to make a challenge.",general,General,Bellingham,England,100
+england_slovenia,49,0,49,"Kieran Trippier (England) decides to take a short corner instead of crossing into the box.",general,Corner,Trippier,England,89
+england_slovenia,50,0,50,"Harry Kane (England) tries to send the ball in front of the goal, but the opposition's defence averts the threat.",general,General,Kane,England,118
+england_slovenia,51,0,51,"Kieran Trippier (England) goes over to take a corner kick after one of the defenders makes a good clearance.",general,Corner,Trippier,England,115
+england_slovenia,51,0,51,"Phil Foden (England) has a snap shot at goal from distance after a rebound falls his way, but the effort is wild and flies miles wide of the right post. The ball goes out of play and Slovenia will have a goal kick.",key_event,Shot,Foden,England,215
+england_slovenia,53,0,53,"Kyle Walker (England) sends over a cross, but he can't find any teammate inside the box. Poor delivery.",general,General,Walker,England,109
+england_slovenia,55,0,55,"The attendance is 41536.",general,General,,Both,27
+england_slovenia,56,0,56,"A lofted cross from Jude Bellingham (England) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",general,General,Bellingham,England,143
+england_slovenia,56,0,56,"Vanja Drkusic (Slovenia) commits a rough foul. Clement Turpin stops the game and makes a call.",general,General,Drkusic,Slovenia,96
+england_slovenia,57,0,57,"The free kick from long range, taken by England, is intercepted by one of the defenders.",general,Free Kick,,England,91
+england_slovenia,57,0,57,"Bukayo Saka (England) sends the ball into the box from the side of the pitch, but his cross is blocked.",general,General,Saka,England,103
+england_slovenia,58,0,58,"Phil Foden (England) will take a corner kick.",general,Corner,Foden,England,47
+england_slovenia,58,0,58,"John Stones (England) rose high to meet a perfectly taken corner kick and attempted to steer a fine header from inside the box towards the left side of the goal. Nobody knows what would have happened if one of the defending players hadn't pulled off a brilliant intervention to block the effort.",key_event,Shot,Stones,England,283
+england_slovenia,58,0,58,"The foul by Bukayo Saka (England) was seen by Clement Turpin who didn't hesitate to blow the whistle.",general,General,Saka,England,108
+england_slovenia,60,0,60,"The cross into the penalty area from Kobbie Mainoo (England) needed to be more accurate in order to create a goal-scoring opportunity for his team.",general,General,Mainoo,England,148
+england_slovenia,61,0,61,"Kyle Walker (England) skips past his man but can't keep the ball in play.",general,General,Walker,England,73
+england_slovenia,62,0,62,"Bukayo Saka (England) commits a foul after unfairly battling his opponent for the ball.",general,General,Saka,England,90
+england_slovenia,64,0,64,"There's a distinct lack of options for Adam Gnezda Cerin (Slovenia), so he drills a shot from long range that curls well wide of the left post.",key_event,Shot,Gnezda Cerin,Slovenia,150
+england_slovenia,67,0,67,"The percentage of ball possession is - 75:25.",general,General,,Both,49
+england_slovenia,68,0,68,"Marc Guehi (England) is booked after bringing down an opponent. Clement Turpin had an easy-decision to make.",key_event,Yellow Card,Guehi,England,115
+england_slovenia,70,0,70,"Erik Janza (Slovenia) sends in a cross from a long-range free kick. However, his effort lacks accuracy and the ball sails off the pitch.",general,Free Kick,Janza,Slovenia,141
+england_slovenia,71,0,71,"The referee signals that it is time for a substitution and Cole Palmer (England) is coming onto the pitch as Bukayo Saka cannot continue after picking up an injury.",key_event,Substitution,"Saka, Palmer",England,172
+england_slovenia,72,0,72,"This yellow card was deserved. The tackle by Jaka Bijol (Slovenia) was quite harsh and Clement Turpin didn't hesitate to show him a yellow card.",key_event,Yellow Card,Bijol,Slovenia,155
+england_slovenia,74,0,74,"Kieran Trippier (England) takes the ball and sets it for the free kick.",general,Free Kick,Trippier,England,69
+england_slovenia,75,0,75,"Declan Rice (England) controls a poor pass, breaks past an opponent then slices an effort from mid-range well wide of the right post.",key_event,Shot,Rice,England,139
+england_slovenia,75,0,75,"Benjamin Sesko comes off the pitch to be replaced by Josip Ilicic (Slovenia).",key_event,Substitution,"Sesko, Ilicic",Slovenia,78
+england_slovenia,77,0,77,"Kobbie Mainoo (England) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Mainoo,England,165
+england_slovenia,77,0,77,"Declan Rice (England) commits a rough challenge and Clement Turpin blows his whistle for an infringement.",general,General,Rice,England,108
+england_slovenia,77,0,77,"The referee shows a yellow card to Phil Foden (England). No wonder. A clear yellow for bad language.",key_event,Yellow Card,Foden,England,103
+england_slovenia,79,0,79,"Phil Foden (England) will try to find the head of one of his teammates from a corner kick.",general,Corner,Foden,England,88
+england_slovenia,79,0,79,"Harry Kane (England) commits a foul and Clement Turpin immediately signals a free kick.",general,General,Kane,England,85
+england_slovenia,82,0,82,"Cole Palmer (England) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence.",general,General,Palmer,England,159
+england_slovenia,83,0,83,"Phil Foden (England) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",key_event,Shot,Foden,England,141
+england_slovenia,84,0,84,"A cross from Cole Palmer (England) fails to reach the box as the defence clears the ball away to safety.",general,General,Palmer,England,109
+england_slovenia,84,0,84,"Cole Palmer (England) should know this behaviour is beyond the rules. He was too careless with his challenge and left Clement Turpin no option but to blow his whistle.",general,General,Palmer,England,172
+england_slovenia,84,0,84,"Here's the change. Kieran Trippier leaves the pitch and Trent Alexander-Arnold (England) comes on as a substitute.",key_event,Substitution,"Trippier, Alexander-Arnold",England,119
+england_slovenia,85,0,85,"Josip Ilicic (Slovenia) makes a rough challenge and the referee blows for a foul.",general,General,Ilicic,Slovenia,85
+england_slovenia,86,0,86,"Matjaz Kek has decided to substitute Jan Mlakar and he is replaced by Jon Gorenc Stankovic (Slovenia).",key_event,Substitution,"Mlakar, Stankovic, Kek",Slovenia,104
+england_slovenia,86,0,86,"Matjaz Kek has decided to make a change. Zan Celar (Slovenia) replaces Andraz Sporar.",key_event,Substitution,"Sporar, Celar, Kek",Slovenia,90
+england_slovenia,88,0,88,"It looks like Erik Janza (Slovenia) saw red with that tackle. Clement Turpin won't tolerate such behaviour on the pitch and blows for a foul.",general,General,Janza,Slovenia,151
+england_slovenia,88,0,88,"Phil Foden (England) takes the free kick but it is cleared by the first defender.",general,Free Kick,Foden,England,83
+england_slovenia,89,0,89,"Kobbie Mainoo (England) makes a strong challenge and Clement Turpin blows for a foul.",general,General,Mainoo,England,88
+england_slovenia,89,0,89,"Today's match ends for Phil Foden who will be replaced by Anthony Gordon (England).",key_event,Substitution,"Foden, Gordon",England,86
+england_slovenia,90,0,90,"4 additional min. will be played.",general,General,,Both,38
+england_slovenia,90,1,90+1,"Matjaz Kek prepares a substitution. Erik Janza is replaced by Jure Balkovec (Slovenia).",key_event,Substitution,"Janza, Balkovec, Kek",Slovenia,91
+england_slovenia,90,2,90+2,"Cole Palmer (England) beats a couple of players and hammers in a low shot from mid-range towards the middle of the goal. The keeper is caught unaware but still pulls off a great save to deny the effort.",key_event,Save,"Palmer, Oblak",England,198
+england_slovenia,90,4,90+4,"Trent Alexander-Arnold (England) collects a pass, sees the keeper off his line and shoots from long range, but the effort is disappointing and goes high over the bar.",key_event,Shot,Alexander-Arnold,England,172
+england_slovenia,90,5,90+5,"Clement Turpin is looking at his watch and immediately ends this match.",key_event,Full Time,,Both,73
+

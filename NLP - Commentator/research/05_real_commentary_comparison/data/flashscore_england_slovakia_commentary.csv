@@ -1,0 +1,140 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+england_slovakia,0,0,0,"Halil Umut Meler is the one to supervise the game today.",general,General,Meler,Both,57
+england_slovakia,0,0,0,"The players are out and the match is about to start. Slovakia will have the kick-off.",general,Kick Off,,Slovakia,81
+england_slovakia,1,0,1,"Here we go, today's match is starting right now.",key_event,Kick Off,,Both,48
+england_slovakia,3,0,3,"The England players are exchanging some short passes.",general,General,,England,54
+england_slovakia,3,0,3,"Marc Guehi (England) is booked after bringing down an opponent. Halil Umut Meler had an easy-decision to make.",key_event,Yellow Card,Guehi,England,115
+england_slovakia,3,0,3,"Marc Guehi (England) will miss the next game.",general,General,Guehi,England,46
+england_slovakia,5,0,5,"David Strelec (Slovakia) wins the ball from the resulting free kick but scuffs his shot well wide of the left post!",key_event,Shot,Strelec,Slovakia,116
+england_slovakia,5,0,5,"A sweet pass inside the box gives David Hancko (Slovakia) time to measure a shot, but it's slightly mishit and goes just wide of the right post. That really was a great chance!",key_event,Shot,Hancko,Slovakia,180
+england_slovakia,7,0,7,"This yellow card was deserved. The tackle by Bukayo Saka (England) was quite harsh and Halil Umut Meler didn't hesitate to show him a yellow card.",key_event,Yellow Card,Saka,England,155
+england_slovakia,8,0,8,"Lukas Haraslin (Slovakia) unleashes a powerful shot towards goal, but it is bravely blocked by a self-sacrificing defender.",key_event,Shot,Haraslin,Slovakia,127
+england_slovakia,8,0,8,"Juraj Kucka (Slovakia) plays in a hopeful cross, but it doesn't find its way to any of the attacking players.",general,General,Kucka,Slovakia,119
+england_slovakia,9,0,9,"Kieran Trippier (England) has an effort from the edge of the area, but he skies the ball over the top.",key_event,Shot,Trippier,England,103
+england_slovakia,11,0,11,"Kyle Walker (England) produces a dangerous lofted cross into the box which is intercepted.",general,General,Walker,England,92
+england_slovakia,11,0,11,"Declan Rice (England) plays a through ball but overhits it. The ball is off of the pitch and it's a goal kick for Slovakia.",general,General,Rice,England,126
+england_slovakia,12,0,12,"Lukas Haraslin (Slovakia) evades several challenges inside the box and fires a shot in on goal, but that's a great block by the defender to stop an almost certain goal.",key_event,Shot,Haraslin,Slovakia,170
+england_slovakia,13,0,13,"Dangerous play by Jude Bellingham (England). Halil Umut Meler blows his whistle for a foul.",general,General,Bellingham,England,96
+england_slovakia,13,0,13,"The free kick is delivered by Lukas Haraslin (Slovakia) but it's not one of his best and is easily cleared.",general,Free Kick,Haraslin,Slovakia,115
+england_slovakia,13,0,13,"Juraj Kucka (Slovakia) has tested the patience of referee Halil Umut Meler and goes into the book for a previous late challenge.",key_event,Yellow Card,Kucka,Slovakia,127
+england_slovakia,14,0,14,"A lofted cross from Phil Foden (England) is unsuccessful as the opponent's defence quickly clears the ball out of the penalty area.",general,General,Foden,England,142
+england_slovakia,15,0,15,"Juraj Kucka (Slovakia) was too fierce in his attempt to get the ball from his opponent and Halil Umut Meler blows for a foul.",general,General,Kucka,Slovakia,131
+england_slovakia,16,0,16,"The England players are exchanging some short passes to try and open up the opposition's defence and hit them swiftly on the break.",general,General,,England,138
+england_slovakia,16,0,16,"John Stones (England) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",general,General,Stones,England,131
+england_slovakia,17,0,17,"Halil Umut Meler shows a yellow card to Jude Bellingham (England) for his blatant foul.",key_event,Yellow Card,Bellingham,England,84
+england_slovakia,20,0,20,"Declan Rice (England) whips the ball in, but it fails to reach any of his teammates as the opposition's defence averts the threat.",general,General,Rice,England,136
+england_slovakia,21,0,21,"71:29 – the latest ball possession ratio.",general,General,,Both,42
+england_slovakia,23,0,23,"Phil Foden (England) goes down under a challenge in the box, but the ref immediately waves away the appeals from all players.",general,General,Foden,England,133
+england_slovakia,23,0,23,"Harry Kane (England) meets a cross inside the box, but his header is blocked by an opposing player. The referee and his assistant both point at the corner flag. England will have an opportunity to threaten the opposition's goal.",general,Corner,Kane,England,221
+england_slovakia,24,0,24,"Kieran Trippier (England) takes the corner with a short pass.",general,Corner,Trippier,England,60
+england_slovakia,24,0,24,"Kobbie Mainoo (England) covers his face with his hands after wasting a promising chance. He takes the rebound on the edge of the box but blazes the ball high over the crossbar.",key_event,Shot,Mainoo,England,178
+england_slovakia,25,0,25,"Fantastic team goal! Ivan Schranz (Slovakia) was set free in the area by David Strelec and he made no mistake with a lovely finish into the bottom left corner. 0:1.",key_event,Goal,"Schranz, Strelec",Slovakia,169
+england_slovakia,25,0,25,"Marc Guehi (England) is having a really tough time right now. We are about to find out how serious his injury is.",general,General,Guehi,England,119
+england_slovakia,29,0,29,"Marc Guehi (England) seems to have picked up a minor injury, but it looks like he will be able to continue playing.",general,General,Guehi,England,117
+england_slovakia,32,0,32,"Bukayo Saka (England) fails to pick a body out in the box with an over-hit cross to the back post.",general,General,Saka,England,103
+england_slovakia,32,0,32,"Harry Kane (England) fizzes over a cross which doesn't cause any problems.",general,General,Kane,England,74
+england_slovakia,34,0,34,"Harry Kane (England) plays a through ball which would have led to a great opportunity, if it hadn't been stopped by the defence.",general,General,Kane,England,137
+england_slovakia,34,0,34,"Jude Bellingham (England) looks to break free, but an opposing player clears the ball away. England have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",general,Corner,Bellingham,England,197
+england_slovakia,35,0,35,"Kieran Trippier (England) puts a dangerous cross into the box, but the corner is cleared by the first man.",general,Corner,Trippier,England,112
+england_slovakia,35,0,35,"Kieran Trippier (England) will take a corner kick.",general,Corner,Trippier,England,48
+england_slovakia,35,0,35,"The foul by Marc Guehi (England) was seen by Halil Umut Meler who didn't hesitate to blow the whistle.",general,General,Guehi,England,109
+england_slovakia,38,0,38,"Ondrej Duda (Slovakia) clearly holds his opponent to prevent him from getting the ball and the referee blows his whistle for a foul.",general,General,Duda,Slovakia,137
+england_slovakia,39,0,39,"It seemed like Phil Foden (England) was going to take a quick free kick, but instead he is going to send the ball inside the penalty box for his teammates.",general,Free Kick,Foden,England,165
+england_slovakia,40,0,40,"Looks like Denis Vavro (Slovakia) is struggling after picking up a knock. Hopefully he can run it off.",general,General,Vavro,Slovakia,103
+england_slovakia,41,0,41,"Denis Vavro (Slovakia) seems to be alright and is okay to carry on.",general,General,Vavro,Slovakia,67
+england_slovakia,42,0,42,"Phil Foden (England) attempts to slip the ball through the defence, but is unable to find any of his teammates.",general,General,Foden,England,121
+england_slovakia,44,0,44,"A clumsy foul by Ondrej Duda (Slovakia) and Halil Umut Meler blows his whistle.",general,General,Duda,Slovakia,81
+england_slovakia,45,0,45,"Halil Umut Meler interrupts the game. One of the players from Slovakia won the ball, but his effort is adjudged unfair.",general,General,,Slovakia,125
+england_slovakia,45,0,45,"There will be a minimum of 3 min. of added time.",general,General,,Both,54
+england_slovakia,45,1,45+1,"Milan Skriniar (Slovakia) is booked after bringing down an opponent. Halil Umut Meler had an easy-decision to make.",key_event,Yellow Card,Skriniar,Slovakia,115
+england_slovakia,45,2,45+2,"The referee blows his whistle as David Hancko (Slovakia) was too aggressive in his challenge.",general,General,Hancko,Slovakia,94
+england_slovakia,45,2,45+2,"The resulting free kick from Phil Foden (England) ends up in the gloves of the keeper.",general,Free Kick,Foden,England,89
+england_slovakia,45,3,45+3,"Fantastic run and shot from mid-range by Kobbie Mainoo (England), but a defender denies him an almost certain goal by getting his body in the way. The referee blows his whistle, England are awarded a corner kick.",general,Corner,Mainoo,England,212
+england_slovakia,45,3,45+3,"The corner by Phil Foden (England) lacks accuracy as it's hit with too much power.",general,Corner,Foden,England,85
+england_slovakia,45,3,45+3,"Bukayo Saka (England) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders.",key_event,Shot,Saka,England,162
+england_slovakia,45,4,45+4,"There's an opportunity for Phil Foden (England) to deliver the ball into the box from a corner.",general,Corner,Foden,England,97
+england_slovakia,45,5,45+5,"The first half of today's match has just finished.",general,Half Time,,Both,54
+england_slovakia,46,0,46,"The players are back out on the pitch following the half-time break and the second half is about to start.",key_event,Kick Off,,Both,110
+england_slovakia,48,0,48,"0:1 - the latest stats for both teams in respect of shots on target.",general,General,,Both,75
+england_slovakia,50,0,50,"Goal! Phil Foden (England) finishes from close range with an easy finish and he makes it 1:1. He was ably assisted there by Kieran Trippier.",key_event,Disallowed Goal,"Foden, Trippier",England,152
+england_slovakia,51,0,51,"Houston, we have a problem! The referee has indicated that there will be a VAR review of the goal to look at a possible offside. The England players aren't happy.",general,VAR,,England,168
+england_slovakia,51,0,51,"The referee looks satisfied after his VAR review and duly disallows the goal for offside. The England players look gutted.",key_event,VAR,,England,129
+england_slovakia,52,0,52,"Harry Kane (England) displays brilliant individual ability, gets inside the box and pulls the trigger. His promising effort is blocked by one of the defenders.",key_event,Shot,Kane,England,162
+england_slovakia,52,0,52,"England fail to score from a corner as Martin Dubravka (Slovakia) leaps to collect the ball.",general,Corner,Dubravka,England,97
+england_slovakia,53,0,53,"Bukayo Saka (England) delivers a low pass into the box which is intercepted.",general,General,Saka,England,77
+england_slovakia,54,0,54,"Lukas Haraslin (Slovakia) fouls an opponent. At least that's what referee Halil Umut Meler signals.",general,General,Haraslin,Slovakia,102
+england_slovakia,55,0,55,"What a great effort! David Strelec (Slovakia) decides to unleash a long-range shot. Despite hitting it very well, it scorches inches wide of the right post. We could have witnessed a magnificent goal.",key_event,Shot,Strelec,Slovakia,205
+england_slovakia,57,0,57,"Phil Foden (England) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",general,General,Foden,England,134
+england_slovakia,59,0,59,"An attempted cross from Kieran Trippier (England) is cleared.",general,General,Trippier,England,59
+england_slovakia,59,0,59,"Halil Umut Meler blows the whistle, Juraj Kucka (Slovakia) is penalised for a foul.",general,General,Kucka,Slovakia,85
+england_slovakia,61,0,61,"Phil Foden (England) takes the free-kick from mid-range but it's blocked by the defensive wall.",general,Free Kick,Foden,England,96
+england_slovakia,61,0,61,"Substitution. Tomas Suslov (Slovakia) on for Lukas Haraslin.",key_event,Substitution,"Haraslin, Suslov",Slovakia,62
+england_slovakia,61,0,61,"Francesco Calzona has decided to make a change. Robert Bozenik (Slovakia) replaces David Strelec.",key_event,Substitution,"Strelec, Bozenik, Calzona",Slovakia,103
+england_slovakia,63,0,63,"Jude Bellingham (England) swings a cross into the box, but it's far too close to Martin Dubravka, who smothers the ball.",general,General,"Bellingham, Dubravka",England,131
+england_slovakia,63,0,63,"Kieran Trippier (England) is asking for medical treatment after picking up an injury.",general,General,Trippier,England,83
+england_slovakia,66,0,66,"Juraj Kucka (Slovakia) commits a rough challenge and Halil Umut Meler blows his whistle for an infringement.",general,General,Kucka,Slovakia,111
+england_slovakia,66,0,66,"Kieran Trippier (England) is being substituted because of an injury. Gareth Southgate sends Cole Palmer on the pitch.",key_event,Substitution,"Trippier, Palmer, Southgate",England,124
+england_slovakia,68,0,68,"Cole Palmer (England) delivers a fine lofted cross into the penalty area, but it's cleared by an opposing player. Now England have a corner.",general,Corner,Palmer,England,144
+england_slovakia,69,0,69,"Phil Foden (England) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",general,Corner,Foden,England,140
+england_slovakia,69,0,69,"Phil Foden (England) put a cross into the box which wasn't a bad decision, but he failed to achieve what he wanted as none of his teammates managed to meet it. The ball goes out of play and Slovakia will have a goal kick.",general,General,Foden,England,220
+england_slovakia,71,0,71,"Kobbie Mainoo (England) sends a cross into the box, but Martin Dubravka comes off his line to gather the ball.",general,General,"Mainoo, Dubravka",England,117
+england_slovakia,72,0,72,"Great teamplay by England as they control the ball with a lot of short passes. Patience is the key if they want to find a gap in the defence to score.",general,General,,England,151
+england_slovakia,73,0,73,"Jude Bellingham (England) swings in a cross, but the ball is cleared to safety by one of the defending players.",general,General,Bellingham,England,122
+england_slovakia,74,0,74,"Tomas Suslov (Slovakia) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch.",general,General,Suslov,Slovakia,149
+england_slovakia,76,0,76,"The up-to-date shots on target statistics – 0:1.",general,General,,Both,53
+england_slovakia,77,0,77,"Tomas Suslov (Slovakia) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",general,General,Suslov,Slovakia,127
+england_slovakia,77,0,77,"Peter Pekarik (Slovakia) has tested the patience of referee Halil Umut Meler and goes into the book for a previous late challenge.",key_event,Yellow Card,Pekarik,Slovakia,129
+england_slovakia,78,0,78,"The attendance is 47244.",general,General,,Both,27
+england_slovakia,78,0,78,"Phil Foden finds the head of Harry Kane (England) with a clever free kick, and he crashes in a powerful close-range header at goal that just flies past the left post. Unlucky!",key_event,Shot,"Foden, Kane",England,182
+england_slovakia,79,0,79,"Jude Bellingham (England) sends a teasing cross into the area, but Martin Dubravka intercepts the ball.",general,General,"Bellingham, Dubravka",England,108
+england_slovakia,80,0,80,"Declan Rice (England) whips the ball into the penalty area, but one of the defenders is alert and spanks it away.",general,General,Rice,England,118
+england_slovakia,81,0,81,"POST! Declan Rice (England) unleashes a thunderous effort from the edge of the box and the ball crashes against the left post. What a strike that was!",key_event,Hit Post,Rice,England,163
+england_slovakia,81,0,81,"Harry Kane (England) is first to the rebound inside the box but sends his effort high over the bar.",key_event,Shot,Kane,England,105
+england_slovakia,81,0,81,"Here is a change. Juraj Kucka is going off and Francesco Calzona gives the last tactical orders to Matus Bero (Slovakia).",key_event,Substitution,"Kucka, Bero, Calzona",Slovakia,121
+england_slovakia,81,0,81,"Here's the change. Ondrej Duda leaves the pitch and Laszlo Benes (Slovakia) comes on as a substitute.",key_event,Substitution,"Duda, Benes",Slovakia,103
+england_slovakia,84,0,84,"A substitution has been made. Kobbie Mainoo goes off and Eberechi Eze (England) comes on.",key_event,Substitution,"Mainoo, Eze",England,91
+england_slovakia,85,0,85,"Tomas Suslov (Slovakia) escapes without any punishment from the referee after using excessive force to foul his opponent.",general,General,Suslov,Slovakia,132
+england_slovakia,86,0,86,"Phil Foden (England) attempts to find one of his teammates with a ball from a free kick outside the box. The goalkeeper climbs high above all the players in the box to intercept the cross and snuff out the opportunity.",general,Free Kick,Foden,England,210
+england_slovakia,87,0,87,"Cole Palmer (England) sends a lofted cross into the box which is headed clear.",general,General,Palmer,England,79
+england_slovakia,87,0,87,"Jordan Pickford blocks Stanislav Lobotka (Slovakia)'s effort from the edge of the box.",key_event,Save,"Pickford, Lobotka",Slovakia,84
+england_slovakia,88,0,88,"Phil Foden (England) sends a sweet pass into the penalty area, but one of the defenders averts the danger.",general,General,Foden,England,109
+england_slovakia,88,0,88,"Phil Foden (England) takes the ball to the corner flag and sends it into the box.",general,General,Foden,England,80
+england_slovakia,89,0,89,"Eberechi Eze (England) was too forceful with his tackle and Halil Umut Meler interrupted the game to signal a free kick.",general,General,Eze,England,124
+england_slovakia,90,0,90,"We will have 6 min. of added time.",general,General,,Both,38
+england_slovakia,90,1,90+1,"Eberechi Eze (England) flights in the cross, but the defender is alert and clears to safety. England will take a corner kick.",general,Corner,Eze,England,134
+england_slovakia,90,1,90+1,"Eberechi Eze (England) swings in a cross from the corner, but Martin Dubravka reads it well and gathers the ball.",general,Corner,"Eze, Dubravka",England,124
+england_slovakia,90,3,90+3,"Substitution. Ivan Schranz walks off the pitch and Norbert Gyomber (Slovakia) comes on as a substitute.",key_event,Substitution,"Schranz, Gyomber",Slovakia,111
+england_slovakia,90,4,90+4,"Gareth Southgate has decided to introduce fresh legs, with Ivan Toney (England) replacing Phil Foden.",key_event,Substitution,"Foden, Toney, Southgate",England,105
+england_slovakia,90,5,90+5,"Kyle Walker (England) has the ability to send the ball deep into the penalty area from throw-ins and it can lead to very promising situations for his team.",general,General,Walker,England,162
+england_slovakia,90,5,90+5,"What a GOAL! Jude Bellingham (England) connects perfectly with the ball in the box to score with a wonderful scissor kick. It's now 1:1.",key_event,Goal,Bellingham,England,142
+england_slovakia,90,8,90+8,"The referee blows his whistle to signal the end of the second half, with no clear winner in the 90 minutes.",general,Full Time,,Both,111
+england_slovakia,91,0,91,"Referee Halil Umut Meler has started the first period of extra time.",key_event,Extra Time Start,,Both,70
+england_slovakia,91,0,91,"It seemed like Cole Palmer (England) was going to take a quick free kick, but instead he is going to send the ball inside the penalty box for his teammates.",general,Free Kick,Palmer,England,165
+england_slovakia,91,0,91,"Goal! Nice headed pass by Ivan Toney to Harry Kane (England), who latches on to it and puts the ball into the back of the net with a fine header. 2:1.",key_event,Goal,"Toney, Kane",England,163
+england_slovakia,95,0,95,"Harry Kane (England) makes an overly-aggressive challenge and Halil Umut Meler blows his whistle for a foul.",general,General,Kane,England,109
+england_slovakia,97,0,97,"Norbert Gyomber (Slovakia) gives away a foul for a clumsy challenge. Referee Halil Umut Meler saw the whole situation.",general,General,Gyomber,Slovakia,115
+england_slovakia,100,0,100,"David Hancko (Slovakia) sends a teasing cross into the area, but Jordan Pickford intercepts the ball.",general,General,"Hancko, Pickford",Slovakia,105
+england_slovakia,103,0,103,"The game is interrupted as Peter Pekarik (Slovakia) is flagged offside.",general,Offside,Pekarik,Slovakia,72
+england_slovakia,104,0,104,"Cole Palmer (England) crosses the ball into the box, but one of the defending players averts the threat.",general,General,Palmer,England,108
+england_slovakia,105,0,105,"Halil Umut Meler has a clear sight and sees a foul from Cole Palmer (England).",general,General,Palmer,England,78
+england_slovakia,105,0,105,"Peter Pekarik (Slovakia) pounces on a great cross inside the box, but lashes his powerful first-time shot inches over the bar.",key_event,Shot,Pekarik,Slovakia,140
+england_slovakia,105,0,105,"The fourth official shows 1 min. of added time.",general,General,,Both,54
+england_slovakia,105,1,105+1,"The referee blows his whistle for the end of the first half in extra-time.",general,Half Time Extra,,Both,76
+england_slovakia,106,0,106,"The second period of extra-time has begun. Will the game be decided in the next fifteen minutes or will it be settled by a penalty shootout?",key_event,Extra Time Start,,Both,158
+england_slovakia,106,0,106,"Gareth Southgate decides to make a substitution. Jude Bellingham will be replaced by Ezri Konsa (England).",key_event,Substitution,"Bellingham, Konsa, Southgate",England,107
+england_slovakia,106,0,106,"Conor Gallagher (England) joins the action as a substitute, replacing Harry Kane.",key_event,Substitution,"Kane, Gallagher",England,82
+england_slovakia,108,0,108,"Denis Vavro (Slovakia) is booked after bringing down an opponent. Halil Umut Meler had an easy-decision to make.",key_event,Yellow Card,Vavro,Slovakia,115
+england_slovakia,109,0,109,"The referee signals that it is time for a substitution and Lubomir Tupta (Slovakia) comes onto the pitch so that Peter Pekarik can be given a rest.",key_event,Substitution,"Pekarik, Tupta",Slovakia,145
+england_slovakia,110,0,110,"Rough tackle by Conor Gallagher (England). The referee blows his whistle for a foul.",general,General,Gallagher,England,86
+england_slovakia,110,0,110,"Lubomir Tupta (Slovakia) takes the free kick from mid-range, but he balloons his effort high over the bar. What a miskick!",key_event,Shot,Tupta,Slovakia,129
+england_slovakia,112,0,112,"Matus Bero (Slovakia) sends a lofted cross into the penalty area. Unfortunately for him, the opponent's defence deals with his cross comfortably and intercepts it.",general,General,Bero,Slovakia,167
+england_slovakia,113,0,113,"Tomas Suslov (Slovakia) serves up a nice cross, but the defence clears the danger.",general,General,Suslov,Slovakia,88
+england_slovakia,114,0,114,"Norbert Gyomber (Slovakia) is cautioned and receives a yellow card.",key_event,Yellow Card,Gyomber,Slovakia,63
+england_slovakia,116,0,116,"Laszlo Benes (Slovakia) launches the ball from the resulting corner, but one of the defenders is first to the ball and deals with the threat.",general,Corner,Benes,Slovakia,143
+england_slovakia,118,0,118,"Robert Bozenik (Slovakia) receives a brilliant pass and wastes a big opportunity as his shot from inside the penalty area flies narrowly wide of the right post.",key_event,Shot,Bozenik,Slovakia,162
+england_slovakia,119,0,119,"David Hancko (Slovakia) missed a great opportunity! He jumped for a cross and headed towards goal from the penalty spot, but the ball sailed well wide of the left post!",key_event,Shot,Hancko,Slovakia,174
+england_slovakia,120,0,120,"1 additional min. will be played.",general,General,,Both,37
+england_slovakia,120,1,120+1,"Ivan Toney (England) does well on the edge of the box to find space and powers a shot in on goal that just goes over the bar.",key_event,Shot,Toney,England,135
+england_slovakia,120,2,120+2,"Tomas Suslov (Slovakia) picks up a yellow card.",key_event,Yellow Card,Suslov,Slovakia,47
+england_slovakia,120,2,120+2,"Extra-time is over and the game has ended.",key_event,Full Time,,Both,45
+

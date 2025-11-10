@@ -1,0 +1,158 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+spain_germany,0,0,0,"Anthony Taylor is introduced as the referee for today's match.",general,General,Taylor,Both,64
+spain_germany,0,0,0,"The players are out and the match is about to start. Germany will have the kick-off.",general,Kick Off,,Germany,79
+spain_germany,1,0,1,"The match has just started.",key_event,Kick Off,,Both,28
+spain_germany,2,0,2,"Pedri (Spain) was waiting for the ball on the edge of the box and produced a powerful volley directed to the bottom right corner, but the goalkeeper made an amazing save to deny him.",key_event,Save,Pedri,Spain,186
+spain_germany,2,0,2,"Marc Cucurella (Spain) is having a really tough time right now. We are about to find out how serious his injury is.",general,General,Cucurella,Spain,118
+spain_germany,3,0,3,"Marc Cucurella (Spain) hasn't suffered any serious injury which would see him leave the pitch. He's back in the game now.",general,General,Cucurella,Spain,124
+spain_germany,4,0,4,"The ball is cleared after Leroy Sane (Germany) attempted to dribble past an opposing player.",general,General,Sane,Germany,94
+spain_germany,4,0,4,"Toni Kroos (Germany) brings an opponent down and Anthony Taylor interrupts the game.",general,General,Kroos,Germany,87
+spain_germany,4,0,4,"Pedri (Spain) picks up an injury.",general,General,Pedri,Spain,31
+spain_germany,5,0,5,"Pedri (Spain) has picked up a minor injury, but it looks like he will be able to continue.",general,General,Pedri,Spain,88
+spain_germany,6,0,6,"Anthony Taylor blows for a foul after Ilkay Gundogan (Germany) was too aggressive in the battle for the ball.",general,General,Gundogan,Germany,112
+spain_germany,8,0,8,"Pedri is substituted due to injury. Luis de la Fuente gives a chance to Dani Olmo (Spain).",key_event,Substitution,"Pedri, Olmo, De la Fuente",Spain,92
+spain_germany,9,0,9,"Nico Williams (Spain) looks to break free, but an opposing player clears the ball away.",general,General,Williams,Spain,90
+spain_germany,10,0,10,"The linesman signals that Alvaro Morata (Spain) is offside and the referee confirms the decision.",general,Offside,Morata,Spain,100
+spain_germany,11,0,11,"Half-chance! David Raum (Germany) plays a pass into the box, but Unai Simon reacts well to snuff out the attack.",general,General,"Raum, Simon",Germany,124
+spain_germany,12,0,12,"Nico Williams (Spain) makes a yard for himself on the edge of the box and produces a poor effort that sails miles wide of the left post.",key_event,Shot,Williams,Spain,138
+spain_germany,13,0,13,"Nico Williams (Spain) robs an opponent of the ball and explodes in anger when Anthony Taylor blows for a foul.",general,General,Williams,Spain,114
+spain_germany,13,0,13,"Antonio Rudiger (Germany) makes a bad challenge on his opponent and is booked by the referee.",key_event,Yellow Card,Rudiger,Germany,99
+spain_germany,13,0,13,"Antonio Rudiger (Germany) will miss the next game because of that yellow card.",general,General,Rudiger,Germany,72
+spain_germany,15,0,15,"The free kick from the edge of the box is taken by Lamine Yamal (Spain), who fires in a direct effort just wide of the right post. What a chance!",key_event,Shot,Yamal,Spain,151
+spain_germany,16,0,16,"Alvaro Morata (Spain) takes a shot from the edge of the box, but it's not a big threat for the goalkeeper as his effort is blocked by a defender.",key_event,Shot,Morata,Spain,142
+spain_germany,17,0,17,"Fabian Ruiz (Spain) runs onto a good long pass and tries his luck from the edge of the box, but his effort flies high over the bar.",key_event,Shot,Ruiz,Spain,134
+spain_germany,18,0,18,"Leroy Sane (Germany) tries to send the ball in front of the goal, but the opposition's defence averts the threat.",general,General,Sane,Germany,115
+spain_germany,19,0,19,"Joshua Kimmich (Germany) is flagged for offside.",general,Offside,Kimmich,Germany,48
+spain_germany,20,0,20,"Joshua Kimmich (Germany) slides a pass forward, but one of the defenders cuts it out.",general,General,Kimmich,Germany,85
+spain_germany,21,0,21,"Kai Havertz (Germany) rises above the opponent's defence and heads a precise cross towards the bottom left corner. The effort, however, is blocked by Unai Simon, who pulls off a stunning save!",key_event,Save,"Havertz, Simon",Germany,192
+spain_germany,23,0,23,"Aymeric Laporte (Spain) picks up a pass and unleashes a low shot towards goal, but he can't generate enough power to trouble Manuel Neuer.",key_event,Shot,"Laporte, Neuer",Spain,142
+spain_germany,24,0,24,"Alvaro Morata (Spain) makes a rough challenge and the referee blows for a foul. A free kick is awarded to Germany.",general,Free Kick,Morata,Spain,120
+spain_germany,24,0,24,"Toni Kroos (Germany) takes a direct free kick.",general,Free Kick,Kroos,Germany,45
+spain_germany,26,0,26,"Jonathan Tah (Germany) leaps highest in the penalty area to get on the end of a cross from the free kick, and he produces a promising goal-bound header low towards the middle of the goal, but Unai Simon pulls off a comfortable save to deny him.",key_event,Save,"Tah, Simon",Germany,236
+spain_germany,26,0,26,"The free kick from long range, taken by Germany, is intercepted by one of the defenders. The linesman points to the corner flag, Germany are going to take it.",general,Corner,,Germany,158
+spain_germany,27,0,27,"Toni Kroos (Germany) takes the resulting corner which is well defended.",general,Corner,Kroos,Germany,71
+spain_germany,28,0,28,"This yellow card was deserved. The tackle by David Raum (Germany) was quite harsh and Anthony Taylor didn't hesitate to show him a yellow card.",key_event,Yellow Card,Raum,Germany,148
+spain_germany,28,0,28,"Nico Williams (Spain) takes the free kick but it is cleared by the first defender.",general,Free Kick,Williams,Spain,83
+spain_germany,29,0,29,"Anthony Taylor blows his whistle and it's Dani Olmo (Spain) who is penalised for an offensive foul. Good decision by the referee.",general,General,Olmo,Spain,133
+spain_germany,29,0,29,"Robin Le Normand (Spain) will miss the next game.",general,General,Le Normand,Spain,47
+spain_germany,30,0,30,"Robin Le Normand (Spain) is shown a yellow card for a late challenge.",key_event,Yellow Card,Le Normand,Spain,71
+spain_germany,31,0,31,"Emre Can (Germany) brings his opponent down with a tackle and Anthony Taylor blows his whistle for a foul.",general,General,Can,Germany,111
+spain_germany,32,0,32,"Daniel Carvajal (Spain) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Carvajal,Spain,119
+spain_germany,33,0,33,"Alvaro Morata (Spain) plays a one-two with Dani Olmo, but the move breaks down.",general,General,"Morata, Olmo",Spain,85
+spain_germany,34,0,34,"Half-chance! Joshua Kimmich (Germany) plays a pass into the box, but Unai Simon reacts well to snuff out the attack.",general,General,"Kimmich, Simon",Germany,124
+spain_germany,35,0,35,"Kai Havertz (Germany) latches on to a precise lofted cross inside the box, controls the ball and unleashes a fine strike towards the bottom left corner. His dangerous effort is blocked by Unai Simon, who makes a glorious save!",key_event,Save,"Havertz, Simon",Germany,221
+spain_germany,36,0,36,"Lamine Yamal (Spain) races towards goal but the defender gets back well to make a challenge.",general,General,Yamal,Spain,90
+spain_germany,36,0,36,"Nico Williams (Spain) is forced to stop his attacking move after the linesman signals for offside.",general,Offside,Williams,Spain,100
+spain_germany,37,0,37,"Anthony Taylor blows the whistle, Fabian Ruiz (Spain) is penalised for a foul.",general,General,Ruiz,Spain,78
+spain_germany,38,0,38,"Spain keep possession of the ball by producing short passes and one-two passes from player to player.",general,General,,Spain,106
+spain_germany,39,0,39,"Dani Olmo (Spain) has a sight of goal, fires a shot in from distance towards the bottom left corner and forces a good save out of Manuel Neuer.",key_event,Save,"Olmo, Neuer",Spain,149
+spain_germany,40,0,40,"Anthony Taylor has a clear sight and sees a foul from Rodri (Spain).",general,General,Rodri,Spain,66
+spain_germany,41,0,41,"Toni Kroos (Germany) makes a bad challenge and the referee blows his whistle for a foul.",general,General,Kroos,Germany,88
+spain_germany,42,0,42,"Joshua Kimmich (Germany) attempts to find one of his teammates, but puts far too much on the pass and the chance is gone.",general,General,Kimmich,Germany,123
+spain_germany,43,0,43,"Alvaro Morata (Spain) tries to find Lamine Yamal with a clever through ball from the corner of the box, but the defence is alert to the danger and makes a clearance.",general,General,"Morata, Yamal",Spain,167
+spain_germany,43,0,43,"A pass by Nico Williams (Spain) ends up in no man's land, and the attacking effort comes to an end.",general,General,Williams,Spain,108
+spain_germany,45,0,45,"Lamine Yamal (Spain) delivers a low pass into the box which is intercepted.",general,General,Yamal,Spain,73
+spain_germany,45,0,45,"2 additional min. will be played.",general,General,,Both,37
+spain_germany,45,1,45+1,"Lamine Yamal (Spain) receives a pass, beats an opponent and tries a long-range shot. It's a weak effort low towards the middle of the goal and Manuel Neuer easily makes the save.",key_event,Save,"Yamal, Neuer",Spain,179
+spain_germany,45,2,45+2,"Marc Cucurella (Spain) brings his opponent down. Anthony Taylor has a clear sight of it and blows his whistle for a foul.",general,General,Cucurella,Spain,124
+spain_germany,45,2,45+2,"The referee blows his whistle to end the first half and the players are now heading to their respective dressing rooms.",general,Half Time,,Both,125
+spain_germany,46,0,46,"The players are back out on the pitch following the half-time break and the second half is about to start.",key_event,Kick Off,,Both,110
+spain_germany,46,0,46,"Half-time substitution. Julian Nagelsmann decided to make a change. Leroy Sane (Germany) is replaced by Florian Wirtz.",key_event,Substitution,"Sane, Wirtz, Nagelsmann",Germany,124
+spain_germany,46,0,46,"Half-time substitution. Robin Le Normand (Spain) is replaced by Nacho Fernandez.",key_event,Substitution,"Le Normand, Nacho",Spain,81
+spain_germany,46,0,46,"Here is a change after the half-time break. Emre Can (Germany) is replaced by Robert Andrich.",key_event,Substitution,"Can, Andrich",Germany,95
+spain_germany,47,0,47,"Florian Wirtz (Germany) should know this behaviour is beyond the rules. He was too careless with his challenge and left Anthony Taylor no option but to blow his whistle.",general,General,Wirtz,Germany,168
+spain_germany,47,0,47,"A short pass from Lamine Yamal puts Alvaro Morata (Spain) in the clear inside the box with just the keeper to beat, but his shot sails high over the bar.",key_event,Shot,"Yamal, Morata",Spain,162
+spain_germany,49,0,49,"Robert Andrich (Germany) watches the ball all the way and connects well with a volley on the edge of the box, but sends the effort miles past the left post.",key_event,Shot,Andrich,Germany,158
+spain_germany,50,0,50,"Daniel Carvajal (Spain) knocks his opponent down with an over-the-top tackle.",general,General,Carvajal,Spain,79
+spain_germany,51,0,51,"Jonathan Tah (Germany) makes a rough challenge and Anthony Taylor blows his whistle for a foul.",general,General,Tah,Germany,94
+spain_germany,51,0,51,"It's a goal! Dani Olmo (Spain) shows off his superb ability as he volleys the ball from inside the box into the bottom left corner. The assist goes to Lamine Yamal and the score changes to 1:0.",key_event,Goal,"Olmo, Yamal",Spain,198
+spain_germany,53,0,53,"David Raum (Germany) attempts to find his teammate with a final pass from outside of the box, but one of the defenders clears the ball to safety.",general,General,Raum,Germany,145
+spain_germany,54,0,54,"Florian Wirtz almost gets into in a promising position, but the through ball by Ilkay Gundogan (Germany) from just inside the box is intercepted by one of the defending players.",general,General,"Wirtz, Gundogan",Germany,174
+spain_germany,55,0,55,"Florian Wirtz (Germany) produces a dangerous low pass into the penalty area, but the defence manage to cut it out.",general,General,Wirtz,Germany,115
+spain_germany,56,0,56,"Robert Andrich (Germany) is booked after bringing down an opponent. Anthony Taylor had an easy-decision to make.",key_event,Yellow Card,Andrich,Germany,114
+spain_germany,56,0,56,"Robert Andrich (Germany) will miss the next game.",general,General,Andrich,Germany,47
+spain_germany,57,0,57,"Substitution. Maximilian Mittelstadt (Germany) on for David Raum.",key_event,Substitution,"Raum, Mittelstadt",Germany,66
+spain_germany,57,0,57,"Julian Nagelsmann prepares a substitution. Ilkay Gundogan is replaced by Niclas Fullkrug (Germany).",key_event,Substitution,"Gundogan, Fullkrug, Nagelsmann",Germany,96
+spain_germany,58,0,58,"Dani Olmo (Spain) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort.",general,General,Olmo,Spain,160
+spain_germany,59,0,59,"The attendance is 54000.",general,General,,Both,27
+spain_germany,60,0,60,"Maximilian Mittelstadt (Germany) sends a pass into the box, but his attempt is thwarted and cleared.",general,General,Mittelstadt,Germany,105
+spain_germany,60,0,60,"Florian Wirtz (Germany) blasts the ball from just outside the box, but his attempt is blocked by the defender. The ball is out of play. A goal-scoring opportunity from a corner for Germany.",general,Corner,Wirtz,Germany,178
+spain_germany,60,0,60,"A dangerous looking corner kick from Toni Kroos (Germany) is cleared to safety by the defence.",general,Corner,Kroos,Germany,96
+spain_germany,61,0,61,"Florian Wirtz (Germany) attempts to slip the ball through the defence, but is unable to find any of his teammates.",general,General,Wirtz,Germany,118
+spain_germany,62,0,62,"Joshua Kimmich (Germany) tries to slide the ball through to a teammate but it's well blocked by a defender. The ball has crossed the sideline. Germany are taking a throw-in.",general,General,Kimmich,Germany,166
+spain_germany,63,0,63,"The substitution is prepared. Ferran Torres (Spain) joins the action as a substitute, replacing Lamine Yamal.",key_event,Substitution,"Yamal, Torres",Spain,116
+spain_germany,63,0,63,"Toni Kroos (Germany) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",general,Corner,Kroos,Germany,122
+spain_germany,64,0,64,"The corner kick picks out Niclas Fullkrug (Germany) free in the box, but his header from close in lacks control and balloons high over the bar.",key_event,Shot,Fullkrug,Germany,149
+spain_germany,65,0,65,"Antonio Rudiger (Germany) sends a long ball in, but Unai Simon comfortably gathers the ball.",general,General,"Rudiger, Simon",Germany,94
+spain_germany,65,0,65,"Jamal Musiala (Germany) trips an opposition player and Anthony Taylor signals a foul.",general,General,Musiala,Germany,87
+spain_germany,66,0,66,"Toni Kroos (Germany) commits a rough challenge and Anthony Taylor blows his whistle for a foul.",general,General,Kroos,Germany,96
+spain_germany,66,0,66,"Niclas Fullkrug nearly gets in a one-on-one with the goalkeeper after a defence-splitting pass from Kai Havertz (Germany), but one of the defenders makes a clearance to snuff out the chance.",general,General,"Fullkrug, Havertz",Germany,187
+spain_germany,67,0,67,"Toni Kroos (Germany) goes into the book for a horrible tackle. A yellow card is necessary in this case.",key_event,Yellow Card,Kroos,Germany,101
+spain_germany,69,0,69,"A big opportunity is wasted by Robert Andrich (Germany), who makes a yard for himself and produces a mid-range rocket of a shot towards the bottom right corner. Unfortunately for him, Unai Simon pulls off a fantastic save to stop the effort.",key_event,Save,"Andrich, Simon",Germany,226
+spain_germany,71,0,71,"Wow, what an escape. Kai Havertz (Germany) has an effort from inside the box but it's brilliantly blocked.",key_event,Shot,Havertz,Germany,111
+spain_germany,72,0,72,"Antonio Rudiger does well to cross from a difficult angle and find Niclas Fullkrug (Germany) on the edge of the six-yard box, but his header slips well wide of the right post.",key_event,Shot,"Rudiger, Fullkrug",Germany,178
+spain_germany,73,0,73,"Maximilian Mittelstadt (Germany) was too forceful with his tackle and Anthony Taylor interrupted the game to signal a free kick.",general,Free Kick,Mittelstadt,Germany,128
+spain_germany,73,0,73,"Maximilian Mittelstadt (Germany) is yellow-carded for breaking the rules of the game.",key_event,Yellow Card,Mittelstadt,Germany,81
+spain_germany,73,0,73,"Maximilian Mittelstadt (Germany) will miss the next game.",general,General,Mittelstadt,Germany,51
+spain_germany,74,0,74,"Ferran Torres (Spain) has tested the patience of referee Anthony Taylor and goes into the book for a previous late challenge.",key_event,Yellow Card,Torres,Spain,123
+spain_germany,77,0,77,"Niclas Fullkrug (Germany) wasted a clear opportunity. He fired a first-time shot from point-blank range, but it rattled the right post.",key_event,Hit Post,Fullkrug,Germany,139
+spain_germany,80,0,80,"Luis de la Fuente has decided to introduce fresh legs, with Mikel Merino (Spain) replacing Nico Williams.",key_event,Substitution,"Williams, Merino, De la Fuente",Spain,111
+spain_germany,80,0,80,"Substitution. Alvaro Morata leaves the pitch and is replaced by Mikel Oyarzabal (Spain).",key_event,Substitution,"Morata, Oyarzabal",Spain,88
+spain_germany,80,0,80,"Here is a change. Jonathan Tah is going off and Julian Nagelsmann gives the last tactical orders to Thomas Muller (Germany).",key_event,Substitution,"Tah, Muller, Nagelsmann",Germany,120
+spain_germany,81,0,81,"Kai Havertz (Germany) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",general,General,Havertz,Germany,127
+spain_germany,81,0,81,"Jamal Musiala (Germany) unleashes a shot, but his effort isn't precise at all and it flies well wide of the left post.",key_event,Shot,Musiala,Germany,124
+spain_germany,82,0,82,"Unai Simon (Spain) picks up a yellow card for an infringement.",key_event,Yellow Card,Simon,Spain,63
+spain_germany,82,0,82,"Kai Havertz (Germany) does well on the edge of the box to find space and powers a shot in on goal that just goes over the bar.",key_event,Shot,Havertz,Germany,135
+spain_germany,83,0,83,"Referee Anthony Taylor sees the trip by Thomas Muller (Germany) and doesn't hesitate to blow his whistle.",general,General,Muller,Germany,107
+spain_germany,84,0,84,"Fabian Ruiz (Spain) controls a nice low pass and shoots from just outside the box, but it's a poor effort that flies into the stands. Wasted opportunity!",key_event,Shot,Ruiz,Spain,156
+spain_germany,85,0,85,"The referee blows his whistle as Daniel Carvajal (Spain) was too aggressive in his challenge. Germany have a free kick.",general,Free Kick,Carvajal,Spain,122
+spain_germany,86,0,86,"The foul by Kai Havertz (Germany) was seen by Anthony Taylor who didn't hesitate to blow the whistle.",general,General,Havertz,Germany,103
+spain_germany,87,0,87,"Kai Havertz (Germany) produces a poor pass. He attempts to get the ball into the box but it's hacked away. Now Germany have a corner.",general,Corner,Havertz,Germany,140
+spain_germany,87,0,87,"Toni Kroos (Germany) takes a short corner kick.",general,Corner,Kroos,Germany,48
+spain_germany,88,0,88,"Maximilian Mittelstadt (Germany) fires a shot at goal from a very promising position outside the penalty area, but it is blocked by a self-sacrificing defender.",key_event,Shot,Mittelstadt,Germany,163
+spain_germany,89,0,89,"GOAL! Joshua Kimmich meets a cross inside the box and heads the ball across the goal, where Florian Wirtz (Germany) lurks and pokes it into the back of the net. 1:1.",key_event,Goal,"Kimmich, Wirtz",Germany,171
+spain_germany,89,0,89,"Having seen unsporting behavior, Anthony Taylor shows a yellow card to one of the players sitting on the bench. And Nico Schlotterbeck (Germany) is the recipient.",key_event,Yellow Card,Schlotterbeck,Germany,158
+spain_germany,90,0,90,"4 min. of stoppage-time to be played.",general,General,,Both,40
+spain_germany,90,2,90+2,"Fabian Ruiz (Spain) gives away a foul for a fierce tackle on an opponent.",general,General,Ruiz,Spain,73
+spain_germany,90,3,90+3,"Dangerous play by Ferran Torres (Spain). Anthony Taylor blows his whistle for a foul.",general,General,Torres,Spain,86
+spain_germany,90,4,90+4,"Thomas Muller (Germany) smacks a great volley at goal from inside the box, but sends the effort just wide of the right post.",key_event,Shot,Muller,Germany,130
+spain_germany,90,4,90+4,"The end of the second half.",general,Full Time,,Both,27
+spain_germany,91,0,91,"Full time failed to determine the winner and we needed to wait for extra time. Anthony Taylor starts it right now!",general,Extra Time Start,,Both,121
+spain_germany,91,0,91,"The manager has decided to make a substitution and Kai Havertz walks off the pitch to be replaced by Waldemar Anton (Germany).",key_event,Substitution,"Havertz, Anton",Germany,132
+spain_germany,92,0,92,"Ferran Torres (Spain) climbs highest in the box and sends a header miles wide of the right post. Very poor attempt.",key_event,Shot,Torres,Spain,124
+spain_germany,92,0,92,"Florian Wirtz (Germany) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger. Germany force a corner. They send men into the box.",general,Corner,Wirtz,Germany,215
+spain_germany,92,0,92,"Toni Kroos (Germany) takes the corner kick, but Unai Simon reads it well and stops the effort.",general,Corner,"Kroos, Simon",Germany,96
+spain_germany,94,0,94,"Niclas Fullkrug (Germany) times his run too early and the linesman raises his flag for offside.",general,Offside,Fullkrug,Germany,97
+spain_germany,94,0,94,"Anthony Taylor shows a yellow card to Florian Wirtz (Germany) for his blatant foul.",key_event,Yellow Card,Wirtz,Germany,82
+spain_germany,95,0,95,"Dani Olmo (Spain) plays a through ball but overhits it.",general,General,Olmo,Spain,55
+spain_germany,96,0,96,"Mikel Oyarzabal (Spain) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders.",key_event,Shot,Oyarzabal,Spain,137
+spain_germany,97,0,97,"Dani Olmo (Spain) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being well blocked by one of the defenders.",key_event,Shot,Olmo,Spain,154
+spain_germany,98,0,98,"Florian Wirtz (Germany) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders.",general,General,Wirtz,Germany,143
+spain_germany,100,0,100,"Daniel Carvajal (Spain) is cautioned by the referee.",key_event,Yellow Card,Carvajal,Spain,52
+spain_germany,100,0,100,"Daniel Carvajal (Spain) will miss the next game.",general,General,Carvajal,Spain,47
+spain_germany,101,0,101,"Robert Andrich (Germany) latches onto a lofted pass on the edge of the penalty box and unleashes a volley towards goal, but it goes high over the crossbar.",key_event,Shot,Andrich,Germany,159
+spain_germany,102,0,102,"Fabian Ruiz (Spain) is writhing in pain and can now receive medical treatment after the referee signals for the physio to come onto the pitch.",general,General,Ruiz,Spain,143
+spain_germany,102,0,102,"Problems for Luis de la Fuente as Fabian Ruiz (Spain) is not able to play anymore. His injury is too serious and Joselu replaces him.",key_event,Substitution,"Ruiz, Joselu, De la Fuente",Spain,134
+spain_germany,104,0,104,"Mikel Oyarzabal (Spain) latches on to an accurate pass on the edge of the box and immediately unleashes a shot which is wide of the mark.",key_event,Shot,Oyarzabal,Spain,143
+spain_germany,105,0,105,"We will have 2 min. of added time.",general,General,,Both,38
+spain_germany,105,1,105+1,"A big opportunity missed by Florian Wirtz (Germany). He got on the ball inside the box and thumped a splendid first-time shot on goal, but it went narrowly wide of the right post.",key_event,Shot,Wirtz,Germany,180
+spain_germany,105,1,105+1,"Anthony Taylor has ended the first period of extra time of this exciting match. There is a short break before the second half starts.",general,Half Time Extra,,Both,135
+spain_germany,106,0,106,"The players must be exhausted and nobody wants the penalty shoot-out. Let's see what second part of extra time can bring. It starts right now!",key_event,Extra Time Start,,Both,156
+spain_germany,107,0,107,"Marc Cucurella (Spain) appears to handle the ball in the box, but the ref turns down the penalty appeals and waves play on!",general,Penalty Appeal,Cucurella,Spain,124
+spain_germany,108,0,108,"Mikel Merino (Spain) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. Spain force their opponents to concede a corner.",general,Corner,Merino,Spain,196
+spain_germany,108,0,108,"Ferran Torres (Spain) sends a wonderful cross from the corner kick. However, the defence works perfectly to clear the ball and avert the threat.",general,Corner,Torres,Spain,145
+spain_germany,109,0,109,"Florian Wirtz plays a pass to Niclas Fullkrug (Germany), but he fails to get a decent shot away from inside the box and the ball flies well wide of the left post.",key_event,Shot,"Wirtz, Fullkrug",Germany,170
+spain_germany,110,0,110,"Anthony Taylor shows a yellow card to Rodri (Spain) for his blatant foul.",key_event,Yellow Card,Rodri,Spain,71
+spain_germany,111,0,111,"Joshua Kimmich (Germany) gives away a foul for a clumsy challenge. Referee Anthony Taylor saw the whole situation.",general,General,Kimmich,Germany,113
+spain_germany,112,0,112,"Mikel Oyarzabal (Spain) finds himself with a great opportunity! He unleashes a shot from the edge of the box, which whizzes just wide of the left post!",key_event,Shot,Oyarzabal,Spain,154
+spain_germany,113,0,113,"Toni Kroos (Germany) is asking for medical treatment after picking up an injury.",general,General,Kroos,Germany,76
+spain_germany,113,0,113,"Although Deniz Undav (Germany) is just on the bench, Anthony Taylor has awarded him with a yellow card. Unsporting behavior says the referee.",key_event,Yellow Card,Undav,Germany,142
+spain_germany,114,0,114,"Dani Olmo (Spain) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger.",general,General,Olmo,Spain,167
+spain_germany,117,0,117,"Niclas Fullkrug (Germany) meets a splendid cross on the edge of the 6-yard box and sends the ball towards the left post, forcing Unai Simon into a superb diving save to keep it out.",key_event,Save,"Fullkrug, Simon",Germany,186
+spain_germany,119,0,119,"It's a goal! Mikel Merino (Spain) bursts into the box to get on the end of a whipped in cross from Dani Olmo and scores magnificently from close range into the left side of the goal. 2:1.",key_event,Goal,"Merino, Olmo",Spain,194
+spain_germany,120,0,120,"The fourth official shows 3 min. of added time.",general,General,,Both,50
+spain_germany,120,0,120,"Although Fabian Ruiz (Spain) is just on the bench, Anthony Taylor has awarded him with a yellow card. Unsporting behavior says the referee.",key_event,Yellow Card,Ruiz,Spain,134
+spain_germany,120,2,120+2,"Joshua Kimmich (Germany) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders.",key_event,Shot,Kimmich,Germany,158
+spain_germany,120,5,120+5,"RED CARD! Daniel Carvajal (Spain) makes a bad challenge and receives a second yellow card from Anthony Taylor. He can have an early bath.",key_event,Red Card,Carvajal,Spain,139
+spain_germany,120,7,120+7,"This match has finally come to an end following extra-time.",key_event,Full Time,,Both,62
+

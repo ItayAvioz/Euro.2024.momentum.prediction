@@ -1,0 +1,103 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+slovenia_denmark,0,0,0,"Today's referee will be Sandro Scharer.",general,General,Scharer,Both,43
+slovenia_denmark,0,0,0,"The players are on the pitch and Slovenia will have the kick-off.",general,Kick Off,,Slovenia,66
+slovenia_denmark,1,0,1,"The referee blows his whistle and we are underway.",key_event,Kick Off,Scharer,Both,51
+slovenia_denmark,2,0,2,"Joachim Andersen (Denmark) sends a cross into the box, but the opposition's defence clears the ball to safety.",general,General,Andersen,Denmark,120
+slovenia_denmark,5,0,5,"Christian Eriksen (Denmark) crosses the ball into the box, but one of the defending players averts the threat.",general,General,Eriksen,Denmark,120
+slovenia_denmark,6,0,6,"Andraz Sporar (Slovenia) tries to slide the ball through to a teammate but it's well blocked by a defender.",general,General,Sporar,Slovenia,116
+slovenia_denmark,6,0,6,"Adam Gnezda Cerin (Slovenia) is penalised for holding. Sandro Scharer signals a set piece.",general,General,Gnezda Cerin,Slovenia,99
+slovenia_denmark,7,0,7,"Jonas Wind (Denmark) fails to beat the offside trap and the linesman puts his flag up.",general,Offside,Wind,Denmark,94
+slovenia_denmark,8,0,8,"Erik Janza (Slovenia) found some space to play in a lofted pass, but he looks disappointed as none of his teammates managed to connect with it.",general,General,Janza,Slovenia,157
+slovenia_denmark,9,0,9,"Alexander Bah (Denmark) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. The referee blows his whistle, Denmark are awarded a corner kick.",general,Corner,Bah,Denmark,222
+slovenia_denmark,9,0,9,"Christian Eriksen (Denmark) swings in the corner, but it's comfortably cleared away.",general,Corner,Eriksen,Denmark,88
+slovenia_denmark,10,0,10,"Sandro Scharer blows his whistle and signals a foul after Adam Gnezda Cerin (Slovenia) brought his opponent down. Denmark have been awarded a free kick.",general,Free Kick,Gnezda Cerin,Slovenia,158
+slovenia_denmark,11,0,11,"Christian Eriksen (Denmark) takes a direct free kick.",general,Free Kick,Eriksen,Denmark,53
+slovenia_denmark,11,0,11,"Andreas Christensen (Denmark) reacts well and displays good awareness near the penalty spot to get on the end of a cross from the free kick. He jumps high and produces a header which goes well over the crossbar.",general,General,Christensen,Denmark,220
+slovenia_denmark,12,0,12,"Sandro Scharer blows his whistle after Pierre-Emile Hojbjerg (Denmark) brings one of his opponents down with a strong tackle.",general,General,Hojbjerg,Denmark,139
+slovenia_denmark,14,0,14,"Jonas Wind (Denmark) did his best to latch onto a through ball, but it was too strong.",general,General,Wind,Denmark,93
+slovenia_denmark,15,0,15,"Jaka Bijol (Slovenia) tackles a bit over-zealously and Sandro Scharer blows for a foul.",general,General,Bijol,Slovenia,93
+slovenia_denmark,16,0,16,"Benjamin Sesko (Slovenia) collects a wonderful lead pass and creates some space to smash the ball goalwards from long range. His shot goes painfully wide of the left post!",key_event,Shot,Sesko,Slovenia,189
+slovenia_denmark,17,0,17,"Goal - 0:1! Jonas Wind laid the ball off to Christian Eriksen (Denmark), who shot from close range into the bottom left corner, leaving the goalkeeper helpless.",key_event,Goal,"Wind, Eriksen",Denmark,179
+slovenia_denmark,20,0,20,"Andraz Sporar (Slovenia) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Slovenia force a corner. Their opponents will face another attacking threat.",general,Corner,Sporar,Slovenia,242
+slovenia_denmark,20,0,20,"Adam Gnezda Cerin (Slovenia) overhits the corner kick and none of his teammates can their head on it.",general,Corner,Gnezda Cerin,Slovenia,104
+slovenia_denmark,21,0,21,"Erik Janza (Slovenia) volleys the ball towards goal from the edge of the penalty box, but one of the defenders blocks his shot. The referee signals a corner kick to Slovenia.",general,Corner,Janza,Slovenia,177
+slovenia_denmark,22,0,22,"Adam Gnezda Cerin (Slovenia) takes the ball to the corner flag and sends it into the box.",general,Corner,Gnezda Cerin,Slovenia,93
+slovenia_denmark,22,0,22,"Erik Janza (Slovenia) wins the ball after the corner kick and takes a shot from the edge of the box, but it's blocked by one of the defending players.",general,General,Janza,Slovenia,156
+slovenia_denmark,25,0,25,"The linesman raises his flag. Andraz Sporar (Slovenia) is adjudged offside.",general,Offside,Sporar,Slovenia,81
+slovenia_denmark,27,0,27,"Victor Kristiansen (Denmark) wastes a good opportunity as his pass into the box is blocked by the defence.",general,General,Kristiansen,Denmark,115
+slovenia_denmark,27,0,27,"The defence is alert as they clear a dangerous cross from Alexander Bah (Denmark). The ball goes out of play. Denmark are awarded a corner kick.",general,Corner,Bah,Denmark,153
+slovenia_denmark,28,0,28,"Christian Eriksen (Denmark) lifts the ball into the box from the corner, but one of the defending players gets there first to head it clear.",general,Corner,Eriksen,Denmark,146
+slovenia_denmark,28,0,28,"Christian Eriksen (Denmark) crosses into the box from near the side line, but he doesn't connect as he wanted and it's cleared by the well-organized defence. Denmark force a corner. They send men into the box.",general,Corner,Eriksen,Denmark,212
+slovenia_denmark,28,0,28,"Christian Eriksen (Denmark) prepares to take a corner kick.",general,Corner,Eriksen,Denmark,60
+slovenia_denmark,29,0,29,"Jannik Vestergaard (Denmark) shows good awareness inside the box to meet a delightful cross from the free kick. He fails to direct the ball into the net as it flies narrowly wide of the right post.",general,General,Vestergaard,Denmark,199
+slovenia_denmark,30,0,30,"Andraz Sporar (Slovenia) meets a cross inside the box, but Kasper Schmeichel wins the battle for the ball and the chance is gone.",general,General,"Sporar, Schmeichel",Slovenia,139
+slovenia_denmark,32,0,32,"Andraz Sporar (Slovenia) delivers a promising cross into the box, but it's cleared.",general,General,Sporar,Slovenia,86
+slovenia_denmark,34,0,34,"Christian Eriksen (Denmark) fails to find any of his teammates inside the box as his pass is blocked. The ball is out of play and Denmark manage to earn a corner.",general,Corner,Eriksen,Denmark,166
+slovenia_denmark,35,0,35,"Christian Eriksen (Denmark) steps up to send the ball in.",general,Corner,Eriksen,Denmark,57
+slovenia_denmark,36,0,36,"Joachim Andersen (Denmark) times his run into the box perfectly and slams a header goalwards from the centre of the box, but it lacks accuracy and flies well wide of the left post.",general,General,Andersen,Denmark,190
+slovenia_denmark,37,0,37,"An attempted cross from Zan Karnicnik (Slovenia) is cleared. The ball is out of play. Slovenia will have a chance to score from a corner.",general,Corner,Karnicnik,Slovenia,142
+slovenia_denmark,38,0,38,"Adam Gnezda Cerin (Slovenia) takes the corner with a short pass.",general,Corner,Gnezda Cerin,Slovenia,66
+slovenia_denmark,38,0,38,"The linesman signals that Jaka Bijol (Slovenia) is offside and the referee confirms the decision.",general,Offside,Bijol,Slovenia,106
+slovenia_denmark,40,0,40,"Christian Eriksen (Denmark) misses a good chance to score. An inch-perfect cross into the box finds Christian Eriksen (Denmark) who rises for a header, but sends the ball well over the bar.",general,General,Eriksen,Denmark,196
+slovenia_denmark,40,0,40,"Alexander Bah receives a sweet cross inside the box from Morten Hjulmand (Denmark), but one of the defenders rushes in bravely to intercept the ball. The ball goes behind for a corner. Denmark will have an opportunity to threaten the opposition's goal.",general,Corner,"Bah, Hjulmand",Denmark,261
+slovenia_denmark,41,0,41,"The corner from Christian Eriksen (Denmark) is intercepted by Jan Oblak.",general,Corner,"Eriksen, Oblak",Denmark,78
+slovenia_denmark,43,0,43,"A snap shot from distance by Christian Eriksen (Denmark) after a precise pass is brilliantly blocked by a defender.",general,General,Eriksen,Denmark,125
+slovenia_denmark,43,0,43,"Christian Eriksen (Denmark) latches on to an accurate pass inside the box and immediately unleashes a shot towards goal, but it goes high over the crossbar.",general,General,Eriksen,Denmark,163
+slovenia_denmark,45,0,45,"Zan Karnicnik (Slovenia) pulls the jersey of one of the opposition players and Sandro Scharer blows his whistle for a foul.",general,General,Karnicnik,Slovenia,135
+slovenia_denmark,45,0,45,"There will be a minimum of 1 min. of added time.",general,General,,Both,56
+slovenia_denmark,45,2,45+2,"The referee blows his whistle for half-time, bringing to a close the first 45 minutes of the match.",general,Half Time,,Both,108
+slovenia_denmark,46,0,46,"The half-time break is over and the second half is about to start.",key_event,Kick Off,,Both,69
+slovenia_denmark,46,0,46,"Dangerous play by Morten Hjulmand (Denmark). Sandro Scharer blows his whistle for a foul.",general,General,Hjulmand,Denmark,98
+slovenia_denmark,49,0,49,"Morten Hjulmand (Denmark) sees a yellow card from Sandro Scharer after he sent one of the opposing players to the ground.",key_event,Yellow Card,Hjulmand,Denmark,133
+slovenia_denmark,52,0,52,"Andraz Sporar (Slovenia) goes down in the box after a challenge from the defender. Possibly unsighted, the referee just waves play on.",general,VAR,Sporar,Slovenia,144
+slovenia_denmark,52,0,52,"It's been a while since that incident in the box, but the ref must have received some information as he makes the VAR signal. He's going to review that earlier penalty shout! What a chance for Slovenia.",key_event,VAR,Sporar,Slovenia,214
+slovenia_denmark,53,0,53,"Referee Sandro Scharer signals NO PENALTY for Slovenia after a VAR review!",key_event,VAR,Scharer,Slovenia,77
+slovenia_denmark,53,0,53,"Petar Stojanovic (Slovenia) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Sandro Scharer ignores the protests.",key_event,Yellow Card,Stojanovic,Slovenia,163
+slovenia_denmark,55,0,55,"The free kick into the penalty area from Christian Eriksen (Denmark) is cleared. The referee and his assistant both point at the corner flag. Denmark will have an opportunity to threaten the opposition's goal.",general,Corner,Eriksen,Denmark,211
+slovenia_denmark,55,0,55,"Christian Eriksen (Denmark) takes the corner, but one of the defenders reacts well and rises highest to head the ball away.",general,Corner,Eriksen,Denmark,130
+slovenia_denmark,55,0,55,"Petar Stojanovic (Slovenia) should know this behaviour is beyond the rules. He was too careless with his challenge and left Sandro Scharer no option but to blow his whistle. Denmark are given an advantage. They have a free kick.",general,Free Kick,Stojanovic,Slovenia,226
+slovenia_denmark,56,0,56,"Christian Eriksen (Denmark) crosses the ball into the box from the free kick, but the defence clears the danger.",general,Free Kick,Eriksen,Denmark,116
+slovenia_denmark,57,0,57,"Christian Eriksen (Denmark) takes the corner but only sends it into a huddle of the defenders and one of them makes a good clearance.",general,Corner,Eriksen,Denmark,143
+slovenia_denmark,61,0,61,"Benjamin Sesko (Slovenia) is adjudged to have been offside when making his run.",general,Offside,Sesko,Slovenia,83
+slovenia_denmark,62,0,62,"Victor Kristiansen (Denmark) sends over a cross from the side into the penalty area in order to find one of his teammates, but he fails and the opportunity goes begging.",general,General,Kristiansen,Denmark,178
+slovenia_denmark,64,0,64,"Timi Max Elsnik (Slovenia) sends a lofted cross into the box which is headed clear.",general,General,Elsnik,Slovenia,88
+slovenia_denmark,64,0,64,"Vanja Drkusic (Slovenia) was too fierce in his attempt to get the ball from his opponent and Sandro Scharer blows for a foul.",general,General,Drkusic,Slovenia,137
+slovenia_denmark,65,0,65,"Rasmus Hojlund (Denmark) gets on the end of a defence splitting pass inside the box and immediately directs a low shot towards the middle of the goal, but the Jan Oblak makes a great save.",key_event,Save,"Hojlund, Oblak",Denmark,203
+slovenia_denmark,67,0,67,"Adam Gnezda Cerin (Slovenia) jumps for a cross in the goal area and produces a fine header which goes narrowly wide of the right post! What a huge opportunity!",key_event,Shot,Gnezda Cerin,Slovenia,174
+slovenia_denmark,67,0,67,"That will be all from Petar Stojanovic who is being replaced by the fresh legs of Benjamin Verbic (Slovenia).",key_event,Substitution,"Stojanovic, Verbic",Slovenia,123
+slovenia_denmark,68,0,68,"Christian Eriksen (Denmark) makes a yard for himself inside the box after an accurate pass and takes a shot that goes just wide of the left post.",general,General,Eriksen,Denmark,157
+slovenia_denmark,70,0,70,"Referee Sandro Scharer sees the trip by Andreas Christensen (Denmark) and doesn't hesitate to blow his whistle.",general,General,Christensen,Denmark,121
+slovenia_denmark,71,0,71,"The ball is cleared after Rasmus Hojlund (Denmark) attempted to dribble past an opposing player. The linesman makes the right call and Denmark will have a corner.",general,Corner,Hojlund,Denmark,170
+slovenia_denmark,71,0,71,"Christian Eriksen (Denmark) is about to take a corner kick.",general,Corner,Eriksen,Denmark,59
+slovenia_denmark,71,0,71,"Jonas Wind (Denmark) times his run and jump perfectly to get on the end of the resulting corner, but the ball comes off the top of his head and goes miles over the bar.",general,Corner,Wind,Denmark,174
+slovenia_denmark,73,0,73,"Adam Gnezda Cerin (Slovenia) commits a rough challenge and Sandro Scharer blows his whistle for an infringement.",general,General,Gnezda Cerin,Slovenia,117
+slovenia_denmark,74,0,74,"Rough tackle by Joachim Andersen (Denmark). The referee blows his whistle for a foul. It's a free kick to Slovenia, but it's in no position for a direct shot on goal.",general,Free Kick,Andersen,Denmark,179
+slovenia_denmark,74,0,74,"Erik Janza (Slovenia) will take the free kick.",general,Free Kick,Janza,Slovenia,48
+slovenia_denmark,75,0,75,"Andraz Sporar (Slovenia) collects the ball from the free kick and immediately sends his close-range effort narrowly wide of the left post!",key_event,Shot,Sporar,Slovenia,149
+slovenia_denmark,75,0,75,"Matjaz Kek prepares a substitution. Timi Max Elsnik is replaced by Jon Gorenc Stankovic (Slovenia).",key_event,Substitution,"Elsnik, Stankovic, Kek",Slovenia,109
+slovenia_denmark,75,0,75,"Zan Celar (Slovenia) joins the action as a substitute, replacing Jan Mlakar.",key_event,Substitution,"Mlakar, Celar",Slovenia,80
+slovenia_denmark,76,0,76,"Benjamin Sesko (Slovenia) latches onto a short pass just on the edge of the box and shoots. The effort beats the keeper but comes back off the right post. Close!",key_event,Shot,Sesko,Slovenia,170
+slovenia_denmark,77,0,77,"Adam Gnezda Cerin (Slovenia) will take the corner.",general,Corner,Gnezda Cerin,Slovenia,55
+slovenia_denmark,77,0,77,"It's in the back of the net! Erik Janza (Slovenia) tries his luck from the edge of the box and his shot takes a deflection and goes past the stranded Kasper Schmeichel. He makes it 1:1.",key_event,Goal,"Janza, Schmeichel",Slovenia,203
+slovenia_denmark,78,0,78,"The referee signals that it is time for a substitution and Joakim Maehle (Denmark) comes onto the pitch so that Victor Kristiansen can be given a rest.",key_event,Substitution,"Kristiansen, Maehle",Denmark,163
+slovenia_denmark,79,0,79,"What a big chance! Andraz Sporar (Slovenia) picks up an inch-perfect pass inside the box and skies the ball well over the bar.",general,General,Sporar,Slovenia,135
+slovenia_denmark,80,0,80,"Benjamin Sesko (Slovenia) gets on the ball and beats an opponent, but his run is stopped by the referee Sandro Scharer who sees an offensive foul.",general,General,Sesko,Slovenia,153
+slovenia_denmark,81,0,81,"Christian Eriksen (Denmark) goes over to take the corner kick and it looks like he will swing the ball into the penalty box.",general,Corner,Eriksen,Denmark,129
+slovenia_denmark,81,0,81,"Jannik Vestergaard (Denmark) outjumps the defence to meet the resulting corner and heads the ball towards the top left corner. The long-range header is not powerful enough, and the keeper comfortably makes a save.",general,Corner,Vestergaard,Denmark,213
+slovenia_denmark,82,0,82,"Andraz Sporar (Slovenia) latches on to a precise pass and one-on-one with the keeper slams the ball towards the right-hand post. Kasper Schmeichel is alert, though, and leaps like a salmon to deny him. Slovenia will have a chance to score from a corner kick.",key_event,Save,"Sporar, Schmeichel",Slovenia,253
+slovenia_denmark,82,0,82,"Kasper Schmeichel leaps to collect the ball from the corner which was sent over by Erik Janza (Slovenia).",general,Corner,"Schmeichel, Janza",Denmark,107
+slovenia_denmark,83,0,83,"The referee allows time for a substitution. Rasmus Hojlund will be replaced by Yussuf Poulsen (Denmark).",key_event,Substitution,"Hojlund, Poulsen",Denmark,113
+slovenia_denmark,83,0,83,"Kasper Hjulmand decides to make a substitution. Jonas Wind will be replaced by Kasper Dolberg (Denmark).",key_event,Substitution,"Wind, Dolberg, Hjulmand",Denmark,114
+slovenia_denmark,83,0,83,"That's the end of the game for Pierre-Emile Hojbjerg, who is replaced by Christian Norgaard (Denmark).",key_event,Substitution,"Hojbjerg, Norgaard",Denmark,106
+slovenia_denmark,84,0,84,"Zan Celar (Slovenia) can't expect anything else than a yellow card for his hard tackle. And a yellow it is. Sandro Scharer didn't think twice about pulling it out of his pocket.",key_event,Yellow Card,Celar,Slovenia,184
+slovenia_denmark,86,0,86,"Morten Hjulmand (Denmark) meets a pass on the edge of the penalty area and shoots towards the middle of the goal. He didn't put enough power into the effort, though, and Jan Oblak pulls off an easy save.",general,General,"Hjulmand, Oblak",Denmark,211
+slovenia_denmark,87,0,87,"Joakim Maehle (Denmark) makes a bad challenge and the referee blows his whistle for a foul. Slovenia have a free kick.",general,Free Kick,Maehle,Denmark,124
+slovenia_denmark,88,0,88,"A cross is whipped in towards Benjamin Verbic (Slovenia) on the edge of the six-yard box. He wins the ball but sends his header just wide of the right post.",general,General,Verbic,Slovenia,163
+slovenia_denmark,89,0,89,"The attendance for today's match is 54000.",general,General,,Both,50
+slovenia_denmark,89,0,89,"The manager makes a subsitution with Thomas Delaney (Denmark) coming on for Morten Hjulmand.",key_event,Substitution,"Hjulmand, Delaney",Denmark,99
+slovenia_denmark,90,0,90,"4 additional min. will be played.",general,General,,Both,40
+slovenia_denmark,90,1,90+1,"Zan Karnicnik (Slovenia) makes a yard for himself and goes for goal from long range. It never troubles the goalkeeper as it flies into the stands.",general,General,Karnicnik,Slovenia,157
+slovenia_denmark,90,5,90+5,"Matjaz Kek has decided to make a change. David Brekalo (Slovenia) replaces Andraz Sporar.",key_event,Substitution,"Sporar, Brekalo, Kek",Slovenia,103
+slovenia_denmark,90,5,90+5,"Substitution. Benjamin Sesko is replaced by Jasmin Kurtic (Slovenia).",key_event,Substitution,"Sesko, Kurtic",Slovenia,71
+slovenia_denmark,90,5,90+5,"The referee checks his watch and blows his whistle to signal the end of this match.",key_event,Full Time,,Both,88
+

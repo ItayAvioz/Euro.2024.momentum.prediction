@@ -1,0 +1,87 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+netherlands_england,0,0,0,"First Half begins.",key_event,Kick Off,,Both,19
+netherlands_england,1,0,1,"Cody Gakpo (Netherlands) wins a free kick in the defensive half.",general,Free Kick,Gakpo,Netherlands,63
+netherlands_england,1,0,1,"Foul by Kyle Walker (England).",general,Foul,Walker,England,31
+netherlands_england,1,0,1,"Offside, Netherlands. Donyell Malen is caught offside.",general,Offside,Malen,Netherlands,58
+netherlands_england,3,0,3,"Foul by Jerdy Schouten (Netherlands).",general,Foul,Schouten,Netherlands,39
+netherlands_england,3,0,3,"Phil Foden (England) wins a free kick in the attacking half.",general,Free Kick,Foden,England,60
+netherlands_england,5,0,5,"Offside, England. Kieran Trippier is caught offside.",general,Offside,Trippier,England,55
+netherlands_england,7,0,7,"Goal! Netherlands 1, England 0. Xavi Simons (Netherlands) right footed shot from outside the box to the top left corner.",key_event,Goal,Simons,Netherlands,126
+netherlands_england,9,0,9,"Foul by Jerdy Schouten (Netherlands).",general,Foul,Schouten,Netherlands,39
+netherlands_england,9,0,9,"Jude Bellingham (England) wins a free kick in the attacking half.",general,Free Kick,Bellingham,England,63
+netherlands_england,9,0,9,"Delay in match because of an injury Jude Bellingham (England).",general,Injury,Bellingham,England,63
+netherlands_england,11,0,11,"Delay over. They are ready to continue.",general,General,,Both,42
+netherlands_england,11,0,11,"Bukayo Saka (England) wins a free kick in the attacking half.",general,Free Kick,Saka,England,60
+netherlands_england,11,0,11,"Foul by Cody Gakpo (Netherlands).",general,Foul,Gakpo,Netherlands,35
+netherlands_england,12,0,12,"Offside, England. Kieran Trippier is caught offside.",general,Offside,Trippier,England,55
+netherlands_england,13,0,13,"Attempt saved. Harry Kane (England) right footed shot from outside the box is saved in the bottom left corner. Assisted by Jude Bellingham.",general,General,"Kane, Bellingham",England,143
+netherlands_england,14,0,14,"Attempt blocked. Bukayo Saka (England) left footed shot from the centre of the box is blocked. Assisted by Harry Kane.",general,General,"Saka, Kane",England,127
+netherlands_england,14,0,14,"Penalty England. Harry Kane draws a foul in the penalty area.",key_event,Penalty,Kane,England,64
+netherlands_england,14,0,14,"Penalty conceded by Denzel Dumfries (Netherlands) after a foul in the penalty area.",key_event,Penalty,Dumfries,Netherlands,85
+netherlands_england,16,0,16,"VAR Decision: Penalty England.",key_event,VAR,,England,30
+netherlands_england,17,0,17,"Denzel Dumfries (Netherlands) is shown the yellow card for a bad foul.",key_event,Yellow Card,Dumfries,Netherlands,68
+netherlands_england,18,0,18,"Goal! Netherlands 1, England 1. Harry Kane (England) converts the penalty with a right footed shot to the bottom left corner.",key_event,Goal,Kane,England,130
+netherlands_england,23,0,23,"Attempt blocked. Phil Foden (England) right footed shot from the right side of the six yard box is blocked.",general,General,Foden,England,107
+netherlands_england,24,0,24,"Delay in match (England).",general,General,,England,23
+netherlands_england,24,0,24,"Delay over. They are ready to continue.",general,General,,Both,42
+netherlands_england,29,0,29,"Attempt blocked. Donyell Malen (Netherlands) left footed shot from the centre of the box is blocked. Assisted by Memphis Depay.",general,General,"Malen, Depay",Netherlands,129
+netherlands_england,29,0,29,"Corner, Netherlands. Conceded by Kyle Walker.",general,Corner,Walker,Netherlands,45
+netherlands_england,30,0,30,"Denzel Dumfries (Netherlands) hits the bar with a header from the centre of the box. Assisted by Xavi Simons with a cross following a corner.",key_event,Shot,"Dumfries, Simons",Netherlands,141
+netherlands_england,32,0,32,"Phil Foden (England) hits the left post with a left footed shot from outside the box. Assisted by Bukayo Saka.",key_event,Shot,"Foden, Saka",England,120
+netherlands_england,34,0,34,"Delay in match because of an injury Memphis Depay (Netherlands).",general,Injury,Depay,Netherlands,62
+netherlands_england,34,0,34,"Delay over. They are ready to continue.",general,General,,Both,42
+netherlands_england,35,0,35,"Substitution, Netherlands. Joey Veerman replaces Memphis Depay because of an injury.",key_event,Substitution,"Depay, Veerman",Netherlands,83
+netherlands_england,39,0,39,"Attempt saved. Phil Foden (England) left footed shot from outside the box is saved in the bottom left corner. Assisted by Kobbie Mainoo.",general,General,"Foden, Mainoo",England,139
+netherlands_england,41,0,41,"Attempt blocked. Kobbie Mainoo (England) right footed shot from outside the box is blocked.",general,General,Mainoo,England,89
+netherlands_england,45,4,45+4,"First Half ends, Netherlands 1, England 1.",general,Half Time,,Both,44
+netherlands_england,45,0,45,"Substitution, England. Luke Shaw replaces Kieran Trippier.",key_event,Substitution,"Trippier, Shaw",England,58
+netherlands_england,45,0,45,"Substitution, Netherlands. Wout Weghorst replaces Donyell Malen.",key_event,Substitution,"Malen, Weghorst",Netherlands,64
+netherlands_england,45,0,45,"Second Half begins Netherlands 1, England 1.",key_event,Kick Off,,Both,47
+netherlands_england,46,0,46,"Foul by Wout Weghorst (Netherlands).",general,Foul,Weghorst,Netherlands,38
+netherlands_england,46,0,46,"John Stones (England) wins a free kick in the defensive half.",general,Free Kick,Stones,England,61
+netherlands_england,49,0,49,"Foul by Luke Shaw (England).",general,Foul,Shaw,England,29
+netherlands_england,49,0,49,"Xavi Simons (Netherlands) wins a free kick in the defensive half.",general,Free Kick,Simons,Netherlands,63
+netherlands_england,51,0,51,"Offside, England. Phil Foden is caught offside.",general,Offside,Foden,England,49
+netherlands_england,62,0,62,"Foul by Phil Foden (England).",general,Foul,Foden,England,29
+netherlands_england,62,0,62,"Jerdy Schouten (Netherlands) wins a free kick in the defensive half.",general,Free Kick,Schouten,Netherlands,65
+netherlands_england,64,0,64,"Foul by Marc Guéhi (England).",general,Foul,Guéhi,England,29
+netherlands_england,64,0,64,"Xavi Simons (Netherlands) wins a free kick on the right wing.",general,Free Kick,Simons,Netherlands,60
+netherlands_england,65,0,65,"Attempt missed. Virgil van Dijk (Netherlands) left footed shot from the centre of the box misses to the left. Assisted by Joey Veerman with a cross following a set piece situation.",general,General,"van Dijk, Veerman",Netherlands,169
+netherlands_england,65,0,65,"Corner, Netherlands. Conceded by Jordan Pickford.",general,Corner,Pickford,Netherlands,51
+netherlands_england,65,0,65,"Attempt missed. Denzel Dumfries (Netherlands) header from the centre of the box is too high. Assisted by Joey Veerman with a cross following a corner.",general,Corner,"Dumfries, Veerman",Netherlands,144
+netherlands_england,66,0,66,"Foul by Wout Weghorst (Netherlands).",general,Foul,Weghorst,Netherlands,38
+netherlands_england,66,0,66,"John Stones (England) wins a free kick in the defensive half.",general,Free Kick,Stones,England,61
+netherlands_england,68,0,68,"Corner, Netherlands. Conceded by Jordan Pickford.",general,Corner,Pickford,Netherlands,51
+netherlands_england,69,0,69,"Declan Rice (England) wins a free kick in the defensive half.",general,Free Kick,Rice,England,61
+netherlands_england,69,0,69,"Foul by Wout Weghorst (Netherlands).",general,Foul,Weghorst,Netherlands,38
+netherlands_england,72,0,72,"Foul by Jude Bellingham (England).",general,Foul,Bellingham,England,34
+netherlands_england,72,0,72,"Stefan de Vrij (Netherlands) wins a free kick in the attacking half.",general,Free Kick,de Vrij,Netherlands,64
+netherlands_england,72,0,72,"Jude Bellingham (England) is shown the yellow card for a bad foul.",key_event,Yellow Card,Bellingham,England,68
+netherlands_england,72,0,72,"Foul by Cody Gakpo (Netherlands).",general,Foul,Gakpo,Netherlands,35
+netherlands_england,72,0,72,"Kobbie Mainoo (England) wins a free kick in the defensive half.",general,Free Kick,Mainoo,England,62
+netherlands_england,77,0,77,"Attempt blocked. Wout Weghorst (Netherlands) header from the centre of the box is blocked. Assisted by Cody Gakpo with a cross.",general,General,"Weghorst, Gakpo",Netherlands,132
+netherlands_england,77,0,77,"Attempt saved. Xavi Simons (Netherlands) right footed shot from the centre of the box is saved in the centre of the goal.",general,General,Simons,Netherlands,121
+netherlands_england,79,0,79,"Offside, England. Kyle Walker is caught offside.",general,Offside,Walker,England,50
+netherlands_england,80,0,80,"Substitution, England. Cole Palmer replaces Phil Foden.",key_event,Substitution,"Foden, Palmer",England,56
+netherlands_england,81,0,81,"Substitution, England. Ollie Watkins replaces Harry Kane.",key_event,Substitution,"Kane, Watkins",England,56
+netherlands_england,85,0,85,"Foul by Denzel Dumfries (Netherlands).",general,Foul,Dumfries,Netherlands,40
+netherlands_england,85,0,85,"Jude Bellingham (England) wins a free kick on the left wing.",general,Free Kick,Bellingham,England,59
+netherlands_england,85,0,85,"Cody Gakpo (Netherlands) wins a free kick in the attacking half.",general,Free Kick,Gakpo,Netherlands,60
+netherlands_england,85,0,85,"Foul by Bukayo Saka (England).",general,Foul,Saka,England,30
+netherlands_england,86,0,86,"Bukayo Saka (England) is shown the yellow card for a bad foul.",key_event,Yellow Card,Saka,England,63
+netherlands_england,87,0,87,"Virgil van Dijk (Netherlands) is shown the yellow card.",key_event,Yellow Card,van Dijk,Netherlands,52
+netherlands_england,88,0,88,"Attempt missed. Cole Palmer (England) left footed shot from the centre of the box is high and wide to the left. Assisted by Luke Shaw with a cross.",general,General,"Palmer, Shaw",England,142
+netherlands_england,89,0,89,"Foul by Cody Gakpo (Netherlands).",general,Foul,Gakpo,Netherlands,35
+netherlands_england,89,0,89,"Marc Guéhi (England) wins a free kick in the defensive half.",general,Free Kick,Guéhi,England,59
+netherlands_england,90,0,90,"Goal! Netherlands 1, England 2. Ollie Watkins (England) right footed shot from the right side of the box to the bottom left corner. Assisted by Cole Palmer with a through ball.",key_event,Goal,"Watkins, Palmer",England,170
+netherlands_england,90,1,90+1,"Xavi Simons (Netherlands) is shown the yellow card.",key_event,Yellow Card,Simons,Netherlands,50
+netherlands_england,90,3,90+3,"Substitution, England. Ezri Konsa replaces Bukayo Saka.",key_event,Substitution,"Saka, Konsa",England,54
+netherlands_england,90,3,90+3,"Substitution, England. Conor Gallagher replaces Kobbie Mainoo.",key_event,Substitution,"Mainoo, Gallagher",England,62
+netherlands_england,90,3,90+3,"Substitution, Netherlands. Brian Brobbey replaces Xavi Simons.",key_event,Substitution,"Simons, Brobbey",Netherlands,61
+netherlands_england,90,3,90+3,"Substitution, Netherlands. Joshua Zirkzee replaces Denzel Dumfries.",key_event,Substitution,"Dumfries, Zirkzee",Netherlands,66
+netherlands_england,90,4,90+4,"Kieran Trippier (England) is shown the yellow card.",key_event,Yellow Card,Trippier,England,50
+netherlands_england,90,5,90+5,"Foul by Joey Veerman (Netherlands).",general,Foul,Veerman,Netherlands,37
+netherlands_england,90,5,90+5,"Jude Bellingham (England) wins a free kick on the left wing.",general,Free Kick,Bellingham,England,59
+netherlands_england,90,6,90+6,"Second Half ends, Netherlands 1, England 2.",general,Full Time,,Both,46
+netherlands_england,90,6,90+6,"Match ends, Netherlands 1, England 2.",key_event,Full Time,,Both,40
+

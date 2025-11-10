@@ -1,0 +1,63 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+netherlands_england,1,0,1,KICKOFF:  THE SECOND EURO 2024 SEMI-FINAL IS UNDERWAY!,key_event,Kick Off,,Both,54
+netherlands_england,2,0,2,Malen immediately tries a run in behind but the Dutchman is caught offside.,general,General,Malen,Netherlands,75
+netherlands_england,4,0,4,England settle into a nice period of possession and Phil Foden wins a free kick off of Jerdy Schouten.,general,Free Kick,"Schouten, Foden",England,102
+netherlands_england,4,0,4,"CHANCE!  The effervescent Simons charges forward on the right and tries to thread a pass into Malen, but Guehi does enough to shield the ball back to Jordan Pickford.",key_event,Chance,"Simons, Malen, Pickford, Guehi",Both,166
+netherlands_england,5,0,5,"CHANCE!  England quickly go down the other end and Saka floats in a cross to the back stick, but Stefan de Vrij is there to clear.",key_event,Chance,Saka,England,130
+netherlands_england,7,0,7,Kieran Trippier goes for the long ball over the top to Bellingham - back in Dortmund territory - but it rolls harmlessly through to Bart Verbruggen.,general,General,"Verbruggen, Trippier, Bellingham",Both,148
+netherlands_england,7,0,7,GOAL!  NETHERLANDS 1-0 ENGLAND (SIMONS),key_event,Goal,,Both,39
+netherlands_england,7,0,7,GOAL!  AND THAT IS WHAT XAVI SIMONS DOES. THE NETHERLANDS LEAD IN THE SEVENTH MINUTE.,key_event,Goal,,Netherlands,85
+netherlands_england,10,0,10,"Who would have had Simons out-muscling Rice down before the game? Certainly not me, but that was terrific work from the Dutchman.",general,General,"Simons, Rice",Netherlands,129
+netherlands_england,12,0,12,Foden takes it but his Manchester City teammate Ake heads clear.,general,General,"Ake, Foden",Both,64
+netherlands_england,13,0,13,Trippier takes this one and finds Rice at the back post. The Arsenal man tries to cut back for a teammate but can only find the boot of Van Dijk.,general,General,"Van Dijk, Trippier, Rice",Both,145
+netherlands_england,14,0,14,SAVE!  HARRY KANE HAS A SHOT!,key_event,Save,,Both,29
+netherlands_england,14,0,14,SHOT!  Kane now fires over the top after a quick break and brilliant work from Saka!,key_event,Shot,"Saka, Kane",Both,84
+netherlands_england,16,0,16,ZWAYER IS GOING TO THE SCREEN!,general,General,,Both,30
+netherlands_england,17,0,17,PENALTY!  PENALTY FOR ENGLAND!,key_event,Penalty,,England,30
+netherlands_england,18,0,18,GOAL!  NETHERLANDS 1-1 ENGLAND (KANE),key_event,Goal,,Both,37
+netherlands_england,18,0,18,"GOAL!  Kane makes no mistake! Verbruggen dives the right way, but Kane's penalty is just too perfect.",key_event,Goal,"Verbruggen, Kane",Both,101
+netherlands_england,20,0,20,"There will certainly be some debate about the awarding of the penalty - I initially didn't think it was, but upon seeing a replay, Dumfries did go in with his studs.",general,General,Dumfries,Both,165
+netherlands_england,23,0,23,CLOSE!  WHAT. A. CLEARANCE!!!!,key_event,Close Call,,Both,30
+netherlands_england,24,0,24,"CLOSE!  Mainoo and Foden link up brilliantly as the latter prods the ball towards goal from a tight angle, and his toe-poke beats Verbruggen but Dumfries is there to stop the ball right on the line!",key_event,Close Call,"Verbruggen, Dumfries, Mainoo, Foden",Both,198
+netherlands_england,26,0,26,"At the risk of jinxing it, this is by far England's best performance at Euro 2024 so far. The Dutch living incredibly dangerously and just unable to contain Southgate's inspired team.",general,General,,Both,183
+netherlands_england,29,0,29,"SHOT!  The Netherlands go on one of their quick breaks, but a combination of Walker and Guehi denies Malen as the Netherlands win their first corner of the game.",key_event,Shot,"Malen, Walker, Guehi",Netherlands,161
+netherlands_england,30,0,30,OFF THE BAR!  Dumfries is absolutely everywhere tonight!,key_event,Hit Bar,Dumfries,Both,56
+netherlands_england,32,0,32,OFF THE BAR!  OH MY GOODNESS!,key_event,Hit Bar,,Both,29
+netherlands_england,33,0,33,"Two woodwork hits in two minutes, a Kane penalty and a Simons stunner - this has been an utterly breathless start in Dortmund.",general,General,"Simons, Kane",Both,126
+netherlands_england,34,0,34,"A chance for a breather now, though, as Memphis Depay is down and needs treatment.",general,General,Depay,Both,82
+netherlands_england,35,0,35,NETHERLANDS SUB,key_event,Substitution,,Netherlands,15
+netherlands_england,37,0,37,Bellingham goes down under pressure from Schouten but Zwayer is not interested.,general,General,"Schouten, Bellingham",Both,79
+netherlands_england,39,0,39,The Netherlands' shape already looks more rigid since the introduction of Veerman. England now reverting to a bit of slow build-up in front of an orange wall.,general,General,Veerman,Netherlands,158
+netherlands_england,39,0,39,"SHOT!  Just as I say that, Foden again tries to pick out the far corner from 25 yards, but Verbruggen - at full stretch - makes the save and holds onto the ball.",key_event,Shot,"Verbruggen, Foden",Both,161
+netherlands_england,41,0,41,"SHOT!  Mainoo - who has been exceptional so far - robs Gakpo and lets fly from range, but his strike smacks Nathan Ake and goes out for a throw.",key_event,Shot,"Ake, Gakpo, Mainoo",Both,144
+netherlands_england,43,0,43,"Approaching half time, England can pat themselves on the back and then some. Whatever they had for breakfast at their hotel this morning has gone down a treat.",general,General,,England,159
+netherlands_england,45,0,45,"Southgate's men also ending the first 45 the better as Trippier gets down the left, but his cross is straight into Verbruggen's hands.",general,General,"Verbruggen, Trippier",Both,134
+netherlands_england,45,0,45,Three minutes added on.,general,General,,Both,23
+netherlands_england,46,0,46,KICKOFF:  The Netherlands get us back underway.,key_event,Kick Off,,Netherlands,47
+netherlands_england,47,0,47,Let him know you're there and all that.,general,General,,Both,39
+netherlands_england,49,0,49,"England quickly take control of the ball and Saka gets in behind Ake, but there is nobody there to receive his cutback.",general,General,"Ake, Saka",England,119
+netherlands_england,51,0,51,"The offside flag is up against England, but it's been another bright start from the men in white.",general,General,,England,97
+netherlands_england,53,0,53,"Patience is the name of the game right now for England, as Koeman's side have well and truly tightened up defensively.",general,General,,England,118
+netherlands_england,55,0,55,"Mainoo has been an absolute force defensively and stands up to Simons on the right, before Tijjani Reijnders sends the ball straight out of play when looking for Dumfries.",general,General,"Dumfries, Reijnders, Simons, Mainoo",Both,171
+netherlands_england,57,0,57,"I suspected the chances might dry up a bit when Koeman beefed up his midfield with the introduction of Veerman, and it has panned out exactly that way.",general,General,Veerman,Both,151
+netherlands_england,59,0,59,England still dominating possession but finding it far more difficult to penetrate the Orange wall.,general,General,,Both,99
+netherlands_england,61,0,61,"Koeman's men break quickly - surprise surprise - and Veerman tries to find Weghorst at the back post, but he overcooks his outswinging cross.",general,General,"Veerman, Weghorst",Both,141
+netherlands_england,63,0,63,"This now feels too reminiscent of England's first four matches at the tournament, struggling to find gaps in a compact backline, but the Dutch are not giving Pickford anything to think about either.",general,General,Pickford,Both,198
+netherlands_england,65,0,65,"SAVE!  Veerman swings in a free kick for the Netherlands after Simons draws a foul by the dugouts, and Van Dijk gets his toe to it, forcing Pickford into a good reaction save!",key_event,Save,"Van Dijk, Simons, Veerman, Pickford",Netherlands,175
+netherlands_england,66,0,66,"SHOT!  From the resulting corner, Dumfries wins the header again, but he cannot keep this effort down.",key_event,Shot,Dumfries,Both,102
+netherlands_england,68,0,68,"Things are starting to happen for the Netherlands now, as Gakpo delivers a dangerous ball from the left, which Pickford has to punch behind for a corner.",general,Corner,"Gakpo, Pickford",Netherlands,153
+netherlands_england,69,0,69,Ake wins the header but Zwayer had spotted something that he didn't like. England free kick.,general,Free Kick,Ake,England,92
+netherlands_england,71,0,71,"Time to mutter the dreaded two words, extra time?",general,General,,Both,49
+netherlands_england,72,0,72,"YELLOW CARD!  Bellingham and De Vrij go in for a 50-50, but it is the England man who is penalised. Yellow card from Zwayer.",key_event,Yellow Card,"De Vrij, Bellingham",England,124
+netherlands_england,74,0,74,"Saka down on the right after taking Ake's hand in his face, but no interest from the referee.",general,General,"Ake, Saka",Both,93
+netherlands_england,76,0,76,"Surely both managers will be starting to think about changes pretty soon. Just the one alteration from Southgate, two from Koeman - one enforced.",general,General,,Both,145
+netherlands_england,78,0,78,"SAVE!  Simons connects with a volley, but his connection is anything but clean - one bounce into the ground and Pickford gathers.",key_event,Save,"Simons, Pickford",Both,129
+netherlands_england,79,0,79,Cole Palmer and Ollie Watkins about to emerge for England.,general,General,"Palmer, Watkins",England,58
+netherlands_england,79,0,79,"DISALLOWED GOAL!  SAKA HAS THE BALL IN THE BACK OF THE NET, BUT THE OFFSIDE FLAG IS UP!",key_event,Disallowed Goal,,Both,87
+netherlands_england,80,0,80,"DISALLOWED GOAL!  Foden slips in Walker down the right, and the Manchester City man cuts back for Saka to guide home a brilliant first-time finish, but the right-back had just gone a bit too early.",key_event,Disallowed Goal,"Walker, Foden, Saka",Both,197
+netherlands_england,81,0,81,ENGLAND SUBS,key_event,Substitution,,England,12
+netherlands_england,84,0,84,"Some beautiful play from Reijnders down the left, but Guehi stands up tall and takes the full force of Weghorst's 6ft 6in frame to snuff out the attack.",general,General,"Reijnders, Weghorst, Guehi",Both,152
+netherlands_england,86,0,86,YELLOW CARD!  Gakpo is pushed over by Saka and the Netherlands have a free kick in a decent area...,key_event,Yellow Card,"Gakpo, Saka",Netherlands,99
+netherlands_england,87,0,87,"YELLOW CARD!  Stones gets a head to Veerman's free kick, but Zwayer gives a goal kick.",key_event,Yellow Card,"Veerman, Stones",Both,86
+netherlands_england,88,0,88,"SHOT!  Saka sprays a sublime cross-field pass to Shaw, whose ball across is missed by Watkins, but Palmer picks it up and curls a strike over the top.",key_event,Shot,"Shaw, Saka, Palmer, Watkins",Both,150
+netherlands_england,90,0,90,GOAL!  NETHERLANDS 1-2 ENGLAND (WATKINS),key_event,Goal,,Both,40

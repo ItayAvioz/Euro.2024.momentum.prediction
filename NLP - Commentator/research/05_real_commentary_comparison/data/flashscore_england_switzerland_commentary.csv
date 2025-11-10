@@ -1,0 +1,130 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+england_switzerland,0,0,0,"Daniele Orsato will referee today's match.",general,General,Orsato,Both,44
+england_switzerland,0,0,0,"England will kick-off.",general,Kick Off,,England,22
+england_switzerland,1,0,1,"The first half of this match is about to start.",key_event,Kick Off,,Both,46
+england_switzerland,3,0,3,"Breel Embolo (Switzerland) looks to break free, but an opposing player clears the ball away.",general,General,Embolo,Switzerland,93
+england_switzerland,4,0,4,"Good movement by Bukayo Saka (England), but he can't find any of his teammates as the cross is poor.",general,General,Saka,England,107
+england_switzerland,5,0,5,"Remo Freuler (Switzerland) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",general,General,Freuler,Switzerland,130
+england_switzerland,7,0,7,"Bukayo Saka (England) is caught offside!",general,Offside,Saka,England,39
+england_switzerland,8,0,8,"Dan Ndoye (Switzerland) passes the ball from the edge of the box in order to find his teammate, who is in a good scoring position, but the defender blocks the pass and spanks the ball to safety.",general,General,Ndoye,Switzerland,189
+england_switzerland,9,0,9,"Fabian Rieder (Switzerland) fails to find any of his teammates inside the box as his pass is blocked.",general,General,Rieder,Switzerland,105
+england_switzerland,11,0,11,"Breel Embolo (Switzerland) races towards goal but the defender gets back well to make a challenge.",general,General,Embolo,Switzerland,98
+england_switzerland,13,0,13,"England are playing possession football and controlling the game at present. They are exchanging inch-perfect passes from player to player, making it difficult for the opposition to win the ball.",general,General,,England,199
+england_switzerland,14,0,14,"Declan Rice (England) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders.",key_event,Shot,Rice,England,138
+england_switzerland,15,0,15,"The linesman raises his flag for offside before Kieran Trippier (England) heads on.",general,Offside,Trippier,England,83
+england_switzerland,16,0,16,"Kobbie Mainoo (England) volleys the ball towards goal from the edge of the penalty box, but one of the defenders blocks his shot.",key_event,Shot,Mainoo,England,130
+england_switzerland,17,0,17,"Harry Kane (England) goes down in the box after a challenge from the defender. Possibly unsighted, the referee just waves play on.",general,Penalty Appeal,Kane,England,133
+england_switzerland,18,0,18,"Kobbie Mainoo (England) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Mainoo,England,116
+england_switzerland,18,0,18,"Declan Rice (England) commits a rough challenge and Daniele Orsato blows his whistle for a foul.",general,General,Rice,England,98
+england_switzerland,19,0,19,"The referee blows his whistle as Remo Freuler (Switzerland) was too aggressive in his challenge.",general,General,Freuler,Switzerland,100
+england_switzerland,21,0,21,"Bukayo Saka (England) sends a sweet pass into the penalty area, but one of the defenders averts the danger. The ball goes out of play. England are awarded a corner kick.",general,Corner,Saka,England,163
+england_switzerland,21,0,21,"Kieran Trippier (England) will deliver the corner kick.",general,Corner,Trippier,England,52
+england_switzerland,21,0,21,"Harry Kane (England) outjumps his marker inside the box and heads the resulting corner way wide of the right post.",key_event,Shot,Kane,England,120
+england_switzerland,22,0,22,"Jude Bellingham (England) sees an unmarked teammate and attempts to send him a low pass. However, one of the defenders reads the game perfectly and averts the danger.",general,General,Bellingham,England,161
+england_switzerland,24,0,24,"A first-time shot by Breel Embolo (Switzerland) inside the box is unwittingly blocked by one of his own players.",key_event,Shot,Embolo,Switzerland,116
+england_switzerland,25,0,25,"Ruben Vargas (Switzerland) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",general,General,Vargas,Switzerland,177
+england_switzerland,26,0,26,"Dangerous play by Granit Xhaka (Switzerland). Daniele Orsato blows his whistle for a foul.",general,General,Xhaka,Switzerland,92
+england_switzerland,27,0,27,"Bukayo Saka (England) tries to pass the ball into the penalty area but it's blocked.",general,General,Saka,England,83
+england_switzerland,29,0,29,"Jude Bellingham (England) attempts to set up his teammate with a scoring opportunity by chipping in a fine pass from the edge of the box, but one of the defenders intercepts his effort. England have a corner.",general,Corner,Bellingham,England,197
+england_switzerland,30,0,30,"Kieran Trippier (England) takes the corner with a short pass.",general,Corner,Trippier,England,60
+england_switzerland,31,0,31,"Remo Freuler (Switzerland) slides a pass forward, but one of the defenders cuts it out.",general,General,Freuler,Switzerland,89
+england_switzerland,32,0,32,"What was Fabian Schar (Switzerland) thinking? He will not get away with that. The referee shows him a yellow card.",key_event,Yellow Card,Schar,Switzerland,121
+england_switzerland,34,0,34,"Daniele Orsato couldn't ignore the rough tackle by Bukayo Saka (England) and blew his whistle.",general,General,Saka,England,94
+england_switzerland,35,0,35,"A pass by Fabian Schar (Switzerland) ends up in no man's land, and the attacking effort comes to an end.",general,General,Schar,Switzerland,110
+england_switzerland,36,0,36,"Another attempt to send the ball beyond the defence by Kieran Trippier (England) is thwarted and cleared to safety.",general,General,Trippier,England,121
+england_switzerland,38,0,38,"Phil Foden (England) once again attempts to send a defence-splitting pass, but the opposition's defence is alert and intercepts the ball.",general,General,Foden,England,140
+england_switzerland,39,0,39,"The ball is cleared after Dan Ndoye (Switzerland) attempted to dribble past an opposing player.",general,General,Ndoye,Switzerland,95
+england_switzerland,41,0,41,"The current number of shots on goal is 0:0.",general,General,,Both,43
+england_switzerland,43,0,43,"Bukayo Saka (England) receives a good pass just outside the box, unleashes a strike from a promising position, but the shot is blocked by the defender.",key_event,Shot,Saka,England,151
+england_switzerland,44,0,44,"England keep possession of the ball by producing short passes and one-two passes from player to player.",general,General,,England,106
+england_switzerland,45,0,45,"The defender bravely blocks the shot from Kobbie Mainoo (England) inside the box. It will be a corner kick for England.",key_event,Shot,Mainoo,England,119
+england_switzerland,45,0,45,"Yann Sommer leaps to collect the ball from the corner which was sent over by Phil Foden (England).",general,Corner,"Sommer, Foden",England,103
+england_switzerland,45,0,45,"The first half of today's match has just finished.",general,Half Time,,Both,54
+england_switzerland,46,0,46,"The players are back out on the pitch following the half-time break and the second half is about to start.",key_event,Kick Off,,Both,110
+england_switzerland,47,0,47,"Jude Bellingham (England) sends a quick through ball into space for his teammate who is lurking close to the offside line, but one of the defenders intercepts and clears the danger.",general,General,Bellingham,England,177
+england_switzerland,47,0,47,"Bukayo Saka (England) has a shot blocked from inside the box.",key_event,Shot,Saka,England,59
+england_switzerland,48,0,48,"Bukayo Saka (England) and Harry Kane attempt to exchange short two-yard passes, but the opposition's defence intercepts the ball.",general,General,"Saka, Kane",England,138
+england_switzerland,49,0,49,"Granit Xhaka (Switzerland) is penalised for holding. Daniele Orsato signals a set piece.",general,General,Xhaka,Switzerland,89
+england_switzerland,50,0,50,"Kyle Walker (England) was trying to get to the ball but clattered into the legs of the opponent as well. Daniele Orsato blows his whistle for an infringement.",general,General,Walker,England,155
+england_switzerland,51,0,51,"Breel Embolo (Switzerland) collects a great pass inside the box and misses a golden opportunity. His low shot was directed into the middle of the goal, but the goalkeeper does well to stop his effort.",key_event,Save,Embolo,Switzerland,201
+england_switzerland,53,0,53,"Flag up against Bukayo Saka (England). He had space to move into behind the defence, but he went too soon.",general,Offside,Saka,England,117
+england_switzerland,54,0,54,"Breel Embolo (Switzerland) escapes without any punishment from the referee after using excessive force to foul his opponent.",general,General,Embolo,Switzerland,126
+england_switzerland,56,0,56,"Harry Kane (England) pulls the jersey of one of the opposition players and Daniele Orsato blows his whistle for a foul.",general,General,Kane,England,121
+england_switzerland,59,0,59,"Fabian Rieder (Switzerland) attempts to send a low pass into the box from the edge of the penalty area, but the opposition's defence knocks the ball to safety. The ball is out of play and Switzerland manage to earn a corner.",general,Corner,Rieder,Switzerland,208
+england_switzerland,60,0,60,"Ruben Vargas (Switzerland) takes a short corner kick.",general,Corner,Vargas,Switzerland,51
+england_switzerland,60,0,60,"Ricardo Rodriguez (Switzerland) sends a promising through ball, but the defence is alert and cuts out the pass. The ball goes out for a corner. Switzerland can continue in their attacking effort.",general,Corner,Rodriguez,Switzerland,178
+england_switzerland,61,0,61,"Fabian Rieder (Switzerland) puts a cross into the box from the corner but there is no panic from the opposition and they easily clear.",general,Corner,Rieder,Switzerland,130
+england_switzerland,61,0,61,"Ruben Vargas (Switzerland) sends a pass into the box, but the opposition's defence is alert to the danger and makes a clearance.",general,General,Vargas,Switzerland,130
+england_switzerland,63,0,63,"Michel Aebischer (Switzerland) makes a rough challenge and the referee blows for a foul.",general,General,Aebischer,Switzerland,82
+england_switzerland,63,0,63,"A substitution has been made. Fabian Rieder is replaced by Steven Zuber (Switzerland).",key_event,Substitution,"Rieder, Zuber",Switzerland,85
+england_switzerland,63,0,63,"Murat Yakin has decided to introduce fresh legs, with Silvan Widmer (Switzerland) replacing Ruben Vargas.",key_event,Substitution,"Widmer, Vargas, Yakin",Switzerland,107
+england_switzerland,65,0,65,"One of the defenders reacts at the last minute to brilliantly block a pass from Ricardo Rodriguez (Switzerland).",general,General,Rodriguez,Switzerland,111
+england_switzerland,66,0,66,"Michel Aebischer (Switzerland) gets to the ball in the penalty box and immediately fires a first-time effort. He didn't hit the ball properly and skies it high over the crossbar.",key_event,Shot,Aebischer,Switzerland,172
+england_switzerland,67,0,67,"Daniele Orsato shows a yellow card to Harry Kane (England) for his blatant foul.",key_event,Yellow Card,Kane,England,79
+england_switzerland,69,0,69,"Dan Ndoye (Switzerland) races towards goal but the defender gets back well to make a challenge.",general,General,Ndoye,Switzerland,90
+england_switzerland,70,0,70,"Daniele Orsato blows for a foul after Manuel Akanji (Switzerland) was too aggressive in the battle for the ball.",general,General,Akanji,Switzerland,108
+england_switzerland,71,0,71,"Phil Foden (England) sends a pass into the box, but his attempt is thwarted and cleared.",general,General,Foden,England,87
+england_switzerland,72,0,72,"Phil Foden (England) slides a pass forward, but one of the defenders cuts it out.",general,General,Foden,England,82
+england_switzerland,73,0,73,"Jude Bellingham (England) deprives his opponent of the ball, but the referee blows his whistle for a foul. He's not happy with the decision!",general,General,Bellingham,England,139
+england_switzerland,75,0,75,"Goal! Breel Embolo (Switzerland) pounced on a loose ball inside the box and beats the goalkeeper with a shot into the bottom left corner. He makes it 0:1.",key_event,Goal,Embolo,Switzerland,157
+england_switzerland,78,0,78,"Substitution. Kobbie Mainoo walks off the pitch and Luke Shaw (England) comes on as a substitute.",key_event,Substitution,"Mainoo, Shaw",England,96
+england_switzerland,78,0,78,"It is time for a substitution. Cole Palmer (England) is on for Ezri Konsa.",key_event,Substitution,"Palmer, Konsa",England,74
+england_switzerland,78,0,78,"Gareth Southgate decides to make a substitution. Kieran Trippier will be replaced by Eberechi Eze (England).",key_event,Substitution,"Trippier, Eze, Southgate",England,104
+england_switzerland,80,0,80,"Declan Rice looks around to decide who he is going to pass to. He picks out Bukayo Saka (England), who collects the ball perfectly and unleashes a terrific shot from just outside of the box towards the bottom left corner and it ricochets in off the post. The score is 1:1.",key_event,Goal,"Rice, Saka",England,267
+england_switzerland,82,0,82,"Luke Shaw (England) produces a dangerous low pass into the penalty area, but the defence manage to cut it out.",general,General,Shaw,England,112
+england_switzerland,83,0,83,"What a goal-scoring opportunity! Harry Kane (England) finds some space inside the box and gets in a strike, but the shot is brilliantly blocked by one of the defending players sliding in.",key_event,Shot,Kane,England,178
+england_switzerland,84,0,84,"Ricardo Rodriguez (Switzerland) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Rodriguez,Switzerland,164
+england_switzerland,85,0,85,"This yellow card was deserved. The tackle by Silvan Widmer (Switzerland) was quite harsh and Daniele Orsato didn't hesitate to show him a yellow card.",key_event,Yellow Card,Widmer,Switzerland,150
+england_switzerland,87,0,87,"Bukayo Saka (England) sends in a pass which fails to reach any of his teammates.",general,General,Saka,England,78
+england_switzerland,89,0,89,"Eberechi Eze (England) has a great chance to score from deep inside the box! He finds some space for the shot, but sends it errantly way past the left post. Very poor attempt.",key_event,Shot,Eze,England,173
+england_switzerland,90,0,90,"There will be a minimum of 3 min. of added time.",general,General,,Both,54
+england_switzerland,90,1,90+1,"Dan Ndoye (Switzerland) unleashes a shot, but his effort is poor and floats high over the bar.",key_event,Shot,Ndoye,Switzerland,94
+england_switzerland,90,2,90+2,"Fabian Schar (Switzerland) slides a pass forward, but one of the defenders cuts it out.",general,General,Schar,Switzerland,88
+england_switzerland,90,2,90+2,"The attendance for today's match is 46907.",general,General,,Both,47
+england_switzerland,90,3,90+3,"Steven Zuber (Switzerland) finds himself in a promising position to finish! He unleashes a poor shot which flies into the stands. What a poor effort that was!",key_event,Shot,Zuber,Switzerland,161
+england_switzerland,90,3,90+3,"The referee blows his whistle to signal the end of the second half, with no clear winner in the 90 minutes.",general,Full Time,,Both,111
+england_switzerland,91,0,91,"The first period of extra-time is about to start.",key_event,Extra Time Start,,Both,49
+england_switzerland,93,0,93,"A pass by Fabian Schar (Switzerland) ends up in no man's land, and the attacking effort comes to an end.",general,General,Schar,Switzerland,110
+england_switzerland,95,0,95,"England are dominating the game at the moment by exchanging a combination of one or two touch passes. Great harmony between the players.",general,General,,England,141
+england_switzerland,96,0,96,"Declan Rice (England) had a good opportunity from long range. His shot was directed towards the right side of the goal, but Yann Sommer was alert and made a comfortable save. The referee points to the corner flag and England will take a corner.",key_event,Save,"Rice, Sommer",England,238
+england_switzerland,96,0,96,"The corner kick from Eberechi Eze (England) is headed out of the penalty area by one of the defenders.",general,Corner,Eze,England,101
+england_switzerland,98,0,98,"Steven Zuber (Switzerland) plays a dangerous chip pass into the box in an attempt to set up one of his teammates, but the effort is intercepted by one of the defenders.",general,General,Zuber,Switzerland,169
+england_switzerland,98,0,98,"Ricardo Rodriguez (Switzerland) makes a reckless foul in order to win the ball from his opponent. Daniele Orsato has a clear sight of it and blows his whistle.",general,General,Rodriguez,Switzerland,150
+england_switzerland,98,0,98,"Here comes a substitution. Denis Zakaria (Switzerland) is brought on as a substitute for Dan Ndoye.",key_event,Substitution,"Zakaria, Ndoye",Switzerland,99
+england_switzerland,99,0,99,"Fabian Schar (Switzerland) manages to dispossess his opponent of the ball, but he commits a foul in the process and the referee blows his whistle.",general,General,Schar,Switzerland,144
+england_switzerland,100,0,100,"Declan Rice (England) decides to speed play up by quickly sending the free kick into the box.",general,Free Kick,Rice,England,91
+england_switzerland,101,0,101,"Phil Foden (England) unleashes a missile of a shot towards goal, but his good effort is blocked by one of the defenders.",key_event,Shot,Foden,England,119
+england_switzerland,102,0,102,"Jude Bellingham (England) finds himself free inside the box and pulls the trigger, but his effort is brilliantly stopped by one of the defending players.",key_event,Shot,Bellingham,England,145
+england_switzerland,102,0,102,"What a wasted opportunity by Jude Bellingham (England)! He creates some space for himself inside the penalty box and unleashes a decent strike towards the middle of the net, but Yann Sommer makes a comfortable save to thwart him.",key_event,Save,"Bellingham, Sommer",England,229
+england_switzerland,104,0,104,"Steven Zuber (Switzerland) makes an overly-aggressive challenge and Daniele Orsato blows his whistle for a foul.",general,General,Zuber,Switzerland,109
+england_switzerland,105,0,105,"That's the end of the first period of extra-time.",general,Half Time Extra,,Both,51
+england_switzerland,106,0,106,"The second period of extra time has just started and both teams will probably play with a lot of cautiously as neither of them will want to risk losing the match by trying to win it.",key_event,Extra Time Start,,Both,191
+england_switzerland,109,0,109,"The referee stops play so that a substitution can be made and Xherdan Shaqiri (Switzerland) replaces Breel Embolo.",key_event,Substitution,"Shaqiri, Embolo",Switzerland,117
+england_switzerland,109,0,109,"Here is a change. Harry Kane is going off and Gareth Southgate gives the last tactical orders to Ivan Toney (England).",key_event,Substitution,"Kane, Toney, Southgate",England,117
+england_switzerland,110,0,110,"Cole Palmer (England) tries to slide the ball through to a teammate but it's well blocked by a defender.",general,General,Palmer,England,105
+england_switzerland,111,0,111,"The England players are displaying brilliant short passes and great ball movement. They are waiting to open the opposition's defence and hit them swiftly on the break.",general,General,,England,169
+england_switzerland,112,0,112,"Eberechi Eze (England) delivers a long ball, but it lacks enough power to reach his teammates and is intercepted by one of the defenders.",general,General,Eze,England,139
+england_switzerland,112,0,112,"Cole Palmer (England) slaloms his way past challenges, but an opposing player does well to get the ball away.",general,General,Palmer,England,114
+england_switzerland,113,0,113,"Fabian Schar (Switzerland) connects with a loose ball in the box, but sends his first-time shot miles over the bar.",key_event,Shot,Schar,Switzerland,118
+england_switzerland,115,0,115,"Substitution. Trent Alexander-Arnold (England) receives a signal from the referee and is now allowed to enter the pitch as Phil Foden walks off.",key_event,Substitution,"Alexander-Arnold, Foden",England,144
+england_switzerland,116,0,116,"Jude Bellingham (England) nearly creates a chance, but his attempt to pick out a teammate with a through ball does not come off.",general,General,Bellingham,England,129
+england_switzerland,117,0,117,"Silvan Widmer (Switzerland) attempts to find one of his teammates with a sweet pass into the box, but one of the defending players reacts well and intercepts the effort. Switzerland will have a chance to score from a corner kick.",general,Corner,Widmer,Switzerland,209
+england_switzerland,117,0,117,"Xherdan Shaqiri (Switzerland) goes over to take the corner kick and it looks like he will send the ball into the penalty box.",general,Corner,Shaqiri,Switzerland,122
+england_switzerland,117,0,117,"Xherdan Shaqiri (Switzerland) fires the ball against the crossbar direct from the corner kick. That was close!",key_event,Hit Bar,Shaqiri,Switzerland,111
+england_switzerland,118,0,118,"We are about to witness a subsitution. Zeki Amdouni (Switzerland) for Michel Aebischer.",key_event,Substitution,"Amdouni, Aebischer",Switzerland,92
+england_switzerland,118,0,118,"Murat Yakin has decided to substitute Remo Freuler and he is replaced by Vincent Sierro (Switzerland).",key_event,Substitution,"Freuler, Sierro, Yakin",Switzerland,98
+england_switzerland,119,0,119,"A snap shot by Zeki Amdouni (Switzerland) from the edge of the area flies towards the left side of the goal, but Jordan Pickford produces a good save to thwart him.",key_event,Save,"Amdouni, Pickford",Switzerland,160
+england_switzerland,120,0,120,"1 additional min. will be played.",general,General,,Both,38
+england_switzerland,120,1,120+1,"Although Daniele Orsato has now ended extra time, we still don't know who the winner is. A penalty shoot-out will decide this match.",general,Penalty Shootout,,Both,135
+england_switzerland,121,0,121,"It is sometimes said that a penalty kick can only be missed by the taker rather than saved by the goalkeeper. Do you think that will be in the minds of the players today?",general,Penalty Shootout,,Both,184
+england_switzerland,121,0,121,"GOAL! That's a great strike from the spot by Cole Palmer (England) into the left of the net, giving goalkeeper Yann Sommer no chance!",key_event,Penalty Goal,"Palmer, Sommer",England,135
+england_switzerland,121,0,121,"Manuel Akanji (Switzerland) misses the penalty. He fired the ball towards the bottom right corner, but the goalkeeper pulled off a tremendous diving save to deny him.",key_event,Penalty Miss,"Akanji, Pickford",Switzerland,165
+england_switzerland,121,0,121,"Goal! Jude Bellingham (England) takes just a short run up and buries the penalty into the bottom right corner.",key_event,Penalty Goal,Bellingham,England,109
+england_switzerland,121,0,121,"Goal! Fabian Schar (Switzerland) runs up to the ball, stops and waits for Jordan Pickford to commit before slotting the penalty into the bottom right corner.",key_event,Penalty Goal,"Schar, Pickford",Switzerland,152
+england_switzerland,121,0,121,"Bukayo Saka (England) takes the penalty and scores! He buries the ball into the bottom right corner!",key_event,Penalty Goal,Saka,England,101
+england_switzerland,121,0,121,"Goal! Xherdan Shaqiri (Switzerland) calmly steps up and smashes the ball inside the right post.",key_event,Penalty Goal,Shaqiri,Switzerland,92
+england_switzerland,121,0,121,"Goal! Ivan Toney (England) puts the ball into the bottom left corner past the outstretched arm of Yann Sommer.",key_event,Penalty Goal,"Toney, Sommer",England,113
+england_switzerland,121,0,121,"Goal! Zeki Amdouni (Switzerland) runs up to the ball, stops and waits for Jordan Pickford to commit before slotting the penalty low into the middle of the goal.",key_event,Penalty Goal,"Amdouni, Pickford",Switzerland,154
+england_switzerland,121,0,121,"Trent Alexander-Arnold (England) fires the penalty inside the left post.",key_event,Penalty Goal,Alexander-Arnold,England,67
+england_switzerland,121,0,121,"The lottery of the penalty shootout is over. It was pretty exciting don't you think?",key_event,Full Time,,Both,88
+

@@ -1,0 +1,119 @@
+match_id,minute,plus_time,minute_display,commentary_text,line_type,event_type,players_mentioned,team_focus,commentary_length
+spain_georgia,0,0,0,"Today's referee will be Francois Letexier.",general,General,Letexier,Both,46
+spain_georgia,0,0,0,"The players are on the pitch and Spain will have the kick-off.",general,Kick Off,,Spain,61
+spain_georgia,1,0,1,"The first half of this match is about to start.",key_event,Kick Off,,Both,47
+spain_georgia,1,0,1,"An attempted cross from Nico Williams (Spain) is cleared.",general,General,Williams,Spain,56
+spain_georgia,2,0,2,"Fabian Ruiz (Spain) shoots from outside the box, but his effort is blocked.",key_event,Shot,Ruiz,Spain,75
+spain_georgia,3,0,3,"Nico Williams (Spain) serves up a nice cross, but the defence clears the danger. The linesman signals a throw-in for Spain.",general,General,Williams,Spain,131
+spain_georgia,4,0,4,"The linesman raises his flag. Pedri (Spain) is adjudged offside.",general,Offside,Pedri,Spain,67
+spain_georgia,5,0,5,"Pedri (Spain) controls a reverse pass deep inside the box and smacks the ball low towards the middle of the goal, but the Giorgi Mamardashvili anticipates well and smothers the ball.",key_event,Save,"Pedri, Mamardashvili",Spain,185
+spain_georgia,6,0,6,"Marc Cucurella (Spain) dinks a cross into the box in an attempt to find one of his teammates, but the defence manages to clear.",general,General,Cucurella,Spain,139
+spain_georgia,7,0,7,"Lamine Yamal (Spain) found some space to dink a cross from the side into the box, but it needed to be more precise to threaten the opposition. The ball goes out of play and Georgia will have a goal kick.",general,General,Yamal,Spain,194
+spain_georgia,7,0,7,"Otar Kakabadze (Georgia) thinks that he is fouled by his opponent, but the referee deems him to be the one who commits a foul and awards a free kick to the other team.",general,General,Kakabadze,Georgia,169
+spain_georgia,8,0,8,"Marc Cucurella (Spain) fails to find any of his teammates inside the box as his pass is blocked. Spain force their opponents to concede a corner.",general,Corner,Cucurella,Spain,148
+spain_georgia,9,0,9,"Nico Williams (Spain) decides to speed play up with a short corner kick.",general,Corner,Williams,Spain,76
+spain_georgia,9,0,9,"Nico Williams (Spain) swings in a cross, but the ball is cleared to safety by one of the defending players.",general,General,Williams,Spain,117
+spain_georgia,10,0,10,"Fabian Ruiz (Spain) produces a lovely ball into the penalty area but the defender manages to intercept and comfortably averts the danger. The ball goes out of play and Spain have been awarded a corner kick.",general,Corner,Ruiz,Spain,202
+spain_georgia,10,0,10,"The ball goes out of play and Spain have been awarded a corner kick.",general,Corner,,Spain,72
+spain_georgia,11,0,11,"Daniel Carvajal (Spain) jumps for a header from the resulting corner kick inside the box and sends the ball in on goal, but the goalkeeper makes a very good save.",key_event,Save,"Carvajal, Mamardashvili",Spain,175
+spain_georgia,11,0,11,"The ball goes behind for a corner. Spain will have an opportunity to threaten the opposition's goal.",general,Corner,,Spain,107
+spain_georgia,12,0,12,"Nico Williams (Spain) sends a cross into the box, but the opposition's defence clears the ball away to eliminate the danger.",general,General,Williams,Spain,134
+spain_georgia,12,0,12,"Nico Williams (Spain) decides to strike the ball towards goal, but his effort fails to threaten the goalkeeper after being blocked by one of the defenders.",key_event,Shot,Williams,Spain,159
+spain_georgia,12,0,12,"Lamine Yamal (Spain) decides to take a short corner instead of crossing into the box.",general,Corner,Yamal,Spain,86
+spain_georgia,14,0,14,"Nico Williams (Spain) takes the corner which is cleared by the opposition's defence.",general,Corner,Williams,Spain,86
+spain_georgia,14,0,14,"Francois Letexier blows his whistle and it's Robin Le Normand (Spain) who is penalised for an offensive foul. Good decision by the referee.",general,General,Le Normand,Spain,143
+spain_georgia,15,0,15,"The ball is cleared after Lamine Yamal (Spain) attempted to dribble past an opposing player.",general,General,Yamal,Spain,95
+spain_georgia,16,0,16,"The ball goes out for a corner. Spain can continue in their attacking effort.",general,Corner,,Spain,78
+spain_georgia,16,0,16,"Aymeric Laporte (Spain) timed his run perfectly to connect with the resulting corner kick, but his finish from around the penalty spot was rather poor as it went well wide of the left post. The ball is off of the pitch and it's a goal kick for Georgia.",key_event,Shot,Laporte,Spain,237
+spain_georgia,17,0,17,"Francois Letexier has a clear sight and sees a foul from Lamine Yamal (Spain).",general,General,Yamal,Spain,76
+spain_georgia,18,0,18,"An unfortunate own goal is conceded by Robin Le Normand (Spain), who attempted to block the ball after a cross, but instead he sends it into the right post of his own goal.",key_event,Own Goal,Le Normand,Spain,180
+spain_georgia,20,0,20,"Khvicha Kvaratskhelia (Georgia) looks to break free, but an opposing player clears the ball away.",general,General,Kvaratskhelia,Georgia,95
+spain_georgia,20,0,20,"Aymeric Laporte (Spain) sends a cross into the box, but the opposition's defence quickly intercepts the ball.",general,General,Laporte,Spain,114
+spain_georgia,22,0,22,"Giorgi Mamardashvili pulls off a great save to deny Fabian Ruiz (Spain), who makes himself some space inside the box and unleashes a quick low drive to the bottom right corner.",key_event,Save,"Mamardashvili, Ruiz",Spain,184
+spain_georgia,24,0,24,"Alvaro Morata (Spain) was too forceful with his tackle and Francois Letexier interrupted the game to signal a free kick.",general,General,Morata,Spain,123
+spain_georgia,25,0,25,"Rodri (Spain) tries to slide the ball through to a teammate but it's well blocked by a defender.",general,General,Rodri,Spain,99
+spain_georgia,26,0,26,"Rodri (Spain) hammers the ball towards goal from long-range, but one of the defenders reacts brilliantly to block the shot. Alvaro Morata (Spain) fails to beat the offside trap and the linesman puts his flag up.",general,Offside,"Rodri, Morata",Spain,203
+spain_georgia,27,0,27,"Pedri (Spain) blows an opportunity as he sends a rebound from just outside of the box narrowly wide of the left post. The ball goes out of play and Georgia will have a goal kick.",key_event,Shot,Pedri,Spain,173
+spain_georgia,29,0,29,"Aymeric Laporte (Spain) picks up a precise pass and attempts to threaten the keeper with a long-range effort, but it goes well wide of the mark. The ball goes out of play and Georgia will have a goal kick.",key_event,Shot,Laporte,Spain,191
+spain_georgia,30,0,30,"Giorgi Kochorashvili (Georgia) gets on the end of a pass on the edge of the box but his shot is blocked.",key_event,Shot,Kochorashvili,Georgia,103
+spain_georgia,31,0,31,"Lamine Yamal (Spain) hammers the ball from far out, but his shot is blocked by an opposition player.",key_event,Shot,Yamal,Spain,103
+spain_georgia,31,0,31,"Georges Mikautadze (Georgia) races towards goal but the defender gets back well to make a challenge.",general,General,Mikautadze,Georgia,101
+spain_georgia,32,0,32,"Lamine Yamal (Spain) whips a promising cross into the box, but the opposition's defence intercepts the ball. The ball is out of play. Spain will have a throw-in.",general,General,Yamal,Spain,163
+spain_georgia,33,0,33,"Khvicha Kvaratskhelia (Georgia) slaloms his way past challenges, but an opposing player does well to get the ball away. Georgia have been awarded a corner kick.",general,Corner,Kvaratskhelia,Georgia,170
+spain_georgia,34,0,34,"Khvicha Kvaratskhelia (Georgia) swings the ball into the box from the corner kick but it's a bit too strong and it goes out of play. The ball is off of the pitch and it's a goal kick for Spain.",general,Corner,Kvaratskhelia,Georgia,179
+spain_georgia,35,0,35,"Marc Cucurella (Spain) finds himself in space on the edge of the box and smashes a glorious looking effort towards the bottom right corner, but Giorgi Mamardashvili thwarts him with a great two-handed save.",key_event,Save,"Cucurella, Mamardashvili",Spain,208
+spain_georgia,36,0,36,"Lamine Yamal (Spain) sends over a poor, overhit cross from the corner kick and the ball goes out of play. The ball goes out of play and Georgia will have a goal kick.",general,Corner,Yamal,Spain,161
+spain_georgia,38,0,38,"Nico Williams (Spain) has a great chance inside the six-yard box, shoots to the middle of the goal, but Giorgi Mamardashvili pulls off an exquisite save to deny him.",key_event,Save,"Williams, Mamardashvili",Spain,170
+spain_georgia,39,0,39,"Goal! Nico Williams finds Rodri (Spain) with a clever pass. He steps inside his man on the edge of the box and whips a tremendous shot into the bottom right corner. Fantasy football! 1:1.",key_event,Goal,"Williams, Rodri",Spain,189
+spain_georgia,40,0,40,"The Spain players halt their celebrations as referee Francois Letexier makes the VAR signal to review the goal, most likely to ascertain if there was an offside in the build-up play.",general,VAR,,Spain,182
+spain_georgia,41,0,41,"Here comes the VAR verdict: Referee Francois Letexier signals that there was no offside and the goal stands! The Spain players celebrate.",general,VAR,,Spain,141
+spain_georgia,41,0,41,"Willy Sagnol is forced to make a change. Otar Kiteishvili (Georgia) is not able to carry on due to injury. He is replaced by Sandro Altunashvili.",key_event,Substitution,"Kiteishvili, Altunashvili, Sagnol",Georgia,144
+spain_georgia,42,0,42,"The defence is alert as they clear a dangerous cross from Nico Williams (Spain).",general,General,Williams,Spain,80
+spain_georgia,43,0,43,"A pass by Fabian Ruiz (Spain) ends up in no man's land, and the attacking effort comes to an end. The referee and the linesman both signal a throw-in for Georgia.",general,General,Ruiz,Spain,164
+spain_georgia,44,0,44,"Francois Letexier shows a yellow card to Alvaro Morata (Spain) for his blatant foul.",key_event,Yellow Card,Morata,Spain,84
+spain_georgia,45,0,45,"Alvaro Morata (Spain) commits a foul during an attacking move.",general,General,Morata,Spain,63
+spain_georgia,45,0,45,"2 min. of stoppage-time to be played.",general,General,,Both,40
+spain_georgia,45,2,45+2,"Lamine Yamal (Spain) unleashes a missile of a shot towards goal, but his good effort is blocked by one of the defenders.",key_event,Shot,Yamal,Spain,131
+spain_georgia,45,2,45+2,"Daniel Carvajal (Spain) produces a dangerous lofted cross into the box which is intercepted. The ball goes out of play. Spain are awarded a corner kick.",general,Corner,Carvajal,Spain,157
+spain_georgia,45,3,45+3,"A dangerous looking corner kick from Lamine Yamal (Spain) is cleared to safety by the defence. Now Spain have a corner.",general,Corner,Yamal,Spain,126
+spain_georgia,45,3,45+3,"Nico Williams (Spain) sends in the corner, but fails to find the head of any of his teammates, allowing the defence to clear.",general,Corner,Williams,Spain,134
+spain_georgia,45,3,45+3,"The match has reached half-time.",general,Half Time,,Both,33
+spain_georgia,46,0,46,"Francois Letexier blows his whistle and the second half starts.",key_event,Kick Off,,Both,62
+spain_georgia,46,0,46,"Alvaro Morata passes to Fabian Ruiz (Spain), but he produces a wild shot from the edge of the box which goes well wide of the left post. The ball is off of the pitch and it's a goal kick for Georgia.",key_event,Shot,"Morata, Ruiz",Spain,199
+spain_georgia,47,0,47,"Georges Mikautadze (Georgia) goes on a solo run, but he fails to create a chance as an opposition player blocks him.",general,General,Mikautadze,Georgia,122
+spain_georgia,48,0,48,"Good movement by Alvaro Morata (Spain), but he can't find any of his teammates as the cross is poor.",general,General,Morata,Spain,108
+spain_georgia,49,0,49,"What a great effort! Khvicha Kvaratskhelia (Georgia) decides to unleash a long-range shot. Despite hitting it very well, it scorches inches wide of the left post. We could have witnessed a magnificent goal. The ball is off of the pitch and it's a goal kick for Spain.",key_event,Shot,Kvaratskhelia,Georgia,269
+spain_georgia,50,0,50,"Guram Kashia (Georgia) tackles a bit over-zealously and Francois Letexier blows for a foul. Spain earn a free kick which could lead to a goal-scoring opportunity.",general,Free Kick,Kashia,Georgia,160
+spain_georgia,51,0,51,"Lamine Yamal (Spain) produces an accurate shot from the free kick. His promising effort flies towards the left side of the goal, but is blocked by Giorgi Mamardashvili, who makes a fine save to keep the ball from hitting the net.",key_event,Save,"Yamal, Mamardashvili",Spain,226
+spain_georgia,51,0,51,"Goal! Lamine Yamal plays a neat lofted pass into the box for Fabian Ruiz (Spain), who beats the defender in the air and plants a header into the bottom left corner from close range. 2:1.",key_event,Goal,"Yamal, Ruiz",Spain,196
+spain_georgia,52,0,52,"The referee stops play so that a substitution can be made and Pedri leaves the pitch and Dani Olmo (Spain) comes on.",key_event,Substitution,"Pedri, Olmo",Spain,124
+spain_georgia,53,0,53,"Lamine Yamal (Spain) has an effort on goal, but he misses to the right of the goal. The ball is off of the pitch and it's a goal kick for Georgia.",key_event,Shot,Yamal,Spain,144
+spain_georgia,54,0,54,"Alvaro Morata (Spain) attempts to find his teammate with a pass from outside the box, but the opposition's defence is quick to react and thwarts the attack.",general,General,Morata,Spain,157
+spain_georgia,55,0,55,"Great interplay ends with Marc Cucurella playing a simple pass to Alvaro Morata (Spain), who steadies himself and curls a shot from mid-range agonisingly wide of the left post. The ball is off of the pitch and it's a goal kick for Georgia.",key_event,Shot,"Cucurella, Morata",Spain,242
+spain_georgia,57,0,57,"The referee blows his whistle for a foul after Sandro Altunashvili (Georgia) overruns the ball during an attack and makes an aggressive challenge on his opponent.",general,General,Altunashvili,Georgia,166
+spain_georgia,58,0,58,"The attendance for today's match is 42233.",general,General,,Both,47
+spain_georgia,59,0,59,"Lamine Yamal (Spain) goes on a solo run, but he fails to create a chance as an opposition player blocks him. The ball is out of play. Spain will have a chance to score from a corner.",general,Corner,Yamal,Spain,184
+spain_georgia,60,0,60,"Lamine Yamal (Spain) takes the corner with a short pass.",general,Corner,Yamal,Spain,59
+spain_georgia,60,0,60,"Dani Olmo (Spain) collects a pass and finds himself in a good position to strike from the edge of the box, but his attempt is blocked.",key_event,Shot,Olmo,Spain,138
+spain_georgia,61,0,61,"Lamine Yamal (Spain) sends a pass into the box, but his attempt is thwarted and cleared.",general,General,Yamal,Spain,92
+spain_georgia,62,0,62,"Dani Olmo (Spain) strikes the ball towards goal, but it fails to reach the target after being well blocked by one of the defenders.",key_event,Shot,Olmo,Spain,137
+spain_georgia,63,0,63,"Daniel Carvajal (Spain) sends the ball into the box from the side of the pitch, but his cross is blocked.",general,General,Carvajal,Spain,107
+spain_georgia,63,0,63,"Lamine Yamal (Spain) makes space inside the box for a shot, but his effort goes just wide of the left post. The ball goes out of play and Georgia will have a goal kick.",key_event,Shot,Yamal,Spain,167
+spain_georgia,63,0,63,"Willy Sagnol has decided to introduce fresh legs, with Georgiy Tsitaishvili (Georgia) replacing Luka Lochoshvili.",key_event,Substitution,"Lochoshvili, Tsitaishvili, Sagnol",Georgia,114
+spain_georgia,63,0,63,"It's time for a substitution. That's the last involvement from Giorgi Chakvetadze as he is replaced by Zuriko Davitashvili (Georgia).",key_event,Substitution,"Chakvetadze, Davitashvili",Georgia,129
+spain_georgia,65,0,65,"Nico Williams (Spain) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Good work from Spain as they win a corner.",general,Corner,Williams,Spain,160
+spain_georgia,65,0,65,"A horde of players are waiting inside the penalty area for a cross from the corner, but Nico Williams (Spain) takes it short.",general,Corner,Williams,Spain,131
+spain_georgia,66,0,66,"Nico Williams (Spain) prepares to take a corner kick.",general,Corner,Williams,Spain,55
+spain_georgia,66,0,66,"A dangerous towering header by Robin Le Normand (Spain) from around the penalty spot goes just wide of the left post. This corner kick didn't change the score. The ball is off of the pitch and it's a goal kick for Georgia.",key_event,Shot,Le Normand,Spain,217
+spain_georgia,66,0,66,"Substitution. Marc Cucurella is replaced by Alejandro Grimaldo (Spain).",key_event,Substitution,"Cucurella, Grimaldo",Spain,72
+spain_georgia,66,0,66,"Luis de la Fuente prepares a substitution. Alvaro Morata is replaced by Mikel Oyarzabal (Spain).",key_event,Substitution,"Morata, Oyarzabal, de la Fuente",Spain,98
+spain_georgia,68,0,68,"Georgiy Tsitaishvili (Georgia) beats the defender to the ball in the box and shoots, but the ball flashes just wide of the left post. The ball is off of the pitch and it's a goal kick for Spain.",key_event,Shot,Tsitaishvili,Georgia,188
+spain_georgia,70,0,70,"The keeper doesn't have to worry about this one. Fabian Ruiz (Spain) sacrificed accuracy for power, and thus his attempt went well over the bar. The ball is off of the pitch and it's a goal kick for Georgia.",key_event,Shot,Ruiz,Spain,202
+spain_georgia,71,0,71,"Zuriko Davitashvili (Georgia) is awarded a yellow card for his tackle. He doesn't seem to agree with the decision, but Francois Letexier ignores the protests.",key_event,Yellow Card,Davitashvili,Georgia,157
+spain_georgia,73,0,73,"Neat passing move from Spain in order to create new attacking opportunities.",general,General,,Spain,77
+spain_georgia,74,0,74,"It's an own goal! Giorgi Gvelesiani (Georgia) scores into his own net!",key_event,Own Goal,Gvelesiani,Georgia,72
+spain_georgia,75,0,75,"Wait! Referee Francois Letexier has indicated he is going to review the Spain goal using VAR. It's probably to see if there was an offside in the build-up.",general,VAR,,Spain,157
+spain_georgia,75,0,75,"The goal by Spain is DISALLOWED on the advice of the video assistant referee due to an offside.",key_event,Disallowed Goal,,Spain,93
+spain_georgia,75,0,75,"Nico Williams (Spain) finishes his beautiful individual effort with a superb strike from inside the box. Giorgi Mamardashvili is just a bystander as the ball flies under the crossbar. The score is 3:1.",key_event,Goal,"Williams, Mamardashvili",Spain,208
+spain_georgia,76,0,76,"Georges Mikautadze (Georgia) is down injured and the referee stops play so that he can receive medical treatment.",general,General,Mikautadze,Georgia,117
+spain_georgia,77,0,77,"Georges Mikautadze (Georgia) is able to continue to play.",general,General,Mikautadze,Georgia,57
+spain_georgia,78,0,78,"He should have scored! Dani Olmo (Spain) latches onto a pull back in the box right in front of goal, but his shot low towards the middle of the goal is pretty weak and Giorgi Mamardashvili makes an easy save.",key_event,Save,"Olmo, Mamardashvili",Spain,216
+spain_georgia,78,0,78,"It's time for a substitution. Nika Kvekveskiri (Georgia) comes on in place of Giorgi Gvelesiani.",key_event,Substitution,"Gvelesiani, Kvekveskiri",Georgia,102
+spain_georgia,78,0,78,"Willy Sagnol has decided to make a change. Budu Zivzivadze (Georgia) replaces Georges Mikautadze.",key_event,Substitution,"Mikautadze, Zivzivadze, Sagnol",Georgia,97
+spain_georgia,81,0,81,"Lamine Yamal (Spain) takes a wonderful touch after collecting a pass inside the box. He steers his shot goalwards, but the keeper produces a decent save! It will be a corner kick for Spain.",key_event,Save,"Yamal, Mamardashvili",Spain,195
+spain_georgia,81,0,81,"The manager makes a subsitution with Mikel Merino (Spain) coming on for Fabian Ruiz.",key_event,Substitution,"Ruiz, Merino",Spain,90
+spain_georgia,81,0,81,"Luis de la Fuente has decided to substitute Daniel Carvajal and he is replaced by Jesus Navas (Spain).",key_event,Substitution,"Carvajal, Navas, de la Fuente",Spain,103
+spain_georgia,81,0,81,"Spain have been awarded a corner kick. The referee and one of his assistants both point at the corner flag.",general,Corner,,Spain,115
+spain_georgia,83,0,83,"Lamine Yamal (Spain) receives a precise pass inside the box and takes a shot that flies just wide of the right post. The ball goes out of play and Georgia will have a goal kick.",key_event,Shot,Yamal,Spain,174
+spain_georgia,83,0,83,"Goal! Great play by Mikel Oyarzabal releases Dani Olmo (Spain) in space on the edge of the box. He spots the keeper off his line and coolly puts the ball into bottom left corner. 4:1.",key_event,Goal,"Oyarzabal, Olmo",Spain,187
+spain_georgia,86,0,86,"Alejandro Grimaldo (Spain) races towards goal but the defender gets back well to make a challenge.",general,General,Grimaldo,Spain,99
+spain_georgia,88,0,88,"Khvicha Kvaratskhelia (Georgia) goes on a solo run, but he fails to create a chance as an opposition player blocks him. Georgia will have a chance to score from a corner kick.",general,Corner,Kvaratskhelia,Georgia,180
+spain_georgia,88,0,88,"Khvicha Kvaratskhelia (Georgia) takes the corner but it's cleared. The linesman makes the right call and Georgia will have a corner.",general,Corner,Kvaratskhelia,Georgia,136
+spain_georgia,89,0,89,"Zuriko Davitashvili (Georgia) swings in a dangerous cross from the resulting corner kick, but none of his teammates manage to outjump the defence.",general,Corner,Davitashvili,Georgia,148
+spain_georgia,90,0,90,"Dani Olmo (Spain) gets on the end of a pass and takes a low shot from the edge of the box which is straight at Giorgi Mamardashvili, who makes a comfortable save.",key_event,Save,"Olmo, Mamardashvili",Spain,170
+spain_georgia,90,0,90,"There will be a minimum of 3 min. of added time.",general,General,,Both,54
+spain_georgia,90,1,90+1,"Lamine Yamal (Spain) commits a foul and Francois Letexier immediately signals a free kick.",general,General,Yamal,Spain,91
+spain_georgia,90,2,90+2,"Dani Olmo (Spain) receives a sweet pass inside the box, but his effort on goal is blocked by the defender.",key_event,Shot,Olmo,Spain,113
+spain_georgia,90,3,90+3,"Jesus Navas (Spain) tries to take the opposition by surprise with a quick free kick into the box.",general,Free Kick,Navas,Spain,101
+spain_georgia,90,4,90+4,"That's all for today as the game is over.",key_event,Full Time,,Both,47
+
