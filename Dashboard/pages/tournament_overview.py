@@ -237,8 +237,8 @@ class TournamentOverview:
                 'Goals/Match': [2.25, 2.38, 2.43],
                 'Goal Diff/Match': [1.03, 1.62, 0.71],  # Real calculated values from match data
                 'Corners/Match': [9.7, 12.6, 9.0],
-                'Draws': [21, 3, 2],
-                'Draw %': [58.3, 37.5, 28.6],
+                'Draws': [14, 1, 2],  # CORRECTED: 14+1+2=17 total draws (verified from official stats)
+                'Draw %': [38.9, 12.5, 28.6],  # CORRECTED: 14/36=38.9%, 1/8=12.5%, 2/7=28.6%
                 'Extra Time': [0, 2, 3],
                 'Penalties': [0, 1, 2]
             }
@@ -292,9 +292,9 @@ class TournamentOverview:
                 row=1, col=2
             )
             
-            # Draws comparison
+            # Draws comparison - CORRECTED VALUES
             fig.add_trace(
-                go.Bar(x=stages, y=[58.3, 37.5, 28.6],
+                go.Bar(x=stages, y=[38.9, 12.5, 28.6],
                        marker_color=colors, name='Draw %', showlegend=False),
                 row=1, col=3
             )
@@ -323,8 +323,9 @@ class TournamentOverview:
             - Quarter-finals: 2 penalty shootouts
             
             **Notable Patterns:**
-            - **Group Stage**: High draw rate (58.3%) - Teams playing cautiously in group phase
+            - **Group Stage**: Moderate draw rate (38.9%) - Balanced competitive matches
             - **Round of 16**: Highest corners per match (12.6) and goal difference (1.62) - Most intense tactical battles
+            - **Knockout Finals**: Low draw rate (28.6%) - High-stakes decisive matches
             """)
             
         
@@ -388,8 +389,8 @@ class TournamentOverview:
                 'Goals/Match': [2.67, 1.75, 2.33],
                 'Goal Diff/Match': [1.1, 0.9, 1.1],  # Estimated to average 1.03 for Group Stage consistency
                 'Corners/Match': [9.2, 9.4, 10.3],
-                'Draws': [7, 9, 5],  # Total: 21 draws for Group Stage
-                'Draw %': [58.3, 75.0, 41.7]  # Average: 58.3% for Group Stage
+                'Draws': [5, 6, 3],  # CORRECTED: Total 14 draws for Group Stage (verified)
+                'Draw %': [41.7, 50.0, 25.0]  # CORRECTED: 5/12=41.7%, 6/12=50.0%, 3/12=25.0%
             }
             
             import pandas as pd
@@ -734,12 +735,12 @@ class TournamentOverview:
         """Render match outcomes analysis"""
         st.subheader("🎯 Match Outcomes")
         
-        # Based on EDA insights
+        # Based on EDA insights - CORRECTED VALUES
         outcome_data = {
-            "Draws at Halftime": 52.9,
-            "Draws at Full-time (90 min)": 33.3,
-            "Result Changes (HT-FT)": 41.2,
-            "Late Winners": 27.5
+            "Draws at Halftime": 52.9,  # 27 matches
+            "Draws at 90 min": 37.3,  # 19 matches (14 group + 5 ET matches)
+            "Result Changes (HT-FT 90 min)": 41.2,  # 21 matches
+            "Late Winners (75-90+)": 19.6  # 10 matches won by late goal
         }
         
         # First row: Two pie charts side by side
@@ -786,16 +787,16 @@ class TournamentOverview:
             """)
         
         with col2:
-            # Second Half/Full-time Results
-            st.markdown("##### Full-time Results")
+            # Second Half/Full-time Results (Including Overtime)
+            st.markdown("##### Full-time Results (Including Overtime)")
             labels = ['Draws', 'Decisive Results']
-            values = [17, 34]  # 17 draws out of 51 total matches
+            values = [17, 34]  # 17 draws out of 51 total matches (after ET, before penalties)
             draw_percentage = (17/51)*100
             
             fig = px.pie(
                 values=values,
                 names=labels,
-                title="Full-time Result Distribution",
+                title="Full-time Result Distribution (Including Overtime)",
                 color_discrete_map={
                     'Draws': DRAW_COLOR,  # Same gray as halftime draws
                     'Decisive Results': DECISIVE_COLOR
@@ -817,17 +818,21 @@ class TournamentOverview:
             - **Decisive Results**: 34 matches ({100-draw_percentage:.1f}%)
             """)
         
-        # Second row: Result Dynamics
-            st.markdown("#### Result Dynamics")
+        # Second row: Result Dynamics (at 90 minutes)
+        st.markdown("#### Result Dynamics (at 90 minutes)")
         col1, col2, col3, col4 = st.columns(4)
         
-        total_matches = 51
-        dynamics_items = list(outcome_data.items())
-            
-        for i, (outcome, percentage) in enumerate(dynamics_items):
-            count = int((percentage / 100) * total_matches)
-            col = [col1, col2, col3, col4][i]
-            with col:
+        # Use actual counts to avoid rounding errors
+        dynamics_data = [
+            ("Draws at Halftime", 27, 52.9),
+            ("Draws at 90 min", 19, 37.3),
+            ("Result Changes (HT-FT)", 21, 41.2),
+            ("Late Winners (75-90+)", 10, 19.6)
+        ]
+        
+        cols = [col1, col2, col3, col4]
+        for i, (outcome, count, percentage) in enumerate(dynamics_data):
+            with cols[i]:
                 st.markdown(f"""
                 <div class="insight-box">
                     <strong>{outcome}</strong><br>
@@ -837,38 +842,42 @@ class TournamentOverview:
                 """, unsafe_allow_html=True)
         
         # Add new section for detailed result changes by stage
-        st.markdown("#### 📊 Result Changes by Stage")
+        st.markdown("#### 📊 Result Changes by Stage (at 90 min)")
         
         col1, col2 = st.columns(2)
         
         with col1:
             st.markdown("""
             **Group Stage** (36 matches):
-            - Result changes: 15 matches (41.7%)
-            - Late winners: 8 matches (22.2%)
-            - Most stable outcomes
+            - Result changes (HT→90min): 15 matches (41.7%)
+            - Late winners (75-90+): 6 matches (16.7%)
+            - Late equalizers (75-90+): 6 matches (16.7%)
+            - *Remark: 2 games with multiple late changes (Croatia-Albania, Netherlands-Austria)*
             """)
             
             st.markdown("""
             **Round of 16** (8 matches):
-            - Result changes: 4 matches (50.0%)
-            - Late winners: 3 matches (37.5%)
-            - Higher intensity
+            - Result changes (HT→90min): 4 matches (50.0%)
+            - Late winners (75-90+): 1 match (12.5%)
+            - Late equalizers (75-90+): 1 match (12.5%)
+            - *Remark: England-Slovakia late equalizer led to Extra Time*
             """)
         
         with col2:
             st.markdown("""
             **Quarter-finals+** (7 matches):
-            - Result changes: 5 matches (71.4%)
-            - Late winners: 3 matches (42.9%)
-            - Maximum volatility
+            - Result changes (HT→90min): 2 matches (28.6%)
+            - Late winners (75-90+): 3 matches (42.9%)
+            - Late equalizers (75-90+): 2 matches (28.6%)
+            - *Remark: 2 games with multiple late changes (Netherlands-Turkey, England-Switzerland)*
             """)
             
             st.markdown("""
-            **Late Game Definition**:
-            - **Minutes 75-90+** (including stoppage)
-            - Critical **15-minute window**
-            - **14 total late winners** across tournament
+            **Late Game Summary (75-90+)**:
+            - **Late Winners**: 10 matches (goal that won the match)
+            - **Late Equalizers**: 9 matches (goal that saved a draw/ET)
+            - **Total late decisive goals**: 19 matches (37.3%)
+            - **4 dramatic games** with multiple result changes in final 15 min
             """)
         
         # Add Goal Difference Breakdown section

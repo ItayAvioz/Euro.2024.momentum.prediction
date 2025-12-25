@@ -1,0 +1,260 @@
+{
+  "absolute_momentum": {
+    "games": 50,
+    "win": 23,
+    "lose": 10,
+    "draw": 17,
+    "win_pct": 46.0,
+    "lose_pct": 20.0,
+    "draw_pct": 34.0
+  },
+  "num_sequences": {
+    "games": 43,
+    "win": 15,
+    "lose": 12,
+    "draw": 16,
+    "win_pct": 34.9,
+    "lose_pct": 27.9,
+    "draw_pct": 37.2
+  },
+  "positive_changes": {
+    "games": 47,
+    "win": 13,
+    "lose": 18,
+    "draw": 16,
+    "win_pct": 27.7,
+    "lose_pct": 38.3,
+    "draw_pct": 34.0
+  },
+  "longest_sequence": {
+    "games": 44,
+    "win": 10,
+    "lose": 19,
+    "draw": 15,
+    "win_pct": 22.7,
+    "lose_pct": 43.2,
+    "draw_pct": 34.1
+  },
+  "momentum_margins": {
+    "0": {
+      "games": 50,
+      "win_pct": 46.0,
+      "lose_pct": 20.0,
+      "draw_pct": 34.0
+    },
+    "5": {
+      "games": 45,
+      "win_pct": 48.9,
+      "lose_pct": 13.3,
+      "draw_pct": 37.8
+    },
+    "10": {
+      "games": 42,
+      "win_pct": 50.0,
+      "lose_pct": 11.9,
+      "draw_pct": 38.1
+    },
+    "15": {
+      "games": 40,
+      "win_pct": 52.5,
+      "lose_pct": 10.0,
+      "draw_pct": 37.5
+    },
+    "20": {
+      "games": 35,
+      "win_pct": 54.3,
+      "lose_pct": 11.4,
+      "draw_pct": 34.3
+    },
+    "25": {
+      "games": 31,
+      "win_pct": 54.8,
+      "lose_pct": 12.9,
+      "draw_pct": 32.3
+    },
+    "30": {
+      "games": 24,
+      "win_pct": 50.0,
+      "lose_pct": 12.5,
+      "draw_pct": 37.5
+    },
+    "35": {
+      "games": 22,
+      "win_pct": 50.0,
+      "lose_pct": 13.6,
+      "draw_pct": 36.4
+    },
+    "40": {
+      "games": 20,
+      "win_pct": 50.0,
+      "lose_pct": 15.0,
+      "draw_pct": 35.0
+    },
+    "45": {
+      "games": 16,
+      "win_pct": 56.2,
+      "lose_pct": 12.5,
+      "draw_pct": 31.2
+    },
+    "50": {
+      "games": 14,
+      "win_pct": 64.3,
+      "lose_pct": 14.3,
+      "draw_pct": 21.4
+    },
+    "60": {
+      "games": 6,
+      "win_pct": 66.7,
+      "lose_pct": 16.7,
+      "draw_pct": 16.7
+    }
+  },
+  "num_seq_margins": {
+    "0": {
+      "games": 43,
+      "win_pct": 34.9,
+      "lose_pct": 27.9,
+      "draw_pct": 37.2
+    },
+    "1": {
+      "games": 43,
+      "win_pct": 34.9,
+      "lose_pct": 27.9,
+      "draw_pct": 37.2
+    },
+    "2": {
+      "games": 30,
+      "win_pct": 46.7,
+      "lose_pct": 23.3,
+      "draw_pct": 30.0
+    },
+    "3": {
+      "games": 17,
+      "win_pct": 52.9,
+      "lose_pct": 17.6,
+      "draw_pct": 29.4
+    },
+    "4": {
+      "games": 12,
+      "win_pct": 58.3,
+      "lose_pct": 16.7,
+      "draw_pct": 25.0
+    },
+    "5": {
+      "games": 5,
+      "win_pct": 60.0,
+      "lose_pct": 20.0,
+      "draw_pct": 20.0
+    },
+    "6": {
+      "games": 1,
+      "win_pct": 100.0,
+      "lose_pct": 0.0,
+      "draw_pct": 0.0
+    }
+  },
+  "longest_margins": {
+    "0": {
+      "games": 44,
+      "win_pct": 22.7,
+      "lose_pct": 43.2,
+      "draw_pct": 34.1
+    },
+    "1": {
+      "games": 44,
+      "win_pct": 22.7,
+      "lose_pct": 43.2,
+      "draw_pct": 34.1
+    },
+    "2": {
+      "games": 34,
+      "win_pct": 29.4,
+      "lose_pct": 35.3,
+      "draw_pct": 35.3
+    },
+    "3": {
+      "games": 20,
+      "win_pct": 30.0,
+      "lose_pct": 40.0,
+      "draw_pct": 30.0
+    },
+    "4": {
+      "games": 8,
+      "win_pct": 50.0,
+      "lose_pct": 25.0,
+      "draw_pct": 25.0
+    },
+    "5": {
+      "games": 6,
+      "win_pct": 33.3,
+      "lose_pct": 33.3,
+      "draw_pct": 33.3
+    },
+    "6": {
+      "games": 4,
+      "win_pct": 0.0,
+      "lose_pct": 50.0,
+      "draw_pct": 50.0
+    }
+  },
+  "combined": {
+    "winning_agree": {
+      "games": 25,
+      "win": 11,
+      "lose": 5,
+      "draw": 9,
+      "win_pct": 44.0,
+      "lose_pct": 20.0,
+      "draw_pct": 36.0
+    },
+    "chasing_agree": {
+      "games": 25,
+      "win": 6,
+      "lose": 12,
+      "draw": 7,
+      "win_pct": 24.0,
+      "lose_pct": 48.0,
+      "draw_pct": 28.0
+    },
+    "different_teams": {
+      "games": 6,
+      "win": 4,
+      "lose": 1,
+      "draw": 1,
+      "win_pct": 66.7,
+      "lose_pct": 16.7,
+      "draw_pct": 16.7
+    }
+  },
+  "summary": {
+    "total_games": 51,
+    "total_windows": 4786,
+    "avg_windows_per_game": 93.8
+  },
+  "positive_changes_margins": {
+    "0": {
+      "games": 47,
+      "win_pct": 27.7,
+      "lose_pct": 38.3,
+      "draw_pct": 34.0
+    },
+    "5": {
+      "games": 16,
+      "win_pct": 37.5,
+      "lose_pct": 37.5,
+      "draw_pct": 25.0
+    },
+    "10": {
+      "games": 6,
+      "win_pct": 33.3,
+      "lose_pct": 33.3,
+      "draw_pct": 33.3
+    },
+    "15": {
+      "games": 1,
+      "win_pct": 100.0,
+      "lose_pct": 0.0,
+      "draw_pct": 0.0
+    }
+  }
+}

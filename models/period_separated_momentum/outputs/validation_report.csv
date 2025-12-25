@@ -1,0 +1,9 @@
+Validation,Metric,Value
+Non-overlapping minutes (0-44),Records Compared,2284
+Non-overlapping minutes (0-44),Match Rate (%),95.4%
+Non-overlapping minutes (0-44),Mismatch Count,105
+Period Separation,Period 1 Records,2327
+Period Separation,Period 2 Records,2492
+Period Separation,Overlapping Minutes,4
+Data Completeness,Original Matches,51
+Data Completeness,New Matches,51

@@ -19,6 +19,7 @@ sys.path.append(str(project_root))
 # Import dashboard modules
 try:
     from pages.tournament_overview import TournamentOverview
+    from pages.arimax_momentum import ARIMAXMomentumPage
     from utils.data_loader import DataLoader
     from utils.config import DashboardConfig
 except ImportError:
@@ -27,6 +28,7 @@ except ImportError:
     from pathlib import Path
     sys.path.append(str(Path(__file__).parent))
     from pages.tournament_overview import TournamentOverview
+    from pages.arimax_momentum import ARIMAXMomentumPage
     from utils.data_loader import DataLoader
     from utils.config import DashboardConfig
 
@@ -71,12 +73,10 @@ def main():
     st.sidebar.title("🏆 Euro 2024 Analytics")
     st.sidebar.markdown("---")
     
+    # Restructured pages - ARIMAX/Momentum first, removed Game and Time Analysis
     pages = {
-        "Tournament Overview": "🏟️",
-        "Game Analysis": "⚽",
-        "Time Analysis": "⏰",
-        "Momentum Prediction": "📈",
-        "ARIMAX Model Results": "🤖"
+        "ARIMAX Momentum Analysis": "🎯",
+        "Tournament Overview": "🏟️"
     }
     
     selected_page = st.sidebar.selectbox(
@@ -92,7 +92,10 @@ def main():
             data_loader.load_all_data()
         
         # Route to selected page
-        if selected_page == "Tournament Overview":
+        if selected_page == "ARIMAX Momentum Analysis":
+            arimax_page = ARIMAXMomentumPage(data_loader)
+            arimax_page.render()
+        elif selected_page == "Tournament Overview":
             tournament_overview = TournamentOverview(data_loader)
             tournament_overview.render()
         else:
@@ -106,7 +109,10 @@ def main():
         # Try to show basic page anyway
         try:
             data_loader = DataLoader()
-            if selected_page == "Tournament Overview":
+            if selected_page == "ARIMAX Momentum Analysis":
+                arimax_page = ARIMAXMomentumPage(data_loader)
+                arimax_page.render()
+            elif selected_page == "Tournament Overview":
                 tournament_overview = TournamentOverview(data_loader)
                 tournament_overview.render()
         except Exception as e2:

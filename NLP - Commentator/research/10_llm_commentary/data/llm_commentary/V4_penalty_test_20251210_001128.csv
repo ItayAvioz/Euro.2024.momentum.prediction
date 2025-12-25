@@ -1,0 +1,18 @@
+test_case,match_id,minute,period,detected_type,player,llm_commentary,is_penalty,penalty_number
+Portugal vs France - Period 5 (Penalty Shootout),3942349,120,5,Penalty 1,Ousmane Dembélé,[Penalty 1] Dembélé (France) scores! France leads 1-0 in the shootout.,True,1
+Portugal vs France - Period 5 (Penalty Shootout),3942349,120,5,Penalty 2,Cristiano Ronaldo dos Santos Aveiro,[Penalty 2] Cristiano Ronaldo (Portugal) scores! Shootout tied 1-1 against France.,True,2
+Portugal vs France - Period 5 (Penalty Shootout),3942349,121,5,Penalty 3,Youssouf Fofana,[Penalty 3] Fofana (France) scores! France leads 2-1 in the shootout.,True,3
+Portugal vs France - Period 5 (Penalty Shootout),3942349,122,5,Penalty 4,Bernardo Mota Veiga de Carvalho e Silva,[Penalty 4] Bernardo Silva (Portugal) scores! Shootout tied 2-2 against France.,True,4
+Portugal vs France - Period 5 (Penalty Shootout),3942349,123,5,Penalty 5,Jules Koundé,[Penalty 5] Koundé (France) scores! France leads 3-2 in the shootout.,True,5
+Portugal vs France - Period 5 (Penalty Shootout),3942349,124,5,Penalty 6,João Félix Sequeira,[Penalty 6] João Félix (Portugal) hits the post! France leads 3-2 in the shootout.,True,6
+Portugal vs France - Period 5 (Penalty Shootout),3942349,125,5,Penalty 7,Bradley Barcola,[Penalty 7] Barcola (France) scores! France leads 4-2 in the shootout.,True,7
+Portugal vs France - Period 5 (Penalty Shootout),3942349,126,5,Penalty 8,Nuno Mendes,[Penalty 8] Nuno Mendes (Portugal) scores! Portugal 3-4 France in the shootout.,True,8
+Portugal vs France - Period 5 (Penalty Shootout),3942349,127,5,Penalty 9,Theo Bernard François Hernández,[Penalty 9] Theo Hernández (France) scores! France leads 5-3 in the shootout.,True,9
+"Germany vs Scotland - Minutes 45-47, Period 1 (Stoppage)",3930158,45,1,Penalty Goal,Kai Havertz,"[Penalty Goal] Goal! Germany 1, Scotland 0. Kai Havertz converts the penalty past Angus Gunn.",True,0
+"Germany vs Scotland - Minutes 45-47, Period 1 (Stoppage)",3930158,46,1,General,Angus Gunn,[General] Germany holding 62% possession as the first half concludes.,False,0
+"Germany vs Scotland - Minutes 45-47, Period 1 (Stoppage)",3930158,47,1,Foul,Callum McGregor,[Foul] Foul by Robert Andrich (Germany) on Callum McGregor (Scotland) near the wing.,False,0
+"Georgia vs Portugal - Minutes 56-58, Period 2",3938644,56,2,Penalty Goal,Georges Mikautadze,"[Penalty Goal] Goal! Georgia 1, Portugal 0. Mikautadze converts the penalty against Costa.",True,0
+"Georgia vs Portugal - Minutes 56-58, Period 2",3938644,57,2,General,João Félix Sequeira,"[General] Portugal maintaining 65% possession, controlling the pace of the match.",False,0
+"Georgia vs Portugal - Minutes 56-58, Period 2",3938644,58,2,General,Gonçalo Bernardo Inácio,"[General] Portugal maintaining 65% possession, controlling the pace of the match.",False,0
+Portugal vs Slovenia - Minute 104+ Period 3 (Extra Time),3941020,104,3,Penalty Missed,Cristiano Ronaldo dos Santos Aveiro,[Penalty Missed] Off the post! Cristiano Ronaldo's penalty attempt goes wide.,True,0
+Portugal vs Slovenia - Minute 104+ Period 3 (Extra Time),3941020,105,3,Corner,Bernardo Mota Veiga de Carvalho e Silva,"[Corner] Corner for Portugal, delivered by Bernardo Silva. Conceded by Jan Oblak.",False,0
