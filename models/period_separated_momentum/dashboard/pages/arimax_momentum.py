@@ -2102,6 +2102,19 @@ class ARIMAXMomentumPage:
                 - Count consecutive same-sign changes until sign flips
                 """)
                 
+                # Add concrete example
+                with st.expander("📖 **Example: Goal at minute 80**", expanded=False):
+                    st.markdown("""
+                    | Step | Check | Display Min | Momentum Window | Change |
+                    |------|-------|-------------|-----------------|--------|
+                    | **Goal window** | G-5 = 75 | 75 | mom(78,79,**80**) ← **GOAL** | - |
+                    | Seq check 1 | G-6 = 74 | 74 | mom(77,78,79) - mom(74,75,76) | **+0.3** ✅ |
+                    | Seq check 2 | G-7 = 73 | 73 | mom(76,77,78) - mom(73,74,75) | **+0.5** ✅ |
+                    | Seq check 3 | G-8 = 72 | 72 | mom(75,76,77) - mom(72,73,74) | **-0.2** ❌ |
+                    
+                    **Result:** Sign flipped at minute 72 → **Positive sequence = 2** (minutes 73, 74 were positive before goal)
+                    """)
+                
                 # Calculate both positive and negative sequences
                 seq_data = self._analyze_sequence_correct_logic()
                 
@@ -2361,6 +2374,105 @@ class ARIMAXMomentumPage:
             else:
                 st.warning("Could not analyze goals data")
             
+            # Add Goal Effect Sequential Analysis (like subs/cards)
+            st.markdown("---")
+            st.subheader("⚽ Goal Effect on Momentum (Sequential Analysis)")
+            
+            goal_effect_results = self._analyze_goal_effect()
+            if goal_effect_results and goal_effect_results.get('total_analyzed', 0) > 0:
+                
+                seq = goal_effect_results.get('seq_changes', {})
+                scoring_seq = seq.get('scoring_team', {})
+                conceding_seq = seq.get('conceding_team', {})
+                
+                st.markdown(f"### ⚽ Goal Events ({goal_effect_results['total_analyzed']} analyzed)")
+                
+                col_s, col_c = st.columns(2)
+                
+                with col_s:
+                    st.markdown("**Scoring Team:**")
+                    rows = []
+                    for change_name in ['B-3→B-2', 'B-2→B-1', 'B-1→A+1', 'A+1→A+2', 'A+2→A+3']:
+                        change_data = scoring_seq.get(change_name, {})
+                        avg = change_data.get('avg')
+                        median = change_data.get('median')
+                        pos_pct = change_data.get('positive_pct', 0)
+                        avg_str = f"{avg:+.3f}" if avg is not None else 'N/A'
+                        med_str = f"{median:+.3f}" if median is not None else 'N/A'
+                        # Highlight immediate impact
+                        if change_name == 'B-1→A+1':
+                            rows.append({'Change': f"**{change_name}**", 'Avg': f"**{avg_str}**", 'Median': f"**{med_str}**", '% Pos': f"**{pos_pct:.1f}%**"})
+                        else:
+                            rows.append({'Change': change_name, 'Avg': avg_str, 'Median': med_str, '% Pos': f"{pos_pct:.1f}%"})
+                    st.dataframe(pd.DataFrame(rows), hide_index=True, use_container_width=True)
+                
+                with col_c:
+                    st.markdown("**Conceding Team:**")
+                    rows = []
+                    for change_name in ['B-3→B-2', 'B-2→B-1', 'B-1→A+1', 'A+1→A+2', 'A+2→A+3']:
+                        change_data = conceding_seq.get(change_name, {})
+                        avg = change_data.get('avg')
+                        median = change_data.get('median')
+                        pos_pct = change_data.get('positive_pct', 0)
+                        avg_str = f"{avg:+.3f}" if avg is not None else 'N/A'
+                        med_str = f"{median:+.3f}" if median is not None else 'N/A'
+                        # Highlight immediate impact
+                        if change_name == 'B-1→A+1':
+                            rows.append({'Change': f"**{change_name}**", 'Avg': f"**{avg_str}**", 'Median': f"**{med_str}**", '% Pos': f"**{pos_pct:.1f}%**"})
+                        else:
+                            rows.append({'Change': change_name, 'Avg': avg_str, 'Median': med_str, '% Pos': f"{pos_pct:.1f}%"})
+                    st.dataframe(pd.DataFrame(rows), hide_index=True, use_container_width=True)
+                
+                # Key findings based on data
+                scoring_b2b1 = scoring_seq.get('B-2→B-1', {}).get('positive_pct', 0)
+                scoring_impact = scoring_seq.get('B-1→A+1', {}).get('positive_pct', 0)
+                scoring_a1a2 = scoring_seq.get('A+1→A+2', {}).get('positive_pct', 0)
+                
+                conceding_b2b1 = conceding_seq.get('B-2→B-1', {}).get('positive_pct', 0)
+                conceding_impact = conceding_seq.get('B-1→A+1', {}).get('positive_pct', 0)
+                conceding_a1a2 = conceding_seq.get('A+1→A+2', {}).get('positive_pct', 0)
+                
+                st.success(f"""
+                ### 🎯 Key Findings - Goal Effect
+                
+                **⚽ SCORING TEAM:**
+                - Before: {scoring_b2b1:.1f}% positive → At goal: {scoring_impact:.1f}% positive → After: {scoring_a1a2:.1f}% positive
+                - **Insight:** {'Momentum building before goal!' if scoring_b2b1 > 50 else 'Goals can come from any momentum state'}
+                
+                **🥅 CONCEDING TEAM:**
+                - Before: {conceding_b2b1:.1f}% positive → At goal: {conceding_impact:.1f}% positive → After: {conceding_a1a2:.1f}% positive
+                - **Insight:** {'Momentum was declining before conceding!' if conceding_b2b1 < 50 else 'Conceding can happen even with momentum'}
+                """)
+                
+                # Example expander
+                with st.expander("📖 How is this calculated? (with example)"):
+                    st.markdown("""
+                    **EXAMPLE: Goal at minute 78**
+                    
+                    | Window | Minute | Momentum Change Value |
+                    |--------|--------|----------------------|
+                    | B-3 | 75 | mom(75,74,73) - mom(72,71,70) = 0.22 |
+                    | B-2 | 76 | mom(76,75,74) - mom(73,72,71) = 0.18 |
+                    | B-1 | 77 | mom(77,76,75) - mom(74,73,72) = 0.15 |
+                    | **⚽ GOAL** | **78** | **Event happens here** |
+                    | A+1 | 79 | mom(79,**78**,77) - mom(76,75,74) = 0.04 |
+                    | A+2 | 80 | mom(80,79,**78**) - mom(77,76,75) = 0.05 |
+                    | A+3 | 81 | mom(81,80,79) - mom(**78**,77,76) = 0.06 |
+                    
+                    **Sequential Changes:**
+                    | Change | Calculation | Result |
+                    |--------|-------------|--------|
+                    | B-3→B-2 | 0.18 - 0.22 | -0.04 (slightly declining) |
+                    | B-2→B-1 | 0.15 - 0.18 | -0.03 (continuing decline) |
+                    | **B-1→A+1** | **0.04 - 0.15** | **-0.11 (big drop!)** |
+                    | A+1→A+2 | 0.05 - 0.04 | +0.01 (stabilizing) |
+                    | A+2→A+3 | 0.06 - 0.05 | +0.01 (recovering) |
+                    
+                    **Reading the table:**
+                    - **Avg:** Average change between windows (+ = momentum improving)
+                    - **% Positive:** How often the change was positive
+                    """)
+            
             # Add Substitution and Card Effect Analysis
             st.markdown("---")
             st.subheader("🔄 Substitution & Card Effect on Momentum")
@@ -2498,6 +2610,200 @@ class ARIMAXMomentumPage:
                 
         except Exception as e:
             st.error(f"Error analyzing goals: {str(e)}")
+    
+    def _analyze_goal_effect(self):
+        """
+        Analyze effect of goals on momentum change (sequential analysis)
+        Similar to subs/cards but for goals - shows scoring team vs conceding team
+        """
+        if self.events_df is None or self.momentum_df is None:
+            return None
+        
+        match_teams = self.momentum_df.groupby('match_id').first()[['team_home', 'team_away']].to_dict('index')
+        
+        def get_momentum_change(match_id, period, minute, team_col):
+            """Get momentum change at specific minute"""
+            row = self.momentum_df[
+                (self.momentum_df['match_id'] == match_id) & 
+                (self.momentum_df['period'] == period) & 
+                (self.momentum_df['minute'] == minute)
+            ]
+            if len(row) > 0:
+                val = row[team_col].values[0]
+                return val if pd.notna(val) else None
+            return None
+        
+        # Get all goals from shots (parse shot column for outcome)
+        shots = self.events_df[self.events_df['event_type'] == 'Shot'].copy()
+        goals_from_shots = []
+        for idx, row in shots.iterrows():
+            if pd.notna(row.get('shot')):
+                shot_str = str(row['shot'])
+                if "'outcome'" in shot_str and "'Goal'" in shot_str:
+                    goals_from_shots.append(row)
+        goals_from_shots = pd.DataFrame(goals_from_shots) if goals_from_shots else pd.DataFrame()
+        
+        # Get own goals
+        own_goals = self.events_df[
+            self.events_df['event_type'] == 'Own Goal Against'
+        ].copy() if 'event_type' in self.events_df.columns else pd.DataFrame()
+        
+        results = []
+        
+        # Process regular goals
+        for idx, goal in goals_from_shots.iterrows():
+            match_id = goal['match_id']
+            minute = int(goal['minute'])
+            period = int(goal['period']) if pd.notna(goal.get('period')) else 1
+            
+            # Skip penalty shootout goals
+            if period == 5:
+                continue
+            
+            scoring_team = goal.get('team_name', '')
+            
+            if match_id not in match_teams:
+                continue
+            
+            home = match_teams[match_id]['team_home']
+            away = match_teams[match_id]['team_away']
+            
+            is_home = (scoring_team == home)
+            scoring_col = 'team_home_momentum_change' if is_home else 'team_away_momentum_change'
+            conceding_col = 'team_away_momentum_change' if is_home else 'team_home_momentum_change'
+            
+            # Get windows for scoring team
+            s_b3 = get_momentum_change(match_id, period, minute - 3, scoring_col)
+            s_b2 = get_momentum_change(match_id, period, minute - 2, scoring_col)
+            s_b1 = get_momentum_change(match_id, period, minute - 1, scoring_col)
+            s_a1 = get_momentum_change(match_id, period, minute + 1, scoring_col)
+            s_a2 = get_momentum_change(match_id, period, minute + 2, scoring_col)
+            s_a3 = get_momentum_change(match_id, period, minute + 3, scoring_col)
+            
+            # Get windows for conceding team
+            c_b3 = get_momentum_change(match_id, period, minute - 3, conceding_col)
+            c_b2 = get_momentum_change(match_id, period, minute - 2, conceding_col)
+            c_b1 = get_momentum_change(match_id, period, minute - 1, conceding_col)
+            c_a1 = get_momentum_change(match_id, period, minute + 1, conceding_col)
+            c_a2 = get_momentum_change(match_id, period, minute + 2, conceding_col)
+            c_a3 = get_momentum_change(match_id, period, minute + 3, conceding_col)
+            
+            if s_b1 is not None and s_a1 is not None:
+                results.append({
+                    'scoring_b3': s_b3, 'scoring_b2': s_b2, 'scoring_b1': s_b1,
+                    'scoring_a1': s_a1, 'scoring_a2': s_a2, 'scoring_a3': s_a3,
+                    'conceding_b3': c_b3, 'conceding_b2': c_b2, 'conceding_b1': c_b1,
+                    'conceding_a1': c_a1, 'conceding_a2': c_a2, 'conceding_a3': c_a3,
+                })
+        
+        # Process own goals (scoring team is OPPOSITE of team_name)
+        for idx, goal in own_goals.iterrows():
+            match_id = goal['match_id']
+            minute = int(goal['minute'])
+            period = int(goal['period']) if pd.notna(goal.get('period')) else 1
+            
+            # Skip penalty shootout
+            if period == 5:
+                continue
+            
+            # For own goal: team_name is the team that SCORED AGAINST THEMSELVES (conceding)
+            conceding_team = goal.get('team_name', '')
+            
+            if match_id not in match_teams:
+                continue
+            
+            home = match_teams[match_id]['team_home']
+            away = match_teams[match_id]['team_away']
+            
+            is_home_conceding = (conceding_team == home)
+            conceding_col = 'team_home_momentum_change' if is_home_conceding else 'team_away_momentum_change'
+            scoring_col = 'team_away_momentum_change' if is_home_conceding else 'team_home_momentum_change'
+            
+            # Get windows for scoring team (beneficiary)
+            s_b3 = get_momentum_change(match_id, period, minute - 3, scoring_col)
+            s_b2 = get_momentum_change(match_id, period, minute - 2, scoring_col)
+            s_b1 = get_momentum_change(match_id, period, minute - 1, scoring_col)
+            s_a1 = get_momentum_change(match_id, period, minute + 1, scoring_col)
+            s_a2 = get_momentum_change(match_id, period, minute + 2, scoring_col)
+            s_a3 = get_momentum_change(match_id, period, minute + 3, scoring_col)
+            
+            # Get windows for conceding team (own goal team)
+            c_b3 = get_momentum_change(match_id, period, minute - 3, conceding_col)
+            c_b2 = get_momentum_change(match_id, period, minute - 2, conceding_col)
+            c_b1 = get_momentum_change(match_id, period, minute - 1, conceding_col)
+            c_a1 = get_momentum_change(match_id, period, minute + 1, conceding_col)
+            c_a2 = get_momentum_change(match_id, period, minute + 2, conceding_col)
+            c_a3 = get_momentum_change(match_id, period, minute + 3, conceding_col)
+            
+            if s_b1 is not None and s_a1 is not None:
+                results.append({
+                    'scoring_b3': s_b3, 'scoring_b2': s_b2, 'scoring_b1': s_b1,
+                    'scoring_a1': s_a1, 'scoring_a2': s_a2, 'scoring_a3': s_a3,
+                    'conceding_b3': c_b3, 'conceding_b2': c_b2, 'conceding_b1': c_b1,
+                    'conceding_a1': c_a1, 'conceding_a2': c_a2, 'conceding_a3': c_a3,
+                })
+        
+        if not results:
+            return {'total_analyzed': 0}
+        
+        df = pd.DataFrame(results)
+        
+        # Calculate SEQUENTIAL CHANGES
+        # Scoring team sequential changes
+        s_b3_to_b2 = (df['scoring_b2'] - df['scoring_b3']).dropna()
+        s_b2_to_b1 = (df['scoring_b1'] - df['scoring_b2']).dropna()
+        s_b1_to_a1 = (df['scoring_a1'] - df['scoring_b1']).dropna()
+        s_a1_to_a2 = (df['scoring_a2'] - df['scoring_a1']).dropna()
+        s_a2_to_a3 = (df['scoring_a3'] - df['scoring_a2']).dropna()
+        
+        # Conceding team sequential changes
+        c_b3_to_b2 = (df['conceding_b2'] - df['conceding_b3']).dropna()
+        c_b2_to_b1 = (df['conceding_b1'] - df['conceding_b2']).dropna()
+        c_b1_to_a1 = (df['conceding_a1'] - df['conceding_b1']).dropna()
+        c_a1_to_a2 = (df['conceding_a2'] - df['conceding_a1']).dropna()
+        c_a2_to_a3 = (df['conceding_a3'] - df['conceding_a2']).dropna()
+        
+        seq_changes = {
+            'scoring_team': {
+                'B-3→B-2': {'avg': s_b3_to_b2.mean() if len(s_b3_to_b2) > 0 else None,
+                           'median': s_b3_to_b2.median() if len(s_b3_to_b2) > 0 else None,
+                           'positive_pct': (s_b3_to_b2 > 0).mean() * 100 if len(s_b3_to_b2) > 0 else 0},
+                'B-2→B-1': {'avg': s_b2_to_b1.mean() if len(s_b2_to_b1) > 0 else None,
+                           'median': s_b2_to_b1.median() if len(s_b2_to_b1) > 0 else None,
+                           'positive_pct': (s_b2_to_b1 > 0).mean() * 100 if len(s_b2_to_b1) > 0 else 0},
+                'B-1→A+1': {'avg': s_b1_to_a1.mean() if len(s_b1_to_a1) > 0 else None,
+                           'median': s_b1_to_a1.median() if len(s_b1_to_a1) > 0 else None,
+                           'positive_pct': (s_b1_to_a1 > 0).mean() * 100 if len(s_b1_to_a1) > 0 else 0},
+                'A+1→A+2': {'avg': s_a1_to_a2.mean() if len(s_a1_to_a2) > 0 else None,
+                           'median': s_a1_to_a2.median() if len(s_a1_to_a2) > 0 else None,
+                           'positive_pct': (s_a1_to_a2 > 0).mean() * 100 if len(s_a1_to_a2) > 0 else 0},
+                'A+2→A+3': {'avg': s_a2_to_a3.mean() if len(s_a2_to_a3) > 0 else None,
+                           'median': s_a2_to_a3.median() if len(s_a2_to_a3) > 0 else None,
+                           'positive_pct': (s_a2_to_a3 > 0).mean() * 100 if len(s_a2_to_a3) > 0 else 0},
+            },
+            'conceding_team': {
+                'B-3→B-2': {'avg': c_b3_to_b2.mean() if len(c_b3_to_b2) > 0 else None,
+                           'median': c_b3_to_b2.median() if len(c_b3_to_b2) > 0 else None,
+                           'positive_pct': (c_b3_to_b2 > 0).mean() * 100 if len(c_b3_to_b2) > 0 else 0},
+                'B-2→B-1': {'avg': c_b2_to_b1.mean() if len(c_b2_to_b1) > 0 else None,
+                           'median': c_b2_to_b1.median() if len(c_b2_to_b1) > 0 else None,
+                           'positive_pct': (c_b2_to_b1 > 0).mean() * 100 if len(c_b2_to_b1) > 0 else 0},
+                'B-1→A+1': {'avg': c_b1_to_a1.mean() if len(c_b1_to_a1) > 0 else None,
+                           'median': c_b1_to_a1.median() if len(c_b1_to_a1) > 0 else None,
+                           'positive_pct': (c_b1_to_a1 > 0).mean() * 100 if len(c_b1_to_a1) > 0 else 0},
+                'A+1→A+2': {'avg': c_a1_to_a2.mean() if len(c_a1_to_a2) > 0 else None,
+                           'median': c_a1_to_a2.median() if len(c_a1_to_a2) > 0 else None,
+                           'positive_pct': (c_a1_to_a2 > 0).mean() * 100 if len(c_a1_to_a2) > 0 else 0},
+                'A+2→A+3': {'avg': c_a2_to_a3.mean() if len(c_a2_to_a3) > 0 else None,
+                           'median': c_a2_to_a3.median() if len(c_a2_to_a3) > 0 else None,
+                           'positive_pct': (c_a2_to_a3 > 0).mean() * 100 if len(c_a2_to_a3) > 0 else 0},
+            }
+        }
+        
+        return {
+            'total_analyzed': len(df),
+            'seq_changes': seq_changes,
+        }
     
     def _analyze_sub_card_effect(self):
         """

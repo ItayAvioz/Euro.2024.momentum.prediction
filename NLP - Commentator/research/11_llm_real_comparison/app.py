@@ -401,6 +401,50 @@ def main():
             st.write(f"- Both Neutral: {sentiment_agreement['both_neutral']:,}")
             st.write(f"- Both Positive: {sentiment_agreement['both_positive']:,}")
     
+    st.markdown("---")
+    
+    # ========================================
+    # EVENT TYPE DISTRIBUTION
+    # ========================================
+    st.subheader("Event Type Distribution")
+    
+    event_type_counts = loader.get_llm_type_counts()
+    
+    if event_type_counts:
+        # Sort by count descending
+        sorted_events = sorted(event_type_counts.items(), key=lambda x: x[1], reverse=True)
+        event_types = [e[0] for e in sorted_events]
+        counts = [e[1] for e in sorted_events]
+        
+        col1, col2 = st.columns([3, 1])
+        
+        with col1:
+            # Bar chart
+            fig_event_dist = go.Figure()
+            fig_event_dist.add_trace(go.Bar(
+                x=event_types,
+                y=counts,
+                text=counts,
+                textposition='outside',
+                marker_color='#1f77b4'
+            ))
+            fig_event_dist.update_layout(
+                xaxis_title='Event Type',
+                yaxis_title='Count',
+                height=400,
+                showlegend=False,
+                xaxis_tickangle=-45
+            )
+            st.plotly_chart(fig_event_dist, use_container_width=True, key="event_type_distribution")
+        
+        with col2:
+            # Table
+            event_df = pd.DataFrame({
+                'Event Type': event_types,
+                'Count': counts
+            })
+            st.dataframe(event_df, hide_index=True, use_container_width=True, height=400)
+    
     # ========================================
     # BERT RANGE ANALYSIS
     # ========================================
