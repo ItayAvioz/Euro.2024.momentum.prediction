@@ -4133,11 +4133,13 @@ class ARIMAXMomentumPage:
                             )
                             st.plotly_chart(fig_pred_away, use_container_width=True, key="pred_away")
                         
-                        # Prediction accuracy for this game
-                        home_correct = ((home_preds['prediction_value'] > 0) == (home_preds['actual_value'] > 0)).sum()
-                        away_correct = ((away_preds['prediction_value'] > 0) == (away_preds['actual_value'] > 0)).sum()
-                        home_total = len(home_preds.dropna(subset=['actual_value']))
-                        away_total = len(away_preds.dropna(subset=['actual_value']))
+                        # Prediction accuracy for this game (only rows with valid actual_value)
+                        home_valid = home_preds.dropna(subset=['actual_value'])
+                        away_valid = away_preds.dropna(subset=['actual_value'])
+                        home_correct = ((home_valid['prediction_value'] > 0) == (home_valid['actual_value'] > 0)).sum()
+                        away_correct = ((away_valid['prediction_value'] > 0) == (away_valid['actual_value'] > 0)).sum()
+                        home_total = len(home_valid)
+                        away_total = len(away_valid)
                         
                         home_pct = home_correct/home_total*100 if home_total > 0 else 0
                         away_pct = away_correct/away_total*100 if away_total > 0 else 0
