@@ -734,8 +734,8 @@ def detect_all_important_events(minute_df, detection_info):
             shot_data = row.get('shot', '')
             shot_type = extract_shot_type(shot_data)
             if shot_type != 'Penalty':
-            events.append(('Goal', row, {}))
-            used_indices.add(row.name)
+                events.append(('Goal', row, {}))
+                used_indices.add(row.name)
     
     # 5. CARDS
     for idx, row in minute_df.iterrows():
@@ -1160,7 +1160,7 @@ def detect_event_chain(minute_df, detected_type, main_row, detection_info):
                         else:
                             # Direct: goal directly from corner (header/shot from delivery)
                             chain['origin'] = 'From Corner (direct)'
-                chain['has_chain'] = True
+                        chain['has_chain'] = True
                 # If less than 8 events, not relevant (corner started before)
             
             # Check for "From Free Kick" in last 7 play_patterns
